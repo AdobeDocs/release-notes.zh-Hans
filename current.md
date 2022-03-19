@@ -6,10 +6,10 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e0d19d7aa41529dd32231cc2975eb5b03b7c8956
+source-git-commit: c99f4d0cb202a3abbc0db601371e84adba591f40
 workflow-type: tm+mt
-source-wordcount: '5786'
-ht-degree: 50%
+source-wordcount: '5681'
+ht-degree: 49%
 
 ---
 
@@ -69,14 +69,6 @@ Experience League活动是您学习、互动和从Adobe的产品专家那里获�
 [!DNL Adobe System Status] 提供了关于 Adobe 产品与服务中断和维护活动的详细信息、状态更新以及电子邮件通知。请访问 [status.adobe.com](https://status.adobe.com/) 查看。
 
 ## ![图标](/assets/ec_appicon_24.png) Experience Cloud — 中央界面组件和管理 {#ecloud}
-=======
-发行日期：**2021 年 11 月 16 日**
-
-**新增功能**
-
-* Adobe Status 现在报告产品级别的事件。状态云和产品页面具有新外观和基于产品级事件报告的增强过滤器。这让您更容易地在 [status.adobe.com](https://status.adobe.com/) 和电子邮件通知中了解您的产品受到什么影响。如果您未订阅，请使用此链接设置个性化订阅偏好 [https://status.adobe.com/proactive-notifications/manage](https://status.adobe.com/proactive-notifications/manage)。
-
-* 状态主页现在使用根据您的权利和产品订阅过滤的事件进行个性化。请在 **status.adobe.com** > **[!UICONTROL “我的事件”]**&#x200B;选项卡中查看。
 
 Experience Cloud [中央UI组件](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) 包括主页和永久性产品标题上可用的功能。 这些功能包括用户配置文件设置、首选项和搜索。 您还可以找到有关用户和产品管理、客户属性和Experience Cloud受众的帮助。
 
@@ -108,7 +100,7 @@ Experience Platform 和 [!UICONTROL Mobile SDK] 的最新发行信息和新文�
 
 | 发布日期 | 名称 | 类型 | 描述 |
 | -----------| ---------- | ---------- | ---------- |
-| 2022 年 3 月 | [在移动设备应用程序中实施Adobe Experience Cloud教程](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html) | 课程 | 了解如何使用Adobe Experience Platform Mobile SDK在移动设备应用程序中实施Adobe Experience Cloud应用程序。 |
+| 2022 年 3 月 | [在移动设备应用程序中实施Adobe Experience Cloud教程](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html) | 课程 | 了解如何使用Adobe Experience Cloud Mobile SDK在移动设备应用程序中实施Adobe Experience Platform应用程序。 |
 | 2022 年 3 月 | [生成第一方设备ID](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/generate-first-party-device-ids.html) | 视频 | 了解如何生成第一方设备ID及其工作方式。 |
 | 2022 年 3 月 | [配置数据流](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/configure-datastreams.html) | 视频 | 了解如何为Web和Mobile SDK实施创建和配置数据流。 |
 
