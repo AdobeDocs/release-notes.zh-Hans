@@ -6,9 +6,9 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: c99f4d0cb202a3abbc0db601371e84adba591f40
+source-git-commit: 4af6356f3c68cbab1bc7137a2d02af35798c6582
 workflow-type: tm+mt
-source-wordcount: '5681'
+source-wordcount: '5692'
 ht-degree: 49%
 
 ---
@@ -68,6 +68,8 @@ Experience League活动是您学习、互动和从Adobe的产品专家那里获�
 
 [!DNL Adobe System Status] 提供了关于 Adobe 产品与服务中断和维护活动的详细信息、状态更新以及电子邮件通知。请访问 [status.adobe.com](https://status.adobe.com/) 查看。
 
+有关最新发行信息，请参阅Adobe系统状态 [发行说明](c-legacy-releases\2022\02162022.md#status).
+
 ## ![图标](/assets/ec_appicon_24.png) Experience Cloud — 中央界面组件和管理 {#ecloud}
 
 Experience Cloud [中央UI组件](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) 包括主页和永久性产品标题上可用的功能。 这些功能包括用户配置文件设置、首选项和搜索。 您还可以找到有关用户和产品管理、客户属性和Experience Cloud受众的帮助。
@@ -100,7 +102,7 @@ Experience Platform 和 [!UICONTROL Mobile SDK] 的最新发行信息和新文�
 
 | 发布日期 | 名称 | 类型 | 描述 |
 | -----------| ---------- | ---------- | ---------- |
-| 2022 年 3 月 | [在移动设备应用程序中实施Adobe Experience Cloud教程](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html) | 课程 | 了解如何使用Adobe Experience Cloud Mobile SDK在移动设备应用程序中实施Adobe Experience Platform应用程序。 |
+| 2022 年 3 月 | [在移动设备应用程序中实施Adobe Experience Cloud教程](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html) | 课程 | 了解如何使用Adobe Experience Platform Mobile SDK在移动设备应用程序中实施Adobe Experience Cloud应用程序。 |
 | 2022 年 3 月 | [生成第一方设备ID](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/generate-first-party-device-ids.html) | 视频 | 了解如何生成第一方设备ID及其工作方式。 |
 | 2022 年 3 月 | [配置数据流](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/configure-datastreams.html) | 视频 | 了解如何为Web和Mobile SDK实施创建和配置数据流。 |
 
