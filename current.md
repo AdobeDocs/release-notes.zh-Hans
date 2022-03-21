@@ -6,7 +6,7 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 06f9e80782bf7c1f34feda8ab39e6832d76f0bc1
+source-git-commit: eb5f320b029eb30f548c2016ac51e52c14de8199
 workflow-type: tm+mt
 source-wordcount: '5696'
 ht-degree: 49%
@@ -25,7 +25,7 @@ ht-degree: 49%
 >
 >要收到有关此页面更新的每月电子邮件通知，请订阅 [Adobe 优先产品更新](https://www.adobe.com/cn/subscription/priority-product-update.html)。经常回来查看 Experience League 的最新动态。
 
-最新更新日期：**2022 年 3 月 18 日**
+最新更新日期：**2022 年 3 月 21 日**
 
 * [[!DNL Experience League] 事件](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -102,7 +102,7 @@ Experience Platform 和 [!UICONTROL Mobile SDK] 的最新发行信息和新文�
 
 | 发布日期 | 名称 | 类型 | 描述 |
 | -----------| ---------- | ---------- | ---------- |
-| 2022 年 3 月 | [在移动设备应用程序中实施Adobe Experience Cloud教程](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html) | 课程 | 了解如何使用Adobe Experience Platform Mobile SDK在移动设备应用程序中实施Adobe Experience Cloud应用程序。 |
+| 2022 年 3 月 | [在移动设备应用程序中实施Adobe Experience Cloud教程](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html) | 课程 | 了解如何使用Adobe Experience Cloud Mobile SDK在移动设备应用程序中实施Adobe Experience Platform应用程序。 |
 | 2022 年 3 月 | [生成第一方设备ID](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/generate-first-party-device-ids.html) | 视频 | 了解如何生成第一方设备ID及其工作方式。 |
 | 2022 年 3 月 | [配置数据流](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/configure-datastreams.html) | 视频 | 了解如何为Web和Mobile SDK实施创建和配置数据流。 |
 
@@ -339,7 +339,7 @@ Adobe Experience Manager 的 XML 文档是部署在 AEM 上的应用程序。这
 
 ## ![图标](/assets/target.png) [!DNL Adobe Target] {#target}
 
-上次更新时间：**2022 年 2 月 1 日**
+上次更新时间： **2022年3月21日**
 
 * 有关预发行信息，请参阅 [Adobe Target 预发行](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=zh-Hans)
 * 有关最新信息，请参阅 [Adobe Target 发行说明](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=zh-Hans)
