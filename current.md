@@ -6,10 +6,10 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 7edf353026f9e8a595771602ea67eafd1bb77d96
+source-git-commit: fa2627b8bdd7e9b9f4159b366767c30f46721369
 workflow-type: tm+mt
-source-wordcount: '5733'
-ht-degree: 98%
+source-wordcount: '5815'
+ht-degree: 96%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 98%
 >
 >要收到有关此页面更新的每月电子邮件通知，请订阅 [Adobe 优先产品更新](https://www.adobe.com/cn/subscription/priority-product-update.html)。经常回来查看 Experience League 的最新动态。
 
-最新更新日期：**2022 年 3 月 21 日**
+最新更新：**2022 年 4 月 1 日**
 
-* [[!DNL Experience League] 活动](#events)
+* [[!DNL Experience League] 事件](#events) (**4月1日**)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - 中央界面组件和管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -56,10 +56,11 @@ Experience League 活动是您向 Adobe 产品专家学习、与之互动以及�
 
 | 活动 | 类型 | 描述 |
 | -----------|---------- | ----|
+| [Experience Makers - Adobe Workfront 技能交流](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true) | Adobe Live 网络研讨会 | 我们很高兴地宣布 _体验创造者 — Adobe Workfront的技能交流_. <br>这个免费的三小时数字学习活动完全集中在Workfront。 您可以向最了解工作管理的专家和同行提问。 无论您是 Workfront 的新手还是经验丰富的专家，我们都能让每个人有所收获。<br>**日期：** 4月13日星期三上午9点太平洋夏季时间中午12点00分。 [详细信息和注册](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true):Adobe建议，即使您无法参加，也应进行注册，这样您就有权访问即时录制。 |
+| [Adobe Workfront System Admin Essentials:设计理想的用户体验](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) | Adobe Live 网络研讨会 | 与Adobe Workfront的客户成功经理Mary Ann Erickson和Liberty Mutual Insurance的创意运营分析师Steve Enos一起了解如何设计理想的用户体验。 <br>**日期：** 4月27日星期三。 时间：太平洋夏令时早8:00 /英国下午4:00。 <br>[详细信息和注册](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) |
 | [Experience League LIVE](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=zh-Hans) | 实时和点播视频 | 由 Experience League 团队制作的直播节目。利用这个机会，您可以与 Adobe 产品专家联系。学习可用于 Adobe Experience Cloud 应用程序的可操作性提示、技巧和策略。<br> [详细信息和过去的活动](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
 | [AEM Gems](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629) | Adobe Live 网络研讨会 | 使用 Adobe [!UICONTROL App Builder] 工作流和工具快速引导和部署单页面应用程序 (SPA)，无需具备 Java™ 和 Sling 等传统 Experience Manager 技能。借助 Experience Manager Headless，营销人员和开发人员可以拥有各自领域的专业知识 - 开发人员控制整个应用程序框架、样式和路由，而营销人员确定内容及其显示方式。<br>**日期：** 3 月 23 日，星期三 - [详细信息和注册](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629) |
 | [Adobe Analytics：用数据讲述有影响力的故事](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b%E2%80%A6%5d15Y000003A5SbQAK&amp;sfid=&amp;acctid=&amp;ecp=&amp;sdid=JCNCWJFP&amp;mv=display) | Adobe Live 网络研讨会 | 当数据故事讲述达到艺术和科学的平衡时，才是优秀的故事讲述。那么，为什么要过度设计？Adobe Analytics 负责人 Amy Ard 讨论了三个部分，旨在指导您在不削弱创造力的情况下讲述数据故事：<ul><li>确定机会或问题</li><li>利用数据进行说明</li><li>提供解决方案</li></ul>**日期：** 3 月 31 日，星期四 - [详细信息和注册](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b…%5d15Y000003A5SbQAK&amp;sfid=&amp;acctid=&amp;ecp=&amp;sdid=JCNCWJFP&amp;mv=display) |
-| [Experience Makers - Adobe Workfront 技能交流](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true) | Adobe Live 网络研讨会 | 我们很高兴地宣布推出首个 Experience Makers 版本 - Adobe Workfront 技能交流将于 4 月 13 日举行。这个免费的 3 小时数字学习活动完全围绕 Workfront，客户有机会现场向最了解工作管理的专家和同行提问。无论您是 Workfront 的新手还是经验丰富的专家，我们都能让每个人有所收获。<br>**日期：** 4 月 13 日，星期三 - [详细信息和注册](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true) |
 | [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=zh-Hans) | 视频 | [!DNL Developers Live] 展示了跨行业推动设计、内容创建工作流、文档服务和客户体验管理的最新技术进步和开发人员工具。查看主旨演讲、了解Analytics API、客户端数据层、Adobe开发人员开源项目等。 |
 
 {style=&quot;table-layout:auto&quot;}
