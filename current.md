@@ -6,9 +6,9 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: bbdac176cdaed65d6312a1274551d8da517764c6
+source-git-commit: 29615ef50c01bd12445aaa3d492d4b746b795f0d
 workflow-type: tm+mt
-source-wordcount: '5956'
+source-wordcount: '5952'
 ht-degree: 91%
 
 ---
@@ -482,11 +482,11 @@ Last updated: **October 27, 2021**
 
 ### [!DNL Advertising Cloud Search] 中的新增功能 {#adcloud-search}
 
-上次更新时间： **2022年4月7日**
+上次更新时间： **2022年4月11日**
 
 | 功能 | 描述 |
 | ------- | ----------- |
-| [!UICONTROL 促销活动]<br><br>[!UICONTROL 广告分析] | （4月7日） [!DNL Google Ads] 帐户)Advertising Cloud Search正在转换旧版中的所有API调用 [!DNL Google AdWords API] 最新 [!DNL Google Ads API]. 迁移到新 [!DNL Google Ads API] 将确保与现有功能的连续性，并允许访问 [!DNL Google’s] 最新 [!DNL Ads] 功能。<br><br>某些功能尚未更新到新API，暂时不可用：<ul><li>位置扩展：<ul>位置扩展在 [!UICONTROL 扩展] 中。</li><li>无法创建扩展。</li><li>位置上的过滤器不起作用。</li></li></ul><li>[!UICONTROL 广告分析]:的 [!UICONTROL 展示共享丢失] 和 [!UICONTROL 查询交叉匹配测试版] 分析将从4月11日开始不可用。</li></ul>我们预计将在4月底之前恢复位置扩展功能。 确定受影响的 [!UICONTROL 广告分析] 模块也可以恢复，我们将发送包含估计日期的更新。 |
+| [!UICONTROL 促销活动]<br><br>[!UICONTROL 广告分析] | (4月11日； [!DNL Google Ads] 帐户)Advertising Cloud Search已过渡了旧版中的所有API调用 [!DNL Google AdWords API] 最新 [!DNL Google Ads API]. 迁移到新 [!DNL Google Ads API] 将确保与现有功能的连续性，并允许访问 [!DNL Google’s] 最新 [!DNL Ads] 功能。<br><br>某些功能尚未更新到新API，暂时不可用：<ul><li>位置扩展：<ul>位置扩展在 [!UICONTROL 扩展] 中。</li><li>无法创建扩展。</li><li>位置上的过滤器不起作用。</li></li></ul><li>[!UICONTROL 广告分析]:的 [!UICONTROL 展示共享丢失] 和 [!UICONTROL 查询交叉匹配测试版] 分析不可用。</li></ul>我们预计将在4月底之前恢复位置扩展功能。 确定受影响的 [!UICONTROL 广告分析] 模块也可以恢复，我们将发送包含估计日期的更新。 |
 | [!UICONTROL 项目组合] | （3月12日版）默认情况下，混合优化在营销活动级别可用。 您现在可以选择在广告组级别启用混合优化，这样一来，优化功能会在广告组级别设置 [!DNL Google] CPA 或 ROAS 目标，以便更精确地控制性能。<br>对于任何项目组合，您必须在启动项目组合前留出一个学习期，以确保它有足够的模型覆盖率。同样，如果您将混合项目组合从营销活动级别优化更改为广告组级别优化，则将项目组合设置为活动状态并保持约两周的时间。这将确保优化功能有时间了解包含的广告组并生成目标。<br>为了支持广告组级别优化，自定义模拟现在可以按广告组包含结果。在启动具有广告组级别优化的混合项目组合之前，运行具有广告组级别结果的自定义模拟。 |
 | [!UICONTROL 项目组合] <br> [!UICONTROL 营销活动] | (匹配12版；测试版功能 [!DNL Microsoft® Advertising] 促销活动) — 您现在可以将搜索促销活动配置为使用 [!UICONTROL 最大化转化] 竞价策略，并可选择设置每次点击的最大成本。<br>如果您已参与其他自动竞价策略的混合优化 Beta 计划，则您将自动获得对[!UICONTROL 最大限度地转化]策略的访问权限，并且您可以在混合项目组合中包含营销活动和[!UICONTROL 最大限度地转化]策略。要在混合项目组合中使用此策略，您必须支持将 Advertising Cloud Search 目标上传到 [!DNL Microsoft® Ads]。如果您尚未参与 Beta 计划并想加入，请联系您的 [!DNL Adobe] 客户经理。 |
 | 营销活动[!UICONTROL 受众]<br><br>营销活动[!UICONTROL 批量处理工作表] | (3月12日发布； [!DNL Microsoft® Advertising] 营销活动) — 您现在可以使用 [!DNL Microsoft® Advertising] 受众，但作为促销活动级别目标或 [!UICONTROL adgroup] — 级别目标。 以前，您只能将这些受众用作[!UICONTROL 广告组]级别目标。 |
