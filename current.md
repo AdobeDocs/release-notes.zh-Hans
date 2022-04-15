@@ -6,7 +6,7 @@ last-update: April 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e6a44b87d3c4f39a6e0304d44213d866ae43aec4
+source-git-commit: 4f25c9ff1ac5f923c63ad8c7401146fff0f781da
 workflow-type: tm+mt
 source-wordcount: '6116'
 ht-degree: 44%
@@ -68,7 +68,7 @@ Experience League 活动是您向 Adobe 产品专家学习、与之互动以及�
 | [AEM Gems](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/overview.html?lang=en) | Adobe Live 网络研讨会 | 提供了2022版的AEM Gems更新！ AEM Gems是Adobe网络研讨会，由Adobe专家提供，内容涉及Adobe Experience Manager的一系列技术深入探讨。 <br>有关最新的AEM Gems，请参阅 [Adobe Experience Manager as a Cloud Service:《2021年回顾与2022年展望》](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/aemcloudservice-2021-review-and-outlook.html?lang=en) 和 [使用AEM Headless和App Builder更快地构建站点](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/build-sites-faster-with-headless-and-appbuilder.html?lang=en).<br>请经常访问这些发行说明或订阅 [Adobe优先级产品更新](https://www.adobe.com/subscription/priority-product-update.html) 以掌握AEM Gem和其他Experience League活动。 |
 | [Experience Makers - Adobe Workfront 技能交流](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true) | Adobe Live 网络研讨会 | Adobe很兴奋地宣布了 _体验创造者 — Adobe Workfront的技能交流_. <br>这个免费的三小时数字学习活动完全集中在Workfront。 您可以向最了解工作管理的专家和同行提问。 无论您是 Workfront 的新手还是经验丰富的专家，我们都能让每个人有所收获。<br>**日期：** 4月13日星期三上午9点太平洋夏季时间中午12点00分。 [详细信息和注册](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true):Adobe建议，即使您无法参加，也应进行注册，这样您就有权访问即时录制。 |
 | [Adobe Workfront System Admin Essentials:设计理想的用户体验](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) | Adobe Live 网络研讨会 | 与Adobe Workfront的客户成功经理Mary Ann Erickson和Liberty Mutual Insurance的创意运营分析师Steve Enos一起了解如何设计理想的用户体验。 <br>**日期：** 4月27日星期三。 时间：太平洋夏令时早8:00 /英国下午4:00。 <br>[详细信息和注册](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) |
-| [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=zh-Hans) | 按需视频 | [!DNL Developers Live] 展示了跨行业推动设计、内容创建工作流、文档服务和客户体验管理的最新技术进步和开发人员工具。查看主旨演讲、了解Analytics API、客户端数据层、Adobe开发人员开源项目等。 |
+| [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=zh-Hans) | 按需视频 | [!DNL Developers Live] 展示了跨行业推动设计、内容创建工作流、文档服务和客户体验管理的最新技术进步和开发人员工具。查看主旨演讲、了解Analytics API、客户端数据层、Adobe Developer开源项目等。 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -124,7 +124,7 @@ Experience Cloud [中央 UI 组件](https://experienceleague.adobe.com/docs/core
 
 ## ![图标](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
-发布日期：**2022 年 3 月 23 日**
+发布日期：**2022 年 4 月 20 日**
 
 * Adobe Analytics [发行说明](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=zh-Hans)
 * Adobe Analytics [产品文档和教程](https://experienceleague.adobe.com/docs/analytics.html?lang=zh-Hans)
@@ -154,14 +154,14 @@ Experience Cloud [中央 UI 组件](https://experienceleague.adobe.com/docs/core
 
 ## ![图标](/assets/analytics.png) [!DNL Customer Journey Analytics] {#cja}
 
-发布日期：**2022 年 3 月 23 日**
+发布日期：**2022 年 4 月 20 日**
 
 * Customer Journey Analytics [发行说明](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=zh-Hans)
 * Customer Journey Analytics [产品文档和教程](https://experienceleague.adobe.com/docs/customer-journey-analytics.html?lang=zh-Hans)
 
 ## ![图标](/assets/analytics.png) [!DNL Streaming Media Analytics] {#sma}
 
-发布日期：**2022 年 3 月 16 日**
+发布日期：**2022 年 4 月 20 日**
 
 * [!DNL Streaming Media Analytics] [发行说明](https://experienceleague.adobe.com/docs/media-analytics/using/additional-resources/release-notes.html?lang=en)  (**新位置**)
 * [!DNL Streaming Media Analytics] [产品文档和教程](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html?lang=en)
