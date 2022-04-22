@@ -6,10 +6,10 @@ last-update: April 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: f8a3a96d35bf434af09dc0b536984feb4ff7de27
+source-git-commit: 68df02857374608feb9ae1c848b6ca1357d73382
 workflow-type: tm+mt
-source-wordcount: '6118'
-ht-degree: 44%
+source-wordcount: '6428'
+ht-degree: 42%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 44%
 >
 >要收到有关此页面更新的每月电子邮件通知，请订阅 [Adobe 优先产品更新](https://www.adobe.com/cn/subscription/priority-product-update.html)。经常回来查看 Experience League 的最新动态。
 
-最新更新：**2022 年 4 月 18 日**
+最新更新：**2022 年 4 月 22 日**
 
 * [[!DNL Experience League] 活动](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -68,7 +68,7 @@ Experience League 活动是您向 Adobe 产品专家学习、与之互动以及�
 | [AEM Gems](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/overview.html?lang=en) | Adobe Live 网络研讨会 | 提供了2022版的AEM Gems更新！ AEM Gems是Adobe网络研讨会，由Adobe专家提供，内容涉及Adobe Experience Manager的一系列技术深入探讨。 <br>有关最新的AEM Gems，请参阅 [Adobe Experience Manager as a Cloud Service:《2021年回顾与2022年展望》](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/aemcloudservice-2021-review-and-outlook.html?lang=en) 和 [使用AEM Headless和App Builder更快地构建站点](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/build-sites-faster-with-headless-and-appbuilder.html?lang=en).<br>请经常访问这些发行说明或订阅 [Adobe优先级产品更新](https://www.adobe.com/subscription/priority-product-update.html) 以掌握AEM Gem和其他Experience League活动。 |
 | [Experience Makers - Adobe Workfront 技能交流](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true) | Adobe Live 网络研讨会 | Adobe很兴奋地宣布了 _体验创造者 — Adobe Workfront的技能交流_. <br>这个免费的三小时数字学习活动完全集中在Workfront。 您可以向最了解工作管理的专家和同行提问。 无论您是 Workfront 的新手还是经验丰富的专家，我们都能让每个人有所收获。<br>**日期：** 4月13日星期三上午9点太平洋夏季时间中午12点00分。 [详细信息和注册](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true):Adobe建议，即使您无法参加，也应进行注册，这样您就有权访问即时录制。 |
 | [Adobe Workfront System Admin Essentials:设计理想的用户体验](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) | Adobe Live 网络研讨会 | 与Adobe Workfront的客户成功经理Mary Ann Erickson和Liberty Mutual Insurance的创意运营分析师Steve Enos一起了解如何设计理想的用户体验。 <br>**日期：** 4月27日星期三。 时间：太平洋夏令时早8:00 /英国下午4:00。 <br>[详细信息和注册](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) |
-| [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=zh-Hans) | 按需视频 | [!DNL Developers Live] 展示了跨行业推动设计、内容创建工作流、文档服务和客户体验管理的最新技术进步和开发人员工具。查看主旨演讲、了解Analytics API、客户端数据层、Adobe Developer开源项目等。 |
+| [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=zh-Hans) | 按需视频 | [!DNL Developers Live] 展示了跨行业推动设计、内容创建工作流、文档服务和客户体验管理的最新技术进步和开发人员工具。查看主旨演讲、了解Analytics API、客户端数据层、Adobe开发人员开源项目等。 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -163,7 +163,7 @@ Experience Cloud [中央 UI 组件](https://experienceleague.adobe.com/docs/core
 
 发布日期：**2022 年 4 月 20 日**
 
-* [!DNL Streaming Media Analytics] [发行说明](https://experienceleague.adobe.com/docs/media-analytics/using/additional-resources/release-notes.html?lang=en)  (**新位置**)
+* [!DNL Streaming Media Analytics] [发行说明](https://experienceleague.adobe.com/docs/media-analytics/using/additional-resources/release-notes.html?lang=zh-Hans)  (**新位置**)
 * [!DNL Streaming Media Analytics] [产品文档和教程](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html?lang=en)
 
 ### 新的Customer Journey Analytics教程和课程 {#tutorials-cja}
@@ -372,7 +372,7 @@ Experience League 上的 Adobe Commerce 的新文档和教程。
 上次更新日期：**2022 年 3 月 21 日**
 
 * 有关预发行信息，请参阅 [Adobe Target 预发行](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=zh-Hans)
-* 有关最新信息，请参阅 [Adobe Target 发行说明](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=en)
+* 有关最新信息，请参阅 [Adobe Target 发行说明](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=zh-Hans)
 
 ## ![图标](/assets/campaign.png) [!DNL Adobe Campaign] {#ac}
 
@@ -398,7 +398,7 @@ Adobe Campaign 提供了一种直观、自动的方式，以通过在线和离�
 * Adobe Campaign v8：[文档](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=zh-Hans) — [发行说明](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html) — [《实施指南》](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html?lang=zh-Hans)
 * Adobe Campaign Standard：[Campaign Standard 文档](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hans) — [发行说明](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) — [操作方法视频](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=zh-Hans) — [发行计划](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=zh-Hans) — [最新文档更新](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=zh-Hans)
 * Adobe Campaign Classic：[Campaign Classic v7 文档](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=zh-Hans) — [发行说明](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) — [操作方法视频](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=zh-Hans) — [最新文档更新](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=zh-Hans)
-* Adobe Campaign 控制面板：[文档](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=zh-Hans) — [发行说明](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=en) - 有关 [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=zh-Hans)/[Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=zh-Hans) 的操作方法视频
+* Adobe Campaign 控制面板：[文档](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=zh-Hans) — [发行说明](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=zh-Hans) - 有关 [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=zh-Hans)/[Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=zh-Hans) 的操作方法视频
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) Adobe Journey Optimizer {#journey-opt}
 
@@ -500,12 +500,16 @@ Last updated: **October 27, 2021**
 
 ### [!DNL Advertising Cloud Search] 中的新增功能 {#adcloud-search}
 
-上次更新时间： **2022年4月11日**
+上次更新时间： **2022年4月22日** 适用于4月23日版本
 
 | 功能 | 描述 |
 | ------- | ----------- |
+| [!UICONTROL 受众] | ([!DNL Microsoft Advertising] 符合“客户匹配”资格的帐户)现在，所有用户都可以通过上传带有电子邮件地址的CSV文件来创建和管理“客户匹配”受众。 必须使用 SHA-256 算法对数据进行哈希处理。 |
+| [!UICONTROL 营销活动] | 选择加入的广告商可以使用以下测试版功能：<ul><li>([!DNL Microsoft Advertising] 帐户)上现有本机广告营销活动的同步、只读可见性和报告（包括显示到达数据）支持 [!DNL Microsoft Audience Network]，包括 [!DNL Microsoft Audience Ads].</li><li>([!DNL Google Ads] 和 [!DNL Microsoft Advertising] 帐户)能够导入 [!DNL Google Ads] 营销活动和营销活动结构 [!DNL Microsoft Advertising] 从Advertising Cloud Search。</li></ul>如果您对任一测试版计划感兴趣，请联系您的Adobe客户经理。 |
+| [!UICONTROL 促销活动]<br><br>[!UICONTROL Portfolio] | ([!DNL Microsoft Advertising] 促销活动)支持以下竞价策略：<ul><li>（正式发布） [!UICONTROL 最大化转化], [!UICONTROL 目标CPA]和 [!UICONTROL Target广告支出回报率]:现在，每个人都能使用这些策略。 您可以使用这些竞价策略将搜索促销活动添加到混合（但不是标准）项目组合中。</li><li>（测试版功能） [!UICONTROL 目标展示共享]:如果您要参与混合优化测试版，则可以使用此策略配置促销活动，并可选择设置目标展示份额、目标广告位置和每次点击的最大成本。 注意：混合组合中尚不支持此选项，因此无法将此选项添加到标准组合中。</li><li>（测试版功能） [!UICONTROL 最大化点击量]:如果您要参与混合优化测试版，则可以使用此策略配置促销活动，并可选择设置每次点击的目标最大成本。 您可以将使用此策略的营销活动纳入标准或混合项目组合中。 要在混合组合中使用此策略，组合的目标必须仅包括 [!DNL Adobe] 属性（量度），且您必须启用将Advertising Cloud Search目标上传到 [!DNL Microsoft Ads].</li></ul>如果您尚未参与混合优化测试版并且想要加入，请联系您的 [!DNL Adobe] 客户经理。 |
+| [!UICONTROL 广告见解] | 除 [!UICONTROL 查询交叉匹配] 和 [!UICONTROL 混合Portfolio设置就绪] 现在已经超过了测试。 |
 | [!UICONTROL 促销活动]<br><br>[!UICONTROL 广告分析] | (4月11日； [!DNL Google Ads] 帐户)Advertising Cloud Search已过渡了旧版中的所有API调用 [!DNL Google AdWords API] 最新 [!DNL Google Ads API]. 迁移到新 [!DNL Google Ads API] 确保与现有功能保持连续性，并允许访问 [!DNL Google’s] 最新 [!DNL Ads] 功能。<br><br>某些功能尚未更新到新API，暂时不可用：<ul><li>位置扩展：<ul>位置扩展在 [!UICONTROL 扩展] 中。</li><li>无法创建扩展。</li><li>位置上的过滤器不起作用。</li></li></ul><li>[!UICONTROL 广告分析]:的 [!UICONTROL 展示共享丢失] 和 [!UICONTROL 查询交叉匹配测试版] 分析不可用。</li></ul>我们预计将在4月底之前恢复位置扩展功能。 确定受影响的 [!UICONTROL 广告分析] 模块也可以恢复，我们将发送包含估计日期的更新。 |
-| 与 Adobe Analytics 集成 | （4月7日）在Advertising Cloud发送至 [!DNL Analytics]，数据 [!DNL Google Ads] 和 [!DNL Microsoft® Advertising] 响应式搜索广告(RSA)现在与 [!UICONTROL 响应式广告类型] &quot;[!UICONTROL 响应式搜索广告].&quot; 以前，数据包含在 [!UICONTROL 响应式广告类型] &quot;[!UICONTROL 响应式文字广告].&quot;<br><br>此外， [!UICONTROL 响应式广告标题] 现在有第一个标题和 [!UICONTROL 响应式广告描述] 中填充了第一个描述。 |
+| 与 Adobe Analytics 集成 | （4月7日）在Advertising Cloud发送至 [!DNL Analytics]，数据 [!DNL Google Ads] 和 [!DNL Microsoft Advertising] 响应式搜索广告(RSA)将通过 [!UICONTROL 广告类型] &quot;[!UICONTROL 响应式搜索广告]“ ”。 以前，数据包含在 [!UICONTROL 广告类型] &quot;[!UICONTROL 文字广告].&quot; 不活动营销活动中的RSA将不会重新分类。<br><br>对于重新分类的RSA， [!UICONTROL 响应式广告标题] 现在有第一个标题和 [!UICONTROL 响应式广告描述] 中填充了第一个描述。 |
 
 {style=&quot;table-layout:auto&quot;}
 
