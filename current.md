@@ -6,9 +6,9 @@ last-update: May 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 8ddc70389416b26d1cd0c6be5a60c1d34f2cc954
+source-git-commit: c3e59ee55c248878950ccf28a97b778dac69e31a
 workflow-type: tm+mt
-source-wordcount: '4974'
+source-wordcount: '4977'
 ht-degree: 52%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 52%
 >
 >要收到有关此页面更新的每月电子邮件通知，请订阅 [Adobe 优先产品更新](https://www.adobe.com/cn/subscription/priority-product-update.html)。经常回来查看 Experience League 的最新动态。
 
-最新更新：**2022 年 5 月 13 日**
+最新更新：**2022 年 5 月 14 日**
 
 * [[!DNL Experience League] 活动](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -406,6 +406,8 @@ Adobe Campaign 提供了一种直观、自动的方式，以通过在线和离�
 | 发布日期 | 名称 | 类型 | 描述 |
 | -----------| ---------- | ---------- | ---------- |
 | 2022 年 5 月 | [Marketo技能交流](https://experienceleague.adobe.com/docs/skill-exchange-events/events/marketo/aug2021/marketo-roadmap.html?lang=en) | 视频 | 首先了解您的Marketo路线图。 然后，了解将Marketo实例视为产品的重要性。 在此新发布的文章中，获取有关释放计划成员自定义字段、Marketo Engage提示和技巧等潜力的建议 [Marketo技能交流](https://experienceleague.adobe.com/docs/skill-exchange-events/events/marketo/aug2021/marketo-roadmap.html?lang=en) 2021年8月开始Experience League。 |
+
+{style=&quot;table-layout:auto&quot;}
 
 ### 核心 Marketo Engage 更新
 
