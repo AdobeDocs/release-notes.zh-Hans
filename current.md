@@ -6,9 +6,9 @@ last-update: May 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 0550d7a4ccf69654f6f205752a109fbb9a83e172
+source-git-commit: 84794d6d051c913cef2ca11504d8cc9857af3000
 workflow-type: tm+mt
-source-wordcount: '4972'
+source-wordcount: '4971'
 ht-degree: 51%
 
 ---
@@ -321,7 +321,7 @@ Adobe 建议访问 [Experience Manager 版本更新和路线图](https://experie
 
 Experience Manager指南(以前称为XML Documentation for Experience Manager)是部署在AEM上的应用程序。 这是一个功能强大的企业级组件内容管理解决方案 (CCMS)，可在 Adobe Experience Manager 中启用原生 DITA 支持，使 AEM 能够处理基于 DITA 的内容创建和交付。
 
-详细了解 [AEM 的 XML 文档](https://www.adobe.com/cn/products/xml-documentation-for-experience-manager/features.html)。
+详细了解 [Experience Manager指南](https://www.adobe.com/cn/products/xml-documentation-for-experience-manager/features.html).
 
 ### 其他资源
 
