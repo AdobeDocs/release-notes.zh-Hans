@@ -6,9 +6,9 @@ last-update: May 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 181c2ee19d1a3687355876f70f25c6e110a90ebc
+source-git-commit: d4aed4b509b13fbc0fc73d11dcb30ac4f2fdbfd7
 workflow-type: tm+mt
-source-wordcount: '4971'
+source-wordcount: '4935'
 ht-degree: 99%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 99%
 >
 >要收到有关此页面更新的每月电子邮件通知，请订阅 [Adobe 优先产品更新](https://www.adobe.com/cn/subscription/priority-product-update.html)。经常回来查看 Experience League 的最新动态。
 
-最新更新：**2022 年 5 月 14 日**
+最新更新：**2022 年 5 月 24 日**
 
 * [[!DNL Experience League] 活动](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -39,7 +39,7 @@ ht-degree: 99%
 * [[!DNL Experience Manager Guides]](#xml-doc)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
-* [[!DNL Adobe Campaign]](#ac)
+* [[!DNL Adobe Campaign]](#ac) （已更新） **5月24日**)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
@@ -55,11 +55,10 @@ ht-degree: 99%
 
 Experience League 活动是您向 Adobe 产品专家学习、与之互动以及获得答案的绝佳方式！
 
-更新日期 **2022 年 5 月 13 日**
+更新日期：**2022 年 5 月 24 日**
 
 | 活动 | 类型 | 描述 |
 | -----------|---------- | ----|
-| [Adobe Analytics - Experience Makers - 技能交流](https://events.bizzabo.com/389219?promo=ExperienceLeague&amp;tr=true) | 技能交流 | 欢迎参加该时长三小时的免费 Adobe Analytics 独家数字活动现场向最了解 Workspace 的专家和同行提问。<br>2022 年 5 月 18 日下午 1:30pm-4:30（东部标准时间）<br> [详细信息和注册事宜](https://events.bizzabo.com/389219?promo=ExperienceLeague&amp;tr=true) |
 | [Adobe Campaign - 客户成功网络研讨会系列](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) | Peer2Peer：通过 Adobe Campaign 增强客户历程。 | 与 Streamotion 旗下 Kayo、Binge 和 Flash 品牌的参与运营负责人 Anja Starun 一起参加这场 Peer2Peer 现场讨论。从她那里获得一手信息，了解她的团队使用 Adobe Campaign 创建个性化客户历程的成功策略。<br>**日期：** 5 月 26 日下午 3 点（东部标准时间）<br>[详细信息和注册事宜](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) |
 | [使用 Journey Optimizer 推送通知 - 如何轻松地为移动应用程序配置推送功能](https://www.youtube.com/watch?v=t36Xjhukmro) | Experience League LIVE | 了解通过 Adobe Journey Optimizer 推送通知的常见用例，并深入探索有关如何为 Adobe Experience Platform 支持的推送功能配置应用程序方面的技术细节。<br>**日期：** 2022 年 5 月 12 日上午 9:30（太平洋夏令时间）<br>[日程安排和以往的活动](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=zh-Hans) |
 | [Adobe Target 社区](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-4-27-22-8am-pt-jim-mctiernan/m-p/446940#M3096) | 问答喝咖啡休息时间 | 参加由 Adobe Target 产品团队的 Brent Kostak 和 Drew Burns 主持的研讨会，他们可以针对 Adobe Target 在共享受众、Real-Time CDP、第一方数据、端到端个性化工作流等方面为您答疑解惑。<br>观看最近举行的[”实时个性化“网络研讨会](https://experienceleaguecommunities.adobe.com:443/t5/adobe-target-discussions/webinar-recording-4-28-22-real-time-personalization-with-adobe/td-p/449012)，在 Adobe Target 社区中的 [Coffee Break 会话](https://adobe.ly/3MyiDHa)内提交您的后续问题！<br>**日期：** 2022 年 5 月 25 日上午 8 点（太平洋夏令时间）<br>[详细信息和注册事宜](https://adobe.ly/3MyiDHa) |
@@ -349,12 +348,14 @@ Adobe Campaign 提供了一种直观、自动的方式，以通过在线和离�
 
 ### 最新营销活动产品版本
 
-通过 [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=zh-Hans)、[Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html?lang=zh-Hans) 和 [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=zh-Hans) 发行说明了解有关最新功能、改进和修复的更多信息。
+**最新版本：** [Campaign Standard版本22.2](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/e-release-notes.html) （2022年6月）
+
+通过 [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=zh-Hans)、[Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html?lang=zh-Hans) 和 [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) 发行说明了解有关最新功能、改进和修复的更多信息。
 
 ### Campaign 帮助资源
 
 * Adobe Campaign v8：[文档](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=zh-Hans) — [发行说明](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html) — [《实施指南》](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html?lang=zh-Hans)
-* Adobe Campaign Standard：[Campaign Standard 文档](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hans) — [发行说明](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) — [操作方法视频](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=zh-Hans) — [发行计划](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=zh-Hans) — [最新文档更新](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=zh-Hans)
+* Adobe Campaign Standard：[Campaign Standard 文档](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hans) — [发行说明](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) — [操作方法视频](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=zh-Hans) — [发行计划](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html) — [最新文档更新](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=zh-Hans)
 * Adobe Campaign Classic：[Campaign Classic v7 文档](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=zh-Hans) — [发行说明](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) — [操作方法视频](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=zh-Hans) — [最新文档更新](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=zh-Hans)
 * Adobe Campaign 控制面板：[文档](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=zh-Hans) — [发行说明](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=zh-Hans) - 有关 [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=zh-Hans)/[Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=zh-Hans) 的操作方法视频
 
