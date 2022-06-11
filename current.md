@@ -6,9 +6,9 @@ last-update: June 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 8c5b3c3246a9f14e48d77c294143464b1c9e72c0
+source-git-commit: 7ea7898bf65132824a5944dd9e936a1344d5a213
 workflow-type: tm+mt
-source-wordcount: '4708'
+source-wordcount: '4696'
 ht-degree: 54%
 
 ---
@@ -218,15 +218,14 @@ Adobe 建议访问 [Experience Manager 版本更新和路线图](https://experie
    * [Dynamic Media Smart Imaging现在支持AVIF文件格式](https://medium.com/adobetech/one-solution-fits-all-smart-imaging-with-aem-dynamic-media-be690b62df9f)  — 进一步改进Google Core Web Vital（最大内容绘画），AVIF提供比WebP大20%的额外尺寸缩减。 与JPEG相比，AVIF的平均大小缩减率高达41%（在某些图像中甚至高达76%）。
    * Experience Manager Assets Brand Portal现在每12小时运行一次自动作业，以删除已发布到Experience Manager的所有Brand Portal资产。 因此，您无需手动删除Contribution文件夹中的资产，即可将文件夹大小保持在阈值限制以下。 请参阅 [Experience Manager Assets·Brand Portal的新增功能](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=zh-Hans).
 
-      _预发布频道中的新增功能_
+   _预发布频道中的新增功能_
 
    * Experience Manager Assets现在使用Adobe Sensei AI功能 [区分图像中的颜色，并在摄取时自动将差异作为标记应用](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/color-tag-images.html?lang=en). 这些标记可根据图像颜色组合来增强搜索体验。 您可以配置在1到40之间标记为图像的颜色数量，以便以后可以根据这些颜色搜索图像。
+
 
 * **Experience Manager Forms as a Cloud Service**
 
    _预发行渠道中的新增功能_
-
-   * **通信 — Formsas a Cloud ServiceSDK中的文档操作API支持** -
 
    * **将自适应Forms与Microsoft® Power自动集成**  — 您现在可以配置自适应表单，以在提交时运行Microsoft® Power Automate Cloud Flow。 配置的自适应表单会发送捕获的数据、附件和记录文档，以增强云流自动化以进行处理。 它可帮助您构建自定义数据捕获体验，同时利用Microsoft® Power Automate的强大功能围绕捕获的数据构建业务逻辑并自动执行客户工作流。
    * **创建自适应表单的向导**  — 您可以使用业务用户友好向导快速创作自适应Forms。 该向导提供了快速的选项卡导航，以便轻松选择预配置的模板、样式、字段和提交选项以创建自适应表单。
