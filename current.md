@@ -6,10 +6,10 @@ last-update: June 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 5d75fb745b2694e31346b27efdb1d5f71fe91449
+source-git-commit: fbe6dd6b917a94fa8c26f832f373584becd6796a
 workflow-type: tm+mt
-source-wordcount: '4691'
-ht-degree: 99%
+source-wordcount: '4696'
+ht-degree: 98%
 
 ---
 
@@ -51,7 +51,7 @@ ht-degree: 99%
 
 ## ![图标](/assets/experience-league.png) [!DNL Experience League] 活动 {#events}
 
-Experience League 活动是您向 Adobe 产品专家学习、与之互动以及获得答案的绝佳方式！
+[Experience League 活动是您向 Adobe 产品专家学习、与之互动以及获得答案的绝佳方式！](https://experienceleague.adobe.com/events/?lang=en)
 
 更新日期：**2022 年 6 月 10 日**
 
