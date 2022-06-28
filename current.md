@@ -6,10 +6,10 @@ last-update: June 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: fbe6dd6b917a94fa8c26f832f373584becd6796a
+source-git-commit: 13451e4d6d7b6726de9899368188b5d13107d6ff
 workflow-type: tm+mt
-source-wordcount: '4696'
-ht-degree: 98%
+source-wordcount: '4816'
+ht-degree: 96%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 98%
 >
 >要收到有关此页面更新的每月电子邮件通知，请订阅 [Adobe 优先产品更新](https://www.adobe.com/cn/subscription/priority-product-update.html)。经常回来查看 Experience League 的最新动态。
 
-最新更新日期：**2022 年 6 月 12 日**
+最新更新日期：**2022 年 6 月 28 日**
 
 * [[!DNL Experience League] 事件](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -53,10 +53,12 @@ ht-degree: 98%
 
 [Experience League 活动是您向 Adobe 产品专家学习、与之互动以及获得答案的绝佳方式！](https://experienceleague.adobe.com/events/?lang=en)
 
-更新日期：**2022 年 6 月 10 日**
+更新日期：**2022 年 6 月 28 日**
 
 | 活动 | 类型 | 描述 |
 | -----------|---------- | ----|
+| [利用深层数据智能提升个性化](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) | 客户成功网络研讨会 | 与我们的Adobe专家一起了解Adobe Analytics中的高级功能如何让贵组织的分析师和营销人员能够加快深入数据分析，并组织及时的分析，以在渠道、时刻和购买阶段提供更加个性化的客户体验。<br>**日期：** 7月6日美国东部标准时间下午3点 —  [详细信息和注册](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) |
+| [Adobe Target — 成功技能](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) | Adobe Experience Makers | 了解Adobe Target的核心概念和功能，以测试、个性化并识别AI的强大功能，将您的品牌体验从通用体验转变为天才体验。<br>**日期：** 6月30日、7月1日 —  [详细信息和注册](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) |
 | Adobe 营销活动、Journey Optimizer – [跨渠道挑战：大规模个性化](https://adobe-campaign-cross-channel.dxfieldmarketing.adobeevents.com/) | 虚拟事件 | 听听 451 Research 研究总监 Sheryl Kingstone 讲述如何跟上变化的步伐，将营销技术作为关键推动力，以及变得更加以数据为导向。我们还回顾了在 2022 年 Adobe Summit 期间分享的重要会议以及提示和技巧，在那里您可以听取专家关于如何跨渠道大规模推动个性化的意见。<br>**日期：** 6 月 14 日 - [详细信息和注册事宜](https://adobe-campaign-cross-channel.dxfieldmarketing.adobeevents.com/) |
 | [深入了解 – Cloud Manager 2022](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-looking-under-the-hood-cloud-manager-2022/) | AEM Gems – 虚拟事件 | 探索去年发布的新增功能、幕后开发的更新以及对 2022 年剩余时间的展望。<br>**日期：** 6 月 15 日 – [详细信息和注册事宜](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-looking-under-the-hood-cloud-manager-2022/) |
 | [如何建立信任并传播影响以扩展您的数字战略](https://mastersroundtablemay2022.experienceleague.adobeevents.com/) | 大师圆桌会议 | 加入我们进行独家亲密对话，我们将讨论有效传达您的数字战略影响的方法。<br>**日期：** 6 月 21 日 - [详细信息和注册事宜](https://mastersroundtablemay2022.experienceleague.adobeevents.com/) |
@@ -84,7 +86,7 @@ Experience Cloud [中央 UI 组件](https://experienceleague.adobe.com/docs/core
 
 | 功能 | 描述 |
 | ------- | ------- |
-| 统一主页 – 快速访问构件 | **更快导航：**&#x200B;您现在可以进一步个性化您的家庭体验，并决定哪些应用程序可快速访问。 使用全新固定功能，选择显示在您的[!UICONTROL “快速访问”]前面和中心位置的应用程序。 <br>**随时了解智能固定：**&#x200B;您的新应用程序现在更容易找到。新分配的应用程序显示&#x200B;_新_&#x200B;徽章并自动固定到[!UICONTROL “快速访问”]。 |
+| 统一主页 - 快速访问构件 | **导航速度更快：**&#x200B;您现在可以对您的主页体验进行进一步个性化设置，并决定哪些应用程序触手可及。使用新的固定功能选择哪些应用程序显示在您的[!UICONTROL 快速访问]的前面和中心。<br>**利用智能固定功能随时了解最新动态：**&#x200B;您的新应用程序现在更容易找到。新分配的应用程序显示&#x200B;_新_&#x200B;徽章并自动固定到[!UICONTROL 快速访问]。 |
 
 {style=&quot;table-layout:auto&quot;}
 
