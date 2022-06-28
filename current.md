@@ -6,10 +6,10 @@ last-update: June 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 13451e4d6d7b6726de9899368188b5d13107d6ff
+source-git-commit: 4256f9f814955a7819c8f0333ea8ba3bc9c2745a
 workflow-type: tm+mt
-source-wordcount: '4816'
-ht-degree: 96%
+source-wordcount: '4288'
+ht-degree: 95%
 
 ---
 
@@ -59,16 +59,8 @@ ht-degree: 96%
 | -----------|---------- | ----|
 | [利用深层数据智能提升个性化](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) | 客户成功网络研讨会 | 与我们的Adobe专家一起了解Adobe Analytics中的高级功能如何让贵组织的分析师和营销人员能够加快深入数据分析，并组织及时的分析，以在渠道、时刻和购买阶段提供更加个性化的客户体验。<br>**日期：** 7月6日美国东部标准时间下午3点 —  [详细信息和注册](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) |
 | [Adobe Target — 成功技能](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) | Adobe Experience Makers | 了解Adobe Target的核心概念和功能，以测试、个性化并识别AI的强大功能，将您的品牌体验从通用体验转变为天才体验。<br>**日期：** 6月30日、7月1日 —  [详细信息和注册](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) |
-| Adobe 营销活动、Journey Optimizer – [跨渠道挑战：大规模个性化](https://adobe-campaign-cross-channel.dxfieldmarketing.adobeevents.com/) | 虚拟事件 | 听听 451 Research 研究总监 Sheryl Kingstone 讲述如何跟上变化的步伐，将营销技术作为关键推动力，以及变得更加以数据为导向。我们还回顾了在 2022 年 Adobe Summit 期间分享的重要会议以及提示和技巧，在那里您可以听取专家关于如何跨渠道大规模推动个性化的意见。<br>**日期：** 6 月 14 日 - [详细信息和注册事宜](https://adobe-campaign-cross-channel.dxfieldmarketing.adobeevents.com/) |
-| [深入了解 – Cloud Manager 2022](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-looking-under-the-hood-cloud-manager-2022/) | AEM Gems – 虚拟事件 | 探索去年发布的新增功能、幕后开发的更新以及对 2022 年剩余时间的展望。<br>**日期：** 6 月 15 日 – [详细信息和注册事宜](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-looking-under-the-hood-cloud-manager-2022/) |
-| [如何建立信任并传播影响以扩展您的数字战略](https://mastersroundtablemay2022.experienceleague.adobeevents.com/) | 大师圆桌会议 | 加入我们进行独家亲密对话，我们将讨论有效传达您的数字战略影响的方法。<br>**日期：** 6 月 21 日 - [详细信息和注册事宜](https://mastersroundtablemay2022.experienceleague.adobeevents.com/) |
-| [体验创客直播](https://business.adobe.com/events/experience-makers-live/experience-makers-award-winners.html?sdid=JQVGW4SX&amp;mv=email&amp;mv2=sponsored) | 视频和虚拟事件 | 变革性的客户体验和令人惊叹的数字化转型是 2022 年 Adobe Experience Maker Awards 的庆祝主题。<br>参加 **6 月 22 日**<br>&#x200B;美洲、日本、印度、澳大利亚和新西兰的盛会，参加 **6 月 23 日**&#x200B;欧洲、中东和非洲的盛会<br> [详细信息和注册事宜](https://business.adobe.com/events/experience-makers-live/experience-makers-award-winners.html?sdid=JQVGW4SX&amp;mv=email&amp;mv2=sponsored) |
-| [咨询专家 – Real-Time CDP 连接](https://www.youtube.com/watch?v=hVwtxDYvzw4) | Experience League LIVE | 我们最喜欢的 Adobe 专家将广泛介绍 Adobe 的 Real-Time CDP 连接产品，客户可以使用服务器端标记管理系统将事件转发到任何目的地。<br>**日期：** 6 月 23 日上午 9 点 - [详细信息](https://www.youtube.com/watch?v=hVwtxDYvzw4) |
-| [咨询专家：Web SDK 基础](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-26-22.html) | Experience League实时 | 了解和利用数据收集最佳实践。<br>[计划和过去的活动](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=cn) |
-| [技能交流](https://experienceleague.adobe.com/docs/skill-exchange-events/events/overview.html?lang=cn) | 录制的会议 | 请访问技能交流查看我们的全球系列虚拟客户学习活动，重点是深入了解 Adobe Experience Cloud 解决方案。 |
-| [Experience Maker 政府版论坛](https://adobegovforum.govexec.com/agenda/) | 点播视频 | 第 13 届年度 AEMGF 已于 5 月 10 日成功举行，参会方式为线上和线下相结合。全体和分组会议的主题为&#x200B;_以人为本的数字体验_。主要会议主题包括&#x200B;_缉逃者：我们如何缉捕 Pablo Escobar_、_CX 的未来_&#x200B;以及&#x200B;_创造力和现代工作场所的黄金时代_。 |
-| [Adobe [!DNL Developers Live]：Commerce](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2022/feb2022/overview.html?lang=cn) | 点播视频 | _Adobe Developers Live：Commerce 2022_ 汇聚背景各异但目标一致的开发和体验构建人员，共同创造超乎想象的端到端体验。该为期一天的虚拟会议将提供重要的 Commerce 和开放源开发人员更新、技术会议、社区社交机会等。 |
-| [Marketo 技能交流](https://experienceleague.adobe.com/docs/skill-exchange-events/events/marketo/aug2021/marketo-roadmap.html?lang=cn) | 点播视频 | 了解 Marketo 路线图的重要性以及如何避免规划不当。从 2021 年 8 月开始，在[!DNL Marketo] 技能交流中了解如何解锁项目会员自定义字段、Marketo Engage 技巧和窍门等功能的潜力（现在可在 Experience League 上获得）。 |
+
+请参阅 [事件](https://experienceleague.adobe.com/events/?lang=en) Experience League保持更新。
 
 {style=&quot;table-layout:auto&quot;}
 
