@@ -6,10 +6,10 @@ last-update: June 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e2a292b6e5dc404f3c0164eec583cb4486746f53
+source-git-commit: 1e283c634ce9af45252e7df5c1b300e244e8196f
 workflow-type: tm+mt
-source-wordcount: '4288'
-ht-degree: 100%
+source-wordcount: '4395'
+ht-degree: 96%
 
 ---
 
@@ -431,21 +431,24 @@ Last updated: **October 27, 2021**
 
 ### [!DNL Advertising Cloud DSP] 中的新增功能 {#adcloud-dsp}
 
-上次更新日期：**2022 年 6 月 8 日**&#x200B;发布 5 月 31 日版
+上次更新时间： **2022年7月14日**
 
 | 功能 | 描述 |
 | ------- | ----------- |
-| 自定义报表 | （测试版功能）Advertising Cloud DSP 现在可以摄取由构建在客户数据平台 (CDP) 中的经过身份验证的信号组成的第一方区段。 |
+| 自定义报表 | (5月31日发布；测试版功能)Advertising Cloud DSP现在可以摄取由在客户数据平台(CDP)中构建的经过验证的信号组成的第一方区段。 |
+| [!UICONTROL 内容库] | （6月29日发布）新 [!UICONTROL 库存] > [!UICONTROL 交易] 视图包含与 [!UICONTROL 促销活动] 视图，包括其他过滤器、列自定义以及用于保存自定义视图、列排序和数据可视化（图表）视图的选项。 通过单击 [!UICONTROL ...] 交易名称之后。 |
+| [!DNL Inventory Inspector] | （6月29日发布） [!UICONTROL 库存] 选项卡 [!UICONTROL 检查员] 现在包括可自定义的数据可视化图表和扩展的性能量度，例如 [!UICONTROL 可视性比率], [!UICONTROL 点击次数]和 [!UICONTROL 昨天的CPM]. |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### [!DNL Advertising Cloud Search] 中的新增功能 {#adcloud-search}
 
-上次更新日期：**2022 年 6 月 8 日**&#x200B;发布 6 月 11 日版本
+上次更新时间： **2022年7月14日**
 
 | 功能 | 描述 |
 | ------- | ----------- |
-| [!UICONTROL 见解] | Impression Share Lost 分析现在作为 Beta 功能再次提供。 |
+| [!UICONTROL 见解] | （6月11日发布）“展示共享丢失”分析现已再次作为测试版功能提供。 |
+| [!DNL Advanced Campaign Management] | （6月20日）([!DNL Google Ads] 和 [!DNL Microsoft Advertising] 促销活动)现在，您可以使用特定于搜索引擎的广告模板，根据库存内容，从 [!UICONTROL 促销活动] > [!UICONTROL 高级(ACM)]. |
 
 {style=&quot;table-layout:auto&quot;}
 
