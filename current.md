@@ -6,9 +6,9 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 9ae3ada52db9f358b41b4560932d5661e31664f7
+source-git-commit: 609676006717d61512be133a65bfac44a15c8651
 workflow-type: tm+mt
-source-wordcount: '5268'
+source-wordcount: '5262'
 ht-degree: 51%
 
 ---
@@ -57,11 +57,11 @@ Experience League 活动是您向 Adobe 产品专家学习、与之互动以及�
 
 | 活动 | 类型 | 描述 |
 | -----------|---------- | ----|
-| [询问专家：数据流和数据准备](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) | Experience League LIVE | 在为Adobe Experience Cloud收集数据的三场会议的最后一场会议中，我们的专家将更深入地了解Adobe的高级数据收集功能，包括用于数据收集的数据准备等功能。 在本次会议结束时，与会者将对从数字体验中收集数据的最新、最强大的功能充满信心&#x200B;<br>**日期：** 7月21日（太平洋标准时间）上午9点 —  [详细信息](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en)<br>[即将发生和过去的事件](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=cn) |
+| [询问专家：数据流和数据准备](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) | Experience League LIVE | 在为Adobe Experience Cloud收集数据的三场会议的最后一场会议中，我们的专家将更深入地了解Adobe的高级数据收集功能，包括用于数据收集的数据准备等功能。 在本次会议结束时，与会者将对从数字体验中收集数据的最新、最强大的功能充满信心&#x200B;<br>**日期：** 7月21日（太平洋标准时间）上午9点 —  [详细信息](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) |
 
 {style=&quot;table-layout:auto&quot;}
 
-请参阅 Experience League 上的[活动](https://experienceleague.adobe.com/events/?lang=en)以了解最新信息。
+请参阅 [事件](https://experienceleague.adobe.com/events/?lang=en) Experience League，以便对即将发生的事件和过去的事件保持更新。
 
 ## ![图标](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
@@ -316,7 +316,7 @@ Adobe 建议访问 [Experience Manager 版本更新和路线图](https://experie
 
 ## ![图标](/assets/target.png) [!DNL Adobe Target] {#target}
 
-上次更新日期：**2022 年 6 月 7 日**
+上次更新日期：**2022 年 6 月 30 日**
 
 * 有关预发行信息，请参阅 [Adobe Target 预发行](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=zh-Hans)
 * 有关最新信息，请参阅 [Adobe Target 发行说明](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=zh-Hans)
