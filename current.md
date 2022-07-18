@@ -6,9 +6,9 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 609676006717d61512be133a65bfac44a15c8651
+source-git-commit: fa362724fe62c55d2556daf3757ea900c0c5ca3c
 workflow-type: tm+mt
-source-wordcount: '5262'
+source-wordcount: '5254'
 ht-degree: 51%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 51%
 >
 >要收到有关此页面更新的每月电子邮件通知，请订阅 [Adobe 优先产品更新](https://www.adobe.com/cn/subscription/priority-product-update.html)。经常回来查看 Experience League 的最新动态。
 
-最新更新日期：**2022 年 7 月 15 日**
+最新更新日期：**2022 年 7 月 18 日**
 
 * [[!DNL Experience League] 事件](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -316,7 +316,7 @@ Adobe 建议访问 [Experience Manager 版本更新和路线图](https://experie
 
 ## ![图标](/assets/target.png) [!DNL Adobe Target] {#target}
 
-上次更新日期：**2022 年 6 月 7 日**
+上次更新日期：**2022 年 6 月 30 日**
 
 * 有关预发行信息，请参阅 [Adobe Target 预发行](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=zh-Hans)
 * 有关最新信息，请参阅 [Adobe Target 发行说明](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=zh-Hans)
@@ -336,8 +336,7 @@ Adobe Campaign 提供了一种直观、自动的方式，以通过在线和离�
 
 ### 最新营销活动产品版本
 
-* [Campaign v8.3版本](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/release-notes.html)
-* [Campaign Standard 22.2 版](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=zh-Hans)
+* [Campaign v7.3版本](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=zh-Hans)
 * [控制面板6月版](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en)
 * [教程和课程](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html#tutorials-campaign) Experience League
 
@@ -377,7 +376,7 @@ Adobe Campaign 提供了一种直观、自动的方式，以通过在线和离�
 
 ### 最新 Journey Optimizer 产品版本
 
-有关最新的功能、改进和修复的详细信息，请参见 [Journey Optimizer 发行说明](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=zh-Hans)。
+有关最新的功能、改进和修复的详细信息，请参见 [Journey Optimizer 发行说明](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html)。
 
 ### Journey Optimizer 的新教程和课程 {#tutorials-ajo}
 
@@ -393,7 +392,7 @@ Adobe Campaign 提供了一种直观、自动的方式，以通过在线和离�
 
 ### [!DNL Journey Optimizer] 的更多资源
 
-* [Journey Optimizer 文档](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hans) — [发行说明](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) — [操作方法视频](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=zh-Hans)
+* [Journey Optimizer 文档](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=zh-Hans) — [发行说明](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=zh-Hans) — [操作方法视频](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=zh-Hans)
 * [Decision Management 文档](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started-decision/starting-offer-decisioning.html?lang=zh-Hans) — [发行说明](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) — [操作方法视频](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/introduction-to-decision-management.html) — [最新文档更新](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html?lang=zh-Hans)
 
 ## ![图标](/assets/experience_platform_appicon_24.png) [!DNL Adobe Journey Orchestration] {#journey-orch}
