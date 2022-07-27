@@ -6,10 +6,10 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: b12e725da1878a88c7ff6341b7ab8d576672bca9
+source-git-commit: 62d9c958f05ff33f663f4e7e68bb081c3bd38b33
 workflow-type: tm+mt
-source-wordcount: '5706'
-ht-degree: 95%
+source-wordcount: '5746'
+ht-degree: 94%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 95%
 
 * [[!DNL Experience League] 事件](#events)
 * [[!DNL Adobe System Status]](#status)
-* [Experience Cloud — 中央界面组件和管理](#ecloud)
+* [Experience Cloud - 中央界面组件和管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Analytics]](#analytics)
 * [[!DNL Customer Journey Analytics]](#cja)
@@ -40,8 +40,8 @@ ht-degree: 95%
 * [[!DNL Adobe Campaign]](#ac)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Journey Orchestration]](#journey-orch)
-* [[!DNL Adobe Marketo Engage]](#marketo)
-* [[!DNL Adobe Workfront]](#workfront)
+* [[!DNL Adobe Marketo Engage]](#marketo) (**更新日期： 7月27日**)
+* [[!DNL Adobe Workfront]](#workfront) (**更新日期： 7月27日**)
 * [[!DNL Adobe Advertising Cloud]](#adcloud)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
@@ -467,6 +467,7 @@ Adobe Campaign 提供了一种直观、自动的方式，以通过在线和离�
 
 | 发布日期 | 名称 | 类型 | 描述 |
 | -----------| ---------- | ---------- | ---------- |
+| 2022 年 7 月 27 日 | [Marketo Engage教程](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en) | 视频 | 访问 [Marketo Engage教程主页](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en) Experience League所有过去和新教程。 |
 | 2022 年 7 月 | [使用 Marketo Engage 和 Adobe Experience Cloud 的 B2B 体验](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-experiences.html?lang=zh-Hans) | 视频 | 了解 Marketo Engage 与 Adobe Experience Cloud 应用程序之间的集成，以及可以解决哪些棘手问题。 | Marketo Engage |
 | 2022 年 7 月 | [携手共进 - Adobe Marketo Engage 和 Real-Time CDP](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html?lang=zh-Hans) | 视频 | 了解如何使用 Marketo Engage 和 RT-CDP（B2B 版本）编排 B2B 活动，以及有哪些最常用的用例和带来哪些优势。 | Marketo，Real-time Customer Data Platform |
 
