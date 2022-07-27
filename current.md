@@ -6,9 +6,9 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 91b0d04c0a8b481e29a6c678ba9afc0484795433
+source-git-commit: b12e725da1878a88c7ff6341b7ab8d576672bca9
 workflow-type: tm+mt
-source-wordcount: '5678'
+source-wordcount: '5706'
 ht-degree: 95%
 
 ---
@@ -475,6 +475,10 @@ Adobe Campaign 提供了一种直观、自动的方式，以通过在线和离�
 ## ![图标](/assets/workfront.png) [!DNL Adobe Workfront] {#workfront}
 
 Adobe [!DNL Workfront] 是一个统一的工作管理应用程序，可用于分享创意、创建内容、管理复杂的流程以及将工作做到尽善尽美。
+
+**Workfront教程主页**
+
+**2022年7月27日**:访问Workfront的新 [Experience League主页](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en) ，以了解所有培训和教程视频和文章。
 
 请参阅[[!DNL Workfront] 版本](https://one.workfront.com/s/product-releases)页面，查看所有产品的最新信息综述。
 
