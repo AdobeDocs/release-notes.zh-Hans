@@ -6,10 +6,10 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 62d9c958f05ff33f663f4e7e68bb081c3bd38b33
+source-git-commit: 9186a4065d143b7c02fd87b68b960d3f1a7eb5f2
 workflow-type: tm+mt
-source-wordcount: '5746'
-ht-degree: 94%
+source-wordcount: '5842'
+ht-degree: 92%
 
 ---
 
@@ -53,10 +53,11 @@ ht-degree: 94%
 
 Experience League 活动是您向 Adobe 产品专家学习、与之互动以及获得答案的绝佳方式！请参阅 Experience League 上的[活动](https://experienceleague.adobe.com/events/?lang=en)以了解 2022 年 7 月的最新信息。
 
-更新日期：**2022 年 7 月 17 日**
+更新日期：**2022 年 7 月 28 日**
 
 | 活动 | 类型 | 描述 |
 | -----------|---------- | ----|
+| [Adobe Target](https://atcommunityqacoffeebreak803.splashthat.com/?utm_source=email&amp;utm_medium=Outbound&amp;utm_campaign=coffee_talk_AT&amp;utm_content=220803) | 社区问答喝咖啡休息时间 | AdobePremier Support业务顾问Rachel Booth将加入我们， `@rbooth115`. 她将登录到Adobe Target社区，直接与您聊天 [此线程](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-8-3-22-8am-pt-rachel-booth/td-p/461694) 关于您在专业领域（个性化、优化、集成）中遇到的问题。 <br>**日期：** 8月3日，星期三，太平洋夏季时间上午8点 — 上午9点。- [详细信息和注册](https://atcommunityqacoffeebreak803.splashthat.com/?utm_source=email&amp;utm_medium=Outbound&amp;utm_campaign=coffee_talk_AT&amp;utm_content=220803) |
 | [询问专家：数据流和数据准备](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=zh-Hans) | Experience League LIVE | 这是有关 Adobe Experience Cloud 的数据收集的三场研讨会中的最后一场，我们的专家将更深入地探讨 Adobe 的高级数据收集功能，包括用于数据收集的数据准备等功能。在本次研讨会结束时，与会者将有把握使用从数字体验收集数据的多种新颖而强大的功能&#x200B;<br>**日期：** 7 月 21 日太平洋标准时间上午 9 时 - [详细信息](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) |
 
 {style=&quot;table-layout:auto&quot;}
