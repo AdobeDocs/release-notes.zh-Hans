@@ -6,10 +6,10 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 9186a4065d143b7c02fd87b68b960d3f1a7eb5f2
+source-git-commit: 4f563e352d8e35609c0b15b047701ffe53cd6053
 workflow-type: tm+mt
-source-wordcount: '5842'
-ht-degree: 92%
+source-wordcount: '6346'
+ht-degree: 86%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 92%
 >
 >要收到有关此页面更新的每月电子邮件通知，请订阅 [Adobe 优先产品更新](https://www.adobe.com/cn/subscription/priority-product-update.html)。经常回来查看 Experience League 的最新动态。
 
-最新更新日期：**2022 年 7 月 27 日**
+最新更新日期：**2022 年 8 月 11 日**
 
 * [[!DNL Experience League] 事件](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -41,7 +41,7 @@ ht-degree: 92%
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo) (**更新日期： 7月27日**)
-* [[!DNL Adobe Workfront]](#workfront) (**更新日期： 7月27日**)
+* [[!DNL Adobe Workfront]](#workfront) (**更新日期：8 月 11 日**)
 * [[!DNL Adobe Advertising Cloud]](#adcloud)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
@@ -478,9 +478,30 @@ Adobe Campaign 提供了一种直观、自动的方式，以通过在线和离�
 
 Adobe [!DNL Workfront] 是一个统一的工作管理应用程序，可用于分享创意、创建内容、管理复杂的流程以及将工作做到尽善尽美。
 
-**Workfront教程主页**
+### Adobe Workfront的新课程和教程 {#tutorials-workfront}
 
-**2022年7月27日**:访问Workfront的新 [Experience League主页](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en) ，以了解所有培训和教程视频和文章。
+新增了Workfront关于Experience League的课程和教程。
+
+| 发布日期 | 名称 | 类型 | 描述 |
+| -----------| ---------- | ---------- | ---------- |
+| 2022 年 8 月 | [Workfront 教程](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en) | 教程首页 | 有关Workfront的Experience League，请访问新主页。 |
+| 2022 年 8 月 | [Workfront系统管理员入门](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.admin) | 课程 | 了解如何设置用户并使用系统设置优化用户体验的第一步。 |
+| 2022 年 8 月 | [进一步了解Workfront管理员的系统设置知识](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.2.admin) | 课程 | 进一步了解用于增强用户体验的系统设置，包括用户组织、自定义表单、批准流程和里程碑以及布局模板。 |
+| 2022 年 8 月 | [Workfront规划师入门](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners) | 课程 | 通过学习创建和规划项目，开始您的Workfront历程。 Workfront建议您保持简单。 |
+| 2022 年 8 月 | [管理和关闭项目](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.planners) | 课程 | 现在，您已学习如何创建和规划项目，接下来，我们可以学习如何管理和关闭项目。 |
+| 2022 年 8 月 | [进一步理解以计划员的身份管理工作 ](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.planners) | 课程 | 在您了解了创建、规划和管理项目的基础知识后，您应该再了解一些事情，以便充分利用Workfront。 |
+| 2022 年 8 月 | [Workfront员工入门](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.workers) | 课程 | 本课程面向在Adobe Workfront拥有工作许可证、可接收工作或请求的用户，以及在项目和文档方面与团队协作。 |
+| 2022 年 8 月 | [Adobe Workfront for Collaborators](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.collaborators) | 课程 | 了解如何使用审阅或请求许可证，在新的Workfront体验中轻松地请求、审阅和协作处理任务、文档和校样。 |
+| 2022 年 8 月 | [创建和管理自定义表单](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.customforms) | 课程 | 通过在系统中创建自定义字段，捕获贵组织的独特信息。 了解如何在Workfront中创建、共享和附加自定义表单。 |
+| 2022 年 8 月 | [Workfront校样 — 管理和设置](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.3.proof) | 课程 | 了解如何调整校样设置、自定义操作和报告，以及设置校样工作流程。 |
+| 2022 年 8 月 | [Workfront校样 — 上传校样](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.proof) | 课程 | 了解如何上传校样以供审阅和批准。 |
+| 2022 年 8 月 | [Workfront校样 — 审核和批准工作](https://experienceleague.adobe.com/?recommended=Workfront-L-1-2022.1.proof) | 课程 | 了解如何使用Workfront校样作为审阅人或审批人。 |
+| 2022 年 8 月 | [基本报表元素](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.reporting) | 课程 | 报表元素是Workfront中所有列表报表中的过滤器、视图和分组。 了解这些信息可帮助您创建自定义报表和日历。 |
+| 2022 年 8 月 | [创建自定义日历](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.4.reporting) | 课程 | 使用自定义日历，您可以以日历格式直接显示项目、任务和问题中的日期和信息。 |
+| 2022 年 8 月 | [创建自定义报表和功能板](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.reporting) | 课程 | 报表是数据中的窗口。 了解如何在Workfront中创建三种不同类型的报表并在功能板中使用它们。 |
+| 2022 年 8 月 | [创建中间过滤器](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.reporting) | 课程 | 深入了解通配符、OR过滤器和文本模式。 打开内置项目、任务和问题筛选器，并详细了解实际发生的情况。 |
+
+{style=&quot;table-layout:auto&quot;}
 
 请参阅[[!DNL Workfront] 版本](https://one.workfront.com/s/product-releases)页面，查看所有产品的最新信息综述。
 
