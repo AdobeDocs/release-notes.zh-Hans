@@ -6,10 +6,10 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 4f563e352d8e35609c0b15b047701ffe53cd6053
+source-git-commit: e405f1009de51d64df108edb01673f09c98f41f7
 workflow-type: tm+mt
-source-wordcount: '6346'
-ht-degree: 86%
+source-wordcount: '5981'
+ht-degree: 84%
 
 ---
 
@@ -53,12 +53,12 @@ ht-degree: 86%
 
 Experience League 活动是您向 Adobe 产品专家学习、与之互动以及获得答案的绝佳方式！请参阅 Experience League 上的[活动](https://experienceleague.adobe.com/events/?lang=en)以了解 2022 年 7 月的最新信息。
 
-更新日期：**2022 年 7 月 28 日**
+已更新 **2022年8月11日**
 
 | 活动 | 类型 | 描述 |
 | -----------|---------- | ----|
-| [Adobe Target](https://atcommunityqacoffeebreak803.splashthat.com/?utm_source=email&amp;utm_medium=Outbound&amp;utm_campaign=coffee_talk_AT&amp;utm_content=220803) | 社区问答喝咖啡休息时间 | AdobePremier Support业务顾问Rachel Booth将加入我们， `@rbooth115`. 她将登录到Adobe Target社区，直接与您聊天 [此线程](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-8-3-22-8am-pt-rachel-booth/td-p/461694) 关于您在专业领域（个性化、优化、集成）中遇到的问题。 <br>**日期：** 8月3日，星期三，太平洋夏季时间上午8点 — 上午9点。- [详细信息和注册](https://atcommunityqacoffeebreak803.splashthat.com/?utm_source=email&amp;utm_medium=Outbound&amp;utm_campaign=coffee_talk_AT&amp;utm_content=220803) |
-| [询问专家：数据流和数据准备](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=zh-Hans) | Experience League LIVE | 这是有关 Adobe Experience Cloud 的数据收集的三场研讨会中的最后一场，我们的专家将更深入地探讨 Adobe 的高级数据收集功能，包括用于数据收集的数据准备等功能。在本次研讨会结束时，与会者将有把握使用从数字体验收集数据的多种新颖而强大的功能&#x200B;<br>**日期：** 7 月 21 日太平洋标准时间上午 9 时 - [详细信息](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) |
+| [Adobe Analytics](https://engage.adobe.com/NA_FY22_Q3_WBR_Adobe_Analytics_Data_Validation.html?utm_source=experienceleague) | 网络研讨会 | _助长明天的成功：数据质量和采用_  — 在本次实时网络研讨会上，与Adobe Analytics冠军Frederik Werner和Sarah Owen一起学习如何将数据质量构建到分析的各个方面，并围绕分析创建共享文化。<p>**日期：** 8月25日东部时间上午11点 —  [详细信息和注册](https://engage.adobe.com/NA_FY22_Q3_WBR_Adobe_Analytics_Data_Validation.html?utm_source=experienceleague) |
+| [体验创客直播](https://business.adobe.com/events/experience-makers-live.html?cgen=Q75XPNKK&amp;mv=other) | 网络研讨会 | Experience Makers的免费活动，由Sara Blakely、Peyton Manning和Eli Manning提供主题。<p>**日期：** 9月13日–14日 —  [详细信息和注册](https://business.adobe.com/events/experience-makers-live.html?cgen=Q75XPNKK&amp;mv=other) |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -78,45 +78,7 @@ Experience Cloud [中央 UI 组件](https://experienceleague.adobe.com/docs/core
 
 >[!IMPORTANT]
 >
->请仔细阅读以下关于 Experience Cloud 配置的说明。
-
-Adobe 正在更新其配置，以使所有 Experience Cloud 客户均可访问帮助在某些 Experience Cloud 产品之间实现互操作性的基础功能。用户将拥有 Adobe Experience Platform 作为添加到其 Experience Cloud 组织的新权利，并且包括[!UICONTROL 数据收集]服务。
-
-Adobe Experience Platform [!UICONTROL 数据收集]包括多种[标记](https://experienceleague.adobe.com/docs/tags.html?lang=zh-Hans)以简化通用标记管理，并提供一个可信、强大而完整的流数据基础架构。标记可简化客户体验数据收集并理顺体验投放。
-
-**Admin Console 中的更改**
-
-管理员可看到如下对 Admin Console 的更改或添加：
-
-* Admin Console 中的 Adobe Experience Platform 产品卡将包括：
-
-   * Places
-   * Assurance
-   * 身份命名空间
-   * 沙盒
-   * Experience Data Model
-   * 架构
-   * 数据流
-   * 访客 ID
-
-   对于当前未使用 Experience Platform 的组织，现在您将在 Admin Console 中看到 _Adobe Experience Platform_ 产品，包括上方列出的功能。
-
-   对于当前正在使用 Experience Platform 的组织，_场所_&#x200B;现在将并入 Experience Platform 卡。
-
-* Adobe Experience Platform Data Collection（以前称为 Launch）和 Privacy 将继续显示为与其他 Experience Platform 功能独立的产品卡。
-
-有关新功能的更多详细信息，请访问其各自在 Experience League 上的页面：
-
-* [数据收集](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html?lang=zh-Hans)
-* [Places](https://experienceleague.adobe.com/docs/places/using/home.html?lang=zh-Hans)
-* [Assurance](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/app-implementation/assurance.html?lang=zh-Hans)
-* [身份命名空间](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=zh-Hans)
-* [沙盒](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=zh-Hans)
-* [Experience Data Model](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=zh-Hans)
-* [架构](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=zh-Hans)
-* [数据流](https://experienceleague.adobe.com/docs/experience-platform/edge/datastreams/overview.html?lang=zh-Hans)
-* [访客 ID](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services.html?lang=zh-Hans#section_3C9F6DF37C654D939625BB4D485E4354)
-* [Privacy](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=zh-Hans)
+>管理员，别错过这个 [重要通知](https://experienceleague.adobe.com/docs/core-services/interface/release-notes/release-notes.html?lang=en#july---2022) 关于Experience Cloud配置（2022年7月发布）。
 
 ### 功能更新
 
@@ -130,7 +92,7 @@ Adobe Experience Platform [!UICONTROL 数据收集]包括多种[标记](https://
 
 **关于 [!DNL Experience Cloud Central UI Components] 和管理的更多帮助资源**
 
-* Experience Cloud 中央 UI 组件的[发行说明](https://experienceleague.adobe.com/docs/core-services/interface/release-notes/release-notes.html?lang=zh-Hans)
+* Experience Cloud 中央 UI 组件的[发行说明](https://experienceleague.adobe.com/docs/core-services/interface/release-notes/release-notes.html?lang=en)
 * Experience Cloud 的[用户和产品管理](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)（管理）
 * Places 服务[发行说明](https://experienceleague.adobe.com/docs/places/using/release-notes.html?lang=zh-Hans)
 * [人员 — 客户属性和受众库](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services-landing.html?lang=zh-Hans)的产品文档
