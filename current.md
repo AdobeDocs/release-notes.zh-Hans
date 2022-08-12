@@ -6,7 +6,7 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e405f1009de51d64df108edb01673f09c98f41f7
+source-git-commit: 141c070586c42f697e31f9741076e7e76caa30c2
 workflow-type: tm+mt
 source-wordcount: '5981'
 ht-degree: 84%
@@ -347,7 +347,7 @@ Adobe Campaign 提供了一种直观、自动的方式，以通过在线和离�
 
 * [Campaign v7.3 发布](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=zh-Hans)
 * [控制面板 6 月版发布](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=zh-Hans)
-* Experience League 上的[教程和课程](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=zh-Hans#tutorials-campaign?lang=zh-Hans)
+* [Tutorials和课程](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=zh-Hans#tutorials-campaign?lang=zh-Hans) Experience League
 
 ### 新的 [!DNL Campaign] 教程和课程 {#tutorials-campaign}
 
