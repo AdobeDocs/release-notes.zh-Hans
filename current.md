@@ -6,7 +6,7 @@ last-update: August 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f7f34c0454a5d936c88b1c49594902234febadb0
+source-git-commit: b463f30f9d36a0047933ce500d81a8f123d48131
 workflow-type: tm+mt
 source-wordcount: '5112'
 ht-degree: 79%
@@ -58,7 +58,7 @@ Experience League 活动是您向 Adobe 产品专家学习、与之互动以及�
 | 产品/事件名称 | 类型 | 描述 |
 | -----------|---------- | ----|
 | **[!DNL Adobe Analytics]** | 网络研讨会 | _体验创造者 — 技能交流_  — 加入我们，参加我们的Adobe [!DNL Analytics] 版本，专家会为您提供关于Adobe的内幕消息 [!DNL Analytics]. <p>**日期：** 9月8日早上9点00分 —  [详细信息和注册](https://events.bizzabo.com/411737?promo=ExperienceLeague&amp;tr=true) |
-| **[!DNL Adobe Workfront]** | 研讨会 | 寻找与其他客户建立联系并讨论 [!DNL Workfront] 功能？ 加入我们的CS连接系列！ 每月一次与其他客户联系以讨论贵组织的热门主题的机会。<p>>**日期：** 9月12日在蒙大山早上7点 [详细信息和注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,frxd5xOTA0WDD-QNQbG9Ww,N0rLVNiX1EKbZDmYfMbfKg,mwypq4e8M0qTYr1PjHWlgg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Workfront]** | 研讨会 | 寻找与其他客户建立联系并讨论 [!DNL Workfront] 功能？ 加入我们的CS连接系列！ 每月一次与其他客户联系以讨论贵组织的热门主题的机会。<p>**日期：** 9月12日在蒙大山早上7点 [详细信息和注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,frxd5xOTA0WDD-QNQbG9Ww,N0rLVNiX1EKbZDmYfMbfKg,mwypq4e8M0qTYr1PjHWlgg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 | **[!DNL Experience Cloud]** | 网络研讨会 | _Experience Makers Live_  — 由Sara Blakely、Peyton Manning和Eli Manning发送钥匙的免费活动。<p>**日期：** 9 月 13 日 – 14 日 - [详细信息和注册](https://business.adobe.com/events/experience-makers-live.html) |
 | **[!DNL Adobe Workfront]** | 研讨会 | 图表工作流 — 与客户成功团队一起，进行实时讨论并演练图表工作流（从进入到完成），并了解如何为有效的工作管理实践奠定坚实的基础。 <p>**日期：** 9 月 20 日 –  日 - [详细信息和注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,8IgA8CD5yEyKFei9pwlDJA,iACjdG_hK0m1uoTTaMinZA,TEaHrWBF3USQb49XCqymTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 | **[!DNL Adobe Campaign]** （经典和标准） | 网络研讨会 | 对于跨渠道营销人员而言，假日季节是一个高峰季，也是一年中最忙的时节，而现在正在到来。 规划工作应该进行得很好。 此 [!DNL Adobe Campaign] Insider会议涵盖有助于您进行电子邮件投放的主题， [!DNL Adobe Campaign] 性能调整、工作流和交付最佳实践，以确保您的实例处于最佳状态，以便进行峰值活动。<p>**日期：** 9月15日早上8点00分（太平洋） [详细信息和注册](https://adobe-campaign-insider.dxfieldmarketing.adobeevents.com/) |
