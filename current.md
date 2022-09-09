@@ -6,7 +6,7 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1c31b0d7fc934b0c54d250703d30bee7f344b1e7
+source-git-commit: de17195b999264f06cb12433c97e8ebf6706a42e
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 最新更新日期：**2022 年 9 月 9 日**
 
-* [[!DNL Experience League] 事件](#events) （已更新） **9月7日**)
+* [[!DNL Experience League] 活动](#events)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud — 中央界面组件和管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -53,11 +53,10 @@ ht-degree: 0%
 
 Experience League 活动是您向 Adobe 产品专家学习、与之互动以及获得答案的绝佳方式！请参阅 Experience League 上的[活动](https://experienceleague.adobe.com/events/?lang=zh-Hans)以了解 2022 年 7 月的最新信息。
 
-已更新 **2022年9月8日**
+已更新 **2022年9月9日**
 
 | 产品/事件名称 | 类型 | 描述 |
 | -----------|---------- | ----|
-| **[!DNL Adobe Analytics]** | 网络研讨会 | _体验创造者 — 技能交流_  — 加入我们，参加我们的Adobe [!DNL Analytics] 版本，专家会为您提供关于Adobe的内幕消息 [!DNL Analytics]. <p>**日期：** 9月8日早上9点00分 —  [详细信息和注册](https://events.bizzabo.com/411737?promo=ExperienceLeague&amp;tr=true) |
 | **[!DNL Adobe Workfront]** | 研讨会 | 寻找与其他客户建立联系并讨论 [!DNL Workfront] 功能？ 加入我们的CS连接系列！ 每月一次与其他客户联系以讨论贵组织的热门主题的机会。<p>**日期：** 9月12日在蒙大山早上7点 [详细信息和注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,frxd5xOTA0WDD-QNQbG9Ww,N0rLVNiX1EKbZDmYfMbfKg,mwypq4e8M0qTYr1PjHWlgg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 | **[!DNL Experience Cloud]** | 网络研讨会 | _Experience Makers Live_  — 由Sara Blakely、Peyton Manning和Eli Manning发送钥匙的免费活动。<p>**日期：** 9 月 13 日 – 14 日 - [详细信息和注册](https://business.adobe.com/events/experience-makers-live.html) |
 | **[!DNL Adobe Workfront]** | 研讨会 | 图表工作流 — 与客户成功团队一起，进行实时讨论并演练图表工作流（从进入到完成），并了解如何为有效的工作管理实践奠定坚实的基础。 <p>**日期：** 9 月 20 日 –  日 - [详细信息和注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,8IgA8CD5yEyKFei9pwlDJA,iACjdG_hK0m1uoTTaMinZA,TEaHrWBF3USQb49XCqymTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
