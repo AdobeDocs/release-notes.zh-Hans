@@ -6,10 +6,10 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ce5a4fc5fa4acea6976ec2958a23d864bcf2dc72
+source-git-commit: dfa7ca73f9e703e2b9d175a562bd422f57cb23f2
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '6447'
+ht-degree: 40%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >要收到有关此页面更新的每月电子邮件通知，请订阅 [Adobe 优先产品更新](https://www.adobe.com/cn/subscription/priority-product-update.html)。经常回来查看 Experience League 的最新动态。
 
-最新更新日期：**2022 年 9 月 9 日**
+最新更新日期：**2022 年 9 月 12 日**
 
 * [[!DNL Experience League] 活动](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -33,7 +33,7 @@ ht-degree: 0%
 * [[!DNL Customer Journey Analytics]](#cja)
 * [[!DNL Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Audience Manager]](#aam)
-* [[!DNL Adobe Experience Manager]](#aem)
+* [[!DNL Adobe Experience Manager]](#aem) （已更新） **9月12日**)
 * [[!DNL Experience Manager Guides]](#xml-doc)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
@@ -163,13 +163,13 @@ Experience Cloud [中央 UI 组件](https://experienceleague.adobe.com/docs/core
 
 Experience Manager 中的新增功能、修复和更新。Adobe 建议采用内部部署的客户部署最新的修补程序以确保稳定性、安全性和性能得到提高。
 
-请参阅 [最新Adobe Experience Manager as a Cloud Service发行说明](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=en)
+<!-- See [Current Release Notes for Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html) -->
 
 Adobe 建议访问 [Experience Manager 版本更新和路线图](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=zh-Hans)页面以及时了解版本信息。
 
 ### 产品更新视频
 
-观看 [8月版本概述视频](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2022/2022-8-0.html?lang=cn) 有关2022.8.0（2022年8月）版本中添加的功能的摘要。 <!-- Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP).-->
+观看 [2022年8月版本概述视频](https://video.tv.adobe.com/v/345409/?quality=12) 有关2022.8.0（2022年8月）版本中添加的功能的摘要。 <!-- Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP). -->
 
 * [2022年7月版本概述视频](https://video.tv.adobe.com/v/345409/?quality=12)
 * [2022 年 6 月发行版概述视频](https://video.tv.adobe.com/v/344308/?quality=12)
@@ -181,13 +181,85 @@ Adobe 建议访问 [Experience Manager 版本更新和路线图](https://experie
 * [2021 年 10 月发布概述视频](https://video.tv.adobe.com/v/338253)
 * [2021 年 9 月发布概述视频](https://video.tv.adobe.com/v/337381)
 
+### Experience Manager [!DNL Assets] as a [!DNL Cloud Service]
+
+_新增功能_
+
+* 在将数字资产作为链接共享时，用户可以立即将URL复制到剪贴板。 增强功能可让您更快更方便地共享资产。此功能允许更快、更方便地共享资产。
+* 当您上传 TXT 文件时，资源微服务会自动生成缩略图。PNG 缩略图是 TXT 文件的演绎版，在不打开文件的情况下，在一定程度上帮助用户识别内容或文件。此功能不需要进行任何配置，默认可以使用。
+
+_预发行渠道中可用的新功能_
+
+* 用户现在可以对列视图和卡片视图中搜索结果中显示的资产进行排序。 排序仅对名称、创建、修改或无列起作用。
+
+### Experience Manager [!DNL Forms] as a [!DNL Cloud Service]
+
+_新增功能_
+
+* 适用于Formsas a Cloud Service的AEM Archetype项目现在包括 [为Microsoft® Dynamics和Salesforce.com构建数据模型](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/setup-environment/setup-local-development-environment.html?lang=en#forms-cloud-service-local-development-environment).
+* 基于Acroform的记录文档：Experience Manager Formsas a Cloud Service支持使用 [Adobe Acrobat表单PDF(AcroformPDF)](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/generate-document-of-record-for-non-xfa-based-adaptive-forms.html) 作为记录文档的模板（除基于XFA的表单模板之外）。
+* Microsoft® Azure数据存储连接器：您现在可以 [将表单数据模型连接到Microsoft® Azure存储](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/use-form-data-model/configure-azure-storage.html). 它允许您将自适应表单数据检索并存储到Microsoft® Azure存储中，作为BLOB。
+
+_Forms 的 Beta 测试功能_
+
+* **统一存储连接器**  — 使用统一存储连接器将客户管理的存储库中的进程中数据外部化。 例如，您可以：
+   * 启用Forms Portal的保存和恢复功能，并将自适应表单草稿存储在客户管理的数据存储库中。
+   * 将包含敏感个人数据(SPD)的在制Experience Manager工作流数据(Experience Manager工作流变量数据)存储在客户管理的存储库中。
+* **Experience Manager Formsas a Cloud Service，通信** - [通信API](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/using-communications/aem-forms-cloud-service-communications.html) 帮助您结合XDP模板和XML数据，以生成各种格式的打印文档。 该服务允许您以同步模式生成文档。API 使您能够创建应用程序，这些应用程序允许您：
+   * 使用 XML 数据填充模板文件来生成文档。
+   * 生成各种格式的输出表单，包括非交互式 PDF 打印流。
+   * 利用 XFA 表单 PDF 和 Adobe Acrobat 表单生成打印版 PDF 文件。您可以给 [formscsbeta@adobe.com](mailto:formscsbeta@adobe.com) 写信以注册 Beta 计划。
+
+_预发行渠道中可用的新功能_
+
+* **在自适应表单中使用Adobe Sign角色**  — 对于业务和企业服务级别，Adobe Sign可以选择将协议收件人的角色扩展到签名者之外，以更好地满足其工作流要求。 您现在可以[在自适应表单中为每个协议接受者配置他们的角色](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/use-adobe-sign/working-with-adobe-sign.html?lang=en#addsignerstoanadaptiveform)，签名者是默认角色。
+* **适用于自适应Forms的Analytics**  — 您现在可以通过Adobe Analytics for Adaptive Forms捕获和跟踪最终用户行为，以收集最终用户分析。 它有助于根据数据做出明智的决策，以改善最终用户体验。
+* **轻松连接Experience Manager Forms与Microsoft® Dynamics和Salesforce.com**  — 该服务为Microsoft® Dynamics和 [Salesforce.com](https://www.salesforce.com/?bc=DF). 这个能力使 [开发人员可以更快、更轻松地配置Microsoft® Dynamics 365和Salesforce云服务以获取自适应表单](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/use-form-data-model/configure-msdynamics-salesforce.html).
+
+### Experience Manager Screens as a Cloud Service
+
+_新增功能_
+
+* 屏幕as a Cloud Service现在支持基本的播放监控。 现在，播放器通过每次ping报告各种播放量度（默认为30秒）。 它可以基于指标检测各种边界情况（卡住体验、空白屏幕、调度问题等）。团队可以使用此功能远程监控播放器是否正确播放内容。它还提高了对空白屏幕或现场中断体验的反应性，并降低了向最终用户呈现中断体验的风险。请参阅 [基本播放监控](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/screens-as-cloud-service/manage-player-registration/installing-screens-cloud-player.html?lang=en#playback-monitoring) 以了解更多详细信息。
+* 现在，Screensas a Cloud Service支持中对视频的缩略图支持。 内容作者可以为视频定义缩略图，以便将图像用作占位符。 他们可以正确地测试内容回放和定位，而实际视频由适当的团队最终确定。在视频回放失败时，也可以使用该图像。
+请参阅 [视频的缩略图支持](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/screens-as-cloud-service/core-product-features/thumbnail-support-videos.html) 以了解更多详细信息。
+
+### [!DNL Cloud Manager]
+
+_新增功能_
+
+* Cloud Manager使用的AEM Archetype项目版本现已更新至版本30。
+* Cloud Manager登录页面上的项目卡片以及关联的体验现在会刷新。
+* 代码质量步骤日志现在包括有关 OakPal 扫描过程的详细日志信息。
+* “活动”页面菜单选项现在包含一个用于下载日志的选项，以便完成代码生成器执行。 选择此选项将下载生成步骤的日志。
+* 现在，直接单击项目卡可导航到Cloud Manager概述页面。
+* Cloud Service客户现在可以在Cloud Manager中查看SLA（服务级别协议）报表。 此功能将在未来几个月逐步提供。
+请参阅 [SLA报告](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/sla-reporting.html) 以了解更多。
+* IndexType和IndexDamAssetLucene质量规则的类型和严重性已更改。 这两个错误现在都属于阻止程序严重性。
+* 引入新的 Oak 索引质量规则以涵盖异步和 Tika 配置。
+* 将每个程序的最大 SSL 证书数增加到 50。
+* 允许用户通过Cloud Manager用户界面创建和管理多个存储库的自助服务功能。
+* SonarQube不必要地读取Git历史数据。 在大型代码库中，这可能会导致不必要的内部版本性能损失。
+* 现在有一个 API 可用于使每个管道的 Maven 依赖项缓存失效。
+* Cloud Manager使用的AEM Archetype项目版本现已更新至版本29。
+
+### 社区
+
+* 的 [可在此处找到有关Experience League的最新Experience Manager内容](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/list-of-latest-adobe-experience-manager-content-on-experience/m-p/421751#M29908).
+* [Adobe Experience Cloud](https://www.linkedin.com/company/adobe-experience-cloud/) 社区是连接、参与和增强用户能力以为其客户创建改变游戏规则的数字体验的心率。
+要查看所有社区顾问的列表，请参阅此 [Adobe博客](https://blog.adobe.com/en/publish/2021/09/02/introducing-the-2021-adobe-community-advisors#gs.a6braz).
+* 如何提交新功能请求或建议以进行Experience Manager
+   * 提交Experience Manager功能请求的新流程现已上线。 [创建构思](https://experienceleaguecommunities.adobe.com/t5/forums/postpage/board-id/adobe-experience-manager-ideas). |
+   * 请参阅 [详情请见此处](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/announcing-the-new-process-to-submit-experience-manager-feature/td-p/380425).
+   * [提交新Experience Manager构思的准则](https://experienceleaguecommunities.adobe.com:443/t5/adobe-experience-manager-blogs/guidelines-for-submitting-a-new-experience-manager-aem-idea/ba-p/382376).
+
 ### Experience Manager 的新课程和教程 {#tutorials-aem}
 
 过去一个月发布的新视频、教程及课程。
 
 | 发布日期 | 名称 | 类型 | 描述 | 应用程序 |
 | -----------| ---------- | ---------- | ---------- | ------|
-| 2022 年 9 月 | [AEM as a Cloud Service 2022.8.0 版本更新](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2022/2022-8-0.html?lang=en) | 视频 | 听取AEM产品团队的意见，并了解最新版本的Adobe Experience Manager的功能和创新 [!DNL Assets], [!DNL Assets Essentials], [!DNL Sites]、商务集成框架、 [!DNL Forms]和 [!DNL Cloud Manager]. | AEM |
+| 2022 年 9 月 | [AEM as a Cloud Service 2022.8.0 版本更新](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2022/2022-8-0.html?lang=cn) | 视频 | 听取AEM产品团队的意见，并了解最新版本的Adobe Experience Manager的功能和创新 [!DNL Assets], [!DNL Assets Essentials], [!DNL Sites]、商务集成框架、 [!DNL Forms]和 [!DNL Cloud Manager]. | AEM |
 | 2022 年 9 月 | [Web优化图像交付](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/components/web-optimized-image-delivery.html?lang=en) | 视频 | 了解如何使用AEM核心组件在AEMas a Cloud Service网站上启用Web优化图像交付。 | AEM Sites |
 | 2022 年 9 月 | [与Microsoft® Power集成自动化](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/integrate-formscs-power-automate.html?lang=en) | 视频 | 对自适应表单提交调用 Power Automate 流程。了解如何自动配置Forms CS和Microsoft®电源，并将其与之集成。 解析提交的表单数据，并以电子邮件附件的形式发送DoR。 | AEM Forms CS |
 | 2022 年 9 月 | [Adobe内容管理论坛活动系列 — 2022](https://experienceleague.adobe.com/docs/adobe-content-management-forum-events/events/2022/welcome.html?lang=en) | 视频 | 观看欢迎地址并获取由Elliot Sedegah提供的AEM概述。 它还包括解锁内容速度的功能，等等。 | AEM CS |
@@ -201,7 +273,7 @@ Adobe 建议访问 [Experience Manager 版本更新和路线图](https://experie
 
 所有的 Experience Manager 发行说明均保留在以下页面：
 
-* [Experience Manager as a Cloud Service 版本信息](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=en)
+* [Experience Manager as a Cloud Service 版本信息](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=zh-Hans)
 * [Experience Manager Cloud Manager 发行说明](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/current.html?lang=zh-Hans)
 * [Automated Forms Conversion Service 发行说明](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=zh-Hans)
 * [Experience Manager 6.5 Service Pack 发行说明](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=zh-Hans)
@@ -220,7 +292,7 @@ Adobe 建议访问 [Experience Manager 版本更新和路线图](https://experie
 * [Experience Manager 6.5 学习和支持主页](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=zh-Hans)
 * [Experience Manager 6.4 学习和支持主页](https://experienceleague.adobe.com/docs/experience-manager-64.html?lang=zh-Hans)
 * [Experience Manager 6.3 学习和支持主页](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hans)
-* [Experience Manager 6.2 学习和支持主页](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hans#previous-updates)html
+* [Experience Manager 6.2 学习和支持主页](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hans#previous-updates)
 * [Experience Manager 文档的旧版本](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)
 * [Dynamic Media Classic 帮助主页](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=zh-Hans)
 * [Experience Manager 文档：最近的更新](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html?lang=zh-Hans#aem-as-a-cloud-service)
