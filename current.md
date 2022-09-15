@@ -1,15 +1,15 @@
 ---
 title: 最新发行说明
-description: 阅读最新发行说明以进行Adobe [!DNL Experience Cloud] 产品和服务。 了解即将举办的活动和有关Experience League的新文档。 了解 [!DNL Experience Cloud] 应用程序。
+description: 阅读最新发行说明以进行Adobe [!DNL Experience Cloud] 产品和服务。 在 Experience League 上了解即将举行的活动和新文档。了解 [!DNL Experience Cloud] 应用程序。
 doc-type: release notes
 last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 9cabd3285eeaca306d9da14d98cfa6b0311f5d11
+source-git-commit: 296c9809faaf551914e5ffbb086a198a0595196e
 workflow-type: tm+mt
-source-wordcount: '6495'
-ht-degree: 39%
+source-wordcount: '6483'
+ht-degree: 40%
 
 ---
 
@@ -486,7 +486,7 @@ Last updated: **August 9, 2022**
 |  | ([!DNL Google Ads] 帐户)“促销活动”>“广告”视图现在包含一个可选视图 [!UICONTROL 广告强度] 列，指示每个响应式搜索广告(RSA)遵循的效果 [!DNL Google Ads] 性能最佳实践。<br><br>[!DNL Microsoft® Advertising] 尚未通过其API启用类似支持。 |
 |  | ([!DNL Microsoft® Advertising] 帐户)同步、只读和报表（包括显示到达数据）支持现在可用于 [!DNL Microsoft® Audience Network]，包括 [!DNL Microsoft®] 受众广告。 |
 | [!UICONTROL 促销活动], [!UICONTROL 报表] | 在接下来的几周内，更多的发布者展示共享量度将作为促销活动管理视图和报表中的列可用。 |
-| [!UICONTROL 转化值规则] | ([!DNL Google Ads accounts];测试版功能)现在，您可以从 [!UICONTROL 优化] > [!UICONTROL 转化值规则]. 广告商 [!DNL Google Ads] 单个帐户级别或更低级别的转化跟踪也可以创建和管理规则。<br><br>转化值规则的自动优化将在未来版本中提供。 |
+| [!UICONTROL 转化值规则] | ([!DNL Google Ads accounts];测试版功能)现在，您可以从 [!UICONTROL 优化] > [!UICONTROL 转化值规则]. 广告商 [!DNL Google Ads] 单个帐户级别或更低级别的转化跟踪也可以创建和管理规则。 |
 | [!UICONTROL 项目组合] | (选择加入测试版功能； [!DNL Google Ads] accounts) [!DNL YouTube] 使用 [!UICONTROL 最大化转化] 混合组合中的竞价策略现在包含在自定义模拟结果中。 混合组合必须仅包括 [!DNL YouTube] 营销活动。<br><br>要参与测试版计划，请联系您的客户团队。 |
 | [!UICONTROL 广告见解] | 的 [!UICONTROL 广告分析] view基于可提高性能和可靠性的新基础架构，具有新的外观和工作流程。 现在，只需单击分析名称，选择或输入设置，然后单击 [!UICONTROL 生成分析].<br><br>要临时返回到旧版视图，请启用 [!UICONTROL 切换到旧UI] 中。 旧版视图将在9月底删除。 |
 |  | 的 [!UICONTROL 查询交叉匹配测试版] 分析现已可用。 |
