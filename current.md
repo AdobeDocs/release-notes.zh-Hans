@@ -6,10 +6,10 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 296c9809faaf551914e5ffbb086a198a0595196e
+source-git-commit: 892aae110e9a8d74f9e151a255110acedf984bcf
 workflow-type: tm+mt
-source-wordcount: '6483'
-ht-degree: 40%
+source-wordcount: '6692'
+ht-degree: 38%
 
 ---
 
@@ -492,7 +492,7 @@ Last updated: **August 9, 2022**
 |  | 的 [!UICONTROL 查询交叉匹配测试版] 分析现已可用。 |
 | [!UICONTROL 报表] | ([!DNL Google Ads] （仅限帐户）新专业报表 [!UICONTROL RSA Assets报告] 显示每个资产的展示次数量度([!UICONTROL 创作标题] 或 [!UICONTROL 描述])，用于一个或多个项目组合中的响应式搜索广告(RSA)，或一个或多个帐户、促销活动和广告组中的响应式搜索广告。 默认情况下，对于在指定的数据范围内至少收到一次展示的每个资产，数据都包含一行，即使该资产在报告期间处于禁用（删除）状态也是如此。 **注意：** 当您选择“[!UICONTROL 包含没有性能数据的行]，”数据仍将不包含从未收到数据的资产的数据。 |
 |  | 在 [!UICONTROL 广告变化报表]:<ul><ul>([!DNL Google Ads] 帐户) [!UICONTROL 列] 设置，新的“[!UICONTROL 广告强度]“列指示RSA遵循的情况 [!DNL Google Ads] 性能最佳实践。 同一列在 [!UICONTROL 促销活动] > [!UICONTROL 广告] 中。 [!DNL Microsoft® Advertising] 尚未通过其API启用类似支持。</li><li>在 [!UICONTROL 列] 设置时，您可以按 [!UICONTROL 创作标题] 和 [!UICONTROL 描述].</li><li>在 [!UICONTROL 高级过滤器] 设置时，您可以按 [!UICONTROL 广告文本] 字段，该字段同时适用于 [!UICONTROL 创作标题] 和 [!UICONTROL 描述].</li></ul> |
-| [!UICONTROL 建议] | ([!DNL Google Ads] 账户；测试版功能)在 [!UICONTROL 分析和报表] > [!UICONTROL Recommendations Beta]，您可以：<ul><li>查看尚未执行的所有推荐 [!DNL Google Ads] 帐户。</li><li>应用并取消帐户的建议。</li><li>查看为帐户应用的每个推荐的日志。</li></ul> |
+| [!UICONTROL 建议] | ([!DNL Google Ads] 账户；测试版功能)在 [!UICONTROL 分析和报表] > [!UICONTROL Recommendations Beta]，您可以：<ul><li>查看尚未执行的所有推荐 [!DNL Google Ads] 帐户。</li><li>应用并取消帐户的建议。</li><li>查看为帐户应用的每个推荐的日志。</li></ul><br>支持的Recommendations:<li><strong>推荐类别；推荐类型；描述</strong></li><li>广告和扩展；CALL_EXTENSION;将调用扩展添加到campaign</li><li>广告和扩展；CALLOUT_EXTENSION;将标注扩展添加到营销活动</li><li>广告和扩展；OPTIMIZE_AD_ROTATION;使用优化的广告轮转</li><li>广告和扩展；响应式SEARCH_AD;添加新的响应式搜索广告</li><li>广告和扩展；RESPONSIVE_SEARCH_AD_ASSET;向广告添加响应式搜索广告资产</li><li>广告和扩展；SITELINK_EXTENSION;将站点链接扩展添加到Canpaign</li><li>广告和扩展；TEXT_AD;添加广告建议</li><li>投标和预算；活动预算；修复受预算限制的营销活动</li><li>投标和预算；ENHANCED_CPC_OPT_IN;使用增强的CPC进行竞价</li><li>投标和预算；FORECASTING_CAMPAIGN预算；修复了预期在未来将变为受预算限制的营销活动</li><li>投标和预算；边际投资回报(_C);调整活动预算以提高ROI</li><li>投标和预算；最大化点击OPT_IN;通过最大点击量竞价</li><li>投标和预算；最大化转化选择加入；通过最大化转化竞价</li><li>投标和预算；MOVE_UNUSED_BUDGET;将未使用的预算移动到受约束的预算</li><li>投标和预算；TARGET_CPA_OPT_IN;与Target CPA竞价</li><li>投标和预算；TARGET_ROAS_OPT_IN;使用Target ROAS竞价</li><li>关键词和定位；关键词；添加新关键词</li><li>关键词和定位；SEARCH_PARTNERS_OPT_IN;扩大与Google搜索合作伙伴的访问范围</li><li>关键词和定位；USE_BROAD MATCH关键字；在 <strong>基于完全自动化转换的投标</strong></li> |
 | [!UICONTROL 导入营销活动] | （测试版功能）您可以导入 [!DNL Google Display Network] 营销活动（包括广告图像） [!DNL Microsoft® Advertising] 受众营销活动(位于 [!DNL Microsoft® Audience Network] 从 [!UICONTROL 工具] > [!UICONTROL 导入营销活动]. 导入活动后，您可以检查导入任务的状态、查看任何错误日志，以及编辑、暂停或删除导入计划。 |
 
 {style=&quot;table-layout:auto&quot;}
