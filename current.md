@@ -6,10 +6,10 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 94c4f698be83ab2820d3b352c3c40c67a6c1dce3
+source-git-commit: d7ece438ac9e0dcc5cbdcdecbc914daa43010aeb
 workflow-type: tm+mt
-source-wordcount: '6525'
-ht-degree: 100%
+source-wordcount: '6528'
+ht-degree: 99%
 
 ---
 
@@ -349,7 +349,7 @@ Adobe Campaign 提供了一种直观、自动的方式，以通过在线和离�
 | 发布日期 | 名称 | 类型 | 描述 | 应用程序 |
 | -----------| ---------- | ---------- | ---------- |---------- |
 | 2022 年 9 月 | [设置 Adobe Campaign 短信](https://experienceleague.adobe.com/?recommended=Campaign-A-1-2022.classic.setupsms) | 课程 | 了解如何将 Campaign 实例连接到 SMTP 提供商，以及如何分析和排除配置故障。 | Campaign Classic v7 |
-| 2022 年 9 月 | [设置 Adobe Campaign 短信](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/course-discussion-set-up-sms-for-adobe-campaign/m-p/542687#M2301) | 课程 | 了解如何将 Campaign 实例连接到 SMTP 提供商，以及如何分析和排除配置故障。 | Campaign v8 |
+| 2022 年 9 月 | [设置 Adobe Campaign 短信](https://experienceleague.adobe.com/docs/courses/using/campaign-a-1-2022-v8-setupsms.html?lang=en) | 课程 | 了解如何将 Campaign 实例连接到 SMTP 提供商，以及如何分析和排除配置故障。 | Campaign v8 |
 | 2022 年 9 月 | [SMPP 协议深入研究和故障排除](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html?lang=zh-Hans) | 视频 | 了解如何建立 SMPP 连接，以及 SMPP 如何通过 PDU 交换数据。了解如何对连接进行故障排除。 | Campaign v8 |
 
 {style=&quot;table-layout:auto&quot;}
