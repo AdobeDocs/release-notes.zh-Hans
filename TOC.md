@@ -5,9 +5,9 @@ user-guide-title: Adobe Experience Cloud 发行说明
 breadcrumb-title: 发行说明
 user-guide-description: 了解 Adobe Experience Cloud 和 Experience Platform 中的新增功能、修复和重要注意事项。
 user-guide-url: https://www.adobe.com
-source-git-commit: 239bfea2a9ad64d6354025ed75906bc929a8605b
-workflow-type: ht
-source-wordcount: '71'
+source-git-commit: 34c526b0570d885295cd06f1f90fdaf5fd19ab4f
+workflow-type: tm+mt
+source-wordcount: '72'
 ht-degree: 100%
 
 ---
@@ -18,6 +18,7 @@ ht-degree: 100%
 + [当前的发行说明](current.md)
 + 以前的发行说明 {#previous}
    + 2022 年 {#2022}
+      + [2022 年 9 月](c-legacy-releases/2022/09072022.md)
       + [2022 年 8 月](c-legacy-releases/2022/08172022.md)
       + [2022 年 7 月](c-legacy-releases/2022/07202022.md)
       + [2022 年 6 月](c-legacy-releases/2022/06152022.md)
