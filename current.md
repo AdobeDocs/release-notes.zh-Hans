@@ -6,10 +6,10 @@ last-update: October 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: a1db402fe3fdb8aa8d603c32785f7026dc7fb5d0
+source-git-commit: 2c7229afcce0251cb463a526381f09bbc8531e6e
 workflow-type: tm+mt
-source-wordcount: '6826'
-ht-degree: 74%
+source-wordcount: '5994'
+ht-degree: 99%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 74%
 >
 >要收到有关此页面更新的每月电子邮件通知，请订阅 [Adobe 优先产品更新](https://www.adobe.com/cn/subscription/priority-product-update.html)。经常回来查看 Experience League 的最新动态。
 
-本页提供对Experience Cloud产品发行说明页面以及最新Experience League、课程和事件的访问。
+此页面提供对 Experience Cloud 产品发行说明页面以及 Experience League 上最新教程、课程和活动的访问权限。
 
 最新更新日期：**2022 年 10 月 4 日**
 
@@ -53,11 +53,11 @@ ht-degree: 74%
 
 ## ![图标](/assets/experience-league.png) [!DNL Experience League] 活动 {#events}
 
-Experience League 活动是您向 Adobe 产品专家学习、与之互动以及获得答案的绝佳方式！请参阅 [事件](https://experienceleague.adobe.com/events/?lang=zh-Hans) Experience League2022年10月保持更新。
+Experience League 活动是您向 Adobe 产品专家学习、与之互动以及获得答案的绝佳方式！请参阅 Experience League 上的[活动](https://experienceleague.adobe.com/events/?lang=zh-Hans)以了解 2022 年 10 月的最新信息。
 
 | 产品/时间名称 | 类型 | 描述 |
 | -----------|---------- | ----|
-| **[!DNL Adobe Workfront]** | 研讨会 | _价值实现系列：规划您的 Workfront 历程_ – 您的 Workfront 历程的下一步是什么？加入我们，讨论如何在您的组织中创建您自己的 Adobe Workfront 路线图。 了解我们最喜爱的里程碑，以便将其添加到您的路线图中，并了解我们作为前系统管理员的体验。<p>**10 月 4 日下午 12:30 MT** - [详细信息和注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Bx3LyyABjkC6f0LfiHlHgw,F_Tenijn5UulPjqprok8eg,7lni6LpvlEWagR1OIDfosA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Workfront]** | 研讨会 | _价值实现系列：规划您的 Workfront 历程_ – 您的 Workfront 历程的下一步是什么？加入我们，讨论如何在您的组织中创建您自己的 Adobe Workfront 路线图。 获取有关我们最喜欢的里程碑的想法以添加到您的路线图中，并了解我们作为前系统管理员的经验。<p>**10 月 4 日下午 12:30 MT** - [详细信息和注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Bx3LyyABjkC6f0LfiHlHgw,F_Tenijn5UulPjqprok8eg,7lni6LpvlEWagR1OIDfosA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 | **[!DNL Adobe Workfront]** | 研讨会 | _CS Connections：共享战略最佳实践_ – 寻找机会与其他客户联系并讨论 Workfront 功能？ 加入我们的 CS Connections 系列！  每月有机会与其他客户联系，讨论组织的热门话题。 <p>**10 月 10 日上午 7:00 MT** - [详细信息和注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,gw8sK1IYp0qugO85lvn9HA,1hAkk731fE2cuzI1JCe2Aw,Lox5X4bDSUC_HaF3SDUy7A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 | **[!DNL Adobe Workfront]** | 研讨会 | _使用 User Management 推动采用率_ – 您是否刚开始使用 Workfront，并希望更熟悉与最终用户相关的设置功能？ 加入客户成功团队，查看报告和仪表板的实际示例，为成功的用户管理奠定基础，并创建有用的、信息丰富的最终用户体验。<p>**10 月 18 日上午 9:00 MT** - [详细信息和注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,lJV3sMGDTE2CpLxcuzZQXg,KGHthDBZ80q9JJ-wzHyqBQ,mY-6BCClJkmc_bRvqGebtQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 | **[!DNL Adobe Workfront]** | 研讨会 | _采用率系列：让 Workfront 变成有趣的 Fun(front)！_&#x200B;需要有关采用率的建议吗？ 我们会为您提供！ 我们的团队经历了用户采用率的高低起伏，专注于乐趣是成功的关键。 我们将讨论一些对我们有用的东西，并提供充足的时间进行公开讨论，与其他客户分享想法。<p>**10 月 20 日下午 12:30 MT** - [详细信息和注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,0qiSuEYEcUSxTibSYXD-jA,8QGOKlkyJE25EiBggDF6Ng,WmVegsyV2E6ZDPSMCifdVw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
@@ -78,7 +78,7 @@ Experience Cloud [中央 UI 组件](https://experienceleague.adobe.com/docs/core
 
 ## 统一搜索更新
 
-* **个性化搜索：** 现在，全局搜索栏上的搜索结果会根据用户使用的频率和新近度进行个性化。
+* **个性化搜索：**&#x200B;全局搜索栏上的搜索结果现在可以根据用户的使用频率和回访间隔进行个性化设置。
 
 ### 配置更新
 
@@ -90,19 +90,19 @@ Experience Cloud [中央 UI 组件](https://experienceleague.adobe.com/docs/core
 
 [!DNL Experience Platform] 和 [!UICONTROL Mobile SDK] 的最新发行信息和新文档：
 
-最新版本： **2022年9月28日**
+最新发布：**2022 年 9 月 28 日**
 
 * [Experience Platform 发行说明](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
 
 ### Experience Platform 的新教程和课程 {#tutorials-platform}
 
-发布的关于Adobe Experience Platform的新视频、教程或课程。
+为 Adobe Experience Platform 发布的新视频、教程或课程。
 
 | 发布日期 | 名称 | 类型 | 描述 | 应用程序 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2022 年 10 月 | [使用枚举字段和建议的值](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/use-enumerated-fields.html) | 视频 | 了解如何在区段生成器界面中使用枚举字段和建议的值创建友好下拉菜单。 | 数据模型(XDM) |
+| 2022 年 10 月 | [使用枚举字段和建议值](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/use-enumerated-fields.html) | 视频 | 了解如何使用枚举字段和建议值在区段构建器界面中创建友好的下拉菜单。 | 数据模型 (XDM) |
 | 2022 年 10 月 | [管理数据流中的敏感数据](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/manage-sensitive-data-in-datastreams.html) | 视频 | 了解如何管理数据流中的敏感数据。 | Web SDK |
-| 2022 年 10 月 | [创建功能板](https://experienceleague.adobe.com/docs/platform-learn/tutorials/dashboards/create-a-dashboard.html) | 视频 | 了解如何在Adobe Experience Platform中创建功能板。 | 仪表板 |
+| 2022 年 10 月 | [创建功能板](https://experienceleague.adobe.com/docs/platform-learn/tutorials/dashboards/create-a-dashboard.html) | 视频 | 了解如何在 Adobe Experience Platform 中创建仪表板。 | 仪表板 |
 
 ### [!DNL Adobe Mobile] SDK
 
@@ -110,11 +110,11 @@ Experience Cloud [中央 UI 组件](https://experienceleague.adobe.com/docs/core
 
 ## ![图标](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
-下一版本： **2022年10月5日**
+下一个发布：**2022 年 10 月 5 日**
 
 >[!NOTE]
 >
->10月的发行说明将在 **2022年10月5日**.
+>10 月发行说明将于&#x200B;**2022 年 10 月 5 日**&#x200B;发布。
 
 * Adobe Analytics [发行说明](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=zh-Hans)
 * Adobe Analytics [产品文档和教程](https://experienceleague.adobe.com/docs/analytics.html?lang=zh-Hans)
@@ -138,11 +138,11 @@ Experience Cloud [中央 UI 组件](https://experienceleague.adobe.com/docs/core
 
 ## ![图标](/assets/analytics.png) [!DNL Customer Journey Analytics] {#cja}
 
-下一版本： **2022年10月5日**
+下一个发布：**2022 年 10 月 5 日**
 
 >[!NOTE]
 >
->10月的发行说明将在 **2022年10月5日**.
+>10 月发行说明将于&#x200B;**2022 年 10 月 5 日**&#x200B;发布。
 
 * Customer Journey Analytics [发行说明](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=zh-Hans)
 * Customer Journey Analytics [产品文档和教程](https://experienceleague.adobe.com/docs/customer-journey-analytics.html?lang=zh-Hans)
@@ -172,32 +172,32 @@ Experience Cloud [中央 UI 组件](https://experienceleague.adobe.com/docs/core
 
 Experience Manager 中的新增功能、修复和更新。Adobe 建议采用内部部署的客户部署最新的修补程序以确保稳定性、安全性和性能得到提高。
 
-### AEM路线图和发行视频
+### AEM 路线图和发布视频
 
-Adobe建议访问以下资源，以便在发行信息时保持更新：
+Adobe 建议访问以下资源以随时了解发布信息：
 
-* [Experience Manager版本更新和路线图](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=zh-Hans)  — 了解Experience Manager版本路线图、以前的版本更新和文档更新。
-* [Experience Manageras a Cloud Service版本更新](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/overview.html?lang=en)  — 快速概述Adobe Experience Manager as a Cloud Service的最新功能。
+* [Experience Manager 发布更新和路线图](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=zh-Hans) - 了解 Experience Manager 版本路线图、先前版本更新和文档更新。
+* [Experience Manager 即云服务发布更新](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/overview.html?lang=en) - 快速大致了解 Adobe Experience Manager as a Cloud Service 的最新功能。
 
 ### Experience Manager [!DNL Sites] as a [!DNL Cloud Service]
 
-_AEM Sites的新增功能_
+_AEM Sites 中的新增功能_
 
-的 [!UICONTROL 电子邮件] 组件允许在AEM中创建内容，然后将其作为电子邮件发送 [!DNL Campaign Classic]. 的 [!UICONTROL 核心电子邮件组件]:
+通过[!UICONTROL 电子邮件]组件，可在 AEM 中创建内容，然后通过 [!DNL Campaign Classic] 以电子邮件的形式发送。 [!UICONTROL 核心电子邮件组件]：
 
-* 基于 [核心WCM组件](https://github.com/adobe/aem-core-wcm-components) 支持可编辑的模板和样式系统。
+* 基于支持可编辑模板和样式系统的[核心 WCM 组件](https://github.com/adobe/aem-core-wcm-components)。
 
-* 提供十个电子邮件优化的生产就绪组件（页面、容器、标题、文本、图像、按钮、Teaser、体验片段、内容片段、分段）。
+* 提供十个为电子邮件优化的生产就绪组件（页面、容器、标题、文本、图像、按钮、Teaser、体验片段、内容片段、分段）。
 
-* 由于 [插入促销活动变量](https://github.com/adobe/aem-core-email-components/wiki/RTE-Personalization) 在大多数对话字段中，以及灵活 [分段组件](https://github.com/adobe/aem-core-email-components/wiki/(Technical-Documentation)).
+* 通过大多数对话框字段上的[插入 Campaign 变量](https://github.com/adobe/aem-core-email-components/wiki/RTE-Personalization)以及灵活的[分段组件](https://github.com/adobe/aem-core-email-components/wiki/(Technical-Documentation))，提供高级个性化和分段。
 
-* 通过 [CSS样式内嵌](https://github.com/adobe/aem-core-email-components/wiki/HTML-Inliner:-Technical-documentation), [HTML属性内线](https://github.com/adobe/aem-core-email-components/wiki/HTML-Inliner:-Technical-documentation)和 [HTML消毒剂](https://github.com/adobe/aem-core-email-components/wiki/HTML-sanitizing:-Technical-documentation).
+* 借助 [CSS 样式内联器](https://github.com/adobe/aem-core-email-components/wiki/HTML-Inliner:-Technical-documentation)、[HTML 属性内联器](https://github.com/adobe/aem-core-email-components/wiki/HTML-Inliner:-Technical-documentation)和 [HTML 清理器](https://github.com/adobe/aem-core-email-components/wiki/HTML-sanitizing:-Technical-documentation)，提供最佳的电子邮件友好的 HTML 输出。
 
-* 允许在任意位置创建电子邮件。
+* 使得可随时随地创建电子邮件。
 
 _[!DNL Sites] 预发行渠道中可用的新功能_
 
-* [内容片段控制台](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragments-console.html?lang=zh-Hans)为用户提供一个选项，用于显示与某个内容片段关联的语言副本总数。提供了一键式访问，以查看所有语言副本。 用户还可按其感兴趣的区域设置筛选表格视图。
+* [内容片段控制台](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragments-console.html?lang=zh-Hans)为用户提供一个选项，用于显示与某个内容片段关联的语言副本总数。还提供一键访问以查看所有语言副本。 用户还可按其感兴趣的区域设置筛选表格视图。
 
 ### Experience Manager [!DNL Assets] as a [!DNL Cloud Service]
 
@@ -209,29 +209,29 @@ _[!DNL Assets]_ 中的新增功能
 
 _新增功能_
 
-[自适应Forms向导](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/create-an-adaptive-form-on-forms-cs/creating-adaptive-form.html?lang=en): [!DNL AEM Forms] 提供企业用户友好向导，以便快速创作 [!UICONTROL 自适应Forms]. 该向导可快速地在选项卡之间导航，从而轻松地选择预先配置的模板、样式、字段和提交选项以创建自适应表单。此版本的向导有以下改进：
+[自适应表单向导](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/create-an-adaptive-form-on-forms-cs/creating-adaptive-form.html?lang=en)：[!DNL AEM Forms]提供便于商业用户使用的向导以快速创作[!UICONTROL 自适应表单]。 该向导可快速地在选项卡之间导航，从而轻松地选择预先配置的模板、样式、字段和提交选项以创建自适应表单。此版本的向导有以下改进：
 
-* **选择或取消选择字段：** 利用向导，可基于JSON和表单数据模型架构创建自适应表单。 现在可选择架构中的一部分字段以包括在自适应表单中。所选的字段被转换为相应的自适应表单数据捕获组件以快速创建所需的自定义表单。
+* **选择或取消选择字段：**&#x200B;可在向导中创建基于 JSON 和表单数据模型架构的自适应表单。 现在可选择架构中的一部分字段以包括在自适应表单中。所选的字段被转换为相应的自适应表单数据捕获组件以快速创建所需的自定义表单。
 
-* **使用静态模板：** 在旧版静态模板方面已有投资的客户可以使用向导中的静态模板创作自适应表单，从而继续其云采用历程。 这样使客户有更多时间可将旧有的静态模板迁移到现代的可编辑模板。
+* **使用静态模板：**&#x200B;在传统静态模板中有长期投入的客户可通过在模板中使用静态模板创作自适应表单，继续其采用云的历程。 这样使客户有更多时间可将旧有的静态模板迁移到现代的可编辑模板。
 
 * [在服务器端处理时从记录文档 (DoR) 删除隐藏的字段](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/generate-document-of-record-for-non-xfa-based-adaptive-forms.html?lang=zh-Hans)：您可为最终用户生成记录文档 PDF，其中仅包含在数据捕获体验期间对最终用户可见的那些字段。在提交表单时，服务器根据所提交的数据验证对最终用户隐藏了哪些字段，并从记录文档中排除以达到一致。
 
 ### Cloud Manager
 
-* [!DNL AEM Guides] 现在可以在沙盒程序上以自助方式进行配置。
+* [!DNL AEM Guides]现在可以在沙盒程序上以自助方式配置。
 
-* 没有任何 [!DNL Cloud Manager] 角色无法访问程序详细信息。 但是，他们可以从 [!DNL Cloud Manager] 登陆页面。
+* 没有任何[!DNL Cloud Manager]角色的客户无法访问程序详细信息。 但是，他们可以从 [!DNL Cloud Manager] 登录页面导航到作者端点。
 
-* 客户可以设置 **事件和主动通知** 组，以听取Adobe有关其AEMaCS应用程序的事件或建议的信息。 请参阅 [通知用户组](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/onboarding/journey/user-groups.html?lang=en) 以了解更多详细信息。
+* 客户可以设置&#x200B;**事件和主动通知**&#x200B;组从 Adobe 那里了解与其 AEMaaCS 应用程序相关的事件或推荐。 请参阅[通知用户组](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/onboarding/journey/user-groups.html?lang=en)，以了解更多信息。
 
-* **[!UICONTROL 添加计划可供性]** 在UI中，当由于权限或权利相关原因而禁用工具时，始终会提供工具提示。
+* 当由于权限或权利相关的原因而被禁用时，UI 中的&#x200B;**[!UICONTROL 添加项目可供性]**&#x200B;始终提供工具提示。
 
-### [!DNL Workfront] 用于Experience Manager增强的连接器
+### [!DNL Workfront]对于 Experience Manager 增强型连接器
 
-最新版本(1.9.3) [!DNL Workfront] 对于Experience Manager，已在 **2022年9月16日**. 请参阅 [发行说明](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/workfront/release-notes-enhanced-connector-workfront.html?lang=en) 以了解更多信息。
+适用于 Experience Manager 增强型连接器的 [!DNL Workfront] 的最新版本 (1.9.3) 已于 **2022 年 9 月 16 日**&#x200B;提供。 请参阅 [ 发行说明](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/workfront/release-notes-enhanced-connector-workfront.html?lang=en)，以了解更多信息。
 
-Adobe建议您 [升级到最新的1.9.3版本](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/update-workfront-enhanced-connector.html?lang=en) Workfront for Experience Manager增强连接器。
+Adobe 建议您将 Workfront for Experience Manager 增强连接器[升级到最新的 1.9.3 版本](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/update-workfront-enhanced-connector.html?lang=en)。
 
 ### Experience Manager 的新课程和教程 {#tutorials-aem}
 
@@ -239,19 +239,19 @@ Adobe建议您 [升级到最新的1.9.3版本](https://experienceleague.adobe.co
 
 | 发布日期 | 名称 | 类型 | 描述 | 应用程序 |
 | -----------| ---------- | ---------- | ---------- | ------|
-| 2022 年 10 月 | [AEM Forms中的项目加载属性](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/adaptive-forms/using-item-load-path.html) | 视频 | 了解如何使用项目加载路径属性配置和填充下拉列表。 | AEM Forms CS |
-| 2022 年 10 月 | [为标准AEM项目原型启用前端管道](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/enable-frontend-pipeline-devops/overview.html) | 视频 | 了解如何使用AEM Project Archetype启用AEM WKND Sites项目以部署前端资源（如CSS、JavaScript、字体和图标），并使用前端管道以缩短开发到部署周期。 | AEM Sites |
-| 2022 年 10 月 | [Next.js应用程序](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/example-apps/next-js.html) | 视频 | 了解如何使用AEM GraphQL API通过持久查询来查询内容。 用于JavaScript的AEM无头客户端用于执行为应用程序提供动力的GraphQL持久查询。 | AEM Sites |
-| 2022 年 10 月 | [从提交的表单数据中提取表单附件](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/send-af-attachments-in-email.html) | 视频 | 了解如何在电源自动化工作流中提取表单附件并通过电子邮件发送附件。 | AEM Forms CS |
-| 2022 年 10 月 | [将DoR作为电子邮件附件发送](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/send-DoR-email-attachment.html) | 视频 | 提取DoR并在power自动化工作流中作为电子邮件附件发送。 | AEM Forms CS |
-| 2022 年 10 月 | [内容片段控制台](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-console.html?lang=en) | 视频 | 了解AEMas a Cloud Service内容片段创作控制台的基本特性和功能。 | AEM CS |
-| 2022 年 10 月 | [AEMas a Cloud Service内容迁移常见问题解答](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/content-migration/faq.html) | 视频 | 获取有关内容迁移到AEM as a Cloud Service的常见问题解答。 | AEM CS |
+| 2022 年 10 月 | [AEM Forms 中的项目加载属性](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/adaptive-forms/using-item-load-path.html) | 视频 | 了解如何使用项目加载路径属性配置和填充下拉列表。 | AEM Forms CS |
+| 2022 年 10 月 | [为标准 AEM 项目 Archetype 启用前端管道](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/enable-frontend-pipeline-devops/overview.html) | 视频 | 了解如何使用 AEM Project Archetype 启用 AEM WKND Sites 项目来部署 CSS、JavaScript、字体和图标等前端资源，并使用前端管道加快开发到部署周期。 | AEM Sites |
+| 2022 年 10 月 | [Next.js 应用程序](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/example-apps/next-js.html) | 视频 | 了解如何使用 AEM 的 GraphQL API 使用持久查询来查询内容。 适用于 JavaScript 的 AEM Headless Client 用于执行为应用程序提供支持的 GraphQL 持久查询。 | AEM Sites |
+| 2022 年 10 月 | [从提交的表单数据中提取表单附件](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/send-af-attachments-in-email.html) | 视频 | 了解如何在 power automate 工作流中提取表单附件并通过电子邮件发送附件。 | AEM Forms CS |
+| 2022 年 10 月 | [将 DoR 作为电子邮件附件发送](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/send-DoR-email-attachment.html) | 视频 | 在 power automate 工作流中提取 DoR 并作为电子邮件附件发送。 | AEM Forms CS |
+| 2022 年 10 月 | [内容片段控制台](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-console.html?lang=en) | 视频 | 了解 AEM as a Cloud Service 的内容片段创作控制台的基本特性和功能。 | AEM CS |
+| 2022 年 10 月 | [AEM as a Cloud Service 内容迁移常见问题解答](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/content-migration/faq.html) | 视频 | 获取有关将内容迁移到 AEM as a Cloud Service 的常见问题解答。 | AEM CS |
 | 2022 年 9 月 | [AEM as a Cloud Service 2022.8.0 版本更新](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2022/2022-8-0.html?lang=zh-Hans) | 视频 | 听取 AEM 产品团队的意见，了解 Adobe Experience Manager [!DNL Assets]、[!DNL Assets Essentials], [!DNL Sites]、Commerce Integration Framework、[!DNL Forms] 以及 [!DNL Cloud Manager] 最新版本的功能和创新。 | AEM CS |
-| 2022 年 9 月 | [Web 优化图像交付](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/components/web-optimized-image-delivery.html?lang=en) | 视频 | 了解如何使用AEM核心组件在AEMas a Cloud Service网站上启用Web优化图像交付。 | AEM Sites |
+| 2022 年 9 月 | [Web 优化图像交付](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/components/web-optimized-image-delivery.html?lang=zh-Hans) | 视频 | 了解如何使用 AEM 核心组件在 AEM as a Cloud Service 网站上实现 Web 优化图像交付。 | AEM Sites |
 | 2022 年 9 月 | [与 Microsoft® Power Automate 集成](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/integrate-formscs-power-automate.html?lang=zh-Hans) | 视频 | 对自适应表单提交调用 Power Automate 流程。了解配置 Forms CS 并将其与 Microsoft® Power Automate 集成的步骤。 分析提交的表单数据，并将 DoR 作为电子邮件附件发送。 | AEM Forms CS |
 | 2022 年 9 月 | [Adobe 内容管理论坛事件系列 – 2022](https://experienceleague.adobe.com/docs/adobe-content-management-forum-events/events/2022/welcome.html?lang=zh-Hans) | 视频 | 观看 Elliot Sedegah 发表的欢迎辞，了解 AEM 概述。 它还包括解锁内容速度的力量等内容。 | AEM CS |
-| 2022 年 9 月 | [技能交流 – 开发人员跟踪 – 体验创客聚焦](https://experienceleague.adobe.com/docs/skill-exchange-events/events/aem/aug2022/developer-track/spotlight.html?lang=zh-Hans) | 视频 | 加入我们，我们将邀请两位 AEM 专家用户做公开报道。 每位专家都分享他们最好的AEM提示或技巧。 | AEM CS |
-| 2022 年 9 月 | [技能交流 – 营销人员/Web 发布者](https://experienceleague.adobe.com/docs/skill-exchange-events/events/aem/aug2022/marketer/reusability.html?lang=zh-Hans) | 视频 | 了解如何使用体验片段来促进整个生态系统的重复利用和效率。 这将影响 ROI 并提高速度。 | AEM CS |
+| 2022 年 9 月 | [技能交流 – 开发人员跟踪 – 体验创客聚焦](https://experienceleague.adobe.com/docs/skill-exchange-events/events/aem/aug2022/developer-track/spotlight.html?lang=zh-Hans) | 视频 | 加入我们，我们将邀请两位 AEM 专家用户做公开报道。 每位专家都将分享其优秀的 AEM 使用提示或技巧。 | AEM CS |
+| 2022 年 9 月 | [技能交流 – 营销人员/Web 发布者](https://experienceleague.adobe.com/docs/skill-exchange-events/events/aem/aug2022/marketer/reusability.html?lang=zh-Hans) | 视频 | 了解如何使用体验片段推动整个生态系统的重复使用和效率。 这将影响 ROI 并提高速度。 | AEM CS |
 | 2022 年 9 月 | [如何使用 AEM React 可编辑组件 v2 版本](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/spa-editor/how-to/react-core-components-v2.html?lang=zh-Hans) | 视频 | 了解如何使用 AEM React 可编辑组件。 AEM 提供了 AEM React 可编辑组件 v2 版本，这是一个基于 Node.js 的 SDK，允许创建 React 组件，支持使用 AEM SPA 编辑器在上下文中编辑组件。 | AEM CS |
 
 {style=&quot;table-layout:auto&quot;}
@@ -261,8 +261,8 @@ Adobe建议您 [升级到最新的1.9.3版本](https://experienceleague.adobe.co
 所有的 Experience Manager 发行说明均保留在以下页面：
 
 * [Adobe Experience Manager as a Cloud Service 发行版更新](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/overview.html?lang=en)
-* [最新Adobe Experience Manager as a Cloud Service发行说明](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=en)
-* [Experience Manager as a Cloud Service 版本信息](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=en)
+* [Adobe Experience Manager as a Cloud Service 当前发行说明](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=en)
+* [Experience Manager as a Cloud Service 版本信息](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=zh-Hans)
 * [Experience Manager Cloud Manager 发行说明](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/current.html?lang=zh-Hans)
 * [Automated Forms Conversion Service 发行说明](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=zh-Hans)
 * [Experience Manager 6.5 Service Pack 发行说明](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=zh-Hans)
@@ -299,18 +299,18 @@ Adobe建议您 [升级到最新的1.9.3版本](https://experienceleague.adobe.co
 
 ## ![图标](/assets/ec_appicon_24.png) [!DNL Adobe Commerce] {#commerce}
 
-的新增功能和内容 [!DNL Adobe Commerce].
+新功能和内容可用于 [!DNL Adobe Commerce]。
 
-### 支付服务{#payment-services}
+### 付款服务{#payment-services}
 
 | 功能 | 描述 |
 | ------- | ------- |
-| [使用多个PayPal帐户](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/configure/settings.html?lang=en#use-multiple-paypal-accounts) | 了解如何为您的商户帐户使用不同的PayPal业务帐户，以便您可以在多个国家/地区（使用不同的货币）进行交易，或者将Adobe Commerce用于您业务的某些部分（但不是全部）。 |
-| [向网站或存储视图添加软描述符](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/configure/settings.html?lang=en#add-soft-descriptor) | 了解如何向您的网站或商店视图添加软描述符，以在客户交易银行对帐单上的商店/品牌/目录之间进行划分。 |
+| [使用多个 PayPal 帐户](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/configure/settings.html?lang=en#use-multiple-paypal-accounts) | 了解如何为您的商业帐户使用不同的 PayPal 企业帐户，以便您可以在多个国家/地区（使用不同的货币）进行交易，或者将 Adobe Commerce 用于您的部分（但不是全部）业务。 |
+| [向您的网站或商店视图添加软描述符](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/configure/settings.html?lang=en#add-soft-descriptor) | 了解如何在您的网站或商店视图中添加软描述符，以在客户交易银行对帐单上的商店/品牌/目录之间进行描述。 |
 
 {style=&quot;table-layout:auto&quot;}
 
-### 的发行说明 [!DNL Adobe Commerce]{#release-notes-commerce}
+### [!DNL Adobe Commerce] 的发行说明{#release-notes-commerce}
 
 * [Adobe Commerce 和 Magento Open Source 2.4.x 发行说明](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)
 * [Cloud Suite 发行说明](https://devdocs.magento.com/cloud/release-notes/cloud-tools.html)
@@ -322,16 +322,16 @@ Adobe建议您 [升级到最新的1.9.3版本](https://experienceleague.adobe.co
 
 >[!NOTE]
 >
->[!DNL Adobe Search&Promote] 服务终止 **2022年9月1日**. 对于产品和商业搜索，[实时搜索](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html?lang=en)是 Adobe 的搜索应用程序。 请参阅[服务结束公告](https://experienceleague.adobe.com/docs/discontinued/using/search-promote.html?lang=en)，了解更多信息。
+>[!DNL Adobe Search&Promote]服务终止发生在 **2022 年 9 月 1 日**。 对于产品和商业搜索，[实时搜索](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html?lang=zh-Hans)是 Adobe 的搜索应用程序。 请参阅[服务结束公告](https://experienceleague.adobe.com/docs/discontinued/using/search-promote.html?lang=en)，了解更多信息。
 
-### 有关的新教程和文档 [!DNL Adobe Commerce] {#tutorials-commerce}
+### [!DNL Adobe Commerce] 的新教程和文档 {#tutorials-commerce}
 
 | 发布日期 | 名称 | 类型 | 描述 |
 | -----------| ---------- | ---------- | ---------- |
-| 2022 年 10 月 | [本地安装概述](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/overview.html) | 产品文档 | 了解Adobe Commerce和Magento Open Source的本地部署的安装过程。 |
-| 2022 年 10 月 | [Commerce magento-cloud基础架构)](https://experienceleague.adobe.com/docs/commerce-operations/reference/commerce.html) | 产品文档 | 了解Adobe Commerce magento-cloud命令行工具的所有可用命令、参数和选项。 |
-| 2022 年 10 月 | [适用于Adobe Commerce的目录服务](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/catalog/catalog-service.html) | 产品文档 | 了解如何安装和测试目录服务。 |
-| 2022 年 10 月 | [Adobe Commerce促销和促销指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/guide-overview.html) | 产品文档 | 了解促销和促销功能，包括定向折扣和活动。 |
+| 2022 年 10 月 | [内部部署安装概述](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/overview.html) | 产品文档 | 了解 Adobe Commerce 和 Magento Open Source 内部部署的安装过程。 |
+| 2022 年 10 月 | [Commerce magento-cloud 基础架构](https://experienceleague.adobe.com/docs/commerce-operations/reference/commerce.html) | 产品文档 | 了解 Adobe Commerce magento-cloud 命令行工具的所有可用命令、参数和选项。 |
+| 2022 年 10 月 | [Adobe Commerce 的目录服务](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/catalog/catalog-service.html) | 产品文档 | 了解如何安装和测试目录服务。 |
+| 2022 年 10 月 | [Adobe Commerce 营销和促销指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/guide-overview.html) | 产品文档 | 了解商品推销和促销功能，包括有针对性的折扣和活动。 |
 | 2022 年 9 月 | [使用 Adobe Experience Manager 提供 Headless 体验](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html?lang=zh-Hans) | 视频 | 了解使用最新 Experience Manager 内容片段增强功能进行 Headless 体验管理，以及用于 Headless 内容交付的新 GraphQL API。 |
 | 2022 年 9 月 | [Adobe Commerce 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/guide-overview.html) | 视频 | 获取有关内容和设计功能的详细信息，包括构建基本内容组件。 |
 | 2022 年 9 月 | [设置多商务系统](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/administering/multiple-commerce-systems-setup.html) | 视频 | 了解如何在多个 Adobe Commerce 环境中设置 AEM。 |
@@ -342,7 +342,7 @@ Adobe建议您 [升级到最新的1.9.3版本](https://experienceleague.adobe.co
 
 上次更新日期：**2022 年 9 月 29 日**
 
-下一个计划的版本： **2022年10月4至6日**
+下一个计划发布：**2022 年 10 月 4 日至 6 日**
 
 * 有关预发行信息，请参阅 [Adobe Target 预发行](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=zh-Hans)
 * 有关最新信息，请参阅 [Adobe Target 发行说明](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=zh-Hans)
@@ -361,7 +361,7 @@ Adobe Campaign 提供了一种直观、自动的方式，以通过在线和离�
 
 | 发布日期 | 名称 | 类型 | 描述 | 应用程序 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2022 年 10 月 | [营销人员决策管理快速入门](https://experienceleague.adobe.com/docs/courses/using/experienceplatform-u-1-2020-1-offerdecisioning.html?lang=en) | 视频 | 了解如何在区段生成器界面中使用枚举字段和建议的值创建友好下拉菜单。 | Campaign v8 |
+| 2022 年 10 月 | [营销人员决策管理快速入门](https://experienceleague.adobe.com/docs/courses/using/experienceplatform-u-1-2020-1-offerdecisioning.html?lang=en) | 视频 | 了解如何使用枚举字段和建议值在区段构建器界面中创建友好的下拉菜单。 | Campaign v8 |
 | 2022 年 10 月 | [设置 Adobe Campaign 短信](https://experienceleague.adobe.com/?recommended=Campaign-A-1-2022.classic.setupsms) | 课程 | 了解如何将 Campaign 实例连接到 SMTP 提供商，以及如何分析和排除配置故障。 | Campaign v8 |
 | 2022 年 10 月 | [完全子域委派](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/subdomains-and-certificates/subdomain-delegation.html?lang=en) | 更新的视频 | 了解如何将子域完全委派给 Adobe Campaign。 | 控制面板 |
 | 2022 年 9 月 | [设置 Adobe Campaign 短信](https://experienceleague.adobe.com/docs/courses/using/campaign-a-1-2022-v8-setupsms.html?lang=en) | 课程 | 了解如何将 Campaign 实例连接到 SMTP 提供商，以及如何分析和排除配置故障。 | Campaign v8 |
@@ -375,7 +375,7 @@ Adobe Campaign 提供了一种直观、自动的方式，以通过在线和离�
 * Adobe Campaign v8：[文档](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=zh-Hans) — [发行说明](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html) — [《实施指南》](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html?lang=zh-Hans)
 * Adobe Campaign Standard：[Campaign Standard 文档](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hans) — [发行说明](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) — [操作方法视频](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=zh-Hans) — [发行计划](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=zh-Hans) — [最新文档更新](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=zh-Hans)
 * Adobe Campaign Classic：[Campaign Classic v7 文档](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=zh-Hans) — [发行说明](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) — [操作方法视频](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=zh-Hans) — [最新文档更新](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=zh-Hans)
-* Adobe Campaign 控制面板：[文档](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=zh-Hans) — [发行说明](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=zh-Hans) – 操作方法视频 – [操作方法视频](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html?lang=en)
+* Adobe Campaign 控制面板：[文档](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=zh-Hans) — [发行说明](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=zh-Hans) – 操作方法视频 – [操作方法视频](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html?lang=zh-Hans)
 
 ## ![图标](/assets/experience_platform_appicon_24.png) Adobe Journey Optimizer {#journey-opt}
 
@@ -391,9 +391,9 @@ Adobe Campaign 提供了一种直观、自动的方式，以通过在线和离�
 
 | 发布日期 | 名称 | 类型 | 描述 |
 | -----------| ---------- | ---------- | ---------- |
-| 2022 年 10 月 | [将历程复制到其他沙盒](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/copy-a-journey.html?lang=en) | 视频 | 了解如何将历程及其相关对象从一个沙箱复制到另一个沙箱。 |
-| 2022 年 10 月 | [使用警报](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/alerts.html?lang=en) | 视频 | 了解如何订阅预定义的警报以防发生意外历程行为，并通过电子邮件、在Journey Optimizer内或使用API获取通知。 |
-| 2022 年 9 月 | [营销人员决策管理快速入门](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning) | 课程 | 了解 Adobe Journey Optimizer 的决策管理功能。 本课程专为希望通过为客户提供最佳选件来提高收入、客户体验和忠诚度的营销人员设计 |
+| 2022 年 10 月 | [将历程复制到另一个沙盒](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/copy-a-journey.html?lang=en) | 视频 | 了解如何将历程及其依赖对象从一个沙盒复制到另一个沙盒。 |
+| 2022 年 10 月 | [使用警报](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/alerts.html?lang=en) | 视频 | 了解如何订阅针对意外历程行为的预定义警报，并通过电子邮件、Journey Optimizer 或使用 API 获得通知。 |
+| 2022 年 9 月 | [营销人员决策管理快速入门](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning) | 课程 | 了解 Adobe Journey Optimizer 的决策管理功能。 本课程专为希望通过向客户提供优质产品而提高收入、客户体验和忠诚度的营销人员设计而成 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -420,8 +420,8 @@ Adobe Campaign 提供了一种直观、自动的方式，以通过在线和离�
 
 ### 核心 Marketo Engage 更新
 
-* 请参阅 [2022年10月 — 最新发行说明](https://experienceleague.adobe.com/docs/marketo/using/release-notes/current.html?lang=en) 以了解最新信息
-* 有关最新的发布计划信息和发行说明，请参阅 [!DNL Marketo Engage] [发布计划](https://experienceleague.adobe.com/docs/marketo/using/release-notes/release-schedule.html?lang=en)。
+* 有关最新信息，请参阅 [2022 年 10 月 - 当前发行说明](https://experienceleague.adobe.com/docs/marketo/using/release-notes/current.html?lang=en)
+* 有关最新的发布计划信息和发行说明，请参阅 [!DNL Marketo Engage] [发布计划](https://experienceleague.adobe.com/docs/marketo/using/release-notes/release-schedule.html?lang=zh-Hans)。
 
 <!-- ### New Marketo tutorials and courses {#tutorials-marketo}
 
@@ -433,22 +433,22 @@ New videos, tutorials, or courses published for Adobe Marketo.
 
 {style="table-layout:auto"} -->
 
-有关最新的产品文档，请参阅 [Marketo 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en)主页。
+有关最新的产品文档，请参阅 [Marketo 产品文档](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=zh-Hans)主页。
 
 ## ![图标](/assets/workfront.png) [!DNL Adobe Workfront] {#workfront}
 
 Adobe [!DNL Workfront] 是一个统一的工作管理应用程序，可用于分享创意、创建内容、管理复杂的流程以及将工作做到尽善尽美。
 
-### 新Adobe [!DNL Workfront] 课程及教程 {#tutorials-workfront}
+### Adobe 的[!DNL Workfront]新课程和教程 {#tutorials-workfront}
 
-新建 [!DNL Workfront] 课程和教程集合Experience League。
+Experience League 上的新[!DNL Workfront]课程和教程系列。
 
 **注：**[[!DNL Workfront]所有 教程和产品文档在 Experience League 上的翻译即将推出！](https://experienceleague.adobe.com/docs/workfront.html?lang=en)
 
 | 发布日期 | 名称 | 类型 | 描述 |
 | -----------| ---------- | ---------- | ---------- |
 | 2022 年 10 月 | [在展示板上添加和编辑列设置](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/agile/boards/add-and-edit-column-settings-on-a-board.html?lang=zh-Hans) | 视频 | 了解如何在展示板中添加和编辑列设置。 |
-| 2022 年 10 月 | [高级报表](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) | 视频 | 了解如何使用API资源管理器和文本模式创建超出报表UI功能的高级过滤器、视图和分组。 |
+| 2022 年 10 月 | [高级报告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) | 视频 | 了解如何使用 API Explorer 和文本模式来创建超出报告 UI 功能的高级过滤器、视图和分组。 |
 | 2022 年 9 月 | [Workfront 课程](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.admin) | 课程 | 浏览我们为 Experience League 上的 Workfront 提供的新课程。 |
 | 2022 年 9 月 | [最佳实践](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/agile-bp.html?lang=zh-Hans) | 文章 | 向内外部 [!DNL Workfront] 专家学习最佳实践，了解如何使用 [!DNL Workfront] 工具加强工作流程。 |
 | 2022 年 9 月 | [展示板](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/agile/boards/add-and-edit-column-settings-on-a-board.html?lang=en) | 视频 | 观看演示如何将新“展示板”工具与当前功能结合使用的新教程。 |
@@ -467,7 +467,8 @@ Adobe [!DNL Workfront] 是一个统一的工作管理应用程序，可用于分
 
 <!-- * [New features across [!DNL Advertising Cloud]](#adcloud-all) -->
 * [ [!DNL Advertising Cloud DSP] 中的新增功能](#adcloud-dsp)
-* [ [!DNL Advertising Cloud Search] 中的新增功能](#adcloud-search)
+
+<!-- * [New features in [!DNL Advertising Cloud Search]](#adcloud-search) -->
 <!-- * [New [!DNL Advertising Cloud] tutorials](#tutorials-ad-cloud) -->
 
 <!--
@@ -485,34 +486,36 @@ Last updated: **August 9, 2022**
 
 ### [!DNL Advertising Cloud DSP] 中的新增功能 {#adcloud-dsp}
 
-上次更新日期：**2022 年 9 月 12 日**
+上次更新日期：**2022 年 10 月 6 日**
 
 | 功能 | 描述 |
 | ------- | ----------- |
-| [!UICONTROL 程序包和投放步调] | （9 月 12 日发布）现在可以为 Flight 步调和 Intraday 步调提供单独的步调控制。 之前，两者均由单一策略控制。 现有程序包和投放的设置映射如下：<ul><li>传统&#x200B;**[!UICONTROL 步调填充策略]** = *[!UICONTROL 相同]* – 现配置为&#x200B;**[!UICONTROL Flight 步调]** = *[!UICONTROL 相同]*&#x200B;和&#x200B;**[!UICONTROL Intraday 步调]** = *[!UICONTROL 相同]*</li><li>传统&#x200B;**[!UICONTROL 步调填充策略]** = *[!UICONTROL 略微领先]* – 现配置为&#x200B;**[!UICONTROL Flight 步调]** = *[!UICONTROL 略微领先]*&#x200B;和&#x200B;**[!UICONTROL Intraday 步调]** = *[!UICONTROL 相同]*</li><li>传统&#x200B;**[!UICONTROL 步调填充策略]** = *[!UICONTROL 提前]* – 现配置为&#x200B;**[!UICONTROL Flight 步调]** = *[!UICONTROL 提前]*&#x200B;和&#x200B;**[!UICONTROL Intraday 步调]** = *[!UICONTROL 尽快]*</li><li>传统&#x200B;**[!UICONTROL 步调填充策略]** = *[!UICONTROL 大幅提前]* – 现配置为&#x200B;**[!UICONTROL Flight 步调]** = *[!UICONTROL 大幅提前]*&#x200B;和&#x200B;**[!UICONTROL Intraday 步调]** = *[!UICONTROL 尽快]*</li></ul> |
+| [!UICONTROL 促销活动] | （10月6日版） [!UICONTROL 促销活动] 视图：&quot;[!UICONTROL 昨天的OTS]&quot;（在目标支出上）， &quot;[!UICONTROL 昨天的交货], &quot;[!UICONTROL 昨天的目标], &quot;[!UICONTROL 今天的OTS]&quot;（在目标支出上）， &quot;[!UICONTROL 今天的投放]、和[!UICONTROL 今天的目标].&quot; |
 
 {style=&quot;table-layout:auto&quot;}
 
-### [!DNL Advertising Cloud Search] 中的新增功能 {#adcloud-search}
+<!--
 
-上次更新：**2022 年 9 月 9 日**&#x200B;发布 9 月 10 日版
+### New features in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-| 功能 | 描述 |
+Last updated: **September 9, 2022** for September 10 release
+
+| Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL 促销活动] | （[!DNL Google Ads] 帐户；测试版功能）您现在可以创建和管理 [!DNL Google Ads] 性能最大化活动，使用 [!UICONTROL  活动类型]“[!UICONTROL 性能最高化]”，通过 [!DNL Google Ads] 智能竞价，显示和优化跨渠道广告的转化。 |
-|  | （[!DNL Google Ads] 帐户）“活动”>“广告”视图现在包括可选的[!UICONTROL 广告强度]列，该列表明每个响应性搜索广告 (RSA) 在性能方面遵循[!DNL Google Ads] 最佳实践的程度。<br><br>[!DNL Microsoft® Advertising] 尚未通过其 API 启用类似支持。 |
-|  | （[!DNL Microsoft® Advertising] 帐户）对于您在 [!DNL Microsoft® Audience Network] 上现有的原生广告营销活动（包括 [!DNL Microsoft®] 受众广告）支持同步、只读和报告（包括浏览转化数据）。 |
-| [!UICONTROL 营销活动]、[!UICONTROL 报告] | 在接下来的几周内，更多的发布者印象分享量度将作为营销活动管理视图和报告中的列提供。 |
-| [!UICONTROL 转化值规则] | （[!DNL Google Ads accounts] 帐户；测试版功能）您现在可以在[!UICONTROL “优化”]>[!UICONTROL “转化值规则”]中查看现有转化值规则。 具有 [!DNL Google Ads] 个人帐户或更低级别的转化跟踪的广告商也可以创建和管理规则。 |
-| [!UICONTROL 项目组合] | （选择启用测试版功能；[!DNL Google Ads] 帐户）混合项目组合中具有[!UICONTROL 最大转化量]竞价策略的 [!DNL YouTube] 营销活动现包含在自定义模拟结果中。 混合项目组合必须仅包含 [!DNL YouTube] 营销活动。<br><br>要参加测试计划，请联系您的客户团队。 |
-| [!UICONTROL 广告见解] | [!UICONTROL 广告见解]视图具有全新外观和工作流程，其基于新基础架构，提高了性能和可靠性。 现在，只需点击见解名称，选择或输入设置，然后点击[!UICONTROL 生成见解]。<br><br>要暂时返回到旧视图，请启用右上角的[!UICONTROL 切换到旧 UI]。 旧视图将在 9 月底删除。 |
-|  | [!UICONTROL 查询交叉匹配测试版]分析现在可用。 |
-| [!UICONTROL 报告] | （仅限 [!DNL Google Ads] 帐户）新的专业报告[!UICONTROL RSA 资产报告]显示了一个或多个项目组合或一个或更多帐户、营销活动和广告组中响应搜索广告 (RSA) 每个资产（[!UICONTROL 创意标题]或[!UICONTROL 描述]）的印象指标。 默认情况下，对于在指定数据范围内至少收到一个印象的每个资产，数据包括一行，即使该资产在报告期间被禁用（移除）。 **注释：**&#x200B;当您选择选项“[!UICONTROL 包括没有性能数据的行]”时，数据仍然不会包括从未收到数据的资产数据。 |
-|  | [!UICONTROL 广告变体报告]中提供了对响应式搜索广告 (RSA) 的其他支持：<ul><ul>（仅限 [!DNL Google Ads] 帐户）在[!UICONTROL 列]设置中，全新“[!UICONTROL 广告强度]”列表明每个 RSA 在性能方面遵循 [!DNL Google Ads] 最佳实践的程度。 “[!UICONTROL 营销活动]”>“[!UICONTROL 广告]”视图中提供了相同的列。 [!DNL Microsoft® Advertising] 尚未通过其 API 启用类似支持。</li><li>在[!UICONTROL 列]设置中，您可以按[!UICONTROL 创意标题]和[!UICONTROL 描述]对报告结果进行排序。</li><li>在[!UICONTROL 高级过滤器]设置中，您可以通过[!UICONTROL 广告文本]字段进行过滤，该字段适用于[!UICONTROL 创意标题]和[!UICONTROL 描述]。</li></ul> |
-| [!UICONTROL Recommendations] | （[!DNL Google Ads] 账户；测试版功能）在“[!UICONTROL 见解与报告]”>“[!UICONTROL Recommendations 测试版]”中，您可以：<ul><li>概览尚未针对 [!DNL Google Ads] 账户采取行动的所有推荐。</li><li>应用和驳回针对帐户的建议。</li><li>查看应用于帐户的每个建议的日志。</li></ul><br>支持的建议：<li><strong>建议类别；建议类型；描述</strong></li><li>广告和扩展；CALL_EXTENSION；将调用扩展添加到营销活动</li><li>广告和扩展；CALLOUT_EXTENSION；将标注扩展添加到营销活动</li><li>广告和扩展；OPTIMIZE_AD_ROTATION；使用经过优化的广告轮换</li><li>广告和扩展；RESPONSIVE SEARCH_AD；添加新的响应式搜索广告</li><li>广告和扩展；RESPONSIVE_SEARCH_AD_ASSET；将响应式搜索广告资源添加到广告</li><li>广告和扩展；SITELINK_EXTENSION;添加 [!UICONTROL 站点链接] Campaign扩展</li><li>广告和扩展；TEXT_AD；添加广告推荐</li><li>竞价和预算；CAMPAIGN BUDGET；修复受预算限制的营销活动</li><li>竞价和预算；ENHANCED_CPC_OPT_IN；用“增强 CPC”竞价</li><li>竞价和预算；FORECASTING_CAMPAIGN BUDGET；修复以后应变为受预算限制的营销活动</li><li>竞价和预算；MARGINAL ROI_CAMPAIGN BUDGET；调整营销活动预算以提高 ROI</li><li>竞价和预算；MAXIMIZE CLICKS OPT_IN；用“尽可能提高点击次数”竞价</li><li>竞价和预算；MAXIMIZE CONVERSIONS OPT_IN；用“尽可能提高转化次数”竞价</li><li>竞价和预算；MOVE_UNUSED_BUDGET；将未使用的预算移至受限的预算</li><li>竞价和预算；TARGET_CPA_OPT_IN；用“目标 CPA”竞价</li><li>竞价和预算；TARGET_ROAS_OPT_IN；用“目标 ROAS”竞价</li><li>关键词和定位；KEYWORD；添加新的关键词</li><li>关键词和定位；SEARCH_PARTNERS_OPT_IN；用 Google 搜索合作伙伴扩大作用范围</li><li>关键词和定位；USE_BROAD MATCH KEYWORD；将广泛匹配基于转化的营销活动与<strong>基于全自动转化的竞价</strong>一起使用</li> |
-| [!UICONTROL 导入营销活动] | （测试功能）您可以从“[!UICONTROL 工具]”>“[!UICONTROL 导入营销活动]”，将包括广告图像在内的 [!DNL Google Display Network] 营销活动内容导入 [!DNL Microsoft® Audience Network] 上的 [!DNL Microsoft® Advertising] 受众营销活动中。 导入活动后，您可以检查导入任务的状态、查看任何错误日志，以及编辑、暂停或删除导入计划。 |
+| [!UICONTROL Campaigns] | ([!DNL Google Ads] accounts; beta feature) You can now create and manage [!DNL Google Ads] performance max campaigns, which show and optimize conversions for your ads across channels using [!DNL Google Ads] smart bidding, using the [!UICONTROL Campaign Type] "[!UICONTROL Performance Max]."  |
+|  | ([!DNL Google Ads] accounts) The Campaigns > Ads view now includes an optional [!UICONTROL Ad Strength] column, which indicates how well each responsive search ad (RSA) follows [!DNL Google Ads] best practices for performance.<br><br>[!DNL Microsoft&reg; Advertising] doesn't yet enable similar support via their API. |
+|  | ([!DNL Microsoft&reg; Advertising] accounts) Synchronization, read-only, and reporting (including view-through data) support are now available for your existing native ad campaigns on the [!DNL Microsoft&reg; Audience Network], including those with [!DNL Microsoft&reg;] audience ads. |
+| [!UICONTROL Campaigns], [!UICONTROL Reports] | More publisher impression share metrics become available in the following weeks as columns in the campaign management views and reports. |
+| [!UICONTROL Conversion Value Rules] | ([!DNL Google Ads accounts]; beta feature) You can now view your existing conversion value rules from [!UICONTROL Optimization] > [!UICONTROL Conversion Value Rules]. Advertisers with [!DNL Google Ads] conversion tracking at the individual account level or lower can also create and manage rules. |
+| [!UICONTROL Portfolios] | (Opt-in beta feature; [!DNL Google Ads] accounts) [!DNL YouTube] campaigns with the [!UICONTROL Maximize Conversions] bid strategy in hybrid portfolios are now included in custom simulation results. The hybrid portfolio must include only [!DNL YouTube] campaigns.<br><br>To participate in the beta program, contact your account team. |
+| [!UICONTROL Advertising Insights] | The [!UICONTROL Advertising Insights] view has a new look and workflow, based on a new infrastructure that improves performance and reliability. Now, just click an insight name, select or enter the settings, and then click [!UICONTROL Generate Insight].<br><br>To temporarily return to the legacy view, enable [!UICONTROL Switch to old UI] in the upper right. The legacy view will be removed at the end of September. |
+|  | The [!UICONTROL Query Cross Matching Beta] analysis is now available. |
+| [!UICONTROL Reports] | ([!DNL Google Ads] accounts only) The new specialty report [!UICONTROL RSA Assets Report] shows impression metrics for each asset ([!UICONTROL Creative Title] or [!UICONTROL Description]) for the responsive search ads (RSAs) in one or more portfolios or one or more accounts, campaigns, and ad groups. By default, data includes one row for each asset that received at least one impression in the specified data range, even if the asset was disabled (removed) during the reporting period. **Note:** When you select the option to "[!UICONTROL Include rows with no performance data]," the data still won't include data for assets that have never received data. |
+|  | Additional support for responsive search ads (RSA) is available in the [!UICONTROL Ad Variation Report]:<ul><ul>([!DNL Google Ads] accounts only) In the [!UICONTROL Columns] settings, a new "[!UICONTROL Ad Strength]" column indicates how well the RSA follows [!DNL Google Ads] best practices for performance. The same column is available in the [!UICONTROL Campaigns] > [!UICONTROL Ads] view. [!DNL Microsoft&reg; Advertising] doesn't yet enable similar support via their API.</li><li>In the [!UICONTROL Columns] settings, you can sort the report results by [!UICONTROL Creative Titles] and by [!UICONTROL Descriptions].</li><li>In the [!UICONTROL Advanced Filters] settings, you can filter by the [!UICONTROL Ad Text] field, which applies to both [!UICONTROL Creative Titles] and [!UICONTROL Descriptions].</li></ul> |
+| [!UICONTROL Recommendations] | ([!DNL Google Ads] accounts; beta feature) Within [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations Beta], you can:<ul><li>See at a glance all recommendations that haven't been acted on for a [!DNL Google Ads] account.</li><li>Apply and dismiss the recommendations for an account.</li><li>View logs of each recommendation that was applied for an account.</li></ul><br>Supported Recommendations:<li><strong>Recommendation Category; Recommendation Type; Description</strong></li><li>Ads & extensions; CALL_EXTENSION; Add call extensions to campaign</li><li>Ads & extensions; CALLOUT_EXTENSION; Add callout extensions to campaign</li><li>Ads & extensions; OPTIMIZE_AD_ROTATION; Use optimized ad rotations</li><li>Ads & extensions; RESPONSIVE SEARCH_AD; Add new responsive search ad</li><li>Ads & extensions; RESPONSIVE_SEARCH_AD_ASSET; Add responsive search ad assets to an ad</li><li>Ads & extensions; SITELINK_EXTENSION; Add [!UICONTROL sitelink] extensions to Campaign</li><li>ads & extensions; TEXT_AD; Add ad suggestions</li><li>Bidding & budgets; CAMPAIGN BUDGET; Fix campaigns Limited by budget</li><li>Bidding & budgets; ENHANCED_CPC_OPT_IN; Bid with Enhanced CPC</li><li>Bidding & budgets; FORECASTING_CAMPAIGN BUDGET; Fix campaigns that are expected to become Limited by budget in the future</li><li>Bidding & budgets; MARGINAL ROI_CAMPAIGN BUDGET; Adjust campaign budget to increase ROI</li><li>Bidding & budgets; MAXIMIZE CLICKS OPT_IN; Bid with Maximize Clicks</li><li>Bidding & budgets; MAXIMIZE CONVERSIONS OPT_IN; Bid with Maximize Conversions</li><li>Bidding & budgets; MOVE_UNUSED_BUDGET; Move unused to constrained budgets</li><li>Bidding & budgets; TARGET_CPA_OPT_IN; Bid with Target CPA</li><li>Bidding & budgets; TARGET_ROAS_OPT_IN; Bid with Target ROAS</li><li>Keywords & targeting; KEYWORD; Add new keywords</li><li>keywords & targeting; SEARCH_PARTNERS_OPT_IN; Expand reach with Google search partners</li><li>keywords & targeting; USE_BROAD MATCH KEYWORD; Use broad match for conversion-based campaigns with <strong>Fully Automated Conversion Based Bidding</strong></li> |
+| [!UICONTROL Import Campaigns] | (Beta feature) You can import your [!DNL Google Display Network] campaigns, including ad images, into [!DNL Microsoft&reg; Advertising] audience campaigns on the [!DNL Microsoft&reg; Audience Network] from [!UICONTROL Tools] > [!UICONTROL Import Campaigns]. Once you import campaigns, you can check the status of your import job, review any error logs, and edit, pause, or delete your import schedule. |
 
-{style=&quot;table-layout:auto&quot;}
+-->
 
 ## ![图标](/assets/document-cloud-24.png) Adobe Document Cloud {#doc-cloud}
 
@@ -520,31 +523,31 @@ Last updated: **August 9, 2022**
 
 | 发布日期 | 名称 | 类型 | 描述 | 应用程序 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2022 年 10 月 | [扫描任何内容以PDF](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/mobile/scan-mobile-app.html) | 视频 | 了解如何使用免费的Adobe Scan移动应用程序将任何纸面文档转换为PDF。 | Acrobat |
-| 2022 年 10 月 | [组织页面](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/organize.html?lang=zh-Hans) | 更新的视频 | 了解如何按您喜欢的方式重新排列页面 — 只需几秒钟即可完成。 插入、替换、拆分、重新排序、旋转甚至提取不连续的页面，以创建具有专业外观的PDF。 | Acrobat |
-| 2022 年 10 月 | [使用来自Dropbox的文件](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/acrobat-dropbox.html?lang=en) | 视频 | 了解如何从Acrobat内部打开、创建、编辑、签署和保存对Dropbox文件所做的更改。 | Acrobat |
-| 2022 年 10 月 | [使用电源自动存档SharePoint中的文件](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/auto-archive-sharepoint-power-automate.html?lang=en) | 视频 | 了解如何使用Power Automate将已签名文档自动存档到SharePoint库。 | Acrobat Sign |
-| 2022 年 10 月 | [在Salesforce中设置数据映射](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/salesforce/set-up-data-mapping.html?) | 视频 | 了解如何在Salesforce中为Acrobat Sign设置数据映射。 利用数据映射，可在签署协议后将数据拉回到Salesforce中。 | Acrobat Sign |
-| 2022 年 10 月 | [设置外部存档](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/set-up-your-external-archive.html?lang=en) | 视频 | 了解如何为已签署协议的备份副本创建外部存档。 | Acrobat Sign |
-| 2022 年 10 月 | [管理和跟踪协议](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-managing/manage-and-track.html?lang=en) | 更新的视频 | 了解如何在Acrobat Sign中管理和跟踪发送以供签名的文档。 | Acrobat Sign |
-| 2022 年 10 月 | [在Salesforce中设置合并映射](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/salesforce/set-up-merging-map.html?lang=en) | 更新的视频 | 了解如何将Salesforce中的数据直接合并到Acrobat Sign文档中。 | Acrobat Sign |
-| 2022 年 10 月 | [适用于Salesforce的文档生成器](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/salesforce/create-an-agreement-template.html) | 视频 | 了解如何使用Document Builder for Salesforce创建可重用的文档模板。 | Acrobat Sign |
-| 2022 年 10 月 | [管理Web窗体数据](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/manage-webform-data.html?lang=en) | 视频 | 了解如何跟踪、管理和导出Web窗体中的数据。 | Acrobat Sign |
-| 2022 年 10 月 | [液态模式在Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-tutorials/liquidmode.html?lang=zh-Hans) | 视频 | 了解液态模式如何改善移动签名体验。在尝试读取和签署文档时，无需再进行捏合和缩放。 | Acrobat Sign |
+| 2022 年 10 月 | [将任何内容扫描为 PDF](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/mobile/scan-mobile-app.html) | 视频 | 了解如何使用免费的 Adobe Scan 移动应用程序将任何纸质文档转换为 PDF。 | Acrobat |
+| 2022 年 10 月 | [组织页面](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/organize.html?lang=zh-Hans) | 更新的视频 | 了解如何以您喜欢的方式重新排列页面 - 只需几秒钟即可完成。插入、替换、拆分、重新排序、旋转甚至提取不连续的页面以创建具有专业外观的 PDF。 | Acrobat |
+| 2022 年 10 月 | [处理来自 Dropbox 的文件](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/acrobat-dropbox.html?lang=en) | 视频 | 了解如何从 Acrobat 内部打开、创建、编辑、签名和保存对 Dropbox 文件的更改。 | Acrobat |
+| 2022 年 10 月 | [使用 Power Automate 自动归档 SharePoint 中的文件](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/auto-archive-sharepoint-power-automate.html?lang=en) | 视频 | 了解如何使用 Power Automate 将签名文档自动存档到 SharePoint 库。 | Acrobat Sign |
+| 2022 年 10 月 | [在 Salesforce 中设置数据映射](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/salesforce/set-up-data-mapping.html?) | 视频 | 了解如何在 Salesforce 中为 Acrobat Sign 设置数据映射。 数据映射允许您在签署协议后将数据提取回 Salesforce。 | Acrobat Sign |
+| 2022 年 10 月 | [设置外部档案](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/set-up-your-external-archive.html?lang=en) | 视频 | 了解如何为已签署协议的备份副本创建外部档案。 | Acrobat Sign |
+| 2022 年 10 月 | [管理和跟踪您的协议](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-managing/manage-and-track.html?lang=en) | 更新的视频 | 了解如何在 Acrobat Sign 中管理和跟踪发送以供签名的文档。 | Acrobat Sign |
+| 2022 年 10 月 | [在 Salesforce 中设置合并映射](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/salesforce/set-up-merging-map.html?lang=en) | 更新的视频 | 了解如何将 Salesforce 中的数据直接合并到 Acrobat Sign 文档中。 | Acrobat Sign |
+| 2022 年 10 月 | [Document Builder for Salesforce](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/salesforce/create-an-agreement-template.html) | 视频 | 了解如何使用 Document Builder for Salesforce 创建可重复使用的文档模板。 | Acrobat Sign |
+| 2022 年 10 月 | [管理 Web 表单数据](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/manage-webform-data.html?lang=en) | 视频 | 了解如何跟踪、管理和导出 Web 表单中的数据。 | Acrobat Sign |
+| 2022 年 10 月 | [Acrobat Sign 中的液态模式](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-tutorials/liquidmode.html?lang=zh-Hans) | 视频 | 了解液态模式如何改善移动签名体验。在尝试阅读和签署文档时不再需要捏合和缩放。 | Acrobat Sign |
 | 2022 年 9 月 | [注册开发人员帐户](https://experienceleague.adobe.com/docs/document-services/tutorials/acrobatsign/oem/sign-up-developer-account.html?lang=en) | 视频 | 在&#x200B;_Acrobat Sign Embed 快速入门指南_&#x200B;第 1 部分中，学习如何注册 Acrobat Sign API 开发人员帐户。 您的新开发人员帐户已完全启用签名和 API 功能。 | 文档服务 |
 | 2022 年 9 月 | [创建您的应用程序](https://experienceleague.adobe.com/docs/document-services/tutorials/acrobatsign/oem/creating-your-application.html?lang=en) | 视频 | 在&#x200B;_Acrobat Sign Embed 快速入门指南_&#x200B;第 2 部分中，了解如何使用 Acrobat Sign API 创建应用程序。 | 文档服务 |
 | 2022 年 9 月 | [创建嵌入链接](https://experienceleague.adobe.com/docs/document-services/tutorials/acrobatsign/oem/creating-an-embed-link.html?lang=en) | 视频 | 在&#x200B;_Acrobat Sign Embed 快速入门指南_&#x200B;第 3 部分中，了解如何为 OAuth 创建嵌入链接。 您的应用程序使用此 OAuth 方法获取用户的权限。 | 文档服务 |
 | 2022 年 9 月 | [生成访问令牌](https://experienceleague.adobe.com/docs/document-services/tutorials/acrobatsign/oem/generating-an-access-token.html?lang=en) | 视频 | 在&#x200B;_Acrobat Sign Embed 快速入门指南_&#x200B;第 4 部分中，了解如何生成可与 Acrobat Sign API 一起使用的访问令牌。 | 文档服务 |
 | 2022 年 9 月 | [创建临时文档](https://experienceleague.adobe.com/docs/document-services/tutorials/acrobatsign/oem/creating-a-transient-document.html?lang=en) | 视频 | 在&#x200B;_Acrobat Sign Embed 快速入门指南_&#x200B;第 5 部分中，了解如何创建临时文档。 | 文档服务 |
-| 2022 年 9 月 | [自动调整版面](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/auto-adjust-layout.html?lang=en) | 视频 | 了解重新显示内容并自动调整 PDF 页面版面的新编辑模式。 | Acrobat |
+| 2022 年 9 月 | [自动调整版面](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/auto-adjust-layout.html?lang=zh-Hans) | 视频 | 了解重新显示内容并自动调整 PDF 页面版面的新编辑模式。 | Acrobat |
 | 2022 年 9 月 | [添加自定义页面](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/add-custom-page.html) | 视频 | 了解如何使用集成的 Adobe Express 应用程序将自定义页面添加到 PDF 中，该应用程序提供了数千个模板供您选择。 | Acrobat |
-| 2022 年 9 月 | [修改现有 Web 表单](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html?lang=en) | 视频 | 了解如何禁用、编辑和重新启用现有 Web 表单。 | Acrobat Sign |
-| 2022 年 9 月 | [创建报告](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report.html?lang=en) | 视频 | 了解如何构建您自己的报告，从而了解文档签名过程，或者了解各个组或用户的情况。 | Acrobat Sign |
-| 2022 年 9 月 | [创建报告图表](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-report.html?lang=en) | 更新的视频 | 了解如何使用新的报告体验在个性化视图中构建、保存和管理您自己的自定义报告和数据导出。 | Acrobat Sign |
-| 2022 年 9 月 | [构建自定义工作流](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/building-a-custom-workflow.html?lang=en) | 更新的视频 | 了解如何定制和自动化文档工作流以获取电子签名、收集表单数据和确认重要文档的交付，从而简化工作流管理。 | Acrobat Sign |
-| 2022 年 9 月 | [在 Microsoft Teams 中发送签名](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/adobe-sign-teams-mortgage.html?lang=en) | 更新的视频 | 了解如何从 Microsoft Teams 中发送协议供签名，检查协议的状态，并发送提醒。 | Acrobat Sign |
-| 2022 年 9 月 | 转到[向文档中添加字段](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/adding-fields.html?lang=en) | 更新的视频 | 了解如何在文档中自动放置字段，或使用 Acrobat Sign 中的拖放创作环境。 | Acrobat Sign |
-| 2022 年 9 月 | 配置[配置发送选项](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/sending-options.html?lang=en) | 更新的视频 | 了解如何在发送文档进行签名时配置各种选项。 | Acrobat Sign |
+| 2022 年 9 月 | [修改现有 Web 表单](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html?lang=zh-Hans) | 视频 | 了解如何禁用、编辑和重新启用现有 Web 表单。 | Acrobat Sign |
+| 2022 年 9 月 | [创建报告](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report.html?lang=zh-Hans) | 视频 | 了解如何构建您自己的报告，从而了解文档签名过程，或者了解各个组或用户的情况。 | Acrobat Sign |
+| 2022 年 9 月 | [创建报告图表](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-report.html?lang=zh-Hans) | 更新的视频 | 了解如何使用新的报告体验在个性化视图中构建、保存和管理您自己的自定义报告和数据导出。 | Acrobat Sign |
+| 2022 年 9 月 | [构建自定义工作流](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/building-a-custom-workflow.html?lang=zh-Hans) | 更新的视频 | 了解如何定制和自动化文档工作流以获取电子签名、收集表单数据和确认重要文档的交付，从而简化工作流管理。 | Acrobat Sign |
+| 2022 年 9 月 | [在 Microsoft Teams 中发送签名](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/adobe-sign-teams-mortgage.html?lang=zh-Hans) | 更新的视频 | 了解如何从 Microsoft Teams 中发送协议供签名，检查协议的状态，并发送提醒。 | Acrobat Sign |
+| 2022 年 9 月 | 转到[向文档中添加字段](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/adding-fields.html?lang=zh-Hans) | 更新的视频 | 了解如何在文档中自动放置字段，或使用 Acrobat Sign 中的拖放创作环境。 | Acrobat Sign |
+| 2022 年 9 月 | 配置[配置发送选项](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/sending-options.html?lang=zh-Hans) | 更新的视频 | 了解如何在发送文档进行签名时配置各种选项。 | Acrobat Sign |
 
 {style=&quot;table-layout:auto&quot;}
 
