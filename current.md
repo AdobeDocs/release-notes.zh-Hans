@@ -6,7 +6,7 @@ last-update: October 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e9a58cfb7742eb9326a02b4992e3c73aab9f5682
+source-git-commit: a1db402fe3fdb8aa8d603c32785f7026dc7fb5d0
 workflow-type: tm+mt
 source-wordcount: '6826'
 ht-degree: 74%
@@ -540,7 +540,7 @@ Last updated: **August 9, 2022**
 | 2022 年 9 月 | [添加自定义页面](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/add-custom-page.html) | 视频 | 了解如何使用集成的 Adobe Express 应用程序将自定义页面添加到 PDF 中，该应用程序提供了数千个模板供您选择。 | Acrobat |
 | 2022 年 9 月 | [修改现有 Web 表单](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html?lang=en) | 视频 | 了解如何禁用、编辑和重新启用现有 Web 表单。 | Acrobat Sign |
 | 2022 年 9 月 | [创建报告](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report.html?lang=en) | 视频 | 了解如何构建您自己的报告，从而了解文档签名过程，或者了解各个组或用户的情况。 | Acrobat Sign |
-| 2022 年 9 月 | [创建报告图表](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-report.html?lang=en) | 视频（更新） | 了解如何使用新的报告体验在个性化视图中构建、保存和管理您自己的自定义报告和数据导出。 | Acrobat Sign |
+| 2022 年 9 月 | [创建报告图表](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-report.html?lang=en) | 更新的视频 | 了解如何使用新的报告体验在个性化视图中构建、保存和管理您自己的自定义报告和数据导出。 | Acrobat Sign |
 | 2022 年 9 月 | [构建自定义工作流](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/building-a-custom-workflow.html?lang=en) | 更新的视频 | 了解如何定制和自动化文档工作流以获取电子签名、收集表单数据和确认重要文档的交付，从而简化工作流管理。 | Acrobat Sign |
 | 2022 年 9 月 | [在 Microsoft Teams 中发送签名](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/adobe-sign-teams-mortgage.html?lang=en) | 更新的视频 | 了解如何从 Microsoft Teams 中发送协议供签名，检查协议的状态，并发送提醒。 | Acrobat Sign |
 | 2022 年 9 月 | 转到[向文档中添加字段](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/adding-fields.html?lang=en) | 更新的视频 | 了解如何在文档中自动放置字段，或使用 Acrobat Sign 中的拖放创作环境。 | Acrobat Sign |
