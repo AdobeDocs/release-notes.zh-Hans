@@ -6,10 +6,10 @@ last-update: October 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 2c7229afcce0251cb463a526381f09bbc8531e6e
+source-git-commit: 76804dc71f9585f1d2e4171c32359c1ce53ac256
 workflow-type: tm+mt
-source-wordcount: '5994'
-ht-degree: 99%
+source-wordcount: '6619'
+ht-degree: 91%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 99%
 
 此页面提供对 Experience Cloud 产品发行说明页面以及 Experience League 上最新教程、课程和活动的访问权限。
 
-最新更新日期：**2022 年 10 月 4 日**
+最新更新日期：**2022 年 10 月 14 日**
 
 * [[!DNL Experience League] 活动](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -467,8 +467,7 @@ Experience League 上的新[!DNL Workfront]课程和教程系列。
 
 <!-- * [New features across [!DNL Advertising Cloud]](#adcloud-all) -->
 * [ [!DNL Advertising Cloud DSP] 中的新增功能](#adcloud-dsp)
-
-<!-- * [New features in [!DNL Advertising Cloud Search]](#adcloud-search) -->
+* [ [!DNL Advertising Cloud Search] 中的新增功能](#adcloud-search)
 <!-- * [New [!DNL Advertising Cloud] tutorials](#tutorials-ad-cloud) -->
 
 <!--
@@ -494,28 +493,22 @@ Last updated: **August 9, 2022**
 
 {style=&quot;table-layout:auto&quot;}
 
-<!--
+### [!DNL Advertising Cloud Search] 中的新增功能 {#adcloud-search}
 
-### New features in [!DNL Advertising Cloud Search] {#adcloud-search}
+上次更新时间： **2022年10月14日** 对于10月15日版本
 
-Last updated: **September 9, 2022** for September 10 release
-
-| Feature | Description |
+| 功能 | 描述 |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | ([!DNL Google Ads] accounts; beta feature) You can now create and manage [!DNL Google Ads] performance max campaigns, which show and optimize conversions for your ads across channels using [!DNL Google Ads] smart bidding, using the [!UICONTROL Campaign Type] "[!UICONTROL Performance Max]."  |
-|  | ([!DNL Google Ads] accounts) The Campaigns > Ads view now includes an optional [!UICONTROL Ad Strength] column, which indicates how well each responsive search ad (RSA) follows [!DNL Google Ads] best practices for performance.<br><br>[!DNL Microsoft&reg; Advertising] doesn't yet enable similar support via their API. |
-|  | ([!DNL Microsoft&reg; Advertising] accounts) Synchronization, read-only, and reporting (including view-through data) support are now available for your existing native ad campaigns on the [!DNL Microsoft&reg; Audience Network], including those with [!DNL Microsoft&reg;] audience ads. |
-| [!UICONTROL Campaigns], [!UICONTROL Reports] | More publisher impression share metrics become available in the following weeks as columns in the campaign management views and reports. |
-| [!UICONTROL Conversion Value Rules] | ([!DNL Google Ads accounts]; beta feature) You can now view your existing conversion value rules from [!UICONTROL Optimization] > [!UICONTROL Conversion Value Rules]. Advertisers with [!DNL Google Ads] conversion tracking at the individual account level or lower can also create and manage rules. |
-| [!UICONTROL Portfolios] | (Opt-in beta feature; [!DNL Google Ads] accounts) [!DNL YouTube] campaigns with the [!UICONTROL Maximize Conversions] bid strategy in hybrid portfolios are now included in custom simulation results. The hybrid portfolio must include only [!DNL YouTube] campaigns.<br><br>To participate in the beta program, contact your account team. |
-| [!UICONTROL Advertising Insights] | The [!UICONTROL Advertising Insights] view has a new look and workflow, based on a new infrastructure that improves performance and reliability. Now, just click an insight name, select or enter the settings, and then click [!UICONTROL Generate Insight].<br><br>To temporarily return to the legacy view, enable [!UICONTROL Switch to old UI] in the upper right. The legacy view will be removed at the end of September. |
-|  | The [!UICONTROL Query Cross Matching Beta] analysis is now available. |
-| [!UICONTROL Reports] | ([!DNL Google Ads] accounts only) The new specialty report [!UICONTROL RSA Assets Report] shows impression metrics for each asset ([!UICONTROL Creative Title] or [!UICONTROL Description]) for the responsive search ads (RSAs) in one or more portfolios or one or more accounts, campaigns, and ad groups. By default, data includes one row for each asset that received at least one impression in the specified data range, even if the asset was disabled (removed) during the reporting period. **Note:** When you select the option to "[!UICONTROL Include rows with no performance data]," the data still won't include data for assets that have never received data. |
-|  | Additional support for responsive search ads (RSA) is available in the [!UICONTROL Ad Variation Report]:<ul><ul>([!DNL Google Ads] accounts only) In the [!UICONTROL Columns] settings, a new "[!UICONTROL Ad Strength]" column indicates how well the RSA follows [!DNL Google Ads] best practices for performance. The same column is available in the [!UICONTROL Campaigns] > [!UICONTROL Ads] view. [!DNL Microsoft&reg; Advertising] doesn't yet enable similar support via their API.</li><li>In the [!UICONTROL Columns] settings, you can sort the report results by [!UICONTROL Creative Titles] and by [!UICONTROL Descriptions].</li><li>In the [!UICONTROL Advanced Filters] settings, you can filter by the [!UICONTROL Ad Text] field, which applies to both [!UICONTROL Creative Titles] and [!UICONTROL Descriptions].</li></ul> |
-| [!UICONTROL Recommendations] | ([!DNL Google Ads] accounts; beta feature) Within [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations Beta], you can:<ul><li>See at a glance all recommendations that haven't been acted on for a [!DNL Google Ads] account.</li><li>Apply and dismiss the recommendations for an account.</li><li>View logs of each recommendation that was applied for an account.</li></ul><br>Supported Recommendations:<li><strong>Recommendation Category; Recommendation Type; Description</strong></li><li>Ads & extensions; CALL_EXTENSION; Add call extensions to campaign</li><li>Ads & extensions; CALLOUT_EXTENSION; Add callout extensions to campaign</li><li>Ads & extensions; OPTIMIZE_AD_ROTATION; Use optimized ad rotations</li><li>Ads & extensions; RESPONSIVE SEARCH_AD; Add new responsive search ad</li><li>Ads & extensions; RESPONSIVE_SEARCH_AD_ASSET; Add responsive search ad assets to an ad</li><li>Ads & extensions; SITELINK_EXTENSION; Add [!UICONTROL sitelink] extensions to Campaign</li><li>ads & extensions; TEXT_AD; Add ad suggestions</li><li>Bidding & budgets; CAMPAIGN BUDGET; Fix campaigns Limited by budget</li><li>Bidding & budgets; ENHANCED_CPC_OPT_IN; Bid with Enhanced CPC</li><li>Bidding & budgets; FORECASTING_CAMPAIGN BUDGET; Fix campaigns that are expected to become Limited by budget in the future</li><li>Bidding & budgets; MARGINAL ROI_CAMPAIGN BUDGET; Adjust campaign budget to increase ROI</li><li>Bidding & budgets; MAXIMIZE CLICKS OPT_IN; Bid with Maximize Clicks</li><li>Bidding & budgets; MAXIMIZE CONVERSIONS OPT_IN; Bid with Maximize Conversions</li><li>Bidding & budgets; MOVE_UNUSED_BUDGET; Move unused to constrained budgets</li><li>Bidding & budgets; TARGET_CPA_OPT_IN; Bid with Target CPA</li><li>Bidding & budgets; TARGET_ROAS_OPT_IN; Bid with Target ROAS</li><li>Keywords & targeting; KEYWORD; Add new keywords</li><li>keywords & targeting; SEARCH_PARTNERS_OPT_IN; Expand reach with Google search partners</li><li>keywords & targeting; USE_BROAD MATCH KEYWORD; Use broad match for conversion-based campaigns with <strong>Fully Automated Conversion Based Bidding</strong></li> |
-| [!UICONTROL Import Campaigns] | (Beta feature) You can import your [!DNL Google Display Network] campaigns, including ad images, into [!DNL Microsoft&reg; Advertising] audience campaigns on the [!DNL Microsoft&reg; Audience Network] from [!UICONTROL Tools] > [!UICONTROL Import Campaigns]. Once you import campaigns, you can check the status of your import job, review any error logs, and edit, pause, or delete your import schedule. |
+| [!UICONTROL 项目组合], [!UICONTROL 营销活动] | （选择加入测试版功能）新增了“[!UICONTROL 网络支出限制]“ ”选项允许您定义多网络组合中特定广告网络的预算分配限制。 此选项适用于具有每日、每周和每月支出策略的项目组合，并且仅当“[!UICONTROL 启用促销活动最大支出目标%]“ ”选项未启用。 当[!UICONTROL 自动调整促销活动预算限制]“ ”选项，则约束在为多个和最小促销活动预算设置配置的值内工作。<br><br>基本报表中的新网络约束报表显示所有指定的最小和最大搜索引擎预算，以及您的项目组合的实际支出（成本）。<br><br>要参加测试计划，请联系您的客户团队。 |
+| 促销活动、批量工作表、报表 | (测试版功能，适用于 [!DNL Microsoft Advertising] 帐户)现在，对 [!DNL Microsoft Audience Network]:<ul><li>您现在可以创建、编辑和更改受众营销活动的状态(营销活动类型“[!UICONTROL 受众（图像）]&quot;或&quot;[!UICONTROL 受众（信息源）]“”，广告组(广告组类型“[!UICONTROL 受众]和广告(创意类型“[!UICONTROL 响应式广告]“”) [!UICONTROL 促销活动] 查看和使用批量工作表。</li><li>您可以在 [!UICONTROL 促销活动] 中。 广告级别的性能数据也可在报表和Adobe Analytics中使用(适用于具有 [!DNL Analytics] 集成)。</li></ul>优化支持将在未来版本中提供。 |
+|  | (测试版功能，适用于 [!DNL Microsoft Advertising] 帐户)现在，您可以通过 [!UICONTROL 促销活动] 查看和使用批量工作表。 广告的创意类型为“[!UICONTROL 多媒体广告].&quot;<br><br>您可以在标准组合或混合组合中包含带有多媒体广告的促销活动，但是， [!UICONTROL 目标展示共享] （混合组合中尚不支持）。<br><br>您可以在 [!UICONTROL 促销活动] 中。 广告级别的性能数据也可在报表和 [!DNL Analytics] (对于具有 [!DNL Analytics] 集成)。 |
+| [!UICONTROL 营销活动]、[!UICONTROL 报告] | (测试版功能，适用于 [!DNL Google Ads] 和 [!DNL Microsoft Advertising] 帐户)发布者展示共享量度现在可用作以下促销活动管理视图和报表中的列：<ul><li>营销活动管理视图：除 [!UICONTROL 广告]. <b>注意：</b> 广告级别数据不可从广告网络中获取。</li><li>基本报表：除 [!UICONTROL 广告变体], [!UICONTROL 促销活动每小时]和 [!UICONTROL 网络限制] 报表。 <b>注意：</b> 广告级别数据不可从广告网络中获取。</li><li>专业报表： [!UICONTROL Adwords和Bing Audience Target], [!UICONTROL 促销活动每日展示共享]和 [!UICONTROL 关键词每日展示共享] 报表。</li></ul><b>注意：</b> 因为 [!UICONTROL 促销活动每日展示共享] 和 [!UICONTROL 关键词每日展示共享] 报表现在是冗余的，将在以后的版本中删除。 如果将这些报表类型用于计划报表、模板或电子表格馈送，请使用 [!UICONTROL Campaign] 和 [!UICONTROL 关键词] 报表。 与此同时，某些现有量度在这些报表类型中会重复显示。 |
+| [!UICONTROL 转化值规则] | ([!DNL Google Ads accounts])  [!UICONTROL 转化值规则] 视图现在已过测试版，且通常可用。 使用它可查看您现有的 [!DNL Google Ads] 转化值规则。 具有 [!DNL Google Ads] 个人帐户或更低级别的转化跟踪的广告商也可以创建和管理规则。 |
+| [!UICONTROL 广告见解] | 的 [!UICONTROL 展示共享丢失] 和 [!UICONTROL 查询交叉匹配] 分析现在已经过测试，并且通常可用。 |
+| [!UICONTROL Recommendations] | ([!DNL Google Ads] 帐户) [!UICONTROL Recommendations] 该功能现已通过测试版，且正式可用。<ul><li>概览 [!DNL Google Ads] 尚未为帐户执行的建议。</li><li>应用和驳回针对帐户的建议。</li><li>查看应用于帐户的每个建议的日志。</li></ul> |
+| [!UICONTROL 导入营销活动] | （测试版功能）您可以导入 [!DNL Google Ads] 效果最大促销活动数，包括本地库存广告数 [!DNL Microsoft Advertising] 智能购物促销活动 [!UICONTROL 工具] > [!UICONTROL 导入营销活动]. 导入活动后，您可以检查导入任务的状态、查看任何错误日志，以及编辑、暂停或删除导入计划。 |
 
--->
+{style=&quot;table-layout:auto&quot;}
 
 ## ![图标](/assets/document-cloud-24.png) Adobe Document Cloud {#doc-cloud}
 
