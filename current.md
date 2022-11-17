@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ece304539959b8aa223e378f365852277213822f
+source-git-commit: 843063e0d596a197966d1b5d28b52415f9349a40
 workflow-type: tm+mt
-source-wordcount: '4939'
-ht-degree: 96%
+source-wordcount: '4997'
+ht-degree: 93%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 96%
 
 最新更新日期：**2022 年 11 月 17 日**
 
-* [[!DNL Experience League] 活动](#events)
+* [[!DNL Experience League] 事件](#events) （已更新） **11月17日**)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud — 中央界面组件和管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -55,16 +55,13 @@ ht-degree: 96%
 
 Experience League 活动是您向 Adobe 产品专家学习、与之互动以及获得答案的绝佳方式！
 
-即将举行的活动包括：
+即将开展的活动：
 
-* **[!DNL Journey Optimizer]：** 10 月 25 日 - _通过决策管理在适当的时间提供合适的优惠_
-* **[!DNL Workfront]：** 10 月 25 日 - _咨询专家：工作流程和流程设计网络研讨会跟进_
-* **[!DNL Analytics]：** 11 月 3 日 - _Adobe Analytics 支持者的提示和技巧_
-* **[!DNL Workfront]：** 11 月 4 日 - _Adobe Workfront 管理员闲谈：营销与创意_
-* **[!DNL Experience Manager]：** 11 月 9 日 - _Adobe Developers Live：Headless_
-* **[!DNL Workfront]：** 11 月 9 日 - _Workfront 星期三 - 社区闲谈_
+* [Adobe Target茶歇](https://adobe.ly/3WoLYth) - **11月29日** - _与克里斯蒂内尔·阿纳斯塔索艾的社区问答环节_
+* [客户研讨会](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,CV1iKNbpLkqKFF9xESyysw,DFfNviE55k6tMl7RsYoJyg,NMXSALzWBEqnKt-XKOQe2A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **12月1日** - _向专家提问 — 成功的最终用户采用网络研讨会后续活动_
+* [问答聊天](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,evNBdl6GCUSeWZPl_YjiaA,-4QZcyQkLk2L361yaZCMQQ,N-B6dyCjH0u4kNYfAxueNg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **12月5日** - _CS连接 — 共享战略最佳实践_
 
-要了解最新信息，请参阅 [Experience League 上的活动](https://experienceleague.adobe.com/events/?lang=zh-Hans)以了解即将举行的活动和过去的活动。
+有关完整事件计划，请参阅 [Experience League事件](https://experienceleague.adobe.com/events/?lang=zh-Hans).
 
 ## ![图标](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
