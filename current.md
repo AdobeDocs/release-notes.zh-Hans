@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 531e5fc5b1574e7798458d7c7f19a4c0f22ea7c6
+source-git-commit: ece304539959b8aa223e378f365852277213822f
 workflow-type: tm+mt
-source-wordcount: '5305'
-ht-degree: 99%
+source-wordcount: '4939'
+ht-degree: 96%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 99%
 
 此页面提供对 Experience Cloud 产品发行说明页面以及 Experience League 上最新教程、课程和活动的访问权限。
 
-最新更新日期：**2022 年 11 月 14 日**
+最新更新日期：**2022 年 11 月 17 日**
 
 * [[!DNL Experience League] 活动](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -449,8 +449,9 @@ Experience League 上的新[!DNL Workfront]课程和教程系列。
 [!DNL Adobe Advertising Cloud] 的发行说明。
 
 <!-- * [New features across [!DNL Advertising Cloud]](#adcloud-all) -->
-* [ [!DNL Advertising Cloud DSP] 中的新增功能](#adcloud-dsp)
+<!-- * [New features in [!DNL Advertising Cloud DSP]](#adcloud-dsp) -->
 * [ [!DNL Advertising Cloud Search] 中的新增功能](#adcloud-search)
+
 <!-- * [New [!DNL Advertising Cloud] tutorials](#tutorials-ad-cloud) -->
 
 <!--
@@ -466,30 +467,26 @@ Last updated: **August 9, 2022**
 
 -->
 
-### [!DNL Advertising Cloud DSP] 中的新增功能 {#adcloud-dsp}
+<!--
+### New features in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
-上次更新日期：**2022 年 10 月 6 日**
+Last updated: **October 6, 2022**
 
-| 功能 | 描述 |
+| Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL 营销活动] | （10 月 6 日版）提供适用于[!UICONTROL 营销活动]视图的新的步调相关量度列：**[!UICONTROL 昨天的 OTS]**（关于目标支出）、**[!UICONTROL 昨天的投放]**、**[!UICONTROL 昨天的目标]**、**[!UICONTROL 今天的 OTS]**（关于目标支出）、**[!UICONTROL 今天的投放]**&#x200B;和&#x200B;**[!UICONTROL 今天的目标]**。 |
+| [!UICONTROL Campaigns] | (October 6 release) New pacing-related metric columns are available for the [!UICONTROL Campaigns] views: **[!UICONTROL Yesterday's OTS]** (on target spend), **[!UICONTROL Yesterday's delivery]**, **[!UICONTROL Yesterday's goal]**, **[!UICONTROL Today's OTS]** (on target spend), **[!UICONTROL Today's delivery]**, and **[!UICONTROL Today's Goal]**. |
 
-{style=&quot;table-layout:auto&quot;}
+-->
 
 ### [!DNL Advertising Cloud Search] 中的新增功能 {#adcloud-search}
 
-上次更新日期：**2022 年 10 月 14 日**，适用于 10 月 15 日版
+上次更新时间： **2022年11月17日** 对于11月15日版本
 
 | 功能 | 描述 |
 | ------- | ----------- |
-| [!UICONTROL 项目组合]，[!UICONTROL 营销活动] | （选择启用测试版功能）一个新的&#x200B;**[!UICONTROL 网络支出约束]**&#x200B;选项，可让您为多网络项目组合中的特定广告网络定义预算分配限制。该选项适用于具有每日、每周和每月支出策略的项目组合，并且仅在&#x200B;**[!UICONTROL 启用营销活动最大支出目标百分比]**&#x200B;选项未启用时可用。在选择&#x200B;**[!UICONTROL 自动调整营销活动预算限制]**&#x200B;选项后，约束将适用于为多个和最低营销活动预算设置配置的值。<br><br>[!UICONTROL 基本报告]中的新网络约束报告显示所有指定的最小和最大搜索引擎预算以及项目组合的实际支出（成本）。<br><br>要参加测试版计划，请联系您的客户团队。 |
-| 营销活动、批量处理工作表、报告 | （适用于 [!DNL Microsoft® Advertising] 帐户的测试版功能）现已为 [!DNL Microsoft® Audience Network] 上的营销活动提供以下支持：<ul><li>您现在可以从[!UICONTROL 营销活动]视图中，使用批量处理工作表创建、编辑和更改受众营销活动（营销活动类型&#x200B;**[!UICONTROL 受众（图像）]**&#x200B;或&#x200B;**[!UICONTROL 受众（馈送）]**）、广告组（广告组类型&#x200B;**[!UICONTROL 受众]**）和广告（创意类型&#x200B;**[!UICONTROL 响应式广告]**）的状态。</li><li>您可以在[!UICONTROL 营销活动]视图中查看现有受众营销活动，以及采用表格和趋势图格式的效果数据。报告和 Adobe Analytics 中也提供了广告级别的效果数据（适用于集成了 [!DNL Analytics] 的广告商）。</li></ul>将在未来版本中提供优化支持。 |
-|  | （适用于 [!DNL Microsoft® Advertising] 帐户的测试版功能）您现在可以从[!UICONTROL 营销活动]视图中，使用批量处理工作表在搜索营销活动中创建和管理多媒体广告。广告具有创意类型&#x200B;**[!UICONTROL 多媒体广告]**。<br><br>您可以将带多媒体广告的营销活动与任何支出策略一起包含在标准项目组合或混合项目组合中，但[!UICONTROL 目标展示份额]除外（它在混合项目组合中不受支持）。<br><br>您可以在[!UICONTROL 营销活动]视图中查看现有受众营销活动，以及采用表格和趋势图格式的效果数据。报告和 [!DNL Analytics] 中也提供了广告级别的效果数据（适用于集成了 [!DNL Analytics] 的广告商）。 |
-| [!UICONTROL 营销活动]、[!UICONTROL 报告] | （适用于 [!DNL Google Ads] 和 [!DNL Microsoft® Advertising] 帐户的测试版功能）发布者展示份额量度现已作为以下营销活动管理视图和报告中的列提供：<ul><li>营销活动管理视图：所有营销活动实体视图，但[!UICONTROL 广告]除外。<b>注意：</b>无法从广告网络获得广告级别的数据。</li><li>基本报告：除[!UICONTROL 广告变体]、[!UICONTROL 每小时营销活动]和[!UICONTROL 网络约束]报告以外的所有报告。<b>注意：</b>无法从广告网络获得广告级别的数据。</li><li>专业报告：[!UICONTROL Adwords 和 Bing 受众目标]、[!UICONTROL 营销活动每日展示份额]和[!UICONTROL 关键词每日展示份额]报告。</li></ul><b>注意：</b>由于[!UICONTROL 营销活动每日展示份额]和[!UICONTROL 关键词每日展示份额]报告现在是多余的，因此将来版本中会将这些报告移除。如果您将这些报告类型用于计划报告、模板或电子表格馈送，请改用[!UICONTROL 营销活动]和[!UICONTROL 关键词]报告。同时，在这些报告类型中会重复一些现有量度。 |
-| [!UICONTROL 转化值规则] | （[!DNL Google Ads accounts]）[!UICONTROL 转化值规则]视图现已退出测试版并公开发布。使用它可以查看您现有的 [!DNL Google Ads] 转换值规则。具有个人帐户级别或更低级别的 [!DNL Google Ads] 转化跟踪的广告商也可以创建和管理规则。 |
-| [!UICONTROL 广告见解] | [!UICONTROL 展示份额丢失]和[!UICONTROL 查询交叉匹配]分析现已退出测试版并公开发布。 |
-| [!UICONTROL Recommendations] | （仅限 [!DNL Google Ads] 帐户）[!UICONTROL Recommendations] 功能现已退出测试版并公开发布。<ul><li>概览尚未针对账户采取行动的所有 [!DNL Google Ads] 推荐。</li><li>应用和驳回针对帐户的建议。</li><li>查看应用于帐户的每个建议的日志。</li></ul> |
-| **[!UICONTROL 导入营销活动]** | （测试版功能）您可以从&#x200B;**[!UICONTROL 工具]** > **[!UICONTROL 导入营销活动]**，将包括本地库存广告在内的效果最佳的 [!DNL Google Ads] 营销活动导入 [!DNL Microsoft® Advertising] 智能购物营销活动中。导入活动后，您可以检查导入任务的状态、查看任何错误日志，以及编辑、暂停或删除导入计划。 |
+| 营销活动、批量处理工作表、报告 | ([!DNL Microsoft® Advertising] 帐户)支持 [!DNL Microsoft® Audience Network] 已经超过了测试。<ul><li>您可以创建、编辑和更改受众营销活动的状态(营销活动类型“[!UICONTROL 受众（图像）]&quot;或&quot;[!UICONTROL 受众（信息源）]“”，广告组(广告组类型“[!UICONTROL 受众]和广告(创意类型“[!UICONTROL 响应式广告]“”) [!UICONTROL 促销活动] 查看和使用批量工作表。</li><li>您可以在[!UICONTROL 营销活动]视图中查看现有受众营销活动，以及采用表格和趋势图格式的效果数据。报告和 Adobe Analytics 中也提供了广告级别的效果数据（适用于集成了 [!DNL Analytics] 的广告商）。</li></ul>将在未来版本中提供优化支持。 |
+|  | ([!DNL Microsoft® Advertising] 帐户)多媒体广告支持现在不在测试阶段。 您可以在搜索促销活动中通过 [!UICONTROL 促销活动] 查看和使用批量工作表。 广告具有创意类型[!UICONTROL 多媒体广告]。<br><br>您可以将带多媒体广告的营销活动与任何支出策略一起包含在标准项目组合或混合项目组合中，但[!UICONTROL 目标展示份额]除外（它在混合项目组合中不受支持）。<br><br>您可以在[!UICONTROL 营销活动]视图中查看现有受众营销活动，以及采用表格和趋势图格式的效果数据。报告和 [!DNL Analytics] 中也提供了广告级别的效果数据（适用于集成了 [!DNL Analytics] 的广告商）。 |
+| [!UICONTROL 受众], [!UICONTROL 报表] | (测试版功能，适用于 [!DNL Microsoft® Advertising] 帐户) [!DNL Microsoft® Advertising] 动态再营销受众现在可以在 [!UICONTROL 促销活动] > [!UICONTROL 受众] 和 [!UICONTROL 受众类型] &quot;[!UICONTROL 动态再营销] &lt;*VisitorType*>”（例如“过去的动态再营销购买者”）。 您还可以创建、更新和删除动态再营销受众。<br><br>您可以将受众用作营销活动级别和广告组级别的广告目标和排除项。 目标可以包括竞价修改量。 **注意：** 动态再营销受众目标的竞价修改量在具有“[!UICONTROL 自动优化竞价调整值]“ ”设置。<br><br>在 [!UICONTROL Audience Target报表]. |
 
 {style=&quot;table-layout:auto&quot;}
 
