@@ -6,9 +6,9 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: be3d436320ff1bb71bd3c0e6d0551252b7e56b40
+source-git-commit: c84c5cf8b04236f15c9abdc3330147360ab643d5
 workflow-type: tm+mt
-source-wordcount: '5136'
+source-wordcount: '5147'
 ht-degree: 91%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 91%
 
 此页面提供对 Experience Cloud 产品发行说明页面以及 Experience League 上最新教程、课程和活动的访问权限。
 
-最新更新日期：**2022 年 11 月 17 日**
+最新更新日期：**2022 年 11 月 29 日**
 
 * [[!DNL Experience League] 事件](#events) （已更新） **11月17日**)
 * [[!DNL Adobe System Status]](#status)
@@ -475,14 +475,14 @@ Last updated: **August 9, 2022**
 
 ### [!DNL Advertising Cloud Search] 中的新增功能 {#adcloud-search}
 
-上次更新时间： **2022年11月23日** 对于11月15日版本
+上次更新时间： **2022年11月30日**
 
 | 功能 | 描述 |
 | ------- | ----------- |
-| 营销活动、批量处理工作表、报告 | ([!DNL Microsoft® Advertising] 帐户)支持 [!DNL Microsoft® Audience Network] 已经超过了测试。<ul><li>您可以创建、编辑和更改受众营销活动的状态(营销活动类型“[!UICONTROL 受众（图像）]&quot;或&quot;[!UICONTROL 受众（信息源）]“”，广告组(广告组类型“[!UICONTROL 受众]和广告(创意类型“[!UICONTROL 响应式广告]“”) [!UICONTROL 促销活动] 查看和使用批量工作表。</li><li>您可以在[!UICONTROL 营销活动]视图中查看现有受众营销活动，以及采用表格和趋势图格式的效果数据。报告和 Adobe Analytics 中也提供了广告级别的效果数据（适用于集成了 [!DNL Analytics] 的广告商）。</li></ul>将在未来版本中提供优化支持。 |
-|  | ([!DNL Microsoft® Advertising] 帐户)多媒体广告支持现在不在测试阶段。 您可以在搜索促销活动中通过 [!UICONTROL 促销活动] 查看和使用批量工作表。 广告具有创意类型[!UICONTROL 多媒体广告]。<br><br>您可以将带多媒体广告的营销活动与任何支出策略一起包含在标准项目组合或混合项目组合中，但[!UICONTROL 目标展示份额]除外（它在混合项目组合中不受支持）。<br><br>您可以在[!UICONTROL 营销活动]视图中查看现有受众营销活动，以及采用表格和趋势图格式的效果数据。报告和 [!DNL Analytics] 中也提供了广告级别的效果数据（适用于集成了 [!DNL Analytics] 的广告商）。 |
-| [!UICONTROL 受众], [!UICONTROL 报表] | (测试版功能，适用于 [!DNL Microsoft® Advertising] 帐户) [!DNL Microsoft® Advertising] 动态再营销受众现在可以在 [!UICONTROL 促销活动] > [!UICONTROL 受众] 和 [!UICONTROL 受众类型] &quot;[!UICONTROL 动态再营销] &lt;*VisitorType*>”（例如“过去的动态再营销购买者”）。 您还可以创建、更新和删除动态再营销受众。<br><br>您可以将受众用作营销活动级别和广告组级别的广告目标和排除项。 目标可以包括竞价修改量。 **注意：** 动态再营销受众目标的竞价修改量在具有“[!UICONTROL 自动优化竞价调整值]“ ”设置。<br><br>在 [!UICONTROL Audience Target报表]. |
-| [!UICONTROL 导入营销活动] | 导入的所有选项 [!DNL Google Ads] 营销活动 [!DNL Microsoft Advertising] 现在已经超出测试阶段：<ul><li>导入 [!DNL Google Display Network] 营销活动 [!DNL Microsoft Advertising] 受众营销活动(位于 [!DNL Microsoft Audience Network].</li><li>导入 [!DNL Google Ads] 效果最大促销活动数，包括本地库存广告数 [!DNL Microsoft Advertising] 智能购物活动。</li><li>（已经不测试）导入 [!DNL Google Ads] 搜索和显示促销活动，以 [!DNL Microsoft Advertising] 搜索和显示促销活动。</li></ul>从导入营销活动后 [!UICONTROL 搜索] > [!UICONTROL 工具] > [!UICONTROL 导入营销活动]，您可以检查导入作业的状态，查看任何错误日志，以及编辑、暂停或删除导入计划。 |
+| 营销活动、批量处理工作表、报告 | ([!DNL Microsoft® Advertising] 账户；11月15日版)支持 [!DNL Microsoft® Audience Network] 已经超过了测试。<ul><li>您可以创建、编辑和更改受众营销活动的状态(营销活动类型“[!UICONTROL 受众（图像）]&quot;或&quot;[!UICONTROL 受众（信息源）]“”，广告组(广告组类型“[!UICONTROL 受众]和广告(创意类型“[!UICONTROL 响应式广告]“”) [!UICONTROL 促销活动] 查看和使用批量工作表。</li><li>您可以在[!UICONTROL 营销活动]视图中查看现有受众营销活动，以及采用表格和趋势图格式的效果数据。报告和 Adobe Analytics 中也提供了广告级别的效果数据（适用于集成了 [!DNL Analytics] 的广告商）。</li></ul>将在未来版本中提供优化支持。 |
+|  | ([!DNL Microsoft® Advertising] 账户；11月15日版)多媒体广告支持现在不再提供测试版。 您可以在搜索促销活动中通过 [!UICONTROL 促销活动] 查看和使用批量工作表。 广告具有创意类型[!UICONTROL 多媒体广告]。<br><br>您可以将带多媒体广告的营销活动与任何支出策略一起包含在标准项目组合或混合项目组合中，但[!UICONTROL 目标展示份额]除外（它在混合项目组合中不受支持）。<br><br>您可以在[!UICONTROL 营销活动]视图中查看现有受众营销活动，以及采用表格和趋势图格式的效果数据。报告和 [!DNL Analytics] 中也提供了广告级别的效果数据（适用于集成了 [!DNL Analytics] 的广告商）。 |
+| [!UICONTROL 受众], [!UICONTROL 报表] | ([!DNL Microsoft® Advertising] 账户；11月29日版)对动态再营销受众的支持现已通过测试版：<ul><li>您的动态再营销受众会同步，并可在 [!UICONTROL 促销活动] > [!UICONTROL 受众] 和 [!UICONTROL 受众类型] &quot;[!UICONTROL 动态再营销] &lt;*VisitorType*>”（例如“过去的动态再营销购买者”）。 您还可以创建、更新和删除动态再营销受众。</li><li>您可以将受众用作营销活动级别和广告组级别的广告目标和排除项。 目标可以包括竞价修改量。 **注意：** 动态再营销受众目标的竞价修改量在具有“[!UICONTROL 自动优化竞价调整值]“ ”设置。</li><li>在 [!UICONTROL Audience Target报表].</li></ul> |
+| [!UICONTROL 导入营销活动] | （11月15日版）导入 [!DNL Google Ads] 营销活动 [!DNL Microsoft Advertising] 现在已经超出测试阶段：<ul><li>导入 [!DNL Google Display Network] 营销活动 [!DNL Microsoft Advertising] 受众营销活动(位于 [!DNL Microsoft Audience Network].</li><li>导入 [!DNL Google Ads] 效果最大促销活动数，包括本地库存广告数 [!DNL Microsoft Advertising] 智能购物活动。</li><li>（已经不测试）导入 [!DNL Google Ads] 搜索和显示促销活动，以 [!DNL Microsoft Advertising] 搜索和显示促销活动。</li></ul>从导入营销活动后 [!UICONTROL 搜索] > [!UICONTROL 工具] > [!UICONTROL 导入营销活动]，您可以检查导入作业的状态，查看任何错误日志，以及编辑、暂停或删除导入计划。 |
 
 {style=&quot;table-layout:auto&quot;}
 
