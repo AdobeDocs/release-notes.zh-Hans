@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 824837e33e52613fd761e4cb71c21ffb18f32da7
+source-git-commit: b0ef07bf757fdb4a71e4fa7eb11e57d3cb9bd043
 workflow-type: tm+mt
-source-wordcount: '4897'
-ht-degree: 94%
+source-wordcount: '4737'
+ht-degree: 92%
 
 ---
 
@@ -237,18 +237,14 @@ Adobe 建议您将 Workfront for Experience Manager 增强连接器[升级到最
 
 | 发布日期 | 名称 | 类型 | 描述 | 应用程序 |
 | -----------| ---------- | ---------- | ---------- | ------|
+| 2022 年 12 月 | [筛选jQuery和Handlebars代码示例](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/filtering-jquery-handlebars.html) | 视频 | 探索AEM无头GraphQL API使用使用jQuery和Handlebars的JavaScript应用程序过滤数据的功能。 此应用程序会创建一个可按活动类型过滤的WKND冒险列表。 | AEM CS(Headless) |
+| 2022 年 12 月 | [URL重定向](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/administration/url-redirection.html) | 视频 | 了解在AEM中执行URL重定向的各种选项。 | AEM学习 |
 | 2022 年 11 月 | [在您的 AEM 项目中包含第三方包](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-osgi-bundle/include-third-party-jars.html) | 视频 | 了解如何在您的 AEM 项目中包含第三方 OSGi 包。 | AEM Forms |
 | 2022 年 11 月 | [使用 ECMA 脚本生成带片段的 PDF 文档](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/using-fragments-in-output-service-watched-folder.html) | 视频 | 了解如何借助输出服务使用 XDP 片段生成 pdf 文件。 | AEM Forms |
 | 2022 年 11 月 | [使用片段生成 PDF 文档](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/using-fragments-in-output-service.html) | 视频 | 了解如何借助输出服务使用 SDP 片段生成 PDF 文件。 | AEM Forms |
 | 2022 年 11 月 | [提取绑定数据并将它保存在字符串变量中](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/custom-workflow-steps/save-submitted-data-in-string-variable.html) | 视频 | 了解如何在电子邮件正文中包含提交的数据。 | AEM Forms |
 | 2022 年 11 月 | [AEM-CIF 核心组件与 Experience Platform 集成](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/integrations/aep.html) | 视频 | 了解如何使用 CIF - Experience Platform Connector 将 Storefront 事件数据从 AEM 渲染的产品页面发送到 Experience Platform。 | AEM CS |
 | 2022 年 10 月 | [AEM Forms 中的项目加载属性](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/adaptive-forms/using-item-load-path.html) | 视频 | 了解如何使用项目加载路径属性配置和填充下拉列表。 | AEM Forms CS |
-| 2022 年 10 月 | [为标准 AEM 项目 Archetype 启用前端管道](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/enable-frontend-pipeline-devops/overview.html) | 视频 | 了解如何使用 AEM Project Archetype 启用 AEM WKND Sites 项目来部署 CSS、JavaScript、字体和图标等前端资源，并使用前端管道加快开发到部署周期。 | AEM Sites |
-| 2022 年 10 月 | [Next.js 应用程序](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/example-apps/next-js.html) | 视频 | 了解如何使用 AEM 的 GraphQL API 使用持久查询来查询内容。 适用于 JavaScript 的 AEM Headless Client 用于执行为应用程序提供支持的 GraphQL 持久查询。 | AEM Sites |
-| 2022 年 10 月 | [从提交的表单数据中提取表单附件](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/send-af-attachments-in-email.html) | 视频 | 了解如何在 power automate 工作流中提取表单附件并通过电子邮件发送附件。 | AEM Forms CS |
-| 2022 年 10 月 | [将 DoR 作为电子邮件附件发送](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/send-DoR-email-attachment.html) | 视频 | 在 power automate 工作流中提取 DoR 并作为电子邮件附件发送。 | AEM Forms CS |
-| 2022 年 10 月 | [内容片段控制台](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-console.html?lang=zh-Hans) | 视频 | 了解 AEM as a Cloud Service 的内容片段创作控制台的基本特性和功能。 | AEM CS |
-| 2022 年 10 月 | [AEM as a Cloud Service 内容迁移常见问题解答](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/content-migration/faq.html) | 视频 | 获取有关将内容迁移到 AEM as a Cloud Service 的常见问题解答。 | AEM CS |
 
 {style=&quot;table-layout:auto&quot;}
 
