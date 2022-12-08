@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b0ef07bf757fdb4a71e4fa7eb11e57d3cb9bd043
+source-git-commit: a10a35727dbfd636bd64d879b7ec01debe2ce833
 workflow-type: tm+mt
-source-wordcount: '4737'
-ht-degree: 92%
+source-wordcount: '4816'
+ht-degree: 91%
 
 ---
 
@@ -237,7 +237,9 @@ Adobe 建议您将 Workfront for Experience Manager 增强连接器[升级到最
 
 | 发布日期 | 名称 | 类型 | 描述 | 应用程序 |
 | -----------| ---------- | ---------- | ---------- | ------|
-| 2022 年 12 月 | [筛选jQuery和Handlebars代码示例](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/filtering-jquery-handlebars.html) | 视频 | 探索AEM无头GraphQL API使用使用jQuery和Handlebars的JavaScript应用程序过滤数据的功能。 此应用程序会创建一个可按活动类型过滤的WKND冒险列表。 | AEM CS(Headless) |
+| 2022 年 12 月 | [筛选React应用程序代码示例](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/fitlering-react-app.html) | 视频 | 一个简单的React应用程序，可显示使用内容片段建模的WKND冒险。 | AEM Headless开发人员门户 |
+| 2022 年 12 月 | [基本React应用程序](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/basic-react-app.html) | 视频 | 了解如何使用 AEM 的 GraphQL API 使用持久查询来查询内容。 此应用程序会呈现WKND冒险的可过滤内容，并在选择冒险时显示冒险的完整详细信息。 | AEM Headless开发人员门户 |
+| 2022 年 12 月 | [筛选jQuery和Handlebars代码示例](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/filtering-jquery-handlebars.html) | 视频 | 探索AEM无头GraphQL API使用使用jQuery和Handlebars的JavaScript应用程序过滤数据的功能。 此应用程序会创建一个可按活动类型过滤的WKND冒险列表。 | AEM Headless开发人员门户 |
 | 2022 年 12 月 | [URL重定向](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/administration/url-redirection.html) | 视频 | 了解在AEM中执行URL重定向的各种选项。 | AEM学习 |
 | 2022 年 11 月 | [在您的 AEM 项目中包含第三方包](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-osgi-bundle/include-third-party-jars.html) | 视频 | 了解如何在您的 AEM 项目中包含第三方 OSGi 包。 | AEM Forms |
 | 2022 年 11 月 | [使用 ECMA 脚本生成带片段的 PDF 文档](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/using-fragments-in-output-service-watched-folder.html) | 视频 | 了解如何借助输出服务使用 XDP 片段生成 pdf 文件。 | AEM Forms |
