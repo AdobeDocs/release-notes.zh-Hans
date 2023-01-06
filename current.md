@@ -6,9 +6,9 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4fc67e3574096d0c2dda849bcb50209b37130fb1
+source-git-commit: 0b6455a86208c498304f7278c64b67e03d4ffc07
 workflow-type: tm+mt
-source-wordcount: '4990'
+source-wordcount: '4983'
 ht-degree: 91%
 
 ---
@@ -329,9 +329,6 @@ Adobe 建议您将 Workfront for Experience Manager 增强连接器[升级到最
 
 ## ![图标](/assets/target.png) [!DNL Adobe Target] {#target}
 
-上次更新日期：**2022 年 10 月 19 日**
-
-下一个计划发布：**10 月 25 日至 27 日**
 * 有关预发行信息，请参阅 [Adobe Target 预发行](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=zh-Hans)
 * 有关最新信息，请参阅 [Adobe Target 发行说明](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=zh-Hans)
 
