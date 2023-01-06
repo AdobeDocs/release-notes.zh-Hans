@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b816ec0c285388a2d73d5198e86ee0079013e953
+source-git-commit: 4fc67e3574096d0c2dda849bcb50209b37130fb1
 workflow-type: tm+mt
-source-wordcount: '4916'
-ht-degree: 92%
+source-wordcount: '4990'
+ht-degree: 91%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 92%
 
 此页面提供对 Experience Cloud 产品发行说明页面以及 Experience League 上最新教程、课程和活动的访问权限。
 
-最近更新日期：**2022 年 12 月 26 日**
+最新更新日期：**2022 年 1 月 6 日**
 
-* [[!DNL Experience League] 事件](#events) （已更新） **12月7日**)
+* [[!DNL Experience League] 事件](#events) （已更新） **1月6日**)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud — 中央界面组件和管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -57,8 +57,10 @@ Experience League 活动是您向 Adobe 产品专家学习、与之互动以及�
 
 即将开展的活动：
 
-* [管理员聊天：营销和创意](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,rt0Knsqbf0qXnCBbrsMKsQ,dwwihmlWl0aM4Se6G4bXTQ,_C3JizOF1USDb_UKZOC2rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **1月6日** - _此交互式会话旨在将您与其他管理员连接起来，讨论最佳实践以及有助于您和用户充分利用Workfront的提示和技巧。_
-* [CS连接：共享战略最佳实践](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Kn3p9Ut9vkCcycuFzBOJ4Q,5uLGVo1-uUS0_PY7S6QjmQ,vwcqrDXgIUyCK-lPjko8zA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **1月9日** - _正在寻找与其他客户建立联系并讨论Workfront功能的机会？ 加入我们的 CS Connections 系列！ 每月有机会与其他客户联系，讨论组织的热门话题。_
+* [管理员聊天：营销和创意](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,rt0Knsqbf0qXnCBbrsMKsQ,dwwihmlWl0aM4Se6G4bXTQ,_C3JizOF1USDb_UKZOC2rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **1月6日** - _此交互式会话旨在将您与其他管理员联系起来，讨论最佳实践以及可帮助您充分利用的提示和技巧 [!DNL Workfront] 适用于您和您的用户。_
+* [CS连接：共享战略最佳实践](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Kn3p9Ut9vkCcycuFzBOJ4Q,5uLGVo1-uUS0_PY7S6QjmQ,vwcqrDXgIUyCK-lPjko8zA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **1月9日** - _寻找与其他客户建立联系并讨论 [!DNL Workfront] 功能？ 加入我们的 CS Connections 系列！ 每月有机会与其他客户联系，讨论组织的热门话题。_
+* [的新增功能 [!DNL Adobe Workfront] 23.1](https://webinars.on24.com/adobe_workfront/whatsnewin231?partnerref=EXL) - **1月10日** - _加入 [!DNL Adobe Workfront] 产品团队，了解有关我们最新版本中即将推出的功能和增强功能的更多信息。_
+* [AEM Best Practices Analyzer for on premise &amp; AMS环境](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-aem-best-practices-analyzer-for-on-premise-ams-environments/) - **1月18日** - _了解Adobe Experience Manager最佳实践分析器工具，该工具提供有关AEM本地和AMS实例的分析和报告功能。 请注意，它不适用于AEMas a Cloud Service。_
 
 有关完整的活动时间表，请参阅 [Experience League 上的活动](https://experienceleague.adobe.com/events/?lang=zh-Hans)。
 
