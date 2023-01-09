@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0b6455a86208c498304f7278c64b67e03d4ffc07
+source-git-commit: dee94925c7872cf6108ec5c4fa4caaff774cf08b
 workflow-type: tm+mt
-source-wordcount: '4983'
-ht-degree: 91%
+source-wordcount: '4986'
+ht-degree: 90%
 
 ---
 
@@ -502,7 +502,7 @@ Last updated: **August 9, 2022**
 
 ## ![图标](/assets/creative-cloud-24.png) Adobe Creative Cloud 企业版 {#creative-cloud}
 
-为 Adobe Campaign 发布的新视频、教程或课程。
+发布的关于Adobe Creative Cloud for enterprise的新视频、教程或课程。
 
 | 发布日期 | 名称 | 类型 | 描述 |
 | -----------| ---------- | ---------- | ---------- |
