@@ -119,7 +119,7 @@ New videos, tutorials, or courses published for Adobe Experience Platform.
 | 2023 年 1 月 | [利用可视化项讲述您的数据故事](https://experienceleague.adobe.com/docs/courses/using/analytics-u-1-2022-1-visualizations-1-0.html) | 更新的课程 | 了解如何利用可视化项获取所需的确切数据。此外，获取提示和用例以帮助您在常规分析中实施可视化。 |
 | 2023 年 1 月 | [使用自定义分段和日期筛选您的数据](https://experienceleague.adobe.com/docs/courses/using/analytics-u-1-2022-1-filterdata-1-0.html) | 更新的课程 | 了解如何应用区段、创建自定义区段，以及使用日期范围来筛选数据。 |
 | 2023 年 1 月 | [使用过滤器（标记）](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.html) | 更新的视频 | 了解如何在 Analysis Workspace 中使用名为标记的过滤器。这些是帮助您高效构建项目的省时技术。 |
-| 2023 年 1 月 | [在 Analysis Workspace 中应用临时区段](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/ad-hoc-temporary-segments.html?lang=zh-Hans) | 更新的视频 | 了解如何快速创建一个简单区段来回答具体问题，然后丢弃该区段以使其不会填入已保存区段的列表。 |
+| 2023 年 1 月 | [在 Analysis Workspace 中应用临时区段](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/ad-hoc-temporary-segments.html?lang=zh-Hans) | 更新的视频 | 了解如何快速创建一个简单区段来回答具体问题，然后舍弃该区段，使其不会填入已保存区段的列表。 |
 | 2023 年 1 月 | [使用键盘快捷键](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.html) | 更新的视频 | 了解如何在 Analysis Workspace 中使用键盘快捷键。 这些是帮助您在项目中执行各种任务的省时技术。 |
 | 2023 年 1 月 | [复制和插入面板和可视化图表](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.html) | 更新的视频 | 了解如何在 Analysis Workspace 中复制和插入面板和可视化图表。 这些是改进当前项目或在新项目上抢先一步的省时技巧。 |
 
@@ -204,17 +204,17 @@ _新增功能_
 
 _预发行渠道中可用的新功能_
 
-* **自适应表单模板编辑器** - 模板编辑器可让您预定义组织自适应表单的基本结构和外观。此版本的模板编辑器有以下改进：
-   * **[模板编辑器中的表单数据模型](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/create-an-adaptive-form-on-forms-cs/creating-adaptive-form.html?lang=en#edit-form-model-properties-of-an-adaptive-form-edit-form-model)** - 您可以在模板编辑器中将表单数据模型架构关联到自适应表单模板。这样有助于减少创建自适应表单所需的时间。该选项也已添加到自适应表单编辑器中，这可让用户选择或更改现有表单的表单数据模型。
-   * **[模板编辑器中的记录文档](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/generate-document-of-record-for-non-xfa-based-adaptive-forms.html?lang=en#document-of-record-support-in-adaptive-form-editor-dor-support-in-adaptiveform)** - 您现在可以为使用模板创建的所有表单标准化记录文档生成的过程。此功能有助于增强组织要求的合规性和标准化。
-* **[从 AEM Sites 页面启动“自适应表单”向导](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/embed-adaptive-form-aem-sites.html?lang=en)** - AEM Sites 页面已增强对自适应表单的支持。您现在可以创建新的“自适应表单”或嵌入现有的“自适应表单”，同时保留在 AEM Sites 页面上。
+* **自适应表单模板编辑器** – 模板编辑器可让您预定义组织自适应表单的基本结构和外观。此版本的模板编辑器有以下改进：
+   * **[模板编辑器中的表单数据模型](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/create-an-adaptive-form-on-forms-cs/creating-adaptive-form.html?lang=en#edit-form-model-properties-of-an-adaptive-form-edit-form-model)** – 您可以在模板编辑器中将表单数据模型架构关联到自适应表单模板。这样有助于减少创建自适应表单所需的时间。该选项也已添加到自适应表单编辑器中，这可让用户选择或更改现有表单的表单数据模型。
+   * **[模板编辑器中的记录文档](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/generate-document-of-record-for-non-xfa-based-adaptive-forms.html?lang=en#document-of-record-support-in-adaptive-form-editor-dor-support-in-adaptiveform)** – 您现在可以为使用模板创建的所有表单标准化记录文档生成的过程。此功能有助于增强组织要求的合规性和标准化。
+* **[从 AEM Sites 页面启动“自适应表单”向导](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/embed-adaptive-form-aem-sites.html?lang=en)** – AEM Sites 页面已增强对自适应表单的支持。您现在可以创建新的“自适应表单”或嵌入现有的“自适应表单”，同时保留在 AEM Sites 页面上。
 * **[更改记录文档中的复选框和单选按钮的显示对齐方式](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/generate-document-of-record-for-non-xfa-based-adaptive-forms.html?lang=en#customize-the-branding-information-in-document-of-record-customize-the-branding-information-in-document-of-record)**：您现在可以为[!UICONTROL 记录文档]上的复选框和单选按钮设置所需的对齐方式（[!UICONTROL 水平]、[!UICONTROL 垂直]、[!UICONTROL 与自适应表单相同]）。此选项确定记录文档中复选框和单选按钮选项的位置。
 
 ### Experience Manager as a [!DNL Cloud Service] Foundation
 
 _新增功能_
 
-* Experience Manager as a Cloud Service（创作服务）现在与 Unified Shell 集成，以改善用户体验并将其与所有其他 Experience Cloud 应用程序统一。有关更多详细信息，请参阅 [Unified Shell 上的 Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/what-is-new-and-different.html?lang=en#aem-updates)。
+* Experience Manager as a Cloud Service（创作服务）现在与 Unified Shell 集成，可改善用户体验并将其与所有其他 Experience Cloud 应用程序统一。有关更多详细信息，请参阅 [Unified Shell 上的 Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/what-is-new-and-different.html?lang=en#aem-updates)。
 * 如先前在发行说明中所述，使用复制代理管理员屏幕或复制 API 分发大于 10 MB 的内容包（具有属性的节点，不包括二进制文件）已被弃用。此限制将在未来几天内实施。有关复制这些大型内容包的建议方法，请参阅[管理发布](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/replication.html?lang=zh-Hans#manage-publication)或[发布内容树工作流](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/replication.html?lang=zh-Hans#publish-content-tree-workflow)。
 * Dispatcher 配置现在引用了一个文件，其中列出了常见的营销活动查询参数。客户可以选择取消注释与其相关的参数，从而实现更好的缓存。 请参阅[营销活动参数](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/content-delivery/caching.html?lang=en#marketing-parameters)，了解更多详细信息。
 
@@ -410,7 +410,7 @@ New videos, tutorials, or courses published for Adobe [!DNL Journey Optimizer].
 
 ### 核心 Marketo Engage 更新
 
-* 有关最新信息，请参阅 [2023 年 1 月 - 当前发行说明](https://experienceleague.adobe.com/docs/marketo/using/release-notes/current.html?lang=zh-Hans)
+* 有关最新信息，请参阅 [2023 年 1 月 – 当前发行说明](https://experienceleague.adobe.com/docs/marketo/using/release-notes/current.html?lang=zh-Hans)
 * 有关最新的发布计划信息和发行说明，请参阅 [!DNL Marketo Engage] [发布计划](https://experienceleague.adobe.com/docs/marketo/using/release-notes/release-schedule.html?lang=zh-Hans)。
 
 <!-- ### New Marketo tutorials and courses {#tutorials-marketo}
@@ -504,7 +504,7 @@ Last updated: **August 9, 2022**
 | -----------| ---------- | ---------- | ---------- |---------- |
 | 2023 年 1 月 | [使用 Microsoft® Purview 信息敏感性标签保护 PDF](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/microsoftsensitivitylabels.html?lang=en) | 视频 | 了解如何通过直接在 [!DNL Acrobat] 中添加、编辑、自定义和删除 [!DNL Microsoft® Purview] 信息敏感性标签来保护 PDF。 | Acrobat |
 | 2023 年 1 月 | [从 Intesi Group 中获取数字 ID（符合条件）](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/intesi/intesi-qualified.html) | 更新的视频 | 了解如何从 Intesi Group 获取符合条件的数字签名证书。注册并验证您的身份后，Intesi Group 会向您颁发一个用于应用 Acrobat Sign 云签名的数字 ID。 | Adobe Sign |
-| 2022 年 12 月 | [设置截止日期和提醒](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/set-deadlines-reminders.html?lang=en) | 视频 | 了解如何发送定期电子邮件提醒和截止日期，以帮助您快速签署文档。 | Acrobat Sign |
+| 2022 年 12 月 | [设置截止日期和提醒](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/set-deadlines-reminders.html?lang=en) | 视频 | 了解如何发送定期电子邮件提醒和截止日期，帮助您快速签署文档。 | Acrobat Sign |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -541,6 +541,6 @@ Last updated: **August 9, 2022**
 
 | 发布日期 | 名称 | 类型 | 描述 |
 | -----------| ---------- | ---------- | ---------- |
-| 2023 年 1 月 | [客户历程 - AEP + 应用程序和 AJO 架构](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journeys/overview.html?lang=zh-Hans) | 图表更新 | 跨屏幕交付个性化的即时客户体验。 |
+| 2023 年 1 月 | [客户历程 – AEP + 应用程序 和 AJO 架构](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journeys/overview.html?lang=zh-Hans) | 图表更新 | 跨屏幕交付个性化的即时客户体验。 |
 
 [回到顶部](#events)
