@@ -6,10 +6,10 @@ last-update: January 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7f360b3fcd35cc9ab8b52a9cc7e3ffaaff9e2ebc
+source-git-commit: a7eb01e1f3f7aa4cbfc881dc045c5319b0e721a2
 workflow-type: tm+mt
-source-wordcount: '5407'
-ht-degree: 98%
+source-wordcount: '5076'
+ht-degree: 97%
 
 ---
 
@@ -495,11 +495,8 @@ Last updated: **August 9, 2022**
 
 | 功能 | 描述 |
 | ------- | ----------- |
-| 营销活动，批量处理工作表，高级 (ACM) | （1 月 5 日发布；[!DNL Google Ads] 和 [!DNL Microsoft Advertising] 营销活动）如果您在广告网络编辑器中创建了广告定制器，则您现在可以在 [!DNL Advertising Search] 中将它们用作响应式搜索广告的文本字段中的属性。在广告标题、说明以及显示 URL 的第一条和第二条路径中，使用以下格式来包含广告定制器：<ul><li>[!DNL Google Ads]: {CUSTOMIZER.AdCustomizerName:DefaultText}</code></li><li>[!DNL Microsoft Advertising]: {CUSTOMIZER.Attribute name:default text}</code></li></ul>广告标题中的广告定制器示例：“大量雨靴库存 `{CUSTOMIZER.Discount:10%}` 折销售”。 |
-| 营销活动、批量处理工作表、报告 | （[!DNL Microsoft® Advertising] 帐户；11 月 15 日发布）对 [!DNL Microsoft® Audience Network] 上的活动的支持现已退出测试版。<ul><li>您可以从[!UICONTROL 营销活动]视图中，使用批量处理工作表创建、编辑和更改受众营销活动（营销活动类型[!UICONTROL 受众（图像）]或[!UICONTROL 受众（馈送）]）、广告组（广告组类型[!UICONTROL 受众]）和广告（创意类型[!UICONTROL 响应式广告]）的状态。</li><li>您可以在[!UICONTROL 营销活动]视图中查看现有受众营销活动，以及采用表格和趋势图格式的效果数据。报告和 Adobe Analytics 中也提供了广告级别的效果数据（适用于集成了 [!DNL Analytics] 的广告商）。</li></ul>可在标准或混合项目组合中包括受众营销活动。 |
-|  | （[!DNL Microsoft® Advertising] 帐户；11 月 15 日发布）多媒体广告支持现已退出测试版。您可以从[!UICONTROL 营销活动]视图中，使用批量处理工作表在搜索营销活动中创建和管理多媒体广告。广告具有创意类型[!UICONTROL 多媒体广告]。<br><br>您可以将带多媒体广告的营销活动与任何支出策略一起包含在标准项目组合或混合项目组合中，但[!UICONTROL 目标展示份额]除外（它在混合项目组合中不受支持）。<br><br>您可以在[!UICONTROL 营销活动]视图中查看现有受众营销活动，以及采用表格和趋势图格式的效果数据。报告和 [!DNL Analytics] 中也提供了广告级别的效果数据（适用于集成了 [!DNL Analytics] 的广告商）。 |
-| [!UICONTROL 受众]，[!UICONTROL 报告] | （[!DNL Microsoft® Advertising] 帐户；11 月 29 日发布）对动态二次营销受众的支持现已退出测试版：<ul><li>您的动态二次营销受众已同步并位于[!UICONTROL 营销活动] > [!UICONTROL 受众]中，具有[!UICONTROL 受众类型][!UICONTROL 动态二次营销] &lt;*VisitorType*>（例如，“动态二次营销过去的购买者”）。您还可以创建、更新和删除动态二次营销受众。</li><li>您可以将受众用作营销活动级别和广告组级别的广告目标和排除项。目标可以包括竞价修饰符。**注意：**&#x200B;动态二次营销受众目标的竞价修饰符未在具有[!UICONTROL 自动优化竞价调整值]设置的项目组合中进行优化。</li><li>[!UICONTROL 受众目标报告]中提供了动态二次营销受众数据。</li></ul> |
-| [!UICONTROL 导入营销活动] | （11 月 15 日发布）用于将 [!DNL Google Ads] 营销活动导入 [!DNL Microsoft® Advertising] 的所有选项现已退出测试版：<ul><li>将 [!DNL Google Display Network] 营销活动导入 [!DNL Microsoft® Audience Network] 上的 [!DNL Microsoft® Advertising] 受众营销活动。</li><li>将 [!DNL Google Ads] 效果最佳的营销活动（包括本地库存广告）导入 [!DNL Microsoft® Advertising] 智能购物营销活动中。</li><li>（已退出测试版）将 [!DNL Google Ads] 搜索和展示营销活动导入 [!DNL Microsoft® Advertising] 搜索和展示营销活动中。</li></ul>从[!UICONTROL 搜索] > [!UICONTROL 工具] > [!UICONTROL 导入营销活动]导入营销活动后，您可以检查导入任务的状态、查看任何错误日志，以及编辑、暂停或删除导入计划。 |
+| [!UICONTROL 促销活动], [!UICONTROL 批量工作表], [!UICONTROL 高级(ACM)] | （1 月 5 日发布；[!DNL Google Ads] 和 [!DNL Microsoft Advertising] 营销活动）如果您在广告网络编辑器中创建了广告定制器，则您现在可以在 [!DNL Advertising Search] 中将它们用作响应式搜索广告的文本字段中的属性。在广告标题、说明以及显示 URL 的第一条和第二条路径中，使用以下格式来包含广告定制器：<ul><li>[!DNL Google Ads]: {CUSTOMIZER.AdCustomizerName:DefaultText}</code></li><li>[!DNL Microsoft Advertising]: {CUSTOMIZER.Attribute name:default text}</code></li></ul>广告标题中的广告定制器示例：“大量雨靴库存 `{CUSTOMIZER.Discount:10%}` 折销售”。 |
+| [!UICONTROL 导入营销活动] | (1月5日发布； [!DNL Google Ads] 和 [!DNL Microsoft Advertising] 营销活动)您可以复制 [!DNL Google Ads] 为 [!DNL Microsoft Advertising] 营销活动来源 [!UICONTROL 搜索] > [!UICONTROL 工具] > [!UICONTROL 导入营销活动]. 如果您不自定义导入作业，则会自动复制这些作业。 如果通过指定要导入的内容来自定义导入作业，请确保选择 [!UICONTROL 信息源] > [!UICONTROL 广告定制器信息源。] |
 
 {style=&quot;table-layout:auto&quot;}
 
