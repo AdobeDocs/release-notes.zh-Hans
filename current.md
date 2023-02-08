@@ -6,10 +6,10 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f3a7fe1adc438d0fce977ba01b77fd99fc75776e
+source-git-commit: 1b71ade96af12784be613e71e4ff89e57fa4a1c2
 workflow-type: tm+mt
-source-wordcount: '5028'
-ht-degree: 60%
+source-wordcount: '5006'
+ht-degree: 59%
 
 ---
 
@@ -526,23 +526,21 @@ Last updated: **August 9, 2022**
 
 ### [!DNL Advertising DSP] 中的新增功能 {#advertising-dsp}
 
-上次更新时间：**2023 年 2 月 3 日**
+上次更新时间：**2023 年 2 月 8 日**
 
 | 功能 | 描述 |
 | ------- | ----------- |
-| [!UICONTROL 交易] | （1月25日发布）“内容库”>“交易”视图报表中新增了“PG展示步调”支出列，用于步调确保交易。 |
-| [!UICONTROL 营销活动] | （1月4日版）更改日志显示在选定日期范围内所做的更改，现在可用于每个营销活动。 更改日志已可用于包和版面。 |
+| [!UICONTROL 营销活动] | (2月3日发布；测试版功能)您现在可以以图表形式查看更改日志，并且可以向任何条目添加注释。 |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### [!DNL Advertising Search] 中的新增功能 {#advertising-search}
 
-上次更新日期：**2022 年 1 月 18 日**
+上次更新时间：**2023 年 2 月 8 日**
 
 | 功能 | 描述 |
 | ------- | ----------- |
-| [!UICONTROL 促销活动], [!UICONTROL 批量工作表], [!UICONTROL 高级(ACM)] | (1月5日发布： [!DNL Google Ads] 和 [!DNL Microsoft Advertising] 促销活动) — 如果您已在广告网络的编辑器中创建了广告定制器，则现在可以在的响应式搜索广告的文本字段中将它们用作属性 [!DNL Advertising Search]. 在广告标题、说明以及显示 URL 的第一条和第二条路径中，使用以下格式来包含广告定制器：<ul><li>[!DNL Google Ads]: {CUSTOMIZER.AdCustomizerName:DefaultText}</code></li><li>[!DNL Microsoft Advertising]: {CUSTOMIZER.Attribute name:default text}</code></li></ul>广告标题中的广告定制器示例：“大量雨靴库存 `{CUSTOMIZER.Discount:10%}` 折销售”。 |
-| [!UICONTROL 导入营销活动] | (1月5日发布： [!DNL Google Ads] 和 [!DNL Microsoft Advertising] 营销活动) — 您可以复制 [!DNL Google Ads] 为 [!DNL Microsoft Advertising] 营销活动来源 [!UICONTROL 搜索] > [!UICONTROL 工具] > [!UICONTROL 导入营销活动]. 如果您不自定义导入作业，则会自动复制这些作业。 如果通过指定要导入的内容来自定义导入作业，请确保选择 [!UICONTROL 信息源] > [!UICONTROL 广告定制器信息源。] |
+| [!UICONTROL 营销活动] | (2月6日发布；测试版功能)现在，您的 [!DNL Google Ads] 发现营销活动。 发现营销活动已 [!UICONTROL 促销活动类型] &quot;[!UICONTROL 发现]，” [!UICONTROL 广告组类型] &quot;[!UICONTROL 发现]，”和 [!UICONTROL 创作类型] &quot;[!UICONTROL 发现广告]“（用于单图像广告）或“[!UICONTROL 发现轮播广告]”（对于多图像轮播广告）。 您可以在标准和混合组合中包含发现促销活动。<br><br>您的发现促销活动的广告级别数据可在报表中找到。 对于具有Adobe Analytics集成的广告商，可以在 [!DNL Analytics]. 同样， [!DNL Analytics] 数据在 [!DNL Search];使用升级后的 `s_kwcid` 跟踪参数，与 `s_kwcid` 您通常用于帐户的格式。 如果您通常使用 `s_kwcid`，则使用不同的 `s_kwcids`，但是这两个数据集在同一营销活动和帐户下被完全分类和汇总。 |
 
 {style=&quot;table-layout:auto&quot;}
 
