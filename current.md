@@ -6,10 +6,10 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b485f46078429951e5d8470deab579da1a47d84c
+source-git-commit: 5fd02900727340c256c76ba0faca53f25147a02a
 workflow-type: tm+mt
-source-wordcount: '4983'
-ht-degree: 60%
+source-wordcount: '5082'
+ht-degree: 58%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 60%
 
 ## 产品版本更新和事件 — 2023年2月
 
-上次更新的内容： **2023年2月9日**
+上次更新的内容： **2023年2月10日**
 
 * [[!DNL Experience League] 活动](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -534,11 +534,13 @@ Last updated: **August 9, 2022**
 
 ### [!DNL Advertising Search] 中的新增功能 {#advertising-search}
 
-上次更新时间：**2023 年 2 月 8 日**
+上次更新时间：**2023 年 2 月 10 日**
 
 | 功能 | 描述 |
 | ------- | ----------- |
 | [!UICONTROL 营销活动] | (2月6日发布；测试版功能)现在，您的 [!DNL Google Ads] 发现营销活动。 发现营销活动已 [!UICONTROL 促销活动类型] &quot;[!UICONTROL 发现]，” [!UICONTROL 广告组类型] &quot;[!UICONTROL 发现]，”和 [!UICONTROL 创作类型] &quot;[!UICONTROL 发现广告]“（用于单图像广告）或“[!UICONTROL 发现轮播广告]”（对于多图像轮播广告）。 您可以在标准和混合组合中包含发现促销活动。<br><br>您的发现促销活动的广告级别数据可在报表中找到。 对于具有Adobe Analytics集成的广告商，可以在 [!DNL Analytics]. 同样， [!DNL Analytics] 数据在 [!DNL Search];使用升级后的 `s_kwcid` 跟踪参数，与 `s_kwcid` 您通常用于帐户的格式。 如果您通常使用 `s_kwcid`，则使用不同的 `s_kwcids`，但是这两个数据集在同一营销活动和帐户下被完全分类和汇总。 |
+|  | ([!DNL Google Ads] 账户；2月11日版)支持“[!UICONTROL 目标展示共享]“竞价策略现在仅适用于搜索网络上的促销活动。 对于这个投标策略， [!DNL Google Ads] （不） [!DNL Search])会优化竞价，以便获得目标展示共享和广告位置。 您可以选择输入 [!UICONTROL 目标展示共享] 作为百分比， [!UICONTROL 定位广告位置]和 [!UICONTROL 最高CPC] （每次点击成本）。 混合组合中尚不支持此选项。 |
+| [!UICONTROL 批量处理工作表] | ([!DNL Microsoft] 活动；2月11日版)批量处理表现在包括“[!UICONTROL 行动动员]&quot;和&quot;[!UICONTROL 行动动员语言]“ ”列，用于使用“[!UICONTROL 创意（RSA除外）]”行。 |
 
 {style=&quot;table-layout:auto&quot;}
 
