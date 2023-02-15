@@ -1,15 +1,15 @@
 ---
 description: 以下信息可帮助您联系 Adobe，以了解与使用本产品和文档有关的法律问题。
 keywords: 动态标签管理;发行说明
-seo-description: 以下信息可帮助您联系 Adobe，以了解与使用本产品和文档有关的法律问题。
-seo-title: 联系方式和法律信息
+seo-description: Information to help you contact Adobe and understand the legal issues concerning your use of this product and documentation.
+seo-title: Contact and Legal Information
 title: 联系方式和法律信息
 uuid: be6810fd-8a50-4e88-af09-ab00187e4082
 internal: n
 translate: y
 source-git-commit: 759707638404f746de2e71ac27bd16926a8d1151
-workflow-type: tm+mt
-source-wordcount: '258'
+workflow-type: ht
+source-wordcount: '235'
 ht-degree: 100%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 Adobe Marketing Cloud 客户关怀团队在此为您提供帮助，同时还提供了大量的参与机制：
 
-请参阅[联系 Adobe 企业支持](https://helpx.adobe.com/cn/contact/enterprise-support.ec.html)
+请参阅[联系 Adobe 企业支持](https://helpx.adobe.com/contact/enterprise-support.ec.html)
 
 ## 服务、功能和账单 {#section_FA4F5274FDFE4DF7BB079E575877DFC2}
 
@@ -42,8 +42,8 @@ Adobe Systems welcome any suggestions or feedback regarding this solution. You c
  <li> 由 Adobe Systems Incorporated 发布。 </li> 
 </ul>
 
-[使用条款](https://www.adobe.com/go/marketingcloud_terms_of_use_cn) | [隐私中心](https://www.adobe.com/cn/privacy/policy.html)
+[使用条款](https://www.adobe.com/go/marketingcloud_terms_of_use_cn) | [隐私中心](https://www.adobe.com/privacy/policy.html)
 
 Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries. A trademark symbol (®, ™, etc.) denotes an Adobe trademark.
 
-All third-party trademarks are the property of their respective owners. 更新信息/其他第三方编码信息可在 [https://www.adobe.com/go/thirdparty_cn](https://www.adobe.com/cn/products/eula/third_party/) 上找到。
+All third-party trademarks are the property of their respective owners. 更新信息/其他第三方编码信息可在 [https://www.adobe.com/go/thirdparty_cn](https://www.adobe.com/products/eula/third_party/) 上找到。
