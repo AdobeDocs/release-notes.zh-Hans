@@ -6,7 +6,7 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 857554e2e67ba846740e4a529d9f0d6d2e21fc18
+source-git-commit: 6e423665d7e8b0b8559cad3e1824d92dc66709fd
 workflow-type: tm+mt
 source-wordcount: '5139'
 ht-degree: 96%
@@ -27,11 +27,11 @@ ht-degree: 96%
 
 您的成功之路始于 [Experience League](https://experienceleague.adobe.com/?lang=en#home)。浏览我们庞大的自助[产品文档](https://experienceleague.adobe.com/docs/?lang=en)和指导[教程视频](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=en)库。查找适合所有级别和角色的[课程](https://experienceleague.adobe.com/?lang=en#courses)，向我们由同行组成的在线[社区](https://experienceleaguecommunities.adobe.com/?profile.language=en)提问，并在您需要时获得专家[支持](https://experienceleague.adobe.com/?support-tab=home#support)。
 
-## Adobe Summit 2023
+## Adobe [!DNL Summit] 2023
 
 加入我们在拉斯维加斯的行列，扩展您的技能组合，激发灵感，并建立联系，从而使您能够将数字经济个性化。 对于那些无法参加拉斯维加斯世界级大赛的人，几乎可以在任何地方免费参加我们的比赛。
 
-[!BADGE 首脑会议登记]{type=Informative url="https://summit.adobe.com/na/?promoid=VY36JX1S&amp;mv=other" tooltip="首脑会议登记"}
+[!BADGE 注册]{type=Informational url=&quot;https://summit.adobe.com/na/?promoid=VY36JX1S&amp;mv=other&quot; tooltip=&quot;注册 [!DNL Adobe Summit]&quot;}
 
 ## 产品发布更新和活动 - 2023 年 2 月
 
