@@ -6,10 +6,10 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 5fd02900727340c256c76ba0faca53f25147a02a
+source-git-commit: 857554e2e67ba846740e4a529d9f0d6d2e21fc18
 workflow-type: tm+mt
-source-wordcount: '5082'
-ht-degree: 97%
+source-wordcount: '5139'
+ht-degree: 96%
 
 ---
 
@@ -26,6 +26,12 @@ ht-degree: 97%
 **需要帮助？**
 
 您的成功之路始于 [Experience League](https://experienceleague.adobe.com/?lang=en#home)。浏览我们庞大的自助[产品文档](https://experienceleague.adobe.com/docs/?lang=en)和指导[教程视频](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=en)库。查找适合所有级别和角色的[课程](https://experienceleague.adobe.com/?lang=en#courses)，向我们由同行组成的在线[社区](https://experienceleaguecommunities.adobe.com/?profile.language=en)提问，并在您需要时获得专家[支持](https://experienceleague.adobe.com/?support-tab=home#support)。
+
+## Adobe Summit 2023
+
+加入我们在拉斯维加斯的行列，扩展您的技能组合，激发灵感，并建立联系，从而使您能够将数字经济个性化。 对于那些无法参加拉斯维加斯世界级大赛的人，几乎可以在任何地方免费参加我们的比赛。
+
+[!BADGE 首脑会议登记]{type=Informative url="https://summit.adobe.com/na/?promoid=VY36JX1S&amp;mv=other" tooltip="首脑会议登记"}
 
 ## 产品发布更新和活动 - 2023 年 2 月
 
@@ -538,9 +544,9 @@ Last updated: **August 9, 2022**
 
 | 功能 | 描述 |
 | ------- | ----------- |
-| [!UICONTROL 营销活动] | （2 月 6 日发布；Beta 功能）只读同步支持现在可用于您的 [!DNL Google Ads] 发现活动。发现营销活动已 [!UICONTROL 促销活动类型] &quot;[!UICONTROL 发现]，” [!UICONTROL 广告组类型] &quot;[!UICONTROL 发现]，”和 [!UICONTROL 创作类型] &quot;[!UICONTROL 发现广告]“（用于单图像广告）或“[!UICONTROL 发现轮播广告]”（对于多图像轮播广告）。 可在标准和混合项目组合中包括发现营销活动。<br><br>报告中提供了发现活动的广告级数据。对于具有 Adobe Analytics 集成的广告商，[!DNL Analytics] 中提供了广告级数据。同样，[!DNL Analytics] 数据在 [!DNL Search] 中可用；这些数据是使用升级后的 `s_kwcid` 跟踪参数发送的，无论您通常为帐户使用的 `s_kwcid` 格式如何。如果您通常使用旧版本的 `s_kwcid`，那么您的点击/成本数据和收入数据将使用不同的 `s_kwcids` 进行跟踪，但两组数据都会被完全分类并汇总在相同的营销活动和帐户中。 |
-|  | ([!DNL Google Ads] 账户；2月11日版)支持“[!UICONTROL 目标展示共享]“竞价策略现在仅适用于搜索网络上的促销活动。 对于这个投标策略， [!DNL Google Ads] （不） [!DNL Search])会优化竞价，以便获得目标展示共享和广告位置。 您可以选择输入 [!UICONTROL 目标展示共享] 作为百分比， [!UICONTROL 定位广告位置]和 [!UICONTROL 最高CPC] （每次点击成本）。 混合组合中尚不支持此选项。 |
-| [!UICONTROL 批量处理工作表] | ([!DNL Microsoft] 活动；2月11日版)批量处理表现在包括“[!UICONTROL 行动动员]&quot;和&quot;[!UICONTROL 行动动员语言]“ ”列，用于使用“[!UICONTROL 创意（RSA除外）]”行。 |
+| [!UICONTROL 营销活动] | （2 月 6 日发布；Beta 功能）只读同步支持现在可用于您的 [!DNL Google Ads] 发现活动。发现营销活动具有 [!UICONTROL 营销活动类型] ”[!UICONTROL 发现]，” [!UICONTROL 广告组类型] ”[!UICONTROL 发现]，”和 [!UICONTROL 创意类型] ”[!UICONTROL 发现广告]“（对于单图像广告）或”[!UICONTROL 发现轮播广告]“”（用于多图像轮播广告）。 可在标准和混合项目组合中包括发现营销活动。<br><br>报告中提供了发现活动的广告级数据。对于具有 Adobe Analytics 集成的广告商，[!DNL Analytics] 中提供了广告级数据。同样，[!DNL Analytics] 数据在 [!DNL Search] 中可用；这些数据是使用升级后的 `s_kwcid` 跟踪参数发送的，无论您通常为帐户使用的 `s_kwcid` 格式如何。如果您通常使用旧版本的 `s_kwcid`，那么您的点击/成本数据和收入数据将使用不同的 `s_kwcids` 进行跟踪，但两组数据都会被完全分类并汇总在相同的营销活动和帐户中。 |
+|  | ([!DNL Google Ads] 帐户；2月11日发布)对“[!UICONTROL 目标展示份额]“竞价策略现在仅适用于搜索网络上的促销活动。 对于此竞价策略， [!DNL Google Ads] (非 [!DNL Search])优化竞价以实现目标展示份额和广告位置。 您可以选择输入 [!UICONTROL 目标展示份额] 以百分比表示， [!UICONTROL 目标广告位置]，和 [!UICONTROL 最大CPC] （每次点击成本）。 混合项目组合中尚不支持此选项。 |
+| [!UICONTROL 批量处理工作表] | ([!DNL Microsoft] 营销活动；2月11日版)批量工作表现在包含&quot;[!UICONTROL 行动号召]“ ”和“ ”[!UICONTROL 行动动员语言]”列（响应式广告格式），使用“[!UICONTROL 创意（RSA除外）]”行。 |
 
 {style=&quot;table-layout:auto&quot;}
 
