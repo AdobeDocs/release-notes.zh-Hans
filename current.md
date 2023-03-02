@@ -6,10 +6,10 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 6e423665d7e8b0b8559cad3e1824d92dc66709fd
+source-git-commit: 0d56cb0d35c17a40b51b7244a4842215a298b76b
 workflow-type: tm+mt
-source-wordcount: '5139'
-ht-degree: 96%
+source-wordcount: '5241'
+ht-degree: 93%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 96%
 
 ## 产品发布更新和活动 - 2023 年 2 月
 
-上次更新内容：**2023 年 2 月 10 日**
+上次更新内容： **2023年3月2日**
 
 * [[!DNL Experience League] 活动](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -530,23 +530,24 @@ Last updated: **August 9, 2022**
 
 ### [!DNL Advertising DSP] 中的新增功能 {#advertising-dsp}
 
-上次更新时间：**2023 年 2 月 8 日**
+上次更新时间： **2023年3月2日**
 
 | 功能 | 描述 |
 | ------- | ----------- |
-| [!UICONTROL 营销活动] | （2 月 3 日发布；Beta 功能）您现在可以以图表的形式查看更改日志，并且可以向任何条目添加注释。 |
+| [!UICONTROL 营销活动] | （2月15日版）您现在可以在图表表单中查看更改日志，还可以向任何条目添加注释。 |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### [!DNL Advertising Search] 中的新增功能 {#advertising-search}
 
-上次更新时间：**2023 年 2 月 10 日**
+上次更新时间： **2023年3月2日**
 
 | 功能 | 描述 |
 | ------- | ----------- |
-| [!UICONTROL 营销活动] | （2 月 6 日发布；Beta 功能）只读同步支持现在可用于您的 [!DNL Google Ads] 发现活动。发现营销活动具有 [!UICONTROL 营销活动类型] ”[!UICONTROL 发现]，” [!UICONTROL 广告组类型] ”[!UICONTROL 发现]，”和 [!UICONTROL 创意类型] ”[!UICONTROL 发现广告]“（对于单图像广告）或”[!UICONTROL 发现轮播广告]“”（用于多图像轮播广告）。 可在标准和混合项目组合中包括发现营销活动。<br><br>报告中提供了发现活动的广告级数据。对于具有 Adobe Analytics 集成的广告商，[!DNL Analytics] 中提供了广告级数据。同样，[!DNL Analytics] 数据在 [!DNL Search] 中可用；这些数据是使用升级后的 `s_kwcid` 跟踪参数发送的，无论您通常为帐户使用的 `s_kwcid` 格式如何。如果您通常使用旧版本的 `s_kwcid`，那么您的点击/成本数据和收入数据将使用不同的 `s_kwcids` 进行跟踪，但两组数据都会被完全分类并汇总在相同的营销活动和帐户中。 |
+| [!UICONTROL 营销活动] | (Google Ads帐户；打开测试版功能；2月23日发布)的只读同步支持 [!DNL Google Ads] 对于所有广告商，发现营销活动处于测试版模式。  发现营销活动具有 [!UICONTROL 营销活动类型] ”[!UICONTROL 发现]，” [!UICONTROL 广告组类型] ”[!UICONTROL 发现]，”和 [!UICONTROL 创意类型] ”[!UICONTROL 发现广告]“（对于单图像广告）或”[!UICONTROL 发现轮播广告]“”（用于多图像轮播广告）。 可在标准和混合项目组合中包括发现营销活动。<br><br>报告中提供了发现活动的广告级数据。对于具有 Adobe Analytics 集成的广告商，[!DNL Analytics] 中提供了广告级数据。同样，[!DNL Analytics] 数据在 [!DNL Search] 中可用；这些数据是使用升级后的 `s_kwcid` 跟踪参数发送的，无论您通常为帐户使用的 `s_kwcid` 格式如何。如果您通常使用旧版本的 `s_kwcid`，那么您的点击/成本数据和收入数据将使用不同的 `s_kwcids` 进行跟踪，但两组数据都会被完全分类并汇总在相同的营销活动和帐户中。 |
 |  | ([!DNL Google Ads] 帐户；2月11日发布)对“[!UICONTROL 目标展示份额]“竞价策略现在仅适用于搜索网络上的促销活动。 对于此竞价策略， [!DNL Google Ads] (非 [!DNL Search])优化竞价以实现目标展示份额和广告位置。 您可以选择输入 [!UICONTROL 目标展示份额] 以百分比表示， [!UICONTROL 目标广告位置]，和 [!UICONTROL 最大CPC] （每次点击成本）。 混合项目组合中尚不支持此选项。 |
 | [!UICONTROL 批量处理工作表] | ([!DNL Microsoft] 营销活动；2月11日版)批量工作表现在包含&quot;[!UICONTROL 行动号召]“ ”和“ ”[!UICONTROL 行动动员语言]”列（响应式广告格式），使用“[!UICONTROL 创意（RSA除外）]”行。 |
+| Google Manager帐户 | （2月23日发布）新的 [!UICONTROL 管理员] > [!UICONTROL 经理帐户] 功能允许您为以下对象提供身份验证 [!DNL Google Ads] 经理帐户 [!DNL Search] 将上传跨帐户转化。 如果您想要)上传，请使用此功能 [!DNL Adobe]-tracked、跨帐户转化指标 [!DNL Google Ads] 经理帐户或b)上传包含跨帐户转换的项目组合目标 [!DNL Google Ads] 进行混合优化。<br><br>为经理帐户添加凭据后，可选»[!UICONTROL 跨帐户转化的经理帐户]中的“ ”列 [!UICONTROL 营销活动] > [!UICONTROL 帐户] 视图指示每个子帐户的manager帐户ID，当未验证manager帐户时，列会显示错误。 |
 
 {style=&quot;table-layout:auto&quot;}
 
