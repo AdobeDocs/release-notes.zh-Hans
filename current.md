@@ -6,9 +6,9 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0d56cb0d35c17a40b51b7244a4842215a298b76b
+source-git-commit: c1a4ac7a30c7ba1a9021d2f2fd1052449bf0a1ee
 workflow-type: tm+mt
-source-wordcount: '5241'
+source-wordcount: '5200'
 ht-degree: 93%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 93%
 
 加入我们在拉斯维加斯的行列，扩展您的技能组合，激发灵感，并建立联系，从而使您能够将数字经济个性化。 对于那些无法参加拉斯维加斯世界级大赛的人，几乎可以在任何地方免费参加我们的比赛。
 
-[!BADGE 注册]{type=Informational url="https://summit.adobe.com/na/?promoid=VY36JX1S&mv=other"; tooltip="注册 [!DNL Adobe Summit]"}
+[!BADGE 注册]{type=Informational url=&quot;https://summit.adobe.com/na/?promoid=VY36JX1S&amp;mv=other&quot; tooltip=&quot;注册 [!DNL Adobe Summit]&quot;}
 
 ## 产品发布更新和活动 - 2023 年 2 月
 
@@ -88,7 +88,7 @@ Experience League 活动是您向 Adobe 产品专家学习、与之互动以及�
 | 增强的用户体验和漏洞修复 | <ul><li>已取消的维护会正确报告为“已取消”而不是“已完成”。</li><li>电子邮件通知错误修复和改进。</li></ul> |
 | 包含产品更新的增强订阅 | <ul><li>能够在[管理订阅](https://status.adobe.com/proactive-notifications/manage)页面上以细化的产品级别订阅 [!DNL Adobe Campaign] 和 [!DNL Adobe Target]。</li></ul> |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 <!-- For the latest release information, see Adobe System Status [release notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html#status). -->
 
@@ -114,7 +114,7 @@ _2 月未进行更新。_
 | -----------| ---------- | ---------- | ---------- |
 | 2023 年 2 月 | [未知身份命名空间](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21306.html) | 知识库文章 | 了解 [!DNL Adobe Experience Platform] (AEP) 身份用户界面 (UI) 中存在非标准身份命名空间的原因。 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ### [!DNL Mobile] SDK
 
@@ -142,7 +142,7 @@ _2 月未进行更新。_
 | 2023 年 2 月 | [Analysis Workspace 中的自由格式表筛选器](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/freeform-table-filters.html) | 更新的视频 | 了解筛选器如何能够让您更好地控制在自由格式表中共享哪些数据行。 |
 | 2023 年 2 月 | [Analysis Workspace 中的交叉销售分析](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.html) | 更新的视频 | 了解如何在 Analysis Workspace 中创建[!UICONTROL 交叉销售]报告，并将它进一步扩展到任何多值维度或分类。 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## ![图标](/assets/analytics.png) [!DNL Customer Journey Analytics] {#cja}
 
@@ -184,7 +184,7 @@ New videos, tutorials, or courses published for CJA.
 | 2023 年 2 月 | [无法保存相似模型](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21221.html) | 新文章 | 查找无法保存相似模型时的解决方案。 |
 | 2023 年 2 月 | [AEP 身份命名空间如何与 AAM 数据源相关？](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21305.html) | 新文章 | 了解 AEP [!DNL Identity Namespaces]与 AAM [!DNL Data Sources]的关系。 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 有关自助资源，请参阅 Experience League 上的 [Audience Manager 文档和教程](https://experienceleague.adobe.com/docs/audience-manager.html?lang=zh-Hans)。
 
@@ -295,7 +295,7 @@ _新增功能_
 | 2023 年 2 月 | [筛选 Express 应用](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/fitlering-express-pug-app.html?lang=en) | AEM Headless 开发人员门户 | 探索 AEM Headless GraphQL API 使用 Express and Pug 应用程序筛选数据的能力。此 Express 应用程序创建一个可按活动类型筛选的 WKND 冒险列表。 | AEM CS |
 | 2023 年 2 月 | [Assets Essentials 中的 My Workspace](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/my-workspace.html?lang=en) | 视频 | 了解如何使用 My Workspace 内可由用户配置的小部件更高效地工作。 | AEM Assets |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ### Experience Manager 发行信息
 
@@ -326,7 +326,7 @@ _新增功能_
 | 2023 年 2 月 | [传入链接不显示所有链接页面](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21308.html) | 新文章 | 找到传入链接未显示所有链接页面问题的解决方案。 |
 | 2023 年 2 月 | [request.log analysis \| AEP 分析实例](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21309.html) | 新文章 | 了解 [!DNL Adobe Experience Manager](AEM)`request.log` 中包含的各种信息。 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ### Experience Manager 的其他帮助资源
 
@@ -370,7 +370,7 @@ _新增功能_
 | 2023 年 2 月 | [Developer App Builder](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/introduction-to-app-builder.html?lang=en) | 视频 | 了解 Developer App Builder 以及它如何在不需要过程控制方法的情况下为您的 Adobe Commerce 商店提供自定义的独特功能。 |
 | 2023 年 2 月 | [适用于 Adobe Commerce 的 App Builder 功能演示](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/app-builder-functional-demonstration.html) | 视频 | 通过观看技术演示了解 Adobe Commerce 中使用的 Adobe Developer App Builder。 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ### [!DNL Commerce] 支持知识库
 
@@ -380,7 +380,7 @@ Adobe Commerce 的新文章和现有文章的更新。
 |---------|--------|---------|---------|
 | 2023 年 2 月 | [质量补丁工具 (QPT)](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview.html) | 新文章 | 关于如何应用 QPT 1.1.24 和 QPT 1.1.25 中可用的补丁的新文章已经发布，并可见于相应分区。 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## ![图标](/assets/target.png) [!DNL Target] {#target}
 
@@ -403,7 +403,7 @@ Adobe [!DNL Campaign] 提供直观、自动的方式，通过在线和离线营�
 | -----------| ---------- | ---------- | ---------- |---------- |
 | 2023 年 2 月 | _营销人员借助 Adobe Campaign 取得成功的十大最佳实践_ | 文章 | 了解十大最佳实践，它们有助于使用 Adobe Campaign 的从业人员解锁并加快数字消费者转型，为其客户提供更好的体验。 | 请参阅： <ul><li>[Campaign v8](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/10-best-practices-for-marketers.html)<li>[Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/strategy/10-best-practices-for-marketers.html)</li><li>[Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/strategy/10-best-practices-for-marketers.html?lang=en) |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ### [!DNL Campaign] 支持知识库
 
@@ -414,7 +414,7 @@ Adobe [!DNL Campaign] 提供直观、自动的方式，通过在线和离线营�
 | 2023 年 2 月 | [V8 低投放准备](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21226.html) | 新文章 | 在 [!DNL Adobe Campaign Classic] 的 V8 8.3.8 版本中查找低投放准备的解决方案。 |
 | 2023 年 2 月 | [执行定期交付时，种子地址会进行重复](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21292.html) | 新文章 | 找出在执行定期投放时种子地址重复的问题的解决方法。 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ### [!DNL Campaign] 帮助资源
 
@@ -435,7 +435,9 @@ Adobe [!DNL Campaign] 提供直观、自动的方式，通过在线和离线营�
 
 为 Adobe [!DNL Journey Optimizer] 发布的新视频、教程或课程。
 
-|2023 年 2 月|[配置 SMS API 凭据和渠道表面](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/set-up-sms-channel.html?lang=en)|视频|了解如何将 Journey Optimizer 连接到 SMS 服务提供商以及如何创建 SMS 渠道表面。|
+| 发布日期 | 名称 | 类型 | 描述 |
+|---------|-------|--------|---------|
+| 2023 年 2 月 | [配置短信 API 凭据和渠道平面](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/set-up-sms-channel.html?lang=en) | 视频 | 了解如何将 Journey Optimizer 连接到短信服务提供商，以及如何创建短信渠道平面。 |
 
 ### [!DNL Journey Optimizer] 支持知识库
 
@@ -447,7 +449,7 @@ Adobe [!DNL Campaign] 提供直观、自动的方式，通过在线和离线营�
 | 2023 年 2 月 | [Assets Essentials 访问被拒绝](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21212.html) | 新文章 | 找出访问 [!DNL Assets Essentials] 被拒绝的解决方案。 |
 | 2023 年 2 月 | [在测试模式下发布历程失败](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21210.html) | 新文章 | 找出在测试模式下发布历程失败的解决方案。 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ### [!DNL Journey Optimizer] 的更多资源
 
@@ -502,7 +504,7 @@ Experience League 上的新[!DNL Workfront]课程和教程系列。
 | 2023 年 2 月 | [负责现有的 Adobe Workfront 实例](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance.html?lang=en) | 视频 | 作为新系统或组管理员，了解评估、理解和优化 [!DNL Workfront] 实例的关键阶段。 |
 | 2023 年 2 月 | [使用布局模板自定义项目标题](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-project-headers-with-layout-templates.html) | 视频 | 了解如何通过布局模板在项目标题中添加和删除字段。 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 请参阅 [[!DNL Workfront]  产品版本](https://experienceleague.adobe.com/docs/workfront/using/product-announcements/product-releases/product-releases.html)页面，查看所有产品的最新信息综述。
 
@@ -536,7 +538,7 @@ Last updated: **August 9, 2022**
 | ------- | ----------- |
 | [!UICONTROL 营销活动] | （2月15日版）您现在可以在图表表单中查看更改日志，还可以向任何条目添加注释。 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ### [!DNL Advertising Search] 中的新增功能 {#advertising-search}
 
@@ -549,7 +551,7 @@ Last updated: **August 9, 2022**
 | [!UICONTROL 批量处理工作表] | ([!DNL Microsoft] 营销活动；2月11日版)批量工作表现在包含&quot;[!UICONTROL 行动号召]“ ”和“ ”[!UICONTROL 行动动员语言]”列（响应式广告格式），使用“[!UICONTROL 创意（RSA除外）]”行。 |
 | Google Manager帐户 | （2月23日发布）新的 [!UICONTROL 管理员] > [!UICONTROL 经理帐户] 功能允许您为以下对象提供身份验证 [!DNL Google Ads] 经理帐户 [!DNL Search] 将上传跨帐户转化。 如果您想要)上传，请使用此功能 [!DNL Adobe]-tracked、跨帐户转化指标 [!DNL Google Ads] 经理帐户或b)上传包含跨帐户转换的项目组合目标 [!DNL Google Ads] 进行混合优化。<br><br>为经理帐户添加凭据后，可选»[!UICONTROL 跨帐户转化的经理帐户]中的“ ”列 [!UICONTROL 营销活动] > [!UICONTROL 帐户] 视图指示每个子帐户的manager帐户ID，当未验证manager帐户时，列会显示错误。 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## ![图标](/assets/document-cloud-24.png) [!DNL Document Cloud] {#doc-cloud}
 
@@ -559,7 +561,7 @@ Last updated: **August 9, 2022**
 | -----------| ---------- | ---------- | ---------- |---------- |
 | 2023 年 2 月 | [开始使用 Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/new-sender.html) | 视频 | 您是 Acrobat Sign 的新手吗？本全面教程提供了很好的入门指南，其中包含所有基础知识，可帮助您快速开始使用 Acrobat Sign。 | Acrobat Sign |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 对于有关 [!DNL Document Cloud] 的帮助，请参见：
 
