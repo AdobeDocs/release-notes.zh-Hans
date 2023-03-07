@@ -31,7 +31,7 @@ ht-degree: 93%
 
 加入我们在拉斯维加斯的行列，扩展您的技能组合，激发灵感，并建立联系，从而使您能够将数字经济个性化。 对于那些无法参加拉斯维加斯世界级大赛的人，几乎可以在任何地方免费参加我们的比赛。
 
-[!BADGE 注册]{type=Informational url=&quot;https://summit.adobe.com/na/?promoid=VY36JX1S&amp;mv=other&quot; tooltip=&quot;注册 [!DNL Adobe Summit]&quot;}
+[!BADGE 注册]{type=Informative url="https://summit.adobe.com/na/?promoid=VY36JX1S&mv=other" tooltip="注册 [!DNL Adobe Summit]"}
 
 ## 产品发布更新和活动 - 2023 年 2 月
 
