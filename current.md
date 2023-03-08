@@ -6,10 +6,10 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: cc637cf51aac23cf129fae75a7a7f63f9d678eb3
+source-git-commit: d340d4d039920764e3853f0f86e9049cf4b4ccfd
 workflow-type: tm+mt
-source-wordcount: '4641'
-ht-degree: 46%
+source-wordcount: '4620'
+ht-degree: 45%
 
 ---
 
@@ -94,8 +94,6 @@ ht-degree: 46%
 | Adobe状态API | <ul><li>Adobe状态API提供有关Adobe云产品及服务的宕机、中断和维护事件的详细信息和实时更新。</li><li>API需要在中设置 [Adobe Developer控制台](https://developer.adobe.com/console) 才能使用。 您的组织必须具有至少一个Adobe产品的权利才能访问AdobeAPI。 需要具有正确权限的开发人员控制台帐户。</li><li>请查看文档 [此处](https://developer.adobe.com/adobe-status/) 并遵循设置指南。</li><li>完成设置后，您可以使用 [API参考文档](https://developer.adobe.com/adobe-status/api/) 查看可用的API以及调用它们的签名。</li></ul> |
 
 {style="table-layout:auto"}
-
-有关最新发行信息，请参阅 Adobe 系统状态[发行说明](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/02082023.html?lang=zh-Hans#status)。
 
 +++
 
