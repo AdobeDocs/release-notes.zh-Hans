@@ -6,10 +6,10 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: d340d4d039920764e3853f0f86e9049cf4b4ccfd
-workflow-type: ht
-source-wordcount: '4620'
-ht-degree: 100%
+source-git-commit: 92c5b2be01a67c03ac79ae6e6f1dc1bb275c36f0
+workflow-type: tm+mt
+source-wordcount: '4607'
+ht-degree: 99%
 
 ---
 
@@ -115,7 +115,7 @@ _3 月未进行更新。_
 
 +++详细信息
 
-* [Experience Platform 发行说明](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=zh-Hans) - 计划发布时间：**2023 年 3 月 29 日**）
+* [Experience Platform发行说明](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=zh-Hans)  — 计划发行版 —  **2023年3月29日**
 
 ### 新的 [!DNL Experience Platform] 教程和课程
 
@@ -481,7 +481,7 @@ Adobe Commerce 的新文章和现有文章的更新。
 | 发布日期 | 名称 | 类型 | 描述 |
 | -----------| ---------- | ---------- | ---------- |
 | 2023 年 3 月 | [配置培训沙盒](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=en) | 教程 | 了解如何为培训目的配置沙盒。完成配置模式、获取示例数据和创建事件所需的步骤。 |
-| 2023 年 3 月 | [Journey Optimizer 挑战](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=en) | 挑战 | 挑战提供了一种场景和练习运用所学知识的必需要求。每个挑战都涉及您实施的一个独特用例。 <p>新的挑战：<ul><li>[创建夏季系列发布公告](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/summer-collection-announcement-challenge.html?lang=en)  </li><li>[  创建订单确认](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/order-confirmation-challenge.html?lang=en)  </li><li>[创建产品补货通知](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/product-replenishment-challenge.html?lang=en)</li></ul> |
+| 2023 年 3 月 | [Journey Optimizer 挑战](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=en) | 挑战 | 挑战提供了一种场景和练习运用所学知识的必需要求。每个挑战都涉及您实施的一个独特用例。 <p>新的挑战：<ul><li>[创建夏季系列发布公告](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/summer-collection-announcement-challenge.html?lang=en)  </li><li>[  创建订单确认](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/order-confirmation-challenge.html?lang=en)  </li></ul> |
 
 {style="table-layout:auto"}
 
