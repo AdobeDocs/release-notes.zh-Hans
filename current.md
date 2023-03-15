@@ -6,7 +6,7 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 92c5b2be01a67c03ac79ae6e6f1dc1bb275c36f0
+source-git-commit: 419494f5ae61e2c39d36efa15d00bf878a6a00dc
 workflow-type: tm+mt
 source-wordcount: '4607'
 ht-degree: 99%
@@ -31,7 +31,7 @@ ht-degree: 99%
 
 ## 产品发布更新和活动
 
-最新更新日期：**2023 年 3 月 8 日**
+最新更新日期：**2023 年 3 月 15 日**
 
 * [[!DNL Experience League] 活动](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -115,7 +115,7 @@ _3 月未进行更新。_
 
 +++详细信息
 
-* [Experience Platform发行说明](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=zh-Hans)  — 计划发行版 —  **2023年3月29日**
+* [Experience Platform发行说明](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=zh-Hans)  — 计划发布 —  **2023年3月29日**
 
 ### 新的 [!DNL Experience Platform] 教程和课程
 
