@@ -6,10 +6,10 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4e24ba2510e2ed90a11c05e952312b8b08603d80
+source-git-commit: 474b94e449ae89e0428f46fab1e3fca1cd10f0f5
 workflow-type: tm+mt
-source-wordcount: '4607'
-ht-degree: 99%
+source-wordcount: '4500'
+ht-degree: 94%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 99%
 
 ## 产品发布更新和活动
 
-最新更新日期：**2023 年 3 月 15 日**
+最新更新日期：**2023 年 3 月 20 日**
 
 * [[!DNL Experience League] 活动](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -601,24 +601,24 @@ Last updated: **August 9, 2022**
 
 了解 Adobe Advertising 的最新功能。
 
-上次更新日期：**2023 年 3 月 2 日**
+<!--
+Last updated: **March 2, 2023**
 
-| 功能 | 描述 |
+| Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL 营销活动] | （2 月 15 日发布）您现在可以用图表的形式查看更改日志，并且可以向任何条目添加注释。 |
+| [!UICONTROL Campaigns] | (February 15 release) You can now view change logs in chart form, and you can add notes to any entry. |
 
 {style="table-layout:auto"}
+-->
 
 ### [!DNL Advertising Search] 中的新增功能 {#advertising-search}
 
-上次更新日期：**2023 年 3 月 2 日**
+上次更新时间： **2023年3月2日**
 
 | 功能 | 描述 |
 | ------- | ----------- |
-| [!UICONTROL 营销活动] | （Google 广告帐户；公开 Beta 功能；2 月 23 日发布）对于所有广告商，[!DNL Google Ads] 发现活动的只读同步支持处于 Beta 模式。发现活动具有[!UICONTROL 活动类型]“[!UICONTROL 发现]”、[!UICONTROL 广告组类型]“[!UICONTROL 发现]”和[!UICONTROL 创意类型]“[!UICONTROL 发现广告]”（对于单图广告）或“[!UICONTROL 发现轮播广告]”（对于多图轮播广告）。可在标准和混合项目组合中包括发现营销活动。<br><br>报告中提供了发现活动的广告级数据。对于具有 Adobe Analytics 集成的广告商，[!DNL Analytics] 中提供了广告级数据。同样，[!DNL Analytics] 数据在 [!DNL Search] 中可用；这些数据是使用升级后的 `s_kwcid` 跟踪参数发送的，无论您通常为帐户使用的 `s_kwcid` 格式如何。如果您通常使用旧版本的 `s_kwcid`，那么您的点击/成本数据和收入数据将使用不同的 `s_kwcids` 进行跟踪，但两组数据都会被完全分类并汇总在相同的营销活动和帐户中。 |
-|  | （[!DNL Google Ads] 帐户；2 月 11 日发布）现在仅限搜索网络上的活动支持“[!UICONTROL 目标展示份额]”竞价策略。对于此竞价策略，[!DNL Google Ads]（而非 [!DNL Search]）优化竞价以实现目标展示份额和广告排名。可输入百分比形式的[!UICONTROL 目标展示份额]、[!UICONTROL 目标广告位置]和[!UICONTROL 最大 CPC]（每次点击成本）。混合项目组合尚不支持此选项。 |
-| [!UICONTROL 批量处理工作表] | （[!DNL Microsoft] 活动；2 月 11 日发布）批量处理工作表现在为多媒体广告（响应式广告格式）内加入了“[!UICONTROL 行动号召]”和“[!UICONTROL 行动号召用语”]列，其中使用“[!UICONTROL 创意（RSA 除外）]”行。 |
-| Google 经理账户 | （2 月 23 日发布）通过新增的[!UICONTROL 管理员] > [!UICONTROL 经理帐户]功能，可为 [!DNL Google Ads] 经理帐户提供身份验证，其中 [!DNL Search] 将上传跨帐户转化。如果您想 a) 将 [!DNL Adobe] 跟踪的跨帐户转化指标上传到 [!DNL Google Ads] 经理帐户，或 b) 将包括跨帐户转化的项目组合目标上传到 [!DNL Google Ads] 以进行混合优化，请使用此功能。<br><br>为经理帐户添加凭据后，[!UICONTROL 活动] > [!UICONTROL 帐户]视图中可选的“[!UICONTROL 经理帐户用于跨帐户转化]”列指示每个子帐户的经理帐户 ID，当经理帐户未通过身份验证时，该列显示一条错误。 |
+| [!UICONTROL 营销活动] | ([!DNL Microsoft Advertising] 受众活动；开放式测试版功能；3月18日版)受众促销活动现在可以使用增强的CPC(eCPC)竞价策略。 您可以在子广告组设置中设置竞价。<br><br>包含eCPC的受众促销活动可包含在项目组合中以进行优化。 |
+| [!UICONTROL 营销活动]、[!UICONTROL 报告] | ([!DNL Google Ads] 和 [!DNL Microsoft Advertising] 账户；3月18日版)在促销活动管理视图和报表中提供了以下新的突出量度：<ul><li><p>[!UICONTROL 内容为]:您在展示/受众网络上收到的广告展示次数除以您有资格接收的展示广告展示次数的估计值。</p><p>这个和其他的&quot;[!UICONTROL 内容]*&quot;量度可用于与内容广告相关的实体的所有促销活动管理视图和相关的基本报告中：  [!UICONTROL 搜索引擎], [!UICONTROL 搜索引擎帐户], [!UICONTROL Campaign], [!UICONTROL 广告组]和 [!UICONTROL Portfolio].</p></li><li><p>[!UICONTROL 内容丢失IS（预算）]:由于您的每日或每月预算过低，您在展示/受众网络上的广告未收到的展示次数估计百分比。<p></li><li><p>[!UICONTROL 内容丢失IS（排名）]:由于广告排名不佳，您在展示/受众网络上的广告未显示的预计展示次数百分比。</p></li><li><p>[!UICONTROL 搜索完全匹配IS]:您在与关键词完全匹配的搜索中收到的展示次数除以您有资格接收的估计完全匹配展示次数。</p><p>此量度可用于与搜索广告相关的实体的所有促销活动管理视图和相关的基本报表中：  [!UICONTROL 搜索引擎], [!UICONTROL 搜索引擎帐户], [!UICONTROL Campaign], [!UICONTROL 广告组], [!UICONTROL 关键词], [!UICONTROL 产品组]和 [!UICONTROL Portfolio]. 它们也在 [!UICONTROL 约束], [!UICONTROL 标签分类]和 [!UICONTROL 标签值] 报表。</p></li></ul> |
 
 {style="table-layout:auto"}
 
