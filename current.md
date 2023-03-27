@@ -6,10 +6,10 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 474b94e449ae89e0428f46fab1e3fca1cd10f0f5
+source-git-commit: b1534eb00000b636d0a53d8fa6b12e564b1035a7
 workflow-type: tm+mt
-source-wordcount: '4500'
-ht-degree: 94%
+source-wordcount: '4534'
+ht-degree: 93%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 94%
 
 ## 产品发布更新和活动
 
-最新更新日期：**2023 年 3 月 20 日**
+最新更新日期：**2023 年 3 月 27 日**
 
 * [[!DNL Experience League] 活动](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -613,11 +613,12 @@ Last updated: **March 2, 2023**
 
 ### [!DNL Advertising Search] 中的新增功能 {#advertising-search}
 
-上次更新时间： **2023年3月2日**
+上次更新日期：**2023 年 3 月 27 日**
 
 | 功能 | 描述 |
 | ------- | ----------- |
 | [!UICONTROL 营销活动] | ([!DNL Microsoft Advertising] 受众活动；开放式测试版功能；3月18日版)受众促销活动现在可以使用增强的CPC(eCPC)竞价策略。 您可以在子广告组设置中设置竞价。<br><br>包含eCPC的受众促销活动可包含在项目组合中以进行优化。 |
+| [!UICONTROL 促销活动], [!UICONTROL Portfolio] | ([!DNL Google Ads] 账户；开放测试版功能)优化支持现在适用于 [!DNL Google Ads] 效果最大的促销活动，并且您可以将其添加到混合组合中。 竞价策略目标和促销活动预算在促销活动级别设置。 |
 | [!UICONTROL 营销活动]、[!UICONTROL 报告] | ([!DNL Google Ads] 和 [!DNL Microsoft Advertising] 账户；3月18日版)在促销活动管理视图和报表中提供了以下新的突出量度：<ul><li><p>[!UICONTROL 内容为]:您在展示/受众网络上收到的广告展示次数除以您有资格接收的展示广告展示次数的估计值。</p><p>这个和其他的&quot;[!UICONTROL 内容]*&quot;量度可用于与内容广告相关的实体的所有促销活动管理视图和相关的基本报告中：  [!UICONTROL 搜索引擎], [!UICONTROL 搜索引擎帐户], [!UICONTROL Campaign], [!UICONTROL 广告组]和 [!UICONTROL Portfolio].</p></li><li><p>[!UICONTROL 内容丢失IS（预算）]:由于您的每日或每月预算过低，您在展示/受众网络上的广告未收到的展示次数估计百分比。<p></li><li><p>[!UICONTROL 内容丢失IS（排名）]:由于广告排名不佳，您在展示/受众网络上的广告未显示的预计展示次数百分比。</p></li><li><p>[!UICONTROL 搜索完全匹配IS]:您在与关键词完全匹配的搜索中收到的展示次数除以您有资格接收的估计完全匹配展示次数。</p><p>此量度可用于与搜索广告相关的实体的所有促销活动管理视图和相关的基本报表中：  [!UICONTROL 搜索引擎], [!UICONTROL 搜索引擎帐户], [!UICONTROL Campaign], [!UICONTROL 广告组], [!UICONTROL 关键词], [!UICONTROL 产品组]和 [!UICONTROL Portfolio]. 它们也在 [!UICONTROL 约束], [!UICONTROL 标签分类]和 [!UICONTROL 标签值] 报表。</p></li></ul> |
 
 {style="table-layout:auto"}
