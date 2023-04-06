@@ -6,10 +6,10 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: a33a3738aa82ce68eef6b40a9a34b7697eb7cb7b
+source-git-commit: 7feb48c8588b9463ba0a01479cd3c1d64668bbe0
 workflow-type: tm+mt
-source-wordcount: '4471'
-ht-degree: 91%
+source-wordcount: '4580'
+ht-degree: 89%
 
 ---
 
@@ -31,9 +31,10 @@ ht-degree: 91%
 
 ## 产品发布更新和活动
 
-最新更新日期：**2023 年 3 月 29 日**
+最新更新日期：**2023 年 4 月 6 日**
 
-* [[!DNL Experience League] 活动](#events)
+* [[!DNL Experience League] 事件](#events) (**更新日期： 2023年4月6日**)
+* [认证](#certification) (**新！ 2023 年 4 月 6 日**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Experience Cloud] 界面和管理](#ecloud)
 * [[!DNL Experience Platform]](#platform)
@@ -59,15 +60,31 @@ ht-degree: 91%
 
 +++即将举行的活动
 
-* **[!DNL Marketo]** | _Adobe Marketo Engage可能很大，了解小团队如何最大化其实例_ | **3月30日，上午8:00品脱** |  [注册](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-adobe-marketo-engage-may-be-big-learn-how-a-small-team-maximizes-their-instance/)
+* **[!DNL Workfront]** | _连接：战略管理员聊天_ | **4月10日上午8:00 CT** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,-9nSc9EY3Um-uj0-EaoAPg,7VBCpt8DgEOLA67Jwa7ShA,-f6upnI-xUqzViVU-lSHMg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | _连接：用于营销和创意的管理员聊天_ | **3月31日上午10:00 MT** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,zQqh7GuOYEKk9nj6La13sw,21mIvr6FckuR3RV6fXWwoA,rsGLF_yiOEma4deQintntQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Target]** | _Adobe Target社区与马修·贝利和乔治亚·弗雷利的问答环节_ | **4月12日早8:00品脱** |  [注册](https://adobe.ly/3ZV8gUG)
 
-* **[!DNL Marketo Engage]** | _Marketo和Mochas:可投放性（第2部分）_ | **4月5日下午1:00 ET** | [注册](https://register.gotowebinar.com/register/6818591002040103259)
+* **[!DNL Workfront]** | _了解：Adobe Workfront 23.2版本汇总_ | **4月12日@中午12:30** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,ridfURuXEU6az_bX9g1Cxg,pvTHbLZm3kSbU7ZxfauFMQ,ylMqSUM8BkCkwTFYT5Ve1A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Adobe Summit]** |_回访峰会一年！_ | **按需** | [详细信息](https://business.adobe.com/summit/adobe-summit.html)
 
 请参阅[ Experience League 活动](https://experienceleague.adobe.com/events/?lang=zh-Hans)，了解有关即将举行的活动和点播既往活动的完整时间表。
+
++++
+
+## ![图标](/assets/certification-badge.png) 认证{#certification}
+
+请注意所有Adobe认证候选者！ Adobe很兴奋地宣布推出新Experience Cloud [认证](https://experienceleague.adobe.com/docs/certification/certification/overview.html?lang=en) 网站Experience League。
+
++++详细信息
+
+认证站点是您的一站式服务 [!DNL Experience Cloud] 认证相关内容，包括：
+
+* 可用认证
+* Adobe解决方案的认证续订
+* 认证计划更新
+
+等等！转到 [Adobe认证](https://experienceleague.adobe.com/docs/certification/certification/overview.html?lang=en) 立即Experience League并开始您的认证历程！
 
 +++
 
