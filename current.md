@@ -6,10 +6,10 @@ last-update: April 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1901183db80b397aebd80187b0e03dc422342a93
+source-git-commit: 678916a1d510e0bfb2d7f4cb54a568aa7a693ede
 workflow-type: tm+mt
-source-wordcount: '5969'
-ht-degree: 61%
+source-wordcount: '5815'
+ht-degree: 60%
 
 ---
 
@@ -90,25 +90,13 @@ ht-degree: 61%
 
 ## ![图标](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
->[!IMPORTANT]
->
->了解 [!DNL Adobe System Status] 的最新功能和相关更新。
+了解 [!DNL Adobe System Status] 的最新功能和相关更新。
 
 +++详细信息
 
 [!DNL Adobe System Status] 提供了关于 Adobe 产品与服务中断、干扰和维护活动的详细信息、状态更新以及电子邮件通知。请在 [status.adobe.com](https://status.adobe.com/) 上查看它。
 
-发行日期：**2023 年 2 月 15 日**
-
-**新增功能**
-
-* [!DNL Status] 添加了对 API 的支持，使您可直接调用 Adobe 的服务器，如在 [status.adobe.com](https://status.adobe.com/) UI 上查询和查看事件。可使用这些 API 集成到监控系统或仪表板中，以从 Adobe Status 查看实时事件。可根据产品、产品供应、地区、环境（如果可用）、区域设置和事件类型筛选事件。
-
-| 功能 | 描述 |
-| ------- | -------|
-| Adobe Status API | <ul><li>Adobe Status API 提供有关 Adobe 云产品和服务中断、干扰和维护事件的详细信息和实时更新。</li><li>必须在 [Adobe Developer控制台](https://developer.adobe.com/console) 才能使用。 您的组织必须拥有至少一种 Adobe 产品的权限才能访问 Adobe API。需要具有正确权限的开发人员控制台帐户。</li><li>查看文档 [此处](https://developer.adobe.com/adobe-status/) 并按照指南进行设置。</li><li>设置完成后，您可以使用 [API 参考文档](https://developer.adobe.com/adobe-status/api/)查看可用的 API 和调用它们的签名。</li></ul> |
-
-{style="table-layout:auto"}
+请参阅 [发行说明](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/03082023.html?lang=zh-Hans#status) 以查看最新更新的Adobe状态。
 
 +++
 
