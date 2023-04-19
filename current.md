@@ -6,10 +6,10 @@ last-update: April 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4d6f4cc165539812857d090a7938863da6133bb3
+source-git-commit: fa7024debf03de040dc855e5045b0b2303ee7db0
 workflow-type: tm+mt
-source-wordcount: '5717'
-ht-degree: 96%
+source-wordcount: '5765'
+ht-degree: 94%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 96%
 
 ## 产品发布更新和活动
 
-最新更新日期：**2023 年 4 月 12 日**
+最新更新日期：**2023 年 4 月 18 日**
 
 * [[!DNL Experience League] 活动](#events)
 * [Adobe 认证](#certification)（**新！**）
@@ -58,13 +58,23 @@ ht-degree: 96%
 
 了解 Experience League 上的动态。参与活动是您向 Adobe 产品专家学习、与之互动以及获得答案的绝佳方式！
 
+更新日期： **2023年4月19日**
+
 +++即将举行的活动
 
-* **[!DNL Workfront]** | _沟通：战略管理员对话_ | **4 月 10 日上午 8:00 CT** | [登记](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,-9nSc9EY3Um-uj0-EaoAPg,7VBCpt8DgEOLA67Jwa7ShA,-f6upnI-xUqzViVU-lSHMg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _询问专家：通过自动化网络研讨会跟进推进工作流清理_ | **4月27日上午10点30分手动** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,pUGUw4e8dEaYTwHasipYnw,Qp_LrlOtoUKguf3gH4x3HQ,zWCOgeSX_Uy_Zmp7d-ZbTQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Target]** | _与 Matthew Baillie 和 Georgia Frailey 的 Adobe Target 社区问答喝咖啡休息时间_ | **4 月 12 日上午 8:00 PT** |  [登记](https://adobe.ly/3ZV8gUG)
+* **[!DNL Experience Manager Sites]** | _AEM Sites增压器车间_ | **4月25日早8点（品脱）** |  [注册](https://adobe.ly/3ZV8gUG)
 
-* **[!DNL Workfront]** | _学习：Adobe Workfront 23.2 版本摘要_ | **4 月 12 日下午 12:30 CT** | [登记](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,ridfURuXEU6az_bX9g1Cxg,pvTHbLZm3kSbU7ZxfauFMQ,ylMqSUM8BkCkwTFYT5Ve1A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Experience Platform]** | _只需单击几下，即可启动和运行数据收集和事件转发！_ | **4月25日上午9:00品脱** | [注册](https://engage.adobe.com/ExpLeagueLive-230425.html)
+
+* **[!DNL Marketo Engage]** | _Marketo冠军深潜：电子邮件培养_ | **4月25日上午10:00品脱** | [注册](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-marketo-champion-deep-dive-email-nurture/)
+
+* **[!DNL Experience Manager as a Cloud Service]** | _AEM Champion办公时间 — AEMas a Cloud Service_ | **4月27日早7:30品脱** | [注册](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-champion-office-hours-presents-adobe-experience-manager-champion-office-hours-aem-as-a-cloud-service/)
+
+* **[!DNL Analytics]** | _构建Adobe Analytics专家团队_ | **4月27日早8点（品脱）** | [注册](https://engage.adobe.com/Building_an_analytics_team.html?utm_source=experienceleague)
+
+* **[!DNL Target]** | _Adobe Target — 每次都提供个性化的客户体验！_ | **4月27日英国夏令时早9点** | [注册](https://adobetargetemea2023.experienceleague.adobeevents.com/)
 
 * **[!DNL Adobe Summit]** |_全年重访 Summit！_ | **点播** | [详细信息](https://business.adobe.com/summit/adobe-summit.html)
 
@@ -680,7 +690,7 @@ Last updated: **August 9, 2022**
 
 | 功能 | 描述 |
 | ------- | ----------- |
-| [!UICONTROL 营销活动] | ([!DNL Microsoft® Advertising] 受众活动；4月15日版)受众促销活动现在可以使用“手动CPM”竞价策略。 您可以在子广告组设置中设置竞价。<br>&lt;brOptimization support isn’t available for CPM campaigns. |
+| [!UICONTROL 营销活动] | ([!DNL Microsoft® Advertising] 受众活动；4月15日版)受众促销活动现在可以使用“手动CPM”竞价策略。 您可以在子广告组设置中设置竞价。<br>&lt;brOptimization support isn&#39;t available for CPM campaigns. |
 | [!UICONTROL Recommendations] | 六个新([!DNL Google Ads] 推荐可从 [!UICONTROL 分析和报表] > [!UICONTROL Recommendations]:<ul><li>[!UICONTROL 响应式搜索提高广告强度]:提高响应式搜索广告广告广告强度的建议</li><li>[!UICONTROL 将本地促销活动升级到最高效果]:将旧版本地促销活动升级为最高效果促销活动</li><li>[!UICONTROL 将智能购物促销活动升级为最高效果]:将旧版智能购物促销活动升级为最佳效果促销活动</li><li>[!UICONTROL 预测集目标ROAS]:在预测增加流量的季节性事件之前提高预算，并将竞价策略从 [!DNL Maximize Conversion Value] to [!DNL Target ROAS]</li><li>[!UICONTROL 将Target CPA报价提高到过低]:提高 [!DNL Target CPA] 当转化量过低且转化很少或没有转化时，建议按照此量</li><li>[!UICONTROL 显示扩展选择启用]:通过更新营销活动以使用展示广告扩展来扩大访问范围</li></ul>由于添加和删除资产、更改促销活动类型以及更改预算和竞价策略都可能影响性能，因此我们建议与您的Adobe客户团队讨论每个推荐的利弊，以便您做出明智的决策。 |
 
 {style="table-layout:auto"}
