@@ -6,10 +6,10 @@ last-update: April 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: fa7024debf03de040dc855e5045b0b2303ee7db0
+source-git-commit: 828c0f0335495e85331b606914df8e6812c59711
 workflow-type: tm+mt
-source-wordcount: '5765'
-ht-degree: 94%
+source-wordcount: '5752'
+ht-degree: 93%
 
 ---
 
@@ -31,10 +31,10 @@ ht-degree: 94%
 
 ## 产品发布更新和活动
 
-最新更新日期：**2023 年 4 月 18 日**
+最新更新日期：**2023 年 5 月 4 日**
 
-* [[!DNL Experience League] 活动](#events)
-* [Adobe 认证](#certification)（**新！**）
+* [[!DNL Experience League] 事件](#events) (更新日期： **5月4日**)
+* [Adobe 认证](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Experience Cloud] 界面和管理](#ecloud)
 * [[!DNL Experience Platform]](#platform)
@@ -58,27 +58,19 @@ ht-degree: 94%
 
 了解 Experience League 上的动态。参与活动是您向 Adobe 产品专家学习、与之互动以及获得答案的绝佳方式！
 
-更新日期： **2023年4月19日**
+更新日期： **2023年5月4日**
 
 +++即将举行的活动
 
-* **[!DNL Workfront]** | _询问专家：通过自动化网络研讨会跟进推进工作流清理_ | **4月27日上午10点30分手动** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,pUGUw4e8dEaYTwHasipYnw,Qp_LrlOtoUKguf3gH4x3HQ,zWCOgeSX_Uy_Zmp7d-ZbTQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _连接：用于营销和创意的管理员聊天_ | **5月5日上午10:00 MT** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,QZnzwwUzu0qWtspyd1Q-Ng,8nguBLkENEq0VpYFX3yJoA,D3ZwH_h7f0uQqBK-mZyEdQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Experience Manager Sites]** | _AEM Sites增压器车间_ | **4月25日早8点（品脱）** |  [注册](https://adobe.ly/3ZV8gUG)
+* **[!DNL Campaign]** | _Adobe Campaign:每次都正确地处理电子邮件营销！_ | **5月11日英国夏令时上午9点** |  [注册](https://adobecampaignemea2023.experienceleague.adobeevents.com/)
 
-* **[!DNL Experience Platform]** | _只需单击几下，即可启动和运行数据收集和事件转发！_ | **4月25日上午9:00品脱** | [注册](https://engage.adobe.com/ExpLeagueLive-230425.html)
+* **[!DNL Workfront]** | _了解：Workfront中的计算自定义字段_ | **5月11日上午10:30 MT** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,yCYVwQotCU2TAORLyPoHJA,_4xblJcMAkOcN_Yr0Ufvtw,LHF-Iz1B3kihhT_9ZlkFog?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Marketo Engage]** | _Marketo冠军深潜：电子邮件培养_ | **4月25日上午10:00品脱** | [注册](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-marketo-champion-deep-dive-email-nurture/)
+* **[!DNL Commerce]** | _Commerce &amp; Coffee:建立客户忠诚度和维系率的7种方法_ | **5月11日@下午1:00 PT** | [注册](https://register.gotowebinar.com/#register/4149787110381957724)
 
-* **[!DNL Experience Manager as a Cloud Service]** | _AEM Champion办公时间 — AEMas a Cloud Service_ | **4月27日早7:30品脱** | [注册](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-champion-office-hours-presents-adobe-experience-manager-champion-office-hours-aem-as-a-cloud-service/)
-
-* **[!DNL Analytics]** | _构建Adobe Analytics专家团队_ | **4月27日早8点（品脱）** | [注册](https://engage.adobe.com/Building_an_analytics_team.html?utm_source=experienceleague)
-
-* **[!DNL Target]** | _Adobe Target — 每次都提供个性化的客户体验！_ | **4月27日英国夏令时早9点** | [注册](https://adobetargetemea2023.experienceleague.adobeevents.com/)
-
-* **[!DNL Adobe Summit]** |_全年重访 Summit！_ | **点播** | [详细信息](https://business.adobe.com/summit/adobe-summit.html)
-
-请参阅[ Experience League 活动](https://experienceleague.adobe.com/events/?lang=zh-Hans)，了解有关即将举行的活动和点播既往活动的完整时间表。
+* **[!DNL Workfront]** | _连接：战略管理员聊天_ | **5月15日上午8点** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,siKED3PdM0m9LF4Z0sfojg,HVuuM7Rf6EOsLsWLdiHO7w,5G5IR9qtoES1gH_rRVly8g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 +++
 
