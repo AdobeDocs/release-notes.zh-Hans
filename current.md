@@ -6,9 +6,9 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b776f31ac5a97fea0f571597b9597f7e58f75799
+source-git-commit: 136fee396ccc19e6c0e64914a8ab527f889b68fe
 workflow-type: tm+mt
-source-wordcount: '5499'
+source-wordcount: '5500'
 ht-degree: 50%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 50%
 
 ## 产品发布更新和活动
 
-最新更新日期：**2023 年 5 月 8 日**
+最新更新日期：**2023 年 5 月 9 日**
 
 * [[!DNL Experience League] 活动](#events)
 * [Adobe 认证](#certification)
@@ -60,7 +60,7 @@ ht-degree: 50%
 
 了解 Experience League 上的动态。参与活动是您向 Adobe 产品专家学习、与之互动以及获得答案的绝佳方式！
 
-更新日期： **2023年5月10日**
+更新日期： **2023年5月9日**
 
 +++即将举行的活动
 
@@ -195,7 +195,7 @@ New videos, tutorials, or courses published for Adobe Experience Platform.-->
 
 +++详细信息
 
-下一版本： **2023年5月10日**
+发布日期：**2023 年 5 月 10 日**
 
 * Customer Journey Analytics [发行说明](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=zh-Hans)
 * Customer Journey Analytics [产品文档和教程](https://experienceleague.adobe.com/docs/customer-journey-analytics.html?lang=zh-Hans)
@@ -217,7 +217,7 @@ New videos, tutorials, or courses published for Adobe Experience Platform.-->
 
 ## ![图标](/assets/analytics.png) [!DNL Streaming Media Analytics] {#sma}
 
-版本： **2023年5月10日**
+发布日期：**2023 年 5 月 10 日**
 
 * [!DNL Streaming Media Analytics] [发行说明](https://experienceleague.adobe.com/docs/media-analytics/using/release-notes/release-notes.html?lang=zh-Hans)
 * [!DNL Streaming Media Analytics] [产品文档和教程](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html?lang=zh-Hans)
