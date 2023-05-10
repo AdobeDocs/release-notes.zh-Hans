@@ -6,9 +6,9 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: dd8bffc183b46ee92c3817727a2b1abfeddc1641
+source-git-commit: 4aa55aa5b4cc86978db180250642588a45b87962
 workflow-type: tm+mt
-source-wordcount: '5731'
+source-wordcount: '5725'
 ht-degree: 49%
 
 ---
@@ -472,9 +472,9 @@ Adobe Commerce 的新文章和现有文章的更新。
 
 通过 [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=zh-Hans)、[Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html?lang=zh-Hans) 和 [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=zh-Hans) 发行说明了解有关最新功能、改进和修复的更多信息。
 
-### 新的 [!DNL Campaign] 教程和课程 {#tutorials-campaign}
+### [!DNL Campaign]的新教程 {#tutorials-campaign}
 
-为 Adobe Campaign 发布的新视频、教程或课程。
+为 [!DNL Adobe Campaign]发布的新视频、教程或课程。
 
 | 发布日期 | 名称 | 类型 | 描述 | 应用程序 |
 | -----------| ---------- | ---------- | ---------- |---------- |
@@ -516,7 +516,7 @@ Adobe Commerce 的新文章和现有文章的更新。
 
 有关最新的功能、改进和修复的详细信息，请参见 [Journey Optimizer 发行说明](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=zh-Hans)。
 
-### 新的 [!DNL Journey Optimizer] 教程和课程 {#tutorials-ajo}
+### [!DNL Journey Optimizer]的新教程 {#tutorials-ajo}
 
 为 Adobe [!DNL Journey Optimizer] 发布的新视频、教程或课程。
 
