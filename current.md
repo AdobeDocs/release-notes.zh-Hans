@@ -6,9 +6,9 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 5d83d82ee19300866c7b75bddd173ffe58f3300b
+source-git-commit: dd8bffc183b46ee92c3817727a2b1abfeddc1641
 workflow-type: tm+mt
-source-wordcount: '5744'
+source-wordcount: '5731'
 ht-degree: 49%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 49%
 
 ## 产品发布更新和活动
 
-最新更新日期：**2023 年 5 月 9 日**
+最新更新日期：**2023 年 5 月 10 日**
 
 * [[!DNL Experience League] 活动](#events)
 * [Adobe 认证](#certification)
@@ -47,8 +47,8 @@ ht-degree: 49%
 * [[!DNL Experience Manager Guides]](#xml-doc)
 * [[!DNL Commerce]](#commerce)
 * [[!DNL Target]](#target)
-* [[!DNL Campaign]](#ac)
-* [[!DNL Journey Optimizer]](#journey-opt)
+* [[!DNL Campaign]](#ac)（更新日期：**5 月 10 日**）
+* [[!DNL Journey Optimizer]](#journey-opt) （已更新） **5月10日**)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
@@ -478,10 +478,10 @@ Adobe Commerce 的新文章和现有文章的更新。
 
 | 发布日期 | 名称 | 类型 | 描述 | 应用程序 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2023 年 5 月 | [创建调查](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/create-a-survey.html?lang=en) | 视频 | 了解如何在Adobe Campaign Classic中创建调查。 | Campaign v8 |
-| 2023 年 5 月 | [创建调查](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/create-a-survey.html?lang=en) | 视频 | 了解如何在Adobe Campaign Classic中创建调查。 | Campaign Classic |
-| 2023 年 5 月 | [设计电子邮件投放内容](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html) | 视频 | 了解如何配置、个性化和测试电子邮件投放内容。 了解如何使用模板、上传图像、添加表情符号、嵌入条形码和二维码。 | Campaign Classic |
-| 2023 年 5 月 | [监视投放](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/monitor-a-delivery.html) | 视频 | 了解消息日志、作业日志和投放日志。 | Campaign Standard |
+| 2023 年 5 月 | [创建调查](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/create-a-survey.html?lang=en) | 视频 | 了解如何在 [!DNL Adobe Campaign] v8。 | [!DNL Campaign] v8 |
+| 2023 年 5 月 | [创建调查](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/create-a-survey.html?lang=en) | 视频 | 了解如何在 [!DNL Adobe Campaign Classic]. | [!DNL Campaign Classic] |
+| 2023 年 5 月 | [设计电子邮件投放内容](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html) | 视频 | 了解如何配置、个性化和测试电子邮件投放内容。 了解如何使用模板、上传图像、添加表情符号、嵌入条形码和二维码。 | [!DNL Campaign Classic] |
+| 2023 年 5 月 | [监视投放](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/monitor-a-delivery.html) | 视频 | 了解消息日志、作业日志和投放日志。 | [!DNL Campaign Standard] |
 
 {style="table-layout:auto"}
 
@@ -522,9 +522,9 @@ Adobe Commerce 的新文章和现有文章的更新。
 
 | 发布日期 | 名称 | 类型 | 描述 |
 | -----------| ---------- | ---------- | ---------- |
-| 2023 年 5 月 | [创作Web营销活动](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/author-a-web-campaign.html?lang=en) | 视频 | 了解如何在Journey Optimizer营销活动中使用Web可视编辑器创作Web体验。 |
+| 2023 年 5 月 | [创作Web营销活动](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/author-a-web-campaign.html?lang=en) | 视频 | 了解如何使用 [!DNL Journey Optimizer] 营销活动。 |
 | 2023 年 5 月 | [创建Web营销活动](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=en) | 视频 | 了解Web营销活动是什么。 了解如何配置Web营销活动属性、查看和发布该属性。 |
-| 2023 年 5 月 | [将数据集导出到云存储位置](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-management/export-datasets.html?lang=en) | 视频 | 了解如何将数据集从Journey Optimizer导出到Amazon S3目标。 |
+| 2023 年 5 月 | [将数据集导出到云存储位置](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-management/export-datasets.html?lang=en) | 视频 | 了解如何从导出数据集 [!DNL Journey Optimizer] 到 [!DNL Amazon] S3目标。 |
 
 {style="table-layout:auto"}
 
