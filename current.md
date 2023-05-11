@@ -6,10 +6,10 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4aa55aa5b4cc86978db180250642588a45b87962
+source-git-commit: 264ad6eeeb05af620941cd57ceaf18c82faf019e
 workflow-type: tm+mt
-source-wordcount: '5725'
-ht-degree: 49%
+source-wordcount: '5723'
+ht-degree: 50%
 
 ---
 
@@ -368,7 +368,7 @@ _已知问题_
 | 2023 年 5 月 | [在交互式通信中自定义文本编辑器](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/interactive-communications/customize-text-editor.html) | 视频 | 在交互式通信中自定义文本编辑器以添加自定义字体和大小。 | AEM Forms |
 | 2023 年 5 月 | [使用AEM Forms和Acrobat Sign反应应用程序](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/react-ic-sign/introduction.html) | 视频 | 使用从本机React应用程序提交的数据创建交互式通信文档，并将其呈现给最终用户，以便使用Acrobat签名小组件进行签名 | AEM Forms |
 | 2023 年 5 月 | [将Forms CS与Sharepoint集成](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/store-form-submission-in-sharepoint.html) | 视频 | 了解如何配置AEM Forms CS并将其与Microsoft® Sharepoint集成 | AEM Forms CS |
-| 2023 年 5 月 | [将表单提交存储在一个驱动器中](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/store-form-submission-one-drive.html) | 视频 | 配置自适应表单以将表单数据存储在一个驱动器中。 | AEM Forms CS |
+| 2023 年 5 月 | [在OneDrive中存储表单提交](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/store-form-submission-one-drive.html) | 视频 | 配置自适应表单以在OneDrive中存储表单数据。 | AEM Forms CS |
 | 2023 年 5 月 | [如何使用AEM Headless中的优化图像](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/images.html) | 视频 | 了解如何在AEM Headless中使用优化的图像。 | AEM CS |
 | 2023 年 5 月 | [如何在AEM Headless中处理大结果](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/large-result-sets.html?lang=en) | 视频 | 了解如何使用AEM Headless处理大结果集。 | AEM CS |
 
@@ -480,7 +480,7 @@ Adobe Commerce 的新文章和现有文章的更新。
 | -----------| ---------- | ---------- | ---------- |---------- |
 | 2023 年 5 月 | [创建调查](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/create-a-survey.html?lang=en) | 视频 | 了解如何在 [!DNL Adobe Campaign] v8。 | [!DNL Campaign] v8 |
 | 2023 年 5 月 | [创建调查](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/create-a-survey.html?lang=en) | 视频 | 了解如何在 [!DNL Adobe Campaign Classic]. | [!DNL Campaign Classic] |
-| 2023 年 5 月 | [设计电子邮件投放内容](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html) | 视频 | 了解如何配置、个性化和测试电子邮件投放内容。 了解如何使用模板、上传图像、添加表情符号、嵌入条形码和二维码。 | [!DNL Campaign Classic] |
+| 2023 年 5 月 | [设计电子邮件投放内容](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html) | 视频 | 了解如何配置、个性化和测试电子邮件投放内容。了解如何使用模板、上传图像、添加表情符号、嵌入条形码和二维码。 | [!DNL Campaign Classic] |
 | 2023 年 5 月 | [监视投放](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/monitor-a-delivery.html) | 视频 | 了解消息日志、作业日志和投放日志。 | [!DNL Campaign Standard] |
 
 {style="table-layout:auto"}
@@ -522,8 +522,8 @@ Adobe Commerce 的新文章和现有文章的更新。
 
 | 发布日期 | 名称 | 类型 | 描述 |
 | -----------| ---------- | ---------- | ---------- |
-| 2023 年 5 月 | [创作Web营销活动](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/author-a-web-campaign.html?lang=en) | 视频 | 了解如何使用 [!DNL Journey Optimizer] 营销活动。 |
-| 2023 年 5 月 | [创建Web营销活动](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=en) | 视频 | 了解Web营销活动是什么。 了解如何配置Web营销活动属性、查看和发布该属性。 |
+| 2023 年 5 月 | [创建 Web 营销活动](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/author-a-web-campaign.html?lang=en) | 视频 | 了解如何使用 [!DNL Journey Optimizer] 营销活动。 |
+| 2023 年 5 月 | [创建 Web 营销活动](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=en) | 视频 | 了解什么是 Web 营销活动。了解如何配置 Web 营销活动属性、进行查看和发布。 |
 | 2023 年 5 月 | [将数据集导出到云存储位置](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-management/export-datasets.html?lang=en) | 视频 | 了解如何从导出数据集 [!DNL Journey Optimizer] 到 [!DNL Amazon] S3目标。 |
 
 {style="table-layout:auto"}
@@ -680,7 +680,7 @@ Last updated: **August 9, 2022**
 
 | 功能 | 描述 |
 | ------- | ----------- |
-| [!UICONTROL 营销活动] | ([!DNL Microsoft® Advertising] 受众活动；4月15日版)受众促销活动现在可以使用“手动CPM”竞价策略。 您可以在子广告组设置中设置竞价。<br>&lt;brOptimization support isn&#39;t available for CPM campaigns. |
+| [!UICONTROL 营销活动] | ([!DNL Microsoft® Advertising] 受众活动；4月15日版)受众促销活动现在可以使用“手动CPM”竞价策略。 您可以在子广告组设置中设置竞价。<br><br>优化支持不适用于CPM促销活动。 |
 | [!UICONTROL Recommendations] | 六个新([!DNL Google Ads] 推荐可从 [!UICONTROL 分析和报表] > [!UICONTROL Recommendations]:<ul><li>[!UICONTROL 响应式搜索提高广告强度]:提高响应式搜索广告广告广告强度的建议</li><li>[!UICONTROL 将本地促销活动升级到最高效果]:将旧版本地促销活动升级为最高效果促销活动</li><li>[!UICONTROL 将智能购物促销活动升级为最高效果]:将旧版智能购物促销活动升级为最佳效果促销活动</li><li>[!UICONTROL 预测集目标ROAS]:在预测增加流量的季节性事件之前提高预算，并将竞价策略从 [!DNL Maximize Conversion Value] to [!DNL Target ROAS]</li><li>[!UICONTROL 将Target CPA报价提高到过低]:提高 [!DNL Target CPA] 当转化量过低且转化很少或没有转化时，建议按照此量</li><li>[!UICONTROL 显示扩展选择启用]:通过更新营销活动以使用展示广告扩展来扩大访问范围</li></ul>由于添加和删除资产、更改促销活动类型以及更改预算和竞价策略都可能影响性能，因此我们建议与您的Adobe客户团队讨论每个推荐的利弊，以便您做出明智的决策。 |
 
 {style="table-layout:auto"}
