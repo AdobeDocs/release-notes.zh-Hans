@@ -33,7 +33,7 @@ ht-degree: 100%
 
 最新更新日期：**2023 年 5 月 22 日**
 
-* [[!DNL Experience League] 事件和更新](#events)（更新日期：**5 月 22 日**）
+* [[!DNL Experience League] 活动和最新消息](#events)（更新日期：**5 月 22 日**）
 * [Adobe 认证](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Experience Cloud] 界面和管理](#ecloud)
@@ -56,22 +56,22 @@ ht-degree: 100%
 * [[!DNL Document Cloud]](#doc-cloud)
 * [[!DNL Creative Cloud for enterprise]](#creative-cloud)<!-- * [Digital Experience Blueprints - tutorials](#blueprints) -->
 
-## ![图标](/assets/experience-league.png) [!DNL Experience League]事件和更新 {#events}
+## ![图标](/assets/experience-league.png) [!DNL Experience League]活动和最新消息 {#events}
 
 了解 Experience League 上的动态。参与活动是您向 Adobe 产品专家学习、与之互动以及获得答案的绝佳方式！
 
 更新日期：**2023 年 5 月 22 日**
 
-**改进了 Experience League 上的内容搜索：**&#x200B;您可以自定义如何为您拥有的产品过滤内容搜索结果。显示结果基于：
+**改进了 Experience League 上的内容搜索：**&#x200B;您可以自定义如何为您拥有的产品过滤内容搜索结果。根据以下各项显示结果：
 
 * 教程
 * 课程
 * 文档
 * 产品
-* 事件
+* 活动
 * 证书
 
-前往 [Experience League](https://experienceleague.adobe.com/?lang=en#home) 并查看！
+请前往 [Experience League](https://experienceleague.adobe.com/?lang=en#home) 了解详情！
 
 +++即将举行的活动
 
@@ -81,7 +81,7 @@ ht-degree: 100%
 
 * **[!DNL Target]** |_增强您的组织以提供数据驱动的个性化_|**太平洋时间 5 月 24 日上午 8:00** |[登记](https://datadrivenpersonalization2023.experienceleague.adobeevents.com/)
 
-* **[!DNL Workfront]** | _咨询专家：Project 模板网络研讨会跟进的基础_|**中部时间 5 月 24 日上午 10:00** |[登记](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,deNNL500LUW5Jto2AEuCSw,sBjyEWYmKUiUlKPwPLs5_g,ox3gNJRu5ESoQKjm1G4AtA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _询问专家：项目模板基础网络研讨会后续_|**中部时间 5 月 24 日上午 10:00** |[登记](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,deNNL500LUW5Jto2AEuCSw,sBjyEWYmKUiUlKPwPLs5_g,ox3gNJRu5ESoQKjm1G4AtA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Experience Manager Assets]** | _Espressos 和 Experience Manager - AEM Assets 迁移_|**太平洋时间 5 月 25 日下午 1:00** |[登记](https://datadrivenpersonalization2023.experienceleague.adobeevents.com/)
 
@@ -373,7 +373,7 @@ _已知问题_
 | 2023 年 5 月 | [在交互式通信中自定义文本编辑器](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/interactive-communications/customize-text-editor.html) | 视频 | 自定义交互式通信中的文本编辑器以添加自定义字体和大小。 | AEM Forms |
 | 2023 年 5 月 | [在 AEM Forms 和 Acrobat Sign 中使用 React 应用程序](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/react-ic-sign/introduction.html) | 视频 | 使用从本机 React 应用程序提交的数据创建交互式通信文档，并将其呈现给最终用户以使用 Acrobat 签名构件进行签名 | AEM Forms |
 | 2023 年 5 月 | [将 Forms CS 与 Sharepoint 集成](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/store-form-submission-in-sharepoint.html) | 视频 | 了解如何配置 AEM Forms CS 并将其与 Microsoft® Sharepoint 集成  | AEM Forms CS |
-| 2023 年 5 月 | [在 OneDrive 中存储表单提交信息](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/store-form-submission-one-drive.html) | 视频 | 配置自适应表单以在 OneDrive 中存储表单数据。 | AEM Forms CS |
+| 2023 年 5 月 | [将通过表单提交的信息存储在 OneDrive 中](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/store-form-submission-one-drive.html) | 视频 | 配置自适应表单以将表单数据存储在 OneDrive 中。 | AEM Forms CS |
 | 2023 年 5 月 | [如何使用 AEM Headless 中的优化图像](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/images.html) | 视频 | 了解如何使用 AEM Headless 中的优化图像。 | AEM CS |
 | 2023 年 5 月 | [如何处理 AEM Headless 中的大型结果 ](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/large-result-sets.html?lang=zh-Hans) | 视频 | 了解如何使用 AEM Headless 处理大型结果集。 | AEM CS |
 
@@ -527,7 +527,7 @@ Adobe Commerce 的新文章和现有文章的更新。
 
 | 发布日期 | 名称 | 类型 | 描述 |
 | -----------| ---------- | ---------- | ---------- |
-| 2023 年 5 月 | [创建 Web 营销活动](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/author-a-web-campaign.html?lang=en) | 视频 | 了解如何在 [!DNL Journey Optimizer] 营销活动中使用 Web 可视化编辑器创建 Web 体验。 |
+| 2023 年 5 月 | [创作 Web 营销活动](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/author-a-web-campaign.html?lang=en) | 视频 | 了解如何在 [!DNL Journey Optimizer] 营销活动中使用 Web 可视化编辑器创作 Web 体验。 |
 | 2023 年 5 月 | [创建 Web 营销活动](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=en) | 视频 | 了解什么是 Web 营销活动。了解如何配置 Web 营销活动属性、进行查看和发布。 |
 | 2023 年 5 月 | [将数据集导出到云存储位置](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-management/export-datasets.html?lang=en) | 视频 | 了解如何将数据集从 [!DNL Journey Optimizer] 导出到 [!DNL Amazon] S3 目标。 |
 
@@ -685,7 +685,7 @@ Last updated: **August 9, 2022**
 
 | 功能 | 描述 |
 | ------- | ----------- |
-| [!UICONTROL 营销活动] | （[!DNL Microsoft® Advertising] 受众营销活动；4 月 15 日版）受众营销活动现在可以使用“手动 CPM”竞价策略。您可以在子广告组设置中设置竞价。<br><br>优化支持不适用于 CPM 活动。 |
+| [!UICONTROL 营销活动] | （[!DNL Microsoft® Advertising] 受众营销活动；4 月 15 日版）受众营销活动现在可以使用“手动 CPM”竞价策略。您可以在子广告组设置中设置竞价。<br><br>CPM 活动不支持优化。 |
 | [!UICONTROL Recommendations] | 六项新（[!DNL Google Ads]Recommendations 可从[!UICONTROL 见解与报告]>[!UICONTROL Recommendations]：<ul><li>[!UICONTROL 响应式搜索提高广告效力]：关于提高响应式搜索广告的广告效力的建议</li><li>[!UICONTROL 将本地广告系列的效果最大化]：将旧版本地广告系列升级为效果最大化广告系列</li><li>[!UICONTROL 将智能购物广告系列的效果最大化]：将旧版智能购物广告系列升级为效果最大化广告系列</li><li>[!UICONTROL 预测设定 Target ROAS]：在预计流量会增加的季节性活动之前提高预算，并将竞价策略从 [!DNL Maximize Conversion Value] 更改为 [!DNL Target ROAS]</li><li>[!UICONTROL 改善 Target CPA 竞价过低的情况]：当过低并且很少或没有进行转化时，按推荐的量提高 [!DNL Target CPA]</li><li>[!UICONTROL 选择启用展示广告扩展功能]：通过更新广告系列以使用展示广告扩展功能来扩大覆盖面</li></ul>由于添加和删除资产、更改活动类型以及更改预算和竞价策略都会影响性能，因此我们建议您与 Adobe 客户团队讨论每项建议的利弊，以便您做出明智的决定。 |
 
 {style="table-layout:auto"}
