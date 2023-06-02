@@ -6,10 +6,10 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 10e294e2d7e56e168bf2552002beb16923a23e0d
+source-git-commit: d1b6f4a7fdbf4c94e1a122dfbbda78346494bbf7
 workflow-type: tm+mt
-source-wordcount: '5635'
-ht-degree: 97%
+source-wordcount: '5517'
+ht-degree: 96%
 
 ---
 
@@ -677,14 +677,14 @@ Last updated: **August 9, 2022**
 
 {style="table-layout:auto"}
 
-### [!DNL Advertising Search] 中的新增功能 {#advertising-search}
+### [!DNL Advertising Search, Social, & Commerce] 中的新增功能 {#advertising-search}
 
-上次更新日期：**2023 年 4 月 14 日**
+上次更新时间： **2023年6月1日**
 
 | 功能 | 描述 |
 | ------- | ----------- |
-| [!UICONTROL 营销活动] | （[!DNL Microsoft® Advertising] 受众营销活动；4 月 15 日版）受众营销活动现在可以使用“手动 CPM”竞价策略。您可以在子广告组设置中设置竞价。<br><br>CPM 活动不支持优化。 |
-| [!UICONTROL Recommendations] | 六项新（[!DNL Google Ads]Recommendations 可从[!UICONTROL 见解与报告]>[!UICONTROL Recommendations]：<ul><li>[!UICONTROL 响应式搜索提高广告效力]：关于提高响应式搜索广告的广告效力的建议</li><li>[!UICONTROL 将本地广告系列的效果最大化]：将旧版本地广告系列升级为效果最大化广告系列</li><li>[!UICONTROL 将智能购物广告系列的效果最大化]：将旧版智能购物广告系列升级为效果最大化广告系列</li><li>[!UICONTROL 预测设定 Target ROAS]：在预计流量会增加的季节性活动之前提高预算，并将竞价策略从 [!DNL Maximize Conversion Value] 更改为 [!DNL Target ROAS]</li><li>[!UICONTROL 改善 Target CPA 竞价过低的情况]：当过低并且很少或没有进行转化时，按推荐的量提高 [!DNL Target CPA]</li><li>[!UICONTROL 选择启用展示广告扩展功能]：通过更新广告系列以使用展示广告扩展功能来扩大覆盖面</li></ul>由于添加和删除资产、更改活动类型以及更改预算和竞价策略都会影响性能，因此我们建议您与 Adobe 客户团队讨论每项建议的利弊，以便您做出明智的决定。 |
+| [!UICONTROL 营销活动]， [!UICONTROL 报告]， [!UICONTROL 目标] | （公开测试版；5月30日发布）由跟踪的转化 [!DNL Microsoft Advertising] 通用事件跟踪(UET)标记是营销活动管理视图和报告中的新功能。 您还可以通过将转化包含在包含的项目组合的目标中来优化这些转化 [!DNL Microsoft Advertising] 营销活动。 |
+| [!UICONTROL 报告] | （开放测试版；5月30日发布）三个新的专业报告包括 [!DNL Microsoft Advertising] 广告扩展： [!UICONTROL MSA广告扩展详细信息报表]， [!UICONTROL MSA广告扩展（按广告）报告]、和 [!UICONTROL 按关键字列出的MSA广告扩展报告]. |
 
 {style="table-layout:auto"}
 
