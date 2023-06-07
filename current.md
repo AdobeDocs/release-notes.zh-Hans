@@ -6,7 +6,7 @@ last-update: June 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 01e7af15dd8f11dd705458d3381922d42e547388
+source-git-commit: 94d037e3a163088639d27f9b2952cf7eefe00f23
 workflow-type: tm+mt
 source-wordcount: '6363'
 ht-degree: 50%
@@ -143,6 +143,8 @@ ht-degree: 50%
 | 2023 年 6 月 | [激活区段和配置文件属性](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/target/activate-segments-and-profile-attributes.html) | 视频 | 了解如何从激活区段和配置文件属性 [!DNL Real-Time Customer Data Platform] 至Adobe [!DNL Target]. 在您的网站、移动应用程序和其他数字资产中显示实时个性化内容。 |
 | 2023 年 6 月 | [使用标签对数据进行分类](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/classify-data-using-labels.html) | 视频 | 了解如何将标签应用于架构和数据集。 数据使用标签使您能够标记和分类数据，以反映中的公司政策、合同义务、法规遵从性要求和区域法规 [!DNL Experience Platform]. |
 | 2023 年 6 月 | [使用 [!DNL Real-Time CDP] Adobe中的配置文件属性 [!DNL Target]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/target/use-rtcdp-profile-attributes-in-target.html) | 视频 | 了解如何使用 [!DNL Real-Time Customer Data Platform] Adobe中的配置文件属性 [!DNL Target] 在您的网站和移动应用程序上提供个性化体验。 |
+
+{style="table-layout:auto"}
 
 +++
 
