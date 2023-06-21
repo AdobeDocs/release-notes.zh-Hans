@@ -6,10 +6,10 @@ last-update: June 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 768938cac02fcc31f707cf1763619eb60d35a1dc
+source-git-commit: d2eef17db6049b1d106ffa37e3fa25432216b6e8
 workflow-type: tm+mt
-source-wordcount: '6179'
-ht-degree: 94%
+source-wordcount: '6079'
+ht-degree: 92%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 94%
 
 ## 产品发布最新消息和活动
 
-最新更新日期：**2023 年 6 月 7 日**
+最新更新日期：**2023 年 6 月 21 日**
 
 * [[!DNL Experience League] 活动和最新消息](#events)
 * [Adobe 认证](#certification)
@@ -64,15 +64,13 @@ ht-degree: 94%
 
 +++即将举行的活动
 
-* **[!DNL Workfront]** | _沟通：与管理员聊市场营销和创意_ | **北美山地时间 6 月 6 日下午 3:00** | [登记](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,xDk-NFOQNUSCrwRemwbIYw,hTUwAaMesk-RUHhGMuTCKQ,xpzBbYDs1kKxAlpGmXT1JQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Commerce]** | _Commerce &amp; Coffee：推动B2B成功_ | **6月22日下午1:00 （东部时间）** | [注册](https://register.gotowebinar.com/register/2180200047542819420)
 
-* **[!DNL Marketo Engage]** | _Marketo 和 Mochas - 客户历程管理：生命周期建模_ | **美国东部时间 6 月 8 日下午 1:00** | [登记](https://register.gotowebinar.com/register/8576570459027384151)
+* **[!DNL Experience Manager]** | _主控于Experience Manager认证技术 — 准备就绪、准备就绪、获得认证！_ | **6月28日太平洋时间上午8:00** | [注册](https://adobe.ly/3Ni6XeL)
 
-* **[!DNL Workfront]** | _询问专家：利用免费的 Adobe Workfront + Creative Cloud 集成_ | **北美山地时间 6 月 8 日上午 10:30** | [登记](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,ueSOCVtFIkmna7wZj0qUpA,vIUNhWnBmkOH38v4q3nQ8A,VszLUMl3W0268EAiz1tQ_w?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Marketo Engage]** | _通过Marketo Engage跟踪、分析和优化营销活动_ | **6月28日太平洋时间上午8:00** | [注册](https://engage.marketo.com/track_analyze_optimize_marketing_register.html?utm_source=exl)
 
-* **[!DNL Workfront]** | _沟通：Workfront 战略管理员聊天_ | **美国中部时间 6 月 12 日上午 8:00** | [登记](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,In1kkaMFJ0Kkz4rHJ_FjWA,VULVBg2HWUWGxssI6bizyQ,zDPownyw9EGwqszZO1cshQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _询问专家：Workfront 办公时间中的资源管理_|**北美山地时间 6 月 13 日下午 2:00** | [登记](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,f3xda2S9qUiQFiyPwkN8bw,X4tGbEP2nEaLWQC3N4UNng,9hWdr3sEFEe7-p-YB9u-yg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _询问专家：建立卓越中心网络研讨会跟进_ | **6月28日@上午10:00 CT** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,t2YLg66G70WfmpnGWvnwPA,8Vn5DyJFjU6zpT9DW3m_vg,t4QVQLoEzkq6Jf5IvbSRcg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 [更多...](https://experienceleague.adobe.com/events/)
 
