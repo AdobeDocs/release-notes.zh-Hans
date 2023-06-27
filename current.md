@@ -6,10 +6,10 @@ last-update: June 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: d2eef17db6049b1d106ffa37e3fa25432216b6e8
+source-git-commit: ea5d551af30eb02a07b87506775b8c9e5180a508
 workflow-type: tm+mt
-source-wordcount: '6079'
-ht-degree: 92%
+source-wordcount: '6166'
+ht-degree: 98%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 92%
 
 **需要帮助？**
 
-登录到 [Experience League](https://experienceleague.adobe.com/?lang=zh-Hans/#home)，并自定义您在 Adobe 自助资源库中的搜索体验。浏览所有级别和角色的[产品文档](https://experienceleague.adobe.com/docs/)、[教程视频](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hans)、[课程](https://experienceleague.adobe.com/#courses)和[活动](https://experienceleague.adobe.com/events/)。从同行的在线[社区](https://experienceleaguecommunities.adobe.com/?profile.language=en)内提问，并在最需要的时候获得专家[支持](https://experienceleague.adobe.com/?support-tab=home#support)。
+登录到 [Experience League](https://experienceleague.adobe.com/?lang=zh-Hans/#home)，并自定义您在 Adobe 自助资源库中的搜索体验。浏览所有级别和角色的[产品文档](https://experienceleague.adobe.com/docs/)、[教程视频](https://experienceleague.adobe.com/docs/home-tutorials.html)、[课程](https://experienceleague.adobe.com/?lang=zh-Hans#courses)和[活动](https://experienceleague.adobe.com/events/)。从同行的在线[社区](https://experienceleaguecommunities.adobe.com/?profile.language=en)内提问，并在最需要的时候获得专家[支持](https://experienceleague.adobe.com/?support-tab=home#support)。
 
 ## 产品发布最新消息和活动
 
@@ -41,7 +41,8 @@ ht-degree: 92%
 * [[!DNL Real-Time Customer Data Platform]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics)
 * [[!DNL Customer Journey Analytics]](#cja)
-* [[!DNL Streaming Media Analytics]](#sma)<!-- * [[!DNL Audience Manager]](#aam) -->
+* [[!DNL Streaming Media Analytics]](#sma)
+* [[!DNL Audience Manager]](#aam)
 * [[!DNL Experience Manager]](#aem)
 * [[!DNL Experience Manager Guides]](#xml-doc)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -64,13 +65,13 @@ ht-degree: 92%
 
 +++即将举行的活动
 
-* **[!DNL Commerce]** | _Commerce &amp; Coffee：推动B2B成功_ | **6月22日下午1:00 （东部时间）** | [注册](https://register.gotowebinar.com/register/2180200047542819420)
+* **[!DNL Commerce]** | _商业座谈：助力B2B成功_ | **东部时间 6 月 22 日下午 1:00** | [登记](https://register.gotowebinar.com/register/2180200047542819420)
 
-* **[!DNL Experience Manager]** | _主控于Experience Manager认证技术 — 准备就绪、准备就绪、获得认证！_ | **6月28日太平洋时间上午8:00** | [注册](https://adobe.ly/3Ni6XeL)
+* **[!DNL Experience Manager]**|_掌握体验经理认证的艺术 - 做好准备、一切就绪、获得认证！_|**太平洋时间 6 月 28 日上午 8:00** |[登记](https://adobe.ly/3Ni6XeL)
 
-* **[!DNL Marketo Engage]** | _通过Marketo Engage跟踪、分析和优化营销活动_ | **6月28日太平洋时间上午8:00** | [注册](https://engage.marketo.com/track_analyze_optimize_marketing_register.html?utm_source=exl)
+* **[!DNL Marketo Engage]**|_使用 Marketo Engage 跟踪、分析和优化您的营销活动_|**太平洋时间 6 月 28 日上午 8:00** |[登记](https://engage.marketo.com/track_analyze_optimize_marketing_register.html?utm_source=exl)
 
-* **[!DNL Workfront]** | _询问专家：建立卓越中心网络研讨会跟进_ | **6月28日@上午10:00 CT** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,t2YLg66G70WfmpnGWvnwPA,8Vn5DyJFjU6zpT9DW3m_vg,t4QVQLoEzkq6Jf5IvbSRcg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]**|_咨询专家：建立卓越的中心网络研讨会跟进会谈_|**中部时间 6 月 28 日上午 10:00** |[登记](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,t2YLg66G70WfmpnGWvnwPA,8Vn5DyJFjU6zpT9DW3m_vg,t4QVQLoEzkq6Jf5IvbSRcg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 [更多...](https://experienceleague.adobe.com/events/)
 
@@ -112,7 +113,7 @@ ht-degree: 92%
 
 发布日期：**2023 年 5 月 25 日**
 
-* 在 [!DNL Experience Cloud] **[!UICONTROL 帮助]**&#x200B;菜单中，内容搜索已更新为按应用程序筛选 [Experience League](https://experienceleague.adobe.com/?lang=zh-Hans#home) 搜索结果。
+* 在 [!DNL Experience Cloud] **[!UICONTROL 帮助]**&#x200B;菜单中，内容搜索已更新为按应用程序筛选 [Experience League](https://experienceleague.adobe.com/#home) 搜索结果。
 
 有关 Experience Cloud 界面常见组件的帮助，请参阅 [Experience Cloud 界面和管理指南](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html)（包括[!UICONTROL 客户属性]、[!DNL Experience Cloud Assets] 和[!UICONTROL 受众]）。
 
@@ -124,7 +125,7 @@ ht-degree: 92%
 
 +++详细信息
 
-* [Experience Platform 发行说明](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
+* [Experience Platform 发行说明](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=zh-Hans)
 
 
 * [Experience Platform Mobile SDK 发行说明](https://developer.adobe.com/client-sdks/documentation/release-notes/)
@@ -172,14 +173,14 @@ New videos, tutorials, or courses published for Adobe [!DNL Real-Time Customer D
 
 [!DNL Analytics] 发布日期：**2023 年 6 月 7 日**
 
-* [!DNL Analytics] [发行说明](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=zh-Hans)
+* [!DNL Analytics] [发行说明](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html)
 * [!DNL Analytics] [产品文档和教程](https://experienceleague.adobe.com/docs/analytics.html)
 
 ### AppMeasurement {#appm}
 
 发行版本：**2.23.0**
 
-* [AppMeasurement for JavaScript 发行说明](https://experienceleague.adobe.com/docs/analytics/implementation/appmeasurement-updates.html?lang=zh-Hans)
+* [AppMeasurement for JavaScript 发行说明](https://experienceleague.adobe.com/docs/analytics/implementation/appmeasurement-updates.html)
 
 ### 新的 [!DNL Analytics] 教程和课程 {#tutorials-analytics}
 
@@ -239,14 +240,20 @@ New videos, tutorials, or courses published for Adobe [!DNL Real-Time Customer D
 [!DNL Analytics] 发布日期：**2023 年 6 月 7 日**
 
 * [!DNL Streaming Media Analytics] [发行说明](https://experienceleague.adobe.com/docs/media-analytics/using/release-notes/release-notes.html)
-* [!DNL Streaming Media Analytics] [产品文档和教程](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html?lang=zh-Hans)
+* [!DNL Streaming Media Analytics] [产品文档和教程](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html)
 
-<!-- ## ![Icon](/assets/audience-manager.png) Audience Manager {#aam}
+## ![图标](/assets/audience-manager.png) Audience Manager {#aam}
 
-Updates and new content for [!DNL Audience Manager].
+[!DNL Audience Manager] 的更新和新内容。
 
-+++Details
++++详细信息
 
+自2023年7月起，Adobe已停止开发电子烟产品。 [!DNL Data Integration Library (DIL)] 和 [!DNL DIL] 扩展。
+现有客户可以继续使用其 [!DNL DIL] 实现。 但是，Adobe将不会开发 [!DNL DIL] 超越了这一点。 建议客户评估 [Experience PlatformWeb SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html?lang=en) 长期数据收集策略。 如果客户希望在2023年7月之后实施新的数据收集集成，则应使用 [Experience PlatformWeb SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html?lang=en) 而是。
+
++++
+
+<!-- 
 ### [!DNL Audience Manager] support knowledge base
 
 New articles and updates to existing articles for [!DNL Audience Manager].
@@ -262,7 +269,7 @@ New articles and updates to existing articles for [!DNL Audience Manager].
 
 For self-help resources, see [Audience Manager documentation and tutorials](https://experienceleague.adobe.com/docs/audience-manager.html) on Experience League.
 
-+++ -->
+ -->
 
 ## ![图标](/assets/aem.png) Adobe Experience Manager {#aem}
 
@@ -274,7 +281,7 @@ Experience Manager 中的新增功能、修复和更新。Adobe 建议采用内�
 
 Adobe 建议访问以下资源以随时了解发布信息：
 
-* [Experience Manager 发布更新和路线图](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) - 了解 Experience Manager 版本路线图、先前版本更新和文档更新。
+* [Experience Manager 发布更新和路线图](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=zh-Hans) - 了解 Experience Manager 版本路线图、先前版本更新和文档更新。
 * [Experience Manager as a Cloud Service 版本更新](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html) - 观看当前版本和过去版本的 [!DNL Experience Manager as a Cloud Service] 的功能概览视频。
 * [Adobe Experience Manager as a Cloud Service 的最新发行说明](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html) - 阅读 [!DNL Experience Manager as a Cloud Service] 的最新发行说明。
 
@@ -360,10 +367,10 @@ _已知问题_
 
 所有 [!DNL Experience Manager] 发行说明均保留在以下页面：
 
-* [Experience Manager as a Cloud Service 版本信息](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html)
+* [Experience Manager as a Cloud Service 版本信息](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=zh-Hans)
 * [Adobe Experience Manager as a Cloud Service 发行版更新](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html)
 * [Adobe Experience Manager as a Cloud Service 当前发行说明](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html)
-* [Experience Manager as a Cloud Service 版本信息](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html)
+* [Experience Manager as a Cloud Service 版本信息](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=zh-Hans)
 * [Experience Manager Cloud Manager 发行说明](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/current.html)
 * [Automated Forms Conversion Service 发行说明](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html)
 * [Experience Manager 6.5 Service Pack 发行说明](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=zh-Hans)
@@ -387,7 +394,7 @@ _已知问题_
 | 2023 年 6 月 | [提取并以信息卡格式显示表单](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/display-forms-card-view.html) | 视频 | 使用 `listForms` API 提取 Headless 表单，并以信息卡格式显示这些表单。 | AEM Forms |
 | 2023 年 6 月 | [Adobe IMS 用户组](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/adobe-ims-user-groups.html) | 视频 | Adobe IMS 用户组建立了对 AEM 公开的用户逻辑集，这些逻辑集可用于定义 AEM 用户的微调权限。 | AEM CS |
 | 2023 年 6 月 | [Adobe IMS 产品配置文件](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/adobe-ims-product-profiles.html) | 视频 | Adobe IMS 产品配置文件授权用户登录 AEM Author 服务，并根据用户所属的产品配置文件提供访问权限基准。 | AEM CS |
-| 2023 年 6 月 | [GraphQL 视频系列](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/modeling-basics.html?lang=zh-Hans) | 视频 | 了解如何在 Adobe Experience Manager (AEM) 中定义和使用[!UICONTROL 内容片段]，以便与 GraphQL 一起使用。 | AEM CS |
+| 2023 年 6 月 | [GraphQL 视频系列](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/modeling-basics.html) | 视频 | 了解如何在 Adobe Experience Manager (AEM) 中定义和使用[!UICONTROL 内容片段]，以便与 GraphQL 一起使用。 | AEM CS |
 | 2023 年 6 月 | [配置对 AEM 演练的访问权限](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/walk-through.html) | 视频 | 有关在 [!UICONTROL Admin Console] 中配置 Adobe IMS 用户、用户组以及[!UICONTROL 产品配置文件]的简略演练。了解如何利用 [!UICONTROL AEM Author] 中的这些 Adobe IMS 抽象概念，来定义和管理特定的基于组的权限。 | AEM CS |
 
 {style="table-layout:auto"}
@@ -498,7 +505,7 @@ Adobe Commerce 的新文章和现有文章的更新。
 
 * [!DNL Campaign Control Panel] 5 月版，将子域的 SSL 证书委派给 Adobe。[了解详情...](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html)
 
-通过 [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html)、[Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html) 和 [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) 发行说明了解有关最新功能、改进和修复的更多信息。
+通过 [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=zh-Hans)、[Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html) 和 [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=zh-Hans) 发行说明了解有关最新功能、改进和修复的更多信息。
 
 ### 新的 [!DNL Campaign] 教程和课程 {#tutorials-campaign}
 
@@ -532,7 +539,7 @@ Adobe Commerce 的新文章和现有文章的更新。
 * [!DNL Campaign] v8：[文档](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html) ‑ [发行说明](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html) ‑ [实施指南](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/implement/implement.html)
 * [!DNL Campaign] Standard：[Campaign Standard 文档](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html) ‑ [发行说明](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) ‑ [操作方法视频](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html) ‑ [发行计划](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html) ‑ [最新文档更新](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html)
 * [!DNL Campaign] Classic：[Campaign Classic v7 文档](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html) ‑ [发行说明](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) ‑ [操作方法视频](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html) ‑ [最新文档更新](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html)
-* [!DNL Campaign] 控制面板：[文档](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html) - [发行说明](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html) - [操作方法视频](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html?lang=zh-Hans)
+* [!DNL Campaign] 控制面板：[文档](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html) - [发行说明](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html) - [操作方法视频](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html)
 
 +++
 
@@ -546,11 +553,11 @@ Adobe Commerce 的新文章和现有文章的更新。
 
 新增功能：
 
-* [!DNL Adobe Journey Optimizer] 5 月版，带[!UICONTROL 内容试验]和[!UICONTROL 电子邮件片段]。[了解详情...](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html)
+* [!DNL Adobe Journey Optimizer] 5 月版，带[!UICONTROL 内容试验]和[!UICONTROL 电子邮件片段]。[了解详情...](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=zh-Hans)
 
-* [!UICONTROL 决策管理] 5 月版，带[!UICONTROL 个性化优化 AI] 排名模型。[了解详情...](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html)
+* [!UICONTROL 决策管理] 5 月版，带[!UICONTROL 个性化优化 AI] 排名模型。[了解详情...](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=zh-Hans)
 
-有关最新的功能、改进和修复的详细信息，请参见 [Journey Optimizer 发行说明](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html)。
+有关最新的功能、改进和修复的详细信息，请参见 [Journey Optimizer 发行说明](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=zh-Hans)。
 
 ### [!DNL Journey Optimizer] 的新教程 {#tutorials-ajo}
 
@@ -782,7 +789,7 @@ See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com
 
 ## 新的数字体验 Blueprint {#blueprints}
 
-[数字体验 Blueprint 教程](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=zh-Hans)是可重复的实施，让您可以满足策略需求并解决已确定的业务问题。每个 Blueprint 都提供了一系列构件，这些构件说明了高价值业务问题、体系结构、实施步骤、技术注意事项以及指向相关文档的链接。
+[数字体验 Blueprint 教程](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html)是可重复的实施，让您可以满足策略需求并解决已确定的业务问题。每个 Blueprint 都提供了一系列构件，这些构件说明了高价值业务问题、体系结构、实施步骤、技术注意事项以及指向相关文档的链接。
 
 | 发布日期 | 名称 | 类型 | 描述 |
 | -----------| ---------- | ---------- | ---------- |
