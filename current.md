@@ -6,7 +6,7 @@ last-update: June 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 35e5429a141ab07dbaac97d168197ffcdadbea2b
+source-git-commit: c08bbc9f5d6e25782426c3cc7ee9ccdc43157a1f
 workflow-type: tm+mt
 source-wordcount: '6168'
 ht-degree: 98%
@@ -352,7 +352,7 @@ _版本亮点_
 
 >[!IMPORTANT]
 >
->Adobe 建议您将 Workfront for Experience Manager 增强型连接器[升级到最新的 1.9.10 版](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets-view/integrations/workfront-connector-install.html?lang=en)。<!-- NEW. LEAVE IN FOR JUNE 7 -->
+>Adobe 建议您将 Workfront for Experience Manager 增强型连接器[升级到最新的 1.9.10 版](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/workfront-connector-install.html?lang=en)。<!-- NEW. LEAVE IN FOR JUNE 7 -->
 
 _已知问题_
 
