@@ -6,10 +6,10 @@ last-update: June 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: c08bbc9f5d6e25782426c3cc7ee9ccdc43157a1f
+source-git-commit: 1920ee48d086e95dfcfe608f6c17e0cbd197b99c
 workflow-type: tm+mt
-source-wordcount: '6168'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -31,9 +31,9 @@ ht-degree: 98%
 
 ## 产品发布最新消息和活动
 
-最新更新日期：**2023 年 6 月 21 日**
+最新更新： **2023年7月10日** （事件页面）
 
-* [[!DNL Experience League] 活动和最新消息](#events)
+* [[!DNL Experience League] 活动和更新](#events) (已更新 **7月10日**)
 * [Adobe 认证](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Experience Cloud] 界面和管理](#ecloud)
@@ -65,15 +65,19 @@ ht-degree: 98%
 
 +++即将举行的活动
 
-* **[!DNL Commerce]** | _商业座谈：助力B2B成功_ | **东部时间 6 月 22 日下午 1:00** | [登记](https://register.gotowebinar.com/register/2180200047542819420)
+* **[!DNL Workfront]** | _Connect：社区聊天_ | **7月13日太平洋时间上午10:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,uwMNG0gwA02-Wu9Xq90mrw,WUjKeYMc_UuHvDNaLK1fNQ,PtEPc-2kMU-u_LlbNihIRA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Experience Manager]**|_掌握体验经理认证的艺术 - 做好准备、一切就绪、获得认证！_|**太平洋时间 6 月 28 日上午 8:00** |[登记](https://adobe.ly/3Ni6XeL)
+* **[!DNL Analytics]** | _衡量营销情况，上移和下移_ | **7月13日上午9:00（英国夏令时间）** | [注册](https://adobeanalyticsemea2023.experienceleague.adobeevents.com/)
 
-* **[!DNL Marketo Engage]**|_使用 Marketo Engage 跟踪、分析和优化您的营销活动_|**太平洋时间 6 月 28 日上午 8:00** |[登记](https://engage.marketo.com/track_analyze_optimize_marketing_register.html?utm_source=exl)
+* **[!DNL Workfront]** | _Connect：面向营销和创意的管理员聊天_ | **7月14日上午10:00 MT** | [注册](https://adobeanalyticsemea2023.experienceleague.adobeevents.com/)
 
-* **[!DNL Workfront]**|_咨询专家：建立卓越的中心网络研讨会跟进会谈_|**中部时间 6 月 28 日上午 10:00** |[登记](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,t2YLg66G70WfmpnGWvnwPA,8Vn5DyJFjU6zpT9DW3m_vg,t4QVQLoEzkq6Jf5IvbSRcg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Analytics]** | _解锁营销渠道的价值_ | **7月18日太平洋时间上午8:00** | [注册](https://adobeanalyticsemea2023.experienceleague.adobeevents.com/)
 
-[更多...](https://experienceleague.adobe.com/events/)
+* **[!DNL AEM as a Cloud Service]** | _Cloud Service中的有效安全策略_ | **7月18日太平洋时间上午8:00** | [注册](https://engage.adobe.com/Security-in-the-cloud-webinar-registration.com.html?sdid=3SH1B1RV)
+
+* **[!DNL Workfront]** | _了解： Adobe Workfront 23.3发行综述_ | **7月20日@上午11:00 CT** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Je34nFV8mUmZdJPLSSyi5w,udIB9iEIOE-oBiAHzx2lFQ,t2YddgmhWkq780UhYr3y0Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+查看全部 [即将举行的活动](https://experienceleague.adobe.com/events/) 或浏览 [活动录制](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html). 现在，您可以使用左侧导航来根据系列类型或应用程序查找记录的事件。
 
 +++
 
