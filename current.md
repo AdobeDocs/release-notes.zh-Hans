@@ -6,9 +6,9 @@ last-update: July 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4dadca326d9e6a132beab1da488cb6675aa7ffc5
+source-git-commit: fad4343c9edcfbb296767a4cef17b5a363f096ab
 workflow-type: tm+mt
-source-wordcount: '5809'
+source-wordcount: '5838'
 ht-degree: 45%
 
 ---
@@ -72,6 +72,8 @@ ht-degree: 45%
 * **[!DNL Analytics]** | _解锁营销渠道的价值_ | **7月18日太平洋时间上午8:00** | [注册](https://adobeanalyticsemea2023.experienceleague.adobeevents.com/)
 
 * **[!DNL AEM as a Cloud Service]** | _Cloud Service中的有效安全策略_ | **7月18日太平洋时间上午8:00** | [注册](https://engage.adobe.com/Security-in-the-cloud-webinar-registration.com.html?sdid=3SH1B1RV)
+
+* **[!DNL Analytics]** | EXL直播： _通过标准控件将来自任何来源的可操作受众集中在一个位置_ | **7月20日太平洋时间上午9:00** ([事件链接](https://www.youtube.com/watch?v=QaJy9Tp-vTE)) | [注册](https://engage.adobe.com/ExpLeagueLive-230720.html)
 
 * **[!DNL Workfront]** | _了解： Adobe Workfront 23.3发行综述_ | **7月20日@上午11:00 CT** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Je34nFV8mUmZdJPLSSyi5w,udIB9iEIOE-oBiAHzx2lFQ,t2YddgmhWkq780UhYr3y0Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
