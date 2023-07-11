@@ -7,10 +7,10 @@ author: mfrei
 mini-toc-levels: 2
 badgeReview: label="Internal Review" type="Negative"
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ff12c5a38af50a6cf7b44b0e6914cba6f3254b86
+source-git-commit: 0494b8a966761103756447351dc8171bb897bd34
 workflow-type: tm+mt
-source-wordcount: '4317'
-ht-degree: 52%
+source-wordcount: '5811'
+ht-degree: 45%
 
 ---
 
@@ -281,80 +281,124 @@ Adobe 建议访问以下资源以随时了解发布信息：
 
 观看 [2023年6月发布概述视频](https://video.tv.adobe.com/v/3420971/) 有关2023.06.0版本中新增功能摘要。
 
-<!-- ### [!DNL Experience Manager Sites] as a [!DNL Cloud Service] 
+### [!DNL Experience Manager Sites] as a [!DNL Cloud Service]
 
-_New features_
+_新增功能_
 
-* Export content fragments from AEM as a cloud service to Adobe target as JSON offers. 
-* Support for GraphQL pagination and sorting, along with internal caching enhancements, now help improve the performance of decoupled client applications when fetching large content sets from AEM using complex GraphQL queries and filters. 
+* 内容片段及其引用现在可以使用[内容片段控制台](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-environments.html?lang=zh-Hans#access-preview-service)发布到 [AEM 预览服务](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragments-console.html)，允许用户在上线前在解耦的预览应用程序上预览最终体验。
+* 现在可以使用AEM GraphQL在Headless场景中为Web投放动态优化图像。 [查询变量](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/images.html?lang=en#query-variables) 可以在GraphQL查询中定义，以允许分离的客户端应用程序从AEM请求相应地优化的图像。
+* 上的标记 [内容片段变量](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-variations.html) 现在可以使用AEM GraphQL内容交付API输出到JSON。
 
 ### [!DNL Experience Manager Assets] as a [!DNL Cloud Service]
 
-_New feature_
+_新增功能_
 
-* New protocol (DASH - Dynamic Adaptive Streaming over HTTP) support launched for Adaptive streaming in Dynamic Media video delivery (with CMAF enabled):
-  * Adaptive streaming (DASH/HLS) ensures better end user viewing experience for videos.
-  * DASH is the international standard protocol for adaptive video streaming and is widely adopted in the industry.
-  * Available in Asia-Pacific and North America; [enabled by way of a support ticket](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video.html#enable-dash). Coming soon in Europe-Middle East-Africa.
-* Added support for WebP images to automatically extract metadata, generate thumbnails and custom renditions. Smart Tag and Smart Crop capabilities are also now supported for these files.
+**新 [!UICONTROL 资产] 视图**
+
+新 [资产视图](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/assets-view-introduction.html?lang=en) 提供简化的用户界面，使您能够轻松管理、发现和分发数字资产。 该体验面向创意人员、只读资产使用者和较轻的DAM用户。
+
+**搜索体验增强功能**
+
+[!DNL Experience Manager Assets] 现在使您能够从搜索结果用户界面执行更多操作。 您可以：
+
+* [在当前存储库位置中执行搜索](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/search-assets.html) 默认情况下，不会搜索整个存储库中的关键字。
+
+* [导航到文件夹位置](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/search-assets.html?#aftersearch) 对于显示在搜索结果中的资源。
+
+**3D 资源的缩略图预览**
+
+[!DNL Experience Manager Assets] 现在生成 [常见3D文件格式的缩略图预览](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/file-format-support.html)，包括gLB 、 USDz 、 FBX 、 3DS 、 OBJ和SBSAR。 上传这些文件时，默认情况下会自动生成缩略图。
+
+**链接共享配置**
+
+改进的新用户体验，用于 [创建链接共享](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/share-assets.html) 以及一组全新的配置，管理员可通过这些配置自定义用户使用此功能的默认行为。
+
+**Dynamic Media：更新了图像配置文件中与智能裁剪相关的字段**
+
+图像配置文件中一些与智能裁剪相关的字段的用户界面现已更新，以反映当前定义智能裁剪的准则。 请参阅[裁切选项](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/image-profiles.html?#crop-options)。
+
+_Assets视图中的新增功能_
+
+**资源的分层标记可提供更快的搜索体验**
+
+随着时间的推移，受控词汇的扁平列表变得难以管理。资源视图现在支持 [分层标记结构](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/tagging-management-assets-view.html)，这有助于应用相关元数据、对资产进行分类、支持搜索、重用标记、提高可发现性等。
+
+**固定文件、文件夹和集合以便快速访问**
+
+您现在可以 [固定文件、文件夹和收藏集以加快访问速度](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/my-workspace-assets-view.html) 到这些项目（稍后需要）。 经过固定的项目都显示在“我的工作区”的快速访问部分。您可以使用“我的工作区”访问它们，而无需导航到存储库中保存它们的位置。
+
+**过滤“垃圾箱”文件夹中的资源**
+
+现在通过“资源”视图，您可以 [筛选可在垃圾桶文件夹中找到的资源](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/navigate-assets-view.html). 您还可以应用标准或自定义过滤器来搜索“垃圾箱”文件夹中的相应资源，以恢复或永久删除它们。
+
+**3D 资源的缩略图预览**
+
+Assets视图现在可生成常见3D文件格式（包括gLB、USDz、FBX、3DS、OBJ和SBSAR）的缩略图预览。 这些文件上传到“资产”视图后，系统会默认自动生成缩略图。
+
+**查看热门搜索词**
+
+资源视图现在支持查看 [部署中搜索次数最多的术语](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/my-workspace-assets-view.html) 使用 **[!UICONTROL 分析]** 部分 **[!UICONTROL 我的工作区]**. 您还可以访问详细的见解，以查看过去 30 天或 12 个月内的热门搜索。
+
+**元数据表单增强功能**
+
+现在通过“资源”视图，您可以 [添加多值文本和下拉列表属性组件](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/metadata-assets-view.html?#property-components) 到元数据表单。
 
 ### [!DNL Experience Manager Forms] as a [!DNL Cloud Service]
 
-_New features_
+_Forms中可用的新功能_
 
-* **[Use data capture core components to build Adaptive Forms](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/adaptive-forms/introduction.html)** &ndash; [Use Adaptive Forms editor](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/creating-adaptive-form-core-components.html) to create forms based on standardized data capture components (Core Components). These components provide customization capabilities, reduced development time, and lower maintenance costs for your digital enrollment experiences.
-* **[Frontend pipeline support for styling core component based Adaptive Forms](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/using-themes-in-core-components.html)** &ndash; Use standardized BEM-based themes for Core Components-based Adaptive Forms. You can deploy them with the Frontend Deployment pipeline to enhance the look and feel of your forms. It can also help align with your organization's brand approved design guidelines.
-* **[Generate Document of Record for core component based Adaptive Forms](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/generate-document-of-record-core-components.html)** &ndash; Create a document of record containing submitted data for Adaptive Forms built using core components for archival or reference to end users, in print, or in the document format.
-* **[Efficient form-building with the Save an Adaptive Form as a template feature](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/create-an-adaptive-form-on-forms-cs/template-editor.html#save-an-adaptive-form-as-template-saving-adaptive-form-as-template)** &ndash; Expedite and standardize form development by saving existing brand approved forms as form templates for quick reuse.
-* **[Connect AEM Forms to JDBC-Supported databases](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/use-form-data-model/configure-data-sources.html#configure-relational-database-configure-relational-database)** &ndash; Connect to enterprise databases directly from AEM Cloud service using JDBC protocol, without the need to expose them over REST API.
-* **[Integrate with REST Endpoints Using Open API 3.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/use-form-data-model/configure-data-sources.html#configure-restful-services-open-api-specification-version-20-configure-restful-services-swagger-version30)** &ndash; Seamlessly integrate into systems of record which support Open API 3.0 to store and fetch data using form data models.
-* **[Share an Adaptive Form for review](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/create-reviews-forms.html)** &ndash; Use the Adaptive Forms review mechanism to allow one or more reviewers to review the form.
+* [AEM页面编辑器和体验片段中的自适应Forms](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/create-or-add-an-adaptive-form-to-aem-sites-page.html)：您可以使用AEM [!UICONTROL 页面编辑器] 和 [!UICONTROL 体验片段] 以快速创建多个表单并将其添加到您的AEM Sites页面。 此功能允许内容作者在中创建无缝的数据捕获体验 [!DNL Sites] 页面使用的功能 [!UICONTROL 自适应Forms] 组件包括动态行为、验证、数据集成、生成记录文档以及业务流程自动化。
 
-### Headless Adaptive Forms early adopter program
+* [将Acrobat Sign政府解决方案（HIPPA投诉）与AEM Forms结合使用](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/services/adobe-sign-integration-adaptive-forms.html)： [!DNL AEM Forms] 现在与集成 [!DNL Acrobat Sign Solutions] 为政府服务。 这种集成为政府型账户（政府部门和机构）的自适应表单提交提供了高级的电子签名合规性和安全性。
 
-Use Headless Adaptive Forms to enable your developers to create, publish, and manage interactive forms that can be accessed and interacted with through APIs, rather than through a traditional graphical user interface. Headless adaptive forms help you:
+与Adobe Acrobat Sign Solutions政府版集成使Adobe的合作伙伴和政府客户能够在以下位置使用电子签名： [!UICONTROL 自适应Forms] 一些最关键、最敏感的业务线。 这层额外的安全保障机制确保所有电子签名完全符合 FedRAMP Moderate 合规性，使 Adobe 的政府客户能够安心使用。
 
-* Build high-quality multi-channel forms in the programming language of your choice.
-* Natively integrate forms to your desktop and mobile apps, websites, and chat applications
-* Reuse your proprietary UI components with forms applications
-* Use the power of Adobe Experience Manager Forms
+* [在规则编辑器中使用自定义错误处理程序增强了错误处理能力](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/add-rules-and-use-expressions-in-an-adaptive-form/add-custom-error-handler-adaptive-forms.html)：您现在可以调用自定义函数（使用客户端库）来响应外部服务返回的错误，并为最终用户提供量身定制的响应。 或者，您可以针对服务返回的错误采取特定操作。例如，您可以在后端为特定的错误代码调用自定义工作流，或者通知客户服务已停止。
 
-You can [send an email to aem-forms-headless@adobe.com](mailto:aem-forms-headless@adobe.com) from your official email ID to join the early adopter program.
+该功能有助于通过引入基于标准的错误响应来提高整体错误处理能力，这些错误响应与 OOTB 错误处理程序向后兼容，并具有更大的灵活性和控制能力。
+
+[表单数据模型的增强身份验证方法](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/use-form-data-model/configure-data-sources.html)：通过引入基于客户端凭据的身份验证，将AEM Forms（表单数据模型）与兼容的数据源连接，体验增强的安全性。 此增强功能消除了对模拟或用户登录的需要，增强了数据的保护。
+
+[使用可重复部分创建自适应Forms](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/create-forms-repeatable-sections.html)：您现在可以在基于核心组件的自适应表单中创建折叠组件、向导、面板和水平选项卡组件，以创建可重复部分。
+
+这些可重复部分允许您提供不限数量的条目，而无需固定字段计数。 当所需的数据实例事先未知时，此变量将非常有用。 Forms用户可以轻松地添加或删除部分，使表单能够适应不同的数据输入方案，并简化相同数据的多次发生收集。
+
+[将自适应Forms提交到Microsoft®SharePoint和Microsoft® OneDrive](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/configure-submit-actions-and-metadata-submission/configuring-submit-actions.html)：您现在可以提交 [!UICONTROL 自适应Forms] 将数据发送到Microsoft®SharePoint Site或Microsoft® OneDrive等日常工具。
+
+#### [!UICONTROL Headless 自适应表单早期采用者计划]
+
+使用 [Headless自适应Forms](https://experienceleague.adobe.com/docs/experience-manager-headless-adaptive-forms/using/overview.html) 使您的开发人员能够创建、发布和管理交互式表单，这些表单可通过API（而不是通过传统的图形用户界面）访问和交互。 [!UICONTROL Headless自适应Forms] 帮助您：
+
+* 用您选择的编程语言构建高质量的多渠道表单
+* 将表单本机集成到您的桌面和移动应用程序、网站和聊天应用程序
+* 在表单应用程序中重复使用您的专有 UI 组件
+* 利用 Adobe Experience Manager Forms 的强大功能
+
+您可以发送电子邮件至 [aem-forms-headless@adobe.com](mailto:certif@adobe.com) 从您的官方电子邮件ID加入率先采用者计划。
 
 ### [!DNL Cloud Manager]
 
-_New features_
+_新增功能_
 
-* Product, functional, and user interface testing support is now extended to [non-production pipeline testing](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/cicd-pipelines/configuring-non-production-pipelines.html). 
-* In addition to enabling testing upstream, [user interface testing support is now extended to Cypress testing](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/functional-testing/ui-testing.html).
-* [Self-service content copy](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developer-tools/content-copy.html) is now available from a higher to a lower environment by way of the Cloud Manager user interface.
-* The pipeline run validation step is now enhanced to validate the state of the replication queues early in the run process. This ability ensures that the deployment steps are not affected by blocked queues that are addressed by AEM administrator users directly in the authoring environment.
+* Cloud Manager登陆页面上的信息卡现在指示是否 [增强的安全性](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/programs/creating-production-programs.html) 为其项目启用。
+* 如果开发 [管道](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/cicd-pipelines/introduction-ci-cd-pipelines.html) 不包含测试步骤，用户现在可以选择在以下情况下包含测试步骤： [启动管道](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/cicd-pipelines/managing-pipelines.html?#running-pipelines).
+* 这将分阶段推出。
+* 时间 [正在取消执行](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/cicd-pipelines/managing-pipelines.html?#view-details)，管道执行审批步骤现在要求用户提供取消的原因。
+* 这将分阶段推出。
 
-**Bug fixes**
+_错误修复_
 
-* Environment creation no longer fails when multi-byte characters are used in the environment's name. 
+* 从导航到创作UI [!UICONTROL Cloud Manager] 登录后，无法再重定向到Unified Shell。
+* 现在，通过上线构件编辑上线日期将导航到 **[!UICONTROL 上线]** 制表符而不是 **[!UICONTROL 增强的安全性]** 选项卡。
+* 在启动复制操作时，用户将无法再选择已调用复制操作的环境。
 
-### [!DNL Workfront for Experience Manager] enhanced connector
+### 社区
 
-The release date for the latest version 1.9.10 of Workfront for Experience Manager enhanced connector is May 18, 2023.
+**网络研讨会录像：** _主控于Experience Manager认证：准备就绪、准备就绪、获得认证！_
 
-_Release highlights_
+为确保每个人都能访问网络研讨会期间分享的宝贵内容，我们很高兴为您提供此录像。 您可以在方便的时候访问AEM社区线程来观看录制 [Adobe Experience Manager Sites及更多](https://adobe.ly/3p2CmbA)
 
-* Workfront returns a 409 HTTP response for duplicate event subscriptions based on a REST call from Experience Manager to Workfront, which leads to a null pointer exception. 
-
->[!IMPORTANT]
->
->Adobe recommends that you [upgrade to the latest 1.9.10 version](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/update-workfront-enhanced-connector.html) of the Workfront for Experience Manager enhanced connector. 
-
-_Known issues_
-
-* While configuring project linked folders with AEM 6.4, [!DNL Experience Manager] does not save the values for **sub-folders** and **Create linked folder in projects with portfolio** fields. The value for the **sub-folders** field updates to **undefined**. The value for the **Create linked folder in projects with portfolio** field updates to **Default Portfolio** automatically after saving the configuration. 
-* When you use the classic Workfront experience, the **Send to** option available in the **More** drop-down list does not let you select the target destination within Experience Manager. The **Send to** option works correctly using the **Document Actions** drop-down list. The **Send to** option works correctly for **More** drop-down list and the **Document Actions** drop-down list available in the new Workfront experience.
-
-### Community
-
-* The recordings for all sessions of _Developer Live 2023_ are now available in the [!DNL Experience Manager] Community's Contextual Threads. Gain access to these valuable resources and unlock a world of knowledge and inspiration. Ready to dive in? Here are the recordings: [https://adobe.ly/3LRFDDv](https://adobe.ly/3LRFDDv). 
- -->
+AEMas a Cloud Service [2023.6.0 — 版本更新](https://adobe.ly/444zA4U)
 
 ### Experience Manager 发行信息
 
