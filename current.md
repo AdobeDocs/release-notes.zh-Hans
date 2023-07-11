@@ -5,11 +5,10 @@ doc-type: release notes
 last-update: July 2023
 author: mfrei
 mini-toc-levels: 2
-badgeReview: label="Internal Review" type="Negative"
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0494b8a966761103756447351dc8171bb897bd34
+source-git-commit: 4dadca326d9e6a132beab1da488cb6675aa7ffc5
 workflow-type: tm+mt
-source-wordcount: '5811'
+source-wordcount: '5809'
 ht-degree: 45%
 
 ---
@@ -32,9 +31,9 @@ ht-degree: 45%
 
 ## 产品发布最新消息和活动
 
-最新更新日期：**2023 年 7 月 10 日**
+最新更新日期：**2023 年 7 月 11 日**
 
-* [[!DNL Experience League] 活动和更新](#events) (已更新 **7月10日**)
+* [[!DNL Experience League] 活动和最新消息](#events)
 * [Adobe 认证](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Experience Cloud] 界面和管理](#ecloud)
