@@ -6,9 +6,9 @@ last-update: July 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: fad4343c9edcfbb296767a4cef17b5a363f096ab
+source-git-commit: eca7833d696a00e7e1c7fd4d605cd55dfdee2d7f
 workflow-type: tm+mt
-source-wordcount: '5838'
+source-wordcount: '5836'
 ht-degree: 45%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 45%
 
 ## 产品发布最新消息和活动
 
-最新更新日期：**2023 年 7 月 11 日**
+最新更新日期：**2023 年 7 月 12 日**
 
 * [[!DNL Experience League] 活动和最新消息](#events)
 * [Adobe 认证](#certification)
@@ -424,19 +424,19 @@ AEMas a Cloud Service [2023.6.0 — 版本更新](https://adobe.ly/444zA4U)
 
 发布的关于 Experience Manager 的新视频、教程或课程。
 
-| 发布日期 | 名称 | 类型 | 描述 | 应用程序 |
+| 发布日期 | 应用程序 | 名称 | 类型 | 描述 |
 | -----------| ---------- | ---------- | ---------- | ------|
-| 2023 年 7 月 | [快速访问](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/quick-access.html) | 视频 | 了解如何 [!UICONTROL 快速访问] 将您的个人镜头移至 [!DNL AEM Assets]. 此功能可让您轻松获取分配任务所需的所有资源。 | [!DNL AEM Assets] |
-| 2023 年 7 月 | [显示 _谢谢_ 有关Headless表单提交的消息](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/display-thank-you-message.html) | 文章 | 显示 _谢谢_ 消息表示已成功提交Headless表单。 | [!DNL AEM Forms] |
-| 2023 年 7 月 | [预览小书签 — 代码示例](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/verify.html?lang=en#preview-bookmarklet) | 文章 | 了解如何创建JavaScript小书签以预览[!UICONTROL  App Builder内容片段] AEM上下文中的扩展 [!UICONTROL 内容片段] 页数。 | [!UICONTROL 内容片段] |
-| 2023 年 7 月 | [将内容片段导出到XML](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-export-to-xml.html) | 文章 | 可以将自定义按钮添加到 [!UICONTROL 内容片段编辑器] 标题菜单使用 `headerMenu` 扩展点。 此示例说明如何将按钮添加到标题菜单，以及如何处理单击事件以导出活动内容 [!UICONTROL 内容片段] XML或CSV格式。 | [!UICONTROL 内容片段] |
-| 2023 年 7 月 | [在卡片上显示表单，单击](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/open-form-card-view.html) | 文章 | 从卡片视图向下钻取表单。 | [!DNL AEM Forms] |
-| 2023 年 7 月 | [将构件添加到富文本编辑器(RTE)](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-widget.html) | 视频 | 了解如何在AEM中将小组件添加到富文本编辑器(RTE) [!UICONTROL 内容片段编辑器]. | [!UICONTROL 内容片段] |
-| 2023 年 7 月 | [将徽章添加到富文本编辑器](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-badges.html) | 视频 | 了解如何在AEM中向富文本编辑器(RTE)添加徽章 [!UICONTROL 内容片段编辑器]. | [!UICONTROL 内容片段] |
-| 2023 年 7 月 | [自定义网格列](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/custom-grid-columns.html) | 视频 | 了解如何将自定义网格列添加到 [!UICONTROL 内容片段控制台]. | [!UICONTROL 内容片段] |
-| 2023 年 7 月 | [三维资产](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/advanced/3d-assets.html?lang=en) | 视频 | 了解中的3D资产支持 [!DNL AEM Assets as a Cloud Service]. | [!DNL AEM Assets] |
-| 2023 年 7 月 | [引用](https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/search/references.html) | 视频 | 了解AEM内容片段控制台和编辑器如何让您轻松了解和管理引用的内容。 | [!DNL AEM Sites] |
-| 2023 年 7 月 | [根据提交的数据自定义响应](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/custom-submit-headless-forms/introduction.html) | 视频 | 创建自定义提交服务以处理Headless自适应表单提交。 | [!DNL AEM Forms] |
+| 2023 年 7 月 | [!DNL AEM Assets] | [快速访问](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/quick-access.html) | 视频 | 了解如何 [!UICONTROL 快速访问] 将您的个人镜头移至 [!DNL AEM Assets]. 此功能可让您轻松获取分配任务所需的所有资源。 |
+| 2023 年 7 月 | [!DNL AEM Assets] | [三维资产](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/advanced/3d-assets.html?lang=en) | 视频 | 了解中的3D资产支持 [!DNL AEM Assets as a Cloud Service]. |
+| 2023 年 7 月 | [!DNL AEM Forms] | [显示 _谢谢_ 有关Headless表单提交的消息](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/display-thank-you-message.html) | 文章 | 显示 _谢谢_ 消息表示已成功提交Headless表单。 |
+| 2023 年 7 月 | [!DNL AEM Forms] | [在卡片上显示表单，单击](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/open-form-card-view.html) | 文章 | 从卡片视图向下钻取表单。 |
+| 2023 年 7 月 | [!DNL AEM Forms] | [根据提交的数据自定义响应](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/custom-submit-headless-forms/introduction.html) | 视频 | 创建自定义提交服务以处理Headless自适应表单提交。 |
+| 2023 年 7 月 | [!UICONTROL 内容片段] | [预览小书签](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/verify.html?lang=en#preview-bookmarklet) | 文章 | 了解如何创建JavaScript小书签以预览[!UICONTROL  App Builder内容片段] AEM上下文中的扩展 [!UICONTROL 内容片段] 页数。 |
+| 2023 年 7 月 | [!UICONTROL 内容片段] | [将内容片段导出到XML](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-export-to-xml.html) | 文章 | 可以将自定义按钮添加到 [!UICONTROL 内容片段编辑器] 标题菜单使用 `headerMenu` 扩展点。 此示例说明如何将按钮添加到标题菜单，以及如何处理单击事件以导出活动内容 [!UICONTROL 内容片段] XML或CSV格式。 |
+| 2023 年 7 月 | [!UICONTROL 内容片段] | [将构件添加到富文本编辑器(RTE)](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-widget.html) | 视频 | 了解如何在AEM中将小组件添加到富文本编辑器(RTE) [!UICONTROL 内容片段编辑器]. |
+| 2023 年 7 月 | [!UICONTROL 内容片段] | [将徽章添加到富文本编辑器](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-badges.html) | 视频 | 了解如何在AEM中向富文本编辑器(RTE)添加徽章 [!UICONTROL 内容片段编辑器]. |
+| 2023 年 7 月 | [!UICONTROL 内容片段] | [自定义网格列](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/custom-grid-columns.html) | 视频 | 了解如何将自定义网格列添加到 [!UICONTROL 内容片段控制台]. |
+| 2023 年 7 月 | [!DNL AEM Sites] | [引用](https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/search/references.html) | 视频 | 了解AEM内容片段控制台和编辑器如何让您轻松了解和管理引用的内容。 |
 
 {style="table-layout:auto"}
 
