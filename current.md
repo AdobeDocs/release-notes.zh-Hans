@@ -6,10 +6,10 @@ last-update: July 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: eca7833d696a00e7e1c7fd4d605cd55dfdee2d7f
+source-git-commit: 40796032c6e2464215de160b6834bb7cc841b379
 workflow-type: tm+mt
 source-wordcount: '5836'
-ht-degree: 45%
+ht-degree: 53%
 
 ---
 
@@ -133,7 +133,7 @@ ht-degree: 45%
 
 为 Adobe [!DNL Experience Platform] 发布的新视频、教程或课程。
 
-| 类型 | 产品功能 | 描述 |
+| 发布日期 | 产品功能 | 描述 |
 | -----------| ---------- |---------- |
 | 2023 年 7 月 | [将示例数据导入 [!DNL Experience Platform]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html) | 更新的视频 | 了解如何设置 [!DNL Experience Platform] 沙盒环境，其中包含示例数据。 使用 [!UICONTROL Postman] 收藏集，您可以创建字段组、架构、数据集，然后将示例数据导入 [!DNL Experience Platform]. |
 | 2023 年 7 月 | [身份验证和访问 [!DNL Experience Platform] API](https://experienceleague.adobe.com/docs/platform-learn/tutorials/platform-api-authentication.html?lang=zh-Hans) | 更新的视频 | Adobe入门 [!DNL Experience Platform] API。 本教程将指导您完成创建身份验证凭据和创建 [!DNL Experience Platform] api请求。 |
@@ -287,7 +287,7 @@ Adobe 建议访问以下资源以随时了解发布信息：
 _新增功能_
 
 * 内容片段及其引用现在可以使用[内容片段控制台](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-environments.html?lang=zh-Hans#access-preview-service)发布到 [AEM 预览服务](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragments-console.html)，允许用户在上线前在解耦的预览应用程序上预览最终体验。
-* 现在可以使用AEM GraphQL在Headless场景中为Web投放动态优化图像。 [查询变量](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/images.html?lang=en#query-variables) 可以在GraphQL查询中定义，以允许分离的客户端应用程序从AEM请求相应地优化的图像。
+* 现在可以使用 AEM GraphQL 在 Headless 场景中动态优化图像以实现 Web 交付。[查询变量](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/images.html?lang=en#query-variables)可以在 GraphQL 查询中定义，以允许解耦的客户端应用程序从 AEM 请求相应优化的图像。
 * 上的标记 [内容片段变量](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-variations.html) 现在可以使用AEM GraphQL内容交付API输出到JSON。
 
 ### [!DNL Experience Manager Assets] as a [!DNL Cloud Service]
@@ -296,45 +296,45 @@ _新增功能_
 
 **新 [!UICONTROL 资产] 视图**
 
-新 [资产视图](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/assets-view-introduction.html?lang=en) 提供简化的用户界面，使您能够轻松管理、发现和分发数字资产。 该体验面向创意人员、只读资产使用者和较轻的DAM用户。
+新 [资产视图](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/assets-view-introduction.html?lang=en) 提供简化的用户界面，使您能够轻松管理、发现和分发数字资产。 该体验面向创意人员、只读资源消费者和轻量级 DAM 用户。
 
-**搜索体验增强功能**
+**搜索体验增强**
 
 [!DNL Experience Manager Assets] 现在使您能够从搜索结果用户界面执行更多操作。 您可以：
 
-* [在当前存储库位置中执行搜索](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/search-assets.html) 默认情况下，不会搜索整个存储库中的关键字。
+* [默认情况下在当前存储库位置内执行搜索，而不是在整个存储库中搜索关键字。](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/search-assets.html)
 
-* [导航到文件夹位置](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/search-assets.html?#aftersearch) 对于显示在搜索结果中的资源。
+* [导航到搜索结果中显示的资源的文件夹位置。](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/search-assets.html?#aftersearch)
 
 **3D 资源的缩略图预览**
 
-[!DNL Experience Manager Assets] 现在生成 [常见3D文件格式的缩略图预览](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/file-format-support.html)，包括gLB 、 USDz 、 FBX 、 3DS 、 OBJ和SBSAR。 上传这些文件时，默认情况下会自动生成缩略图。
+[!DNL Experience Manager Assets] 现在生成 [常见3D文件格式的缩略图预览](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/file-format-support.html)，包括gLB 、 USDz 、 FBX 、 3DS 、 OBJ和SBSAR。 当这些文件上传时，默认情况下会自动生成缩略图。
 
 **链接共享配置**
 
-改进的新用户体验，用于 [创建链接共享](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/share-assets.html) 以及一组全新的配置，管理员可通过这些配置自定义用户使用此功能的默认行为。
+为[创建链接共享](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/share-assets.html)提供了改进的全新用户体验，以及一组全新的配置，其中管理员可以为您的用户自定义此功能的默认行为。
 
 **Dynamic Media：更新了图像配置文件中与智能裁剪相关的字段**
 
-图像配置文件中一些与智能裁剪相关的字段的用户界面现已更新，以反映当前定义智能裁剪的准则。 请参阅[裁切选项](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/image-profiles.html?#crop-options)。
+图像配置文件中一些与 Smart Crop 相关的字段的用户界面现已更新，可反映当前定义 Smart Crop 的指南。请参阅[裁切选项](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/image-profiles.html?#crop-options)。
 
-_Assets视图中的新增功能_
+_资源视图中的新增功能_
 
 **资源的分层标记可提供更快的搜索体验**
 
-随着时间的推移，受控词汇的扁平列表变得难以管理。资源视图现在支持 [分层标记结构](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/tagging-management-assets-view.html)，这有助于应用相关元数据、对资产进行分类、支持搜索、重用标记、提高可发现性等。
+随着时间的推移，受控词汇的扁平列表变得难以管理。资源视图现在支持[分层的标记结构](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/tagging-management-assets-view.html)，该结构便于应用相关的元数据、为资源分类、支持搜索、重用标记、提高可发现性等。
 
 **固定文件、文件夹和集合以便快速访问**
 
-您现在可以 [固定文件、文件夹和收藏集以加快访问速度](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/my-workspace-assets-view.html) 到这些项目（稍后需要）。 经过固定的项目都显示在“我的工作区”的快速访问部分。您可以使用“我的工作区”访问它们，而无需导航到存储库中保存它们的位置。
+您现在可以[固定文件、文件夹和集合，以便在以后需要时更快地访问](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/my-workspace-assets-view.html)这些项目。经过固定的项目都显示在“我的工作区”的快速访问部分。您可以使用“我的工作区”访问它们，而无需导航到存储库中保存它们的位置。
 
 **过滤“垃圾箱”文件夹中的资源**
 
-现在通过“资源”视图，您可以 [筛选可在垃圾桶文件夹中找到的资源](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/navigate-assets-view.html). 您还可以应用标准或自定义过滤器来搜索“垃圾箱”文件夹中的相应资源，以恢复或永久删除它们。
+现在通过资源视图可以[筛选“垃圾箱”文件夹中的资源。](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/navigate-assets-view.html)您还可以应用标准或自定义过滤器来搜索“垃圾箱”文件夹中的相应资源，以恢复或永久删除它们。
 
 **3D 资源的缩略图预览**
 
-Assets视图现在可生成常见3D文件格式（包括gLB、USDz、FBX、3DS、OBJ和SBSAR）的缩略图预览。 这些文件上传到“资产”视图后，系统会默认自动生成缩略图。
+资源视图现在可以生成常见 3D 文件格式的缩略图预览，包括 gLB、USDz、FBX、3DS、OBJ 和 SBSAR。当这些文件上传到资源视图时，默认情况下系统会自动生成缩略图。
 
 **查看热门搜索词**
 
@@ -342,7 +342,7 @@ Assets视图现在可生成常见3D文件格式（包括gLB、USDz、FBX、3DS�
 
 **元数据表单增强功能**
 
-现在通过“资源”视图，您可以 [添加多值文本和下拉列表属性组件](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/metadata-assets-view.html?#property-components) 到元数据表单。
+资源视图现在允许您[向元数据表单添加多值文本和下拉列表属性组件。](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/metadata-assets-view.html?#property-components)
 
 ### [!DNL Experience Manager Forms] as a [!DNL Cloud Service]
 
@@ -354,21 +354,21 @@ _Forms中可用的新功能_
 
 与Adobe Acrobat Sign Solutions政府版集成使Adobe的合作伙伴和政府客户能够在以下位置使用电子签名： [!UICONTROL 自适应Forms] 一些最关键、最敏感的业务线。 这层额外的安全保障机制确保所有电子签名完全符合 FedRAMP Moderate 合规性，使 Adobe 的政府客户能够安心使用。
 
-* [在规则编辑器中使用自定义错误处理程序增强了错误处理能力](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/add-rules-and-use-expressions-in-an-adaptive-form/add-custom-error-handler-adaptive-forms.html)：您现在可以调用自定义函数（使用客户端库）来响应外部服务返回的错误，并为最终用户提供量身定制的响应。 或者，您可以针对服务返回的错误采取特定操作。例如，您可以在后端为特定的错误代码调用自定义工作流，或者通知客户服务已停止。
+* [增强了使用规则编辑器中的自定义错误处理程序处理错误的功能：您现在可以调用自定义函数（使用客户端库）来响应外部服务返回的错误，并为最终用户提供量身定制的响应，或对服务返回的错误采取特定操作，并为最终用户提供量身定制的响应。](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/add-rules-and-use-expressions-in-an-adaptive-form/add-custom-error-handler-adaptive-forms.html)或者，您可以针对服务返回的错误采取特定操作。例如，您可以在后端为特定的错误代码调用自定义工作流，或者通知客户服务已停止。
 
 该功能有助于通过引入基于标准的错误响应来提高整体错误处理能力，这些错误响应与 OOTB 错误处理程序向后兼容，并具有更大的灵活性和控制能力。
 
-[表单数据模型的增强身份验证方法](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/use-form-data-model/configure-data-sources.html)：通过引入基于客户端凭据的身份验证，将AEM Forms（表单数据模型）与兼容的数据源连接，体验增强的安全性。 此增强功能消除了对模拟或用户登录的需要，增强了数据的保护。
+[表单数据模型的增强身份验证方法](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/use-form-data-model/configure-data-sources.html)：通过引入基于客户端凭据的身份验证，将AEM Forms（表单数据模型）与兼容的数据源连接，体验增强的安全性。 此增强功能消除了模拟或用户登录的需要，从而增强了对数据的保护。
 
 [使用可重复部分创建自适应Forms](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/create-forms-repeatable-sections.html)：您现在可以在基于核心组件的自适应表单中创建折叠组件、向导、面板和水平选项卡组件，以创建可重复部分。
 
-这些可重复部分允许您提供不限数量的条目，而无需固定字段计数。 当所需的数据实例事先未知时，此变量将非常有用。 Forms用户可以轻松地添加或删除部分，使表单能够适应不同的数据输入方案，并简化相同数据的多次发生收集。
+这些可重复的部分允许您提供无限数量的条目，而无需固定的字段数。当预先未知所需的数据实例时，它非常有用。Forms 用户可以轻松添加或删除相关部分，使表单可适应不同的数据输入场景，并简化对同一数据发生次数的收集。
 
 [将自适应Forms提交到Microsoft®SharePoint和Microsoft® OneDrive](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/configure-submit-actions-and-metadata-submission/configuring-submit-actions.html)：您现在可以提交 [!UICONTROL 自适应Forms] 将数据发送到Microsoft®SharePoint Site或Microsoft® OneDrive等日常工具。
 
 #### [!UICONTROL Headless 自适应表单早期采用者计划]
 
-使用 [Headless自适应Forms](https://experienceleague.adobe.com/docs/experience-manager-headless-adaptive-forms/using/overview.html) 使您的开发人员能够创建、发布和管理交互式表单，这些表单可通过API（而不是通过传统的图形用户界面）访问和交互。 [!UICONTROL Headless自适应Forms] 帮助您：
+使用 [Headless 自适应表单](https://experienceleague.adobe.com/docs/experience-manager-headless-adaptive-forms/using/overview.html)可让您的开发人员创建、发布和管理交互式表单，这些交互式表单可通过 API 而不是传统的图形用户界面进行访问和交互。[!UICONTROL Headless自适应Forms] 帮助您：
 
 * 用您选择的编程语言构建高质量的多渠道表单
 * 将表单本机集成到您的桌面和移动应用程序、网站和聊天应用程序
