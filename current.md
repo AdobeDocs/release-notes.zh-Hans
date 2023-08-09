@@ -6,7 +6,7 @@ last-update: August 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 637dbc7168945c8ec51ddabbef72d3ea2981a6b9
+source-git-commit: 94e567e767551992e794b8c8476307d441d77953
 workflow-type: tm+mt
 source-wordcount: '5503'
 ht-degree: 52%
@@ -72,7 +72,7 @@ ht-degree: 52%
 
 +++即将举办的Experience League活动
 
-* **[!DNL WORKFRONT]** |客户研讨会 | _连接 — Workfront Strategic Admin聊天_ |** 8月14日上午7:00 CT** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,jvUOpWGTjE-Ph64NemBUhA,ZNAqPMQNZkK7VD-MS7tTJQ,Hk32dXdY40OM3NXnqXTPhA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** |客户研讨会 | _连接 — Workfront Strategic Admin聊天_ |**8月14日上午7:00 CT** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,jvUOpWGTjE-Ph64NemBUhA,ZNAqPMQNZkK7VD-MS7tTJQ,Hk32dXdY40OM3NXnqXTPhA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL EXPERIENCE MANAGER]** | Experience Maker | _Adobe Experience Manager技能交流_ | **8月17日太平洋时间上午9:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,jvUOpWGTjE-Ph64NemBUhA,ZNAqPMQNZkK7VD-MS7tTJQ,Hk32dXdY40OM3NXnqXTPhA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -83,9 +83,9 @@ ht-degree: 52%
 
 * **[!DNL WORKFRONT]** |客户研讨会 | _了解Workfront — 请求的队列_ | **8月22日上午9:00 MT** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Tu1ThXWIykiOZEfcg-DHeA,HXziSkoXUkm1SUYQGdEkZA,G-p3ztGJpkCWE8JFONuXNg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* [!DNL EXPERIENCE CLOUD] |网络研讨会 |完美混合：Adobe Analytics + Adobe Commerce | **8月22日上午11:00 MT** | [注册](https://register.gotowebinar.com/register/8741953502398625879?source=ExL)
+* **[!DNL EXPERIENCE CLOUD]** |网络研讨会 | _完美结合：Adobe Analytics + Adobe Commerce_ | **8月22日上午11:00 MT** | [注册](https://register.gotowebinar.com/register/8741953502398625879?source=ExL)
 
-* [!DNL EXPERIENCE CLOUD] |网络研讨会 |完美混合：Marketo + Workfront | **8月31日上午11:00 MT** | [注册](https://register.gotowebinar.com/register/1243658035029822043?source=ExL)
+* **[!DNL EXPERIENCE CLOUD]** |网络研讨会 | _完美结合：Marketo + Workfront_ | **8月31日上午11:00 MT** | [注册](https://register.gotowebinar.com/register/1243658035029822043?source=ExL)
 
 查看所有[即将举行的活动](https://experienceleague.adobe.com/events/)或浏览[活动录像](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html)。现在可使用左侧导航根据系列类型或应用程序查找录制的活动。
 
