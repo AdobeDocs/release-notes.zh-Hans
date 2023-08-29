@@ -6,10 +6,10 @@ last-update: August 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 94e567e767551992e794b8c8476307d441d77953
+source-git-commit: 6b12174eedf7e70da0b04b027b6b2a5372b005f6
 workflow-type: tm+mt
-source-wordcount: '5503'
-ht-degree: 100%
+source-wordcount: '5421'
+ht-degree: 97%
 
 ---
 
@@ -31,9 +31,9 @@ ht-degree: 100%
 
 ## 产品发布最新消息和活动
 
-最新更新日期：**2023 年 8 月 9 日**
+最新更新日期：**2023 年 8 月 29 日**
 
-* [[!DNL Experience League] 活动和最新消息](#events)
+* [[!DNL Experience League] 活动和更新](#events) (已更新 **8月29日**)
 * [Adobe 认证](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Experience Cloud] 界面和管理](#ecloud)
@@ -72,20 +72,17 @@ ht-degree: 100%
 
 +++Experience League 即将举行的活动
 
-* **[!DNL WORKFRONT]** | 客户研讨会 | _沟通 - Workfront 战略管理聊天_ |**北美中部时间 8 月 14 日上午 7:00** | [登记](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,jvUOpWGTjE-Ph64NemBUhA,ZNAqPMQNZkK7VD-MS7tTJQ,Hk32dXdY40OM3NXnqXTPhA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL JOURNEY OPTIMIZER]** |网络研讨会 |与Adobe Journey Optimizer专家Siddharth Jain、Chetan Prasad和Nikhil Sharma一起参加社区问答喝咖啡休息时间_ | **8月30日上午8:00（太平洋标准时间）** | [注册](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-august-30th-with-adobe-journey/ev-p/612867)
 
-* **[!DNL EXPERIENCE MANAGER]** | Experience Makers | _Adobe Experience Manager 技能交流_ |**太平洋时间 8 月 17 日上午 9:00** |[登记](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,jvUOpWGTjE-Ph64NemBUhA,ZNAqPMQNZkK7VD-MS7tTJQ,Hk32dXdY40OM3NXnqXTPhA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL EXPERIENCE CLOUD]** |网络研讨会 | _完美结合：Marketo + Workfront_ | **8月31日下午1:00 （东部时间）** | [注册](https://attendee.gotowebinar.com/register/1243658035029822043?source=ExL)
 
-* **[!DNL WORKFRONT]** | Experience Makers | _Adobe Workfront 技能交流_ |**太平洋时间 8 月 16 日上午 9:00** |[登记](https://cvent.me/OnVZk3?rt=GK3dI3eyIEu5Ln9oKu3x0Q&amp;RefId=Experience+League)
-* **[!DNL ANALYTICS]** | Experience Makers | _Adobe Analytics 技能交流_ |**太平洋时间 8 月 17 日上午 9:00** |[登记](https://cvent.me/OnVZk3?rt=GK3dI3eyIEu5Ln9oKu3x0Q&amp;RefId=Experience+League)
+* **[!DNL WORKFRONT]** |社区活动 | _Adobe Workfront Connect：面向营销和创意的管理员聊天_ | **9月1日上午10:00 MT** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,KBvGRYIBNkS8UYZoXhEzyg,NxN8MJvklk2hHdVSkoIQlQ,IOANuFGpiEehM82GeIib2g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL TARGET]**|网络研讨会 |_制定策略，以最大程度地提高 ROI，做好旺季准备_|**太平洋时间 8 月 17 日上午 8:00** |[登记](https://adobepeakseasonreadiness2023.experienceleague.adobeevents.com/)
+* **[!DNL MARKETO ENGAGE]** |社区活动 | _使用提高电子邮件可投放性[!DNL Marketo Engage]_ | **9月7日太平洋时间上午8:00** | [注册](https://engage.marketo.com/Boost_Email_Deliverability.html?utm_source=exl)
 
-* **[!DNL WORKFRONT]**|客户研讨会|_与 Workfront 一起学习 - 请求队列_|**8 月 22 日上午 9:00 中部时间**|[登记](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Tu1ThXWIykiOZEfcg-DHeA,HXziSkoXUkm1SUYQGdEkZA,G-p3ztGJpkCWE8JFONuXNg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **常规** |直播 | _App Builder Live — 迁移到OAuth_ | **9月7日太平洋时间上午9:00** | [注册](https://www.eventbrite.com/e/app-builder-live-migrating-to-oauth-tickets-687485968037?aff=explg)
 
-* **[!DNL EXPERIENCE CLOUD]** | 网络研讨会 | _完美融合：Adobe Analytics + Adobe Commerce_ | **北美山区时间 8 月 22 日上午 11:00** | [登记](https://register.gotowebinar.com/register/8741953502398625879?source=ExL)
-
-* **[!DNL EXPERIENCE CLOUD]** | 网络研讨会 | _完美融合：Marketo + Workfront_ | **北美山区时间 8 月 31 日上午 11:00** | [登记](https://register.gotowebinar.com/register/1243658035029822043?source=ExL)
+* **[!DNL WORKFRONT]** |客户研讨会 | _了解：为全职系统管理员提供案例_ | **9月7日下午12:00（中国中部时间）** | [注册](https://engage.marketo.com/Boost_Email_Deliverability.html?utm_source=exl)
 
 查看所有[即将举行的活动](https://experienceleague.adobe.com/events/)或浏览[活动录像](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html)。现在可使用左侧导航根据系列类型或应用程序查找录制的活动。
 
