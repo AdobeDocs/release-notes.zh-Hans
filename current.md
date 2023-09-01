@@ -7,9 +7,9 @@ author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: 6b12174eedf7e70da0b04b027b6b2a5372b005f6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '5421'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 97%
 
 最新更新日期：**2023 年 8 月 29 日**
 
-* [[!DNL Experience League] 活动和更新](#events) (已更新 **8月29日**)
+* [[!DNL Experience League] 活动和最新消息](#events)（更新日期：**8 月 29 日**）
 * [Adobe 认证](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Experience Cloud] 界面和管理](#ecloud)
@@ -72,17 +72,17 @@ ht-degree: 97%
 
 +++Experience League 即将举行的活动
 
-* **[!DNL JOURNEY OPTIMIZER]** |网络研讨会 |与Adobe Journey Optimizer专家Siddharth Jain、Chetan Prasad和Nikhil Sharma一起参加社区问答喝咖啡休息时间_ | **8月30日上午8:00（太平洋标准时间）** | [注册](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-august-30th-with-adobe-journey/ev-p/612867)
+* **[!DNL JOURNEY OPTIMIZER]** | 网络研讨会 | 与 Adob&#x200B;&#x200B;e Journey Optimizer 专家 Siddharth Jain、Chetan Prasad 和 Nikhil Sharma 一同参与社区问答茶歇会 | **太平洋时间 8 月 30 日上午 8:00** | [登记](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-august-30th-with-adobe-journey/ev-p/612867)
 
-* **[!DNL EXPERIENCE CLOUD]** |网络研讨会 | _完美结合：Marketo + Workfront_ | **8月31日下午1:00 （东部时间）** | [注册](https://attendee.gotowebinar.com/register/1243658035029822043?source=ExL)
+* **[!DNL EXPERIENCE CLOUD]** | 网络研讨会 | _完美融合：Marketo + Workfront_ | **东部时间 8 月 31 日下午 1:00** | [登记](https://attendee.gotowebinar.com/register/1243658035029822043?source=ExL)
 
-* **[!DNL WORKFRONT]** |社区活动 | _Adobe Workfront Connect：面向营销和创意的管理员聊天_ | **9月1日上午10:00 MT** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,KBvGRYIBNkS8UYZoXhEzyg,NxN8MJvklk2hHdVSkoIQlQ,IOANuFGpiEehM82GeIib2g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | 社区活动 | _Adobe Workfront Connect：管理员对话（营销与创意内容）_ | **山地时间 9 月 1 日上午 10:00** | [登记](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,KBvGRYIBNkS8UYZoXhEzyg,NxN8MJvklk2hHdVSkoIQlQ,IOANuFGpiEehM82GeIib2g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL MARKETO ENGAGE]** |社区活动 | _使用提高电子邮件可投放性[!DNL Marketo Engage]_ | **9月7日太平洋时间上午8:00** | [注册](https://engage.marketo.com/Boost_Email_Deliverability.html?utm_source=exl)
+* **[!DNL MARKETO ENGAGE]** | 社区活动 | _使用[!DNL Marketo Engage]_ 提高电子邮件送达率 | **太平洋时间 9 月 7 日上午 8:00** | [登记](https://engage.marketo.com/Boost_Email_Deliverability.html?utm_source=exl)
 
-* **常规** |直播 | _App Builder Live — 迁移到OAuth_ | **9月7日太平洋时间上午9:00** | [注册](https://www.eventbrite.com/e/app-builder-live-migrating-to-oauth-tickets-687485968037?aff=explg)
+* **常规** | 直播 | _应用程序生成器直播 - 迁移到 OAuth_ | **太平洋时间 9 月 7 日上午 9:00** | [登记](https://www.eventbrite.com/e/app-builder-live-migrating-to-oauth-tickets-687485968037?aff=explg)
 
-* **[!DNL WORKFRONT]** |客户研讨会 | _了解：为全职系统管理员提供案例_ | **9月7日下午12:00（中国中部时间）** | [注册](https://engage.marketo.com/Boost_Email_Deliverability.html?utm_source=exl)
+* **[!DNL WORKFRONT]** | 客户研讨会 | _学习：为全职系统管理员提供案例_ | **中部时间9 月 7 日中午 12:00** | [登记](https://engage.marketo.com/Boost_Email_Deliverability.html?utm_source=exl)
 
 查看所有[即将举行的活动](https://experienceleague.adobe.com/events/)或浏览[活动录像](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html)。现在可使用左侧导航根据系列类型或应用程序查找录制的活动。
 
