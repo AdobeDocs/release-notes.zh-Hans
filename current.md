@@ -9,7 +9,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: 8e68c850554a8d3d464c4ae77bf4f3ede156c5d8
 workflow-type: tm+mt
 source-wordcount: '7132'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -55,7 +55,7 @@ ht-degree: 98%
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
 * [[!DNL Adobe Advertising]](#advertising)
-* [[!DNL Adobe Pass]](#pass) (以前称为 [!DNL Adobe Primetime])
+* [[!DNL Adobe Pass]](#pass)（以前称为 [!DNL Adobe Primetime]）
 * [[!DNL Document Cloud]](#doc-cloud)
 * [[!DNL Creative Cloud for enterprise]](#creative-cloud)
 * [客户数据管理 - 意见](#voices)
@@ -68,7 +68,7 @@ ht-degree: 98%
 
 | 发布日期 | 应用程序 | 名称 | 类型 | 描述 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2023 年 9 月 | Experience Cloud | [制定有效的 Audience Activation 策略](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/2023/audience-activation.html?lang=zh-Hans) | 客户成功网络研讨会 | 了解数据管理策略的重要性、Adobe Audience Manager概述和功能、Adobe Audience Manager用例、设置数据管理策略的行动计划 |
+| 2023 年 9 月 | Experience Cloud | [制定有效的 Audience Activation 策略](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/2023/audience-activation.html?lang=zh-Hans) | 客户成功网络研讨会 | 了解数据管理策略的重要性、Adobe Audience Manager 概述和功能、Adobe Audience Manager 用例、制定数据管理策略的行动计划 |
 | 2023 年夏季 | Experience Cloud | [Experience Cloud 应用程序的集成教程主页](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/overview.html) | 视频 | 了解最常见的 Experience Cloud 应用程序集成。按[解决方案](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/overview.html?lang=zh-Hans)或[应用程序](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/integrations-between-applications/overview.html?lang=zh-Hans)浏览集成教程。此内容经常更新，因此请经常查看。 |
 
 {style="table-layout:auto"}
@@ -306,12 +306,12 @@ _新增功能_
 
 * 现在通过[内容片段控制台](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/managing.html?lang=zh-Hans)，用户可查看和搜索作为元数据应用于内容片段的标记。用户不必再切换到 Assets 用户界面即可使用此功能，从而减少上下文切换并提高效率。
 
-* AEM as a Cloud Service 上现已提供新内容片段编辑器。它能够简化内容作者的创作任务并减少编辑内容时在不同的应用程序之间切换的次数，从而提高内容作者的工作效率。
+* AEM as a Cloud Service 上现在有新的内容片段编辑器可用。它通过简化内容作者的创作任务并减少在编辑内容时需要在不同的应用程序之间切换的次数，使内容作者提高工作效率。
 
-新内容片段编辑器提供了原始编辑器中所没有的以下优点：
+新的内容片段编辑器具备以下这些在原有编辑器中没有的优势：
 
 * 自动保存，可提高创作效率并防止意外丢失编辑内容。
-* 内容片段及其引用的分级视图，它使用结构树在深度结构化片段中快速导航。
+* 内容片段及其引用的分级视图，其中可使用结构树在结构层次很深的片段中快速导航。
 * 直接上传资源作为内容引用，而不必将它先上传到资源 DAM
 * 临时预览由内容片段投放的渲染体验，以帮助作者使前端应用程序上内容的外观可视化。
 * 从编辑器一键发布和取消发布内容片段。
@@ -331,12 +331,12 @@ _资源视图中的新增功能_
 
 _管理视图中的新增功能_
 
-* 管理员现在可以[配置资源的批次大小](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/search-assets.html?lang=zh-Hans#configure-asset-batch-size)（在您执行搜索时将显示这些资源）。在进一步向下滚动以加载资源搜索结果时，这些结果将以配置的批次大小数量的倍数显示。您可以从 200、500 和 1000 个资源的可用批次大小中进行选择。设置较小的批次大小数量会获得更快的搜索响应速度。
+* 管理员现在可[配置在您执行搜索时显示的资源的批次大小](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/search-assets.html?lang=zh-Hans#configure-asset-batch-size)。当您进一步向下滚动以加载资源搜索结果时，将以所配置的批次大小数量的倍数显示这些结果。可选择 200、500 和 1000 个资源的可用批次大小。设置较小的批次大小数字可加快搜索响应速度。
 * Experience Manager Assets 现在包含新版本 9 的 `damAssetLucene` 索引。`damAssetLucene-9` 将 Oak Query 分面计数的行为更改为[不再评估对底层搜索索引返回的分面计数的访问控制](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/search-assets.html?lang=zh-Hans)，而这导致加快搜索响应速度。
 
 _预发行渠道中的新增功能_
 
-* **Dynamic Media** – [支持视频中使用多字幕和多音轨。](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video.html?lang=zh-Hans#about-msma)在 [!DNL Dynamic Media] 中，现在可轻松地将多个字幕和多个音轨添加到主视频。此功能可让全球受众访问您的视频。您可以用多种语言为全球受众定制单个已发布的主视频，并遵循不同地理区域的无障碍准则。此外，作者可以在用户界面的单个选项卡中管理字幕和音轨。
+* **Dynamic Media** – [支持视频中使用多字幕和多音轨。](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video.html?lang=zh-Hans#about-msma)在 [!DNL Dynamic Media] 中，现在可轻松地将多个字幕和多个音轨添加到主视频。此功能意味着全球观众都能看懂您的视频。只需自定义一个主视频，即可发布到多种语言的全球观众，并遵循不同地区的辅助功能准则。此外，作者从用户界面中的一个选项卡即可管理字幕和音轨。
 * **Assets** - 可选择在 Experience Manager 中管理的 ZIP 存档，并且无需下载文件，即可[将文件直接解压缩到 Experience Manager 中](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets.html?lang=zh-Hans#extract-zip-archives)。
 
 ### [!DNL Experience Manager Forms] as a [!DNL Cloud Service]
@@ -356,7 +356,7 @@ _预发行渠道中的新增功能_
    * **Acrobat Sign 文档的审核记录** - 使用审核记录功能可详细了解 Acrobat Sign 文档的生命周期。利用审核记录功能，您现在可保留与文档相关的所有操作和交互的全面记录。其中包括查看者、编辑者或签署文档者以及每个事件的时间戳等详细信息。此记录增强对于维持合规性、解决争议和确保数字协议的完整性至关重要。
    * **协议接收者在签名者之外的新角色** - Adobe Acrobat Sign 可将协议接收者的角色扩充到仅签名者之外以更好地满足其工作流要求。启用此选项后，协议中的每个接收者均可单独配置其角色，其中签名者为默认角色。
 
-* [用 Document Assurance API（Communication API 的一部分）保护文档](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/using-communications/aem-forms-cloud-service-communications-introduction.html?lang=zh-Hans#document-assurance-doc-assurance) - Document Assurance API 使您可通过为文档签名和加密而保护敏感信息。可利用加密将文档内容转换为不可读的格式，确保仅授权用户能够查看该文档内容。这一层增强型保护不仅能防止被未经授权的人员查看有价值的数据，还能让您高枕无忧。利用 Signature API，您的组织可以保护其分发和接收的 Adobe PDF 文档的安全和隐私。此服务使用数字签名和认证来确保仅预期接收者能够更改文档。
+* [用 Document Assurance API（Communication API 的一部分）保护文档](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/using-communications/aem-forms-cloud-service-communications-introduction.html?lang=zh-Hans#document-assurance-doc-assurance) - Document Assurance API 使您可通过为文档签名和加密而保护敏感信息。通过加密，可将文档内容转换为无法读取的格式，从而确保只有获得授权的用户可访问。这一层加强的保护不仅防止未经授权地查看宝贵的数据，还能让人安心。利用 Signature API，您的组织可以保护其分发和接收的 Adobe PDF 文档的安全和隐私。此服务使用数字签名和认证确保只有预期的接收者可更改文档。
 * **Communication API 中支持页面计数** - ：除了通过 Communication API 检索文档之外，现在还可接收关于文档内所含页数的宝贵信息。
 * [使用规则编辑器中的自定义错误处理程序处理错误](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/add-custom-error-handler-adaptive-forms-core-components.html?lang=zh-Hans) - 现在可调用自定义函数以响应外部服务返回的错误，并为最终用户提供量身定制的响应。例如，可在后端为特定的错误代码调用自定义工作流或通知客户服务已停止。
 
@@ -772,13 +772,13 @@ Last updated: **August 9, 2022**
 
 ## ![图标](/assets/pass.png) [!DNL Adobe Pass] {#pass}
 
-[!DNL Adobe Pass] 是一个多屏幕电视平台，可帮助广播公司、有线电视网络和服务提供商创造有吸引力的个性化观看体验并从中盈利。
+[!DNL Adobe Pass] 是一个多屏幕电视平台，可帮助广播公司、有线电视网和服务提供商创造有吸引力的个性化观看体验并从中盈利。
 
 >[!NOTE]
 >
->_[!DNL Adobe Primetime]_现在是_[!DNL Adobe Pass]_。在不久的将来，在重新品牌化工作完成之前，您可能会在文档中看到这两个品牌名称。
+>_[!DNL Adobe Primetime]_现在是_[!DNL Adobe Pass]_。在不久的将来，您可能会在文档中看到这两个品牌名称，直到重塑工作完成。
 
-请参阅 [Adobe Pass发行说明](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html) 查找特定于发行版的信息、系统要求、限制、已修复问题和已知问题。
+参阅 [Adobe Pass 发行说明](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html)，查找特定于版本的信息、系统要求、限制、已修复问题和已知问题。
 
 ## ![图标](/assets/document-cloud-24.png) [!DNL Document Cloud] {#doc-cloud}
 
