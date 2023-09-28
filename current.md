@@ -6,10 +6,10 @@ last-update: August 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 8e68c850554a8d3d464c4ae77bf4f3ede156c5d8
-workflow-type: ht
-source-wordcount: '7132'
-ht-degree: 100%
+source-git-commit: 646fa448526e3d74f4c88c77325fa65adaad5ae2
+workflow-type: tm+mt
+source-wordcount: '7065'
+ht-degree: 98%
 
 ---
 
@@ -33,9 +33,9 @@ ht-degree: 100%
 
 ## 产品发布最新消息和活动
 
-最新更新日期：**2023 年 9 月 19 日**
+最新更新日期：**2023 年 9 月 28 日**
 
-* [[!DNL Experience League] 活动和最新消息](#events)
+* [[!DNL Experience League] 活动和更新](#events) (更新日期： **9月28日**)
 * [Adobe 认证](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Experience Cloud] 界面和管理](#ecloud)
@@ -77,15 +77,13 @@ ht-degree: 100%
 
 +++Experience League 即将举行的活动
 
-* **[!DNL WORKFRONT]** | 客户研讨会 | _管理员 101 - Workfront 快速入门_ | **美国中部时间 9 月 19 日上午 10:00** | [登记](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,ro1ksXUe10a6IwM8fXCIHg,-FBAvqy1W0aUZDRPXCzn3A,JaIpLTwA3E2wq1vRimwKjQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL ANALYTICS]** |网络研讨会 | _利用Adobe Analytics发现并提供切实可行的见解_ | **10月5日上午9:00（英国夏令时间）** | [注册](https://adobeanalyticsemea2023.experienceleague.adobeevents.com/)
 
-* **[!DNL EXPERIENCE MANAGER AS A CLOUD SERVICE]**| AEM GEMS | _为 AEM as a Cloud Service 利用 New Relic APM 的强大功能_ | **太平洋时间 9 月 20 日上午 8:00** | [登记](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-harness-the-power-of-new-relic-apm-for-aem-as-a-cloud-service-boost-performance-amp-issue-resolution/)
+* **[!DNL WORKFRONT]** |网络研讨会 | _Adobe Workfront 23.10中的新增功能_ | **10月5日太平洋时间上午7:00** | [注册](https://webinars.on24.com/adobe_workfront/whatsnewin2310?partnerref=EXL)
 
-* **[!DNL WORKFRONT]**| 问答聊天 | _询问客户小组：Fusion 的优势和最佳实践_ | **美国中部时间 9 月 26 日上午 11:00** |[登记](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,wwMNpBFpyU6JRZ7t-hkIIQ,SV8DFIlim0ivqJp7uYE5zg,-iWPFBz0s0aNbozaOGyGsQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL EXPERIENCE MANAGER]** |网络研讨会 | _浓缩和Experience Manager：升级到Dynamic Media_ | **10月5日下午1:00 （东部时间）** | [注册](https://attendee.gotowebinar.com/register/401473910088026710?source%3CExL)
 
-* **[!DNL EXPERIENCE MANAGER SITES]** | 向同行学习 | _深入研究 AEM Sites 中的工具_ | **太平洋时间 9 月 28 日上午 8:00** | [登记](https://engage.adobe.com/AEM_Tools_Deep_Dive_Registration.html?utm_source=ExL)
-
-* **[!DNL WORKFRONT]** | 向同行学习 | _深入研究 AEM Sites 中的工具_ | **太平洋时间 9 月 28 日上午 8:00** | [登记](https://engage.adobe.com/AEM_Tools_Deep_Dive_Registration.html?utm_source=ExL)
+* **[!DNL WORKFRONT]** |客户研讨会 | _咨询专家：使用Workfront Fusion自动化您的工作流程_ | **10月5日上午11:00 MT** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,aYVhAxfDTEaHWan3DDKAJg,hP4GoDgz30K_R39XZWjjfQ,6wmf7dtjHkG6osxVzGe7nQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** | 社区活动 | _沟通：与管理员聊市场营销和创意_ | **北美山区时间 10 月 6 日上午 10:00** | [登记](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,GEPFgV3sAkazC0HNeX4Qiw,MfXhfQkRaEeNxpVhAjrevw,etCOBCAjk0iAVD0DNRskXQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
