@@ -6,10 +6,10 @@ last-update: August 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 646fa448526e3d74f4c88c77325fa65adaad5ae2
+source-git-commit: a0cad6ed033fec45ce4697dc64011ee675506433
 workflow-type: tm+mt
-source-wordcount: '7065'
-ht-degree: 98%
+source-wordcount: '7204'
+ht-degree: 97%
 
 ---
 
@@ -647,6 +647,11 @@ Adobe Commerce 的新文章和现有文章的更新。
 
 | 发布日期 | 名称 | 类型 | 描述 |
 | -----------| ---------- | ---------- | ---------- |
+| 2023 年 9 月 | [管理、创作和使用片段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/manage-author-use-fragments.html) | 视频 | 了解如何在 Adobe Journey Optimizer 中管理、创作和使用片段。 |
+| 2023 年 9 月 | [Web编辑器中的单页应用程序(SPA)支持](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/singel-page-application-support.html) | 视频 | 了解如何在Journey Optimizer Web编辑器中创作单页应用程序(SPA)。 |
+| 2023 年 9 月 | [渠道级别报表](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports.html) | 视频 | 了解如何在渠道级别访问、导航和导出报表。 |
+| 2023 年 9 月 | [以CSV格式导出报表](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format.html) | 视频 | 了解如何为报表和单个小组件下载CSV报表。 |
+| 2023 年 9 月 | [Web编辑器中的单页应用程序(SPA)支持](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/singel-page-application-support.html) | 视频 | 了解如何在Journey Optimizer Web编辑器中创作单页应用程序(SPA)。 |
 | 2023 年 9 月 | [在历程中创建应用程序内消息](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-an-in-app-message-in-a-journey.html) | 视频 | 了解什么是应用程序内消息以及如何在历程中应用。了解如何在历程中创建应用程序内消息以及如何测试和发布历程。 |
 
 {style="table-layout:auto"}
