@@ -6,9 +6,9 @@ last-update: October 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b3412fc88c958976a09a92056b29f55bc0cd2351
+source-git-commit: 7088f9b9644c7c555c3f1a061adf140c7f95e07a
 workflow-type: tm+mt
-source-wordcount: '7502'
+source-wordcount: '7500'
 ht-degree: 64%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 64%
 
 最新更新日期：**2023 年 10 月 4 日**
 
-* [[!DNL Experience League] 活动和更新](#events) (更新日期： **9月28日**)
+* [[!DNL Experience League] 活动和最新消息](#events)
 * [Adobe 认证](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud]  — 中央界面和管理](#ecloud)
@@ -79,9 +79,9 @@ ht-degree: 64%
 
 * **[!DNL ANALYTICS]** |网络研讨会 | _利用Adobe Analytics发现并提供切实可行的见解_ | **10月5日上午9:00（英国夏令时间）** | [注册](https://adobeanalyticsemea2023.experienceleague.adobeevents.com/)
 
-* **[!DNL WORKFRONT]** |网络研讨会 | _Adobe Workfront 23.10中的新增功能_ | **10月5日太平洋时间上午7:00** | [注册](https://event.on24.com/wcc/r/4338212/18470D85C5958448AE20FC2AF0DA9977?partnerref=EXL)
+* **[!DNL WORKFRONT]** |网络研讨会 | _Adobe Workfront 23.10中的新增功能_ | **10月5日上午10:00（东部时间）** | [注册](https://event.on24.com/wcc/r/4338212/18470D85C5958448AE20FC2AF0DA9977?partnerref=EXL)
 
-* **[!DNL EXPERIENCE MANAGER]** |网络研讨会 | _浓缩和Experience Manager：升级到Dynamic Media_ | **10月5日下午1:00 （东部时间）** | [注册](https://register.gotowebinar.com/register/401473910088026710?source%3CExL)
+* **[!DNL EXPERIENCE MANAGER]** |网络研讨会 | _浓缩和Experience Manager：升级到Dynamic Media_ | **10月5日晚上11:00（山区夏令时间）** | [注册](https://register.gotowebinar.com/register/401473910088026710?source%3CExL)
 
 * **[!DNL WORKFRONT]** |客户研讨会 | _咨询专家：使用Workfront Fusion自动化您的工作流程_ | **10月5日上午11:00 MT** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,aYVhAxfDTEaHWan3DDKAJg,hP4GoDgz30K_R39XZWjjfQ,6wmf7dtjHkG6osxVzGe7nQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -89,7 +89,7 @@ ht-degree: 64%
 
 * **[!DNL WORKFRONT]** | 客户研讨会 | _管理员 101：让您的用户使用 Workfront_ | **北美山区时间 10 月 17 日上午 9:00** | [登记](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,omfk3au070S9BM8uw0Q-eQ,hQB5-0lLTEqbiy3szpaQ7Q,IAorw9UUG0Kzb9zZNhCeEA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL AEM]** 和 **[!DNL COMMERCE]** |开发人员直播 | _内容和商务：深入探讨 [!UICONTROL Edge交付服务]、 Headless功能、可扩展性、可组合性和生产效率工具_ | **11月6日上午9:00 MT** | [注册](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
+* **[!DNL AEM]** 和 **[!DNL COMMERCE]** |开发人员直播 | _内容和商务：深入探讨 [!UICONTROL Edge交付服务]、 Headless功能、可扩展性、可组合性和生产效率工具_ | **11月6日上午8:00 MT** | [注册](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
 
 查看所有[即将举行的活动](https://experienceleague.adobe.com/events/)或浏览[活动录像](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html)。现在可使用左侧导航根据系列类型或应用程序查找录制的活动。
 
