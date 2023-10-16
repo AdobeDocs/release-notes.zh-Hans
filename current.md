@@ -6,9 +6,9 @@ last-update: October 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b7a89fac869a56dbf2d0624e48c5cc01acac68c6
+source-git-commit: c7daf1d029be332b56281f4c26bfb7170a81d8a0
 workflow-type: tm+mt
-source-wordcount: '7533'
+source-wordcount: '7532'
 ht-degree: 99%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 99%
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
-![横幅](assets/release-notes-header.png)
+<!-- ![Banner](assets/release-notes-header.png) -->
 
 **2023 年 10 月**
 
@@ -342,7 +342,7 @@ Watch the [August 2023 Release Overview video](https://video.tv.adobe.com/v/3423
 
 Edge Delivery 是一组新的可组合服务，专注于最大限度地发挥内容的作用，以便在客户交互时推动可衡量的业务成果。
 
-[详细了解 Edge Delivery Services](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/edge-delivery/overview.html?lang=en)。
+[详细了解 Edge Delivery Services](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/edge-delivery/overview.html?lang=zh-Hans)。
 
 ### [!DNL Experience Manager Assets] as a [!DNL Cloud Service]
 
@@ -352,7 +352,7 @@ _资源视图中的新增功能_
 
 _管理视图中的新增功能_
 
-* **将 AEM Assets as a Cloud Service 与 Edge Delivery Services 的基于文档的创作集成** - 将 AEM Assets 与 Edge Delivery Services 的基于文档的创作集成，使网站作者能够[使用 AEM Assets 存储库中的图像并在 Microsoft® Word or Google Docs 中创作文档](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/edge-delivery/using.html?lang=en#integrate-assets-edge)。
+* **将 AEM Assets as a Cloud Service 与 Edge Delivery Services 的基于文档的创作集成** - 将 AEM Assets 与 Edge Delivery Services 的基于文档的创作集成，使网站作者能够[使用 AEM Assets 存储库中的图像并在 Microsoft® Word or Google Docs 中创作文档](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/edge-delivery/using.html?lang=zh-Hans#integrate-assets-edge)。
 * **提取 ZIP 存档** - 可选择在 Experience Manager 中管理的 ZIP 存档，并且无需下载文件，即可[将文件直接提取到 Experience Manager 中](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets.html?lang=zh-Hans#extract-zip-archives)。
 
 _预发行渠道中的新增功能_
@@ -374,8 +374,8 @@ _New feature in prerelease channel_
 _新增功能_
 
 * **[Google reCAPTCHA 企业支持](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/add-components-to-an-adaptive-form/captcha-adaptive-forms.html?lang=zh-Hans)** – 在自适应表单中使用 Google reCAPTCHA Enterprise 以增强对欺诈活动和垃圾邮件的防御，从而提供更安全的用户体验。通过先进的风险分析和无缝集成，真实用户可轻松地提交表单，同时有效地阻止机器人。
-* **[用于表单的 Adobe Analytics with Experience Cloud Setup Automation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/services/enable-adobe-analytics-adaptive-form-using-experience-cloud-setup-automation.html?lang=en)** - 现在按几下按钮即可启用 Adobe Analytics with Experience Cloud Setup Automation。通过它，可将 AEM Forms as a Cloud Service 与 Experience Platform 标记和 Adobe Analytics 建立联系以捕获和跟踪您已发布的表单的绩效量度。
-* **[适用于自适应表单的 Adobe Analytics 报告模板](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/services/view-understand-aem-forms-analytics-reports.html?lang=en)** – Forms as a Cloud Service 现在提供开箱即用的 Adobe Analytics 报告。它帮助您轻松地了解您表单的绩效。表单级别量度让您了解表单在演绎版数量、访客数、提交次数、平均填写时间等多个关键绩效指标 (KPI) 上表现如何。通过跟踪用户行为和反馈，可确定导致混淆的表单区域，并指导改进表单的设计和功能。
+* **[用于表单的 Adobe Analytics with Experience Cloud Setup Automation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/services/enable-adobe-analytics-adaptive-form-using-experience-cloud-setup-automation.html?lang=zh-Hans)** - 现在按几下按钮即可启用 Adobe Analytics with Experience Cloud Setup Automation。通过它，可将 AEM Forms as a Cloud Service 与 Experience Platform 标记和 Adobe Analytics 建立联系以捕获和跟踪您已发布的表单的绩效量度。
+* **[适用于自适应表单的 Adobe Analytics 报告模板](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/services/view-understand-aem-forms-analytics-reports.html?lang=zh-Hans)** – Forms as a Cloud Service 现在提供开箱即用的 Adobe Analytics 报告。它帮助您轻松地了解您表单的绩效。表单级别量度让您了解表单在演绎版数量、访客数、提交次数、平均填写时间等多个关键绩效指标 (KPI) 上表现如何。通过跟踪用户行为和反馈，可确定导致混淆的表单区域，并指导改进表单的设计和功能。
 * **[自适应表单中基于核心组件的表单片段](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/adaptive-form-fragments-core-components.html?lang=zh-Hans)** - 在用表单片段提升您的表单生成体验时告别重复、优化数字库存并改善协作。这些可重用的组件无缝集成到多个表单中，从而简化创建一致且外观专业的表单的过程。利用“一次更改，随处反映”功能，表单片段确保实现可重用性、标准化和品牌一致性。由于在一处作出的更新自动传播到所有利用这些片段的表单，因此可体验到更高的可维护性和效率。
 * **[增强的 Adobe Sign 工作流步骤](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-form-centric-workflows/aem-forms-workflow-step-reference.html?lang=zh-Hans#sign-document-step-sign-document-step)** – 增强了 Adobe Sign 工作流步骤以包括以下各项：
 
@@ -385,7 +385,7 @@ _新增功能_
 
 * **Communication API 中支持页面计数** - 除了通过 Communication API 检索文档之外，现在还可接收关于文档内所含页数的宝贵信息。
 * **[使用规则编辑器中的自定义错误处理程序处理错误](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/add-custom-error-handler-adaptive-forms-core-components.html?lang=zh-Hans)** - 现在可调用自定义函数以响应外部服务返回的错误，并为最终用户提供量身定制的响应。例如，可在后端为特定的错误代码调用自定义工作流或通知客户服务已停止。
-* **[64 位版本的 AEM Forms Designer](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/using-communications/installing-configuring-designer.html?lang=en)** – 64 位版本的 AEM Forms Designer 提供了增强的性能、可扩展性和内存管理，以提升您的表单创建体验。利用 64 位架构，您可以轻松处理更大、更复杂的项目，确保无缝的设计工作流程和优化的效率。利用此最新版本，提升您的表单设计能力并迎接 AEM Forms Designer 的未来。
+* **[64 位版本的 AEM Forms Designer](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/using-communications/installing-configuring-designer.html?lang=zh-Hans)** – 64 位版本的 AEM Forms Designer 提供了增强的性能、可扩展性和内存管理，以提升您的表单创建体验。利用 64 位架构，您可以轻松处理更大、更复杂的项目，确保无缝的设计工作流程和优化的效率。利用此最新版本，提升您的表单设计能力并迎接 AEM Forms Designer 的未来。
 
 _早期采用者计划_
 
@@ -686,7 +686,7 @@ Adobe Commerce 的新文章和现有文章的更新。
 | -----------| ---------- | ---------- | ---------- |
 | 2023 年 9 月 | [管理、创作和使用片段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/manage-author-use-fragments.html) | 视频 | 了解如何在 Adobe Journey Optimizer 中管理、创作和使用片段。 |
 | 2023 年 9 月 | [Web 编辑器中的单页应用程序 (SPA) 支持](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/singel-page-application-support.html) | 视频 | 了解如何在 Journey Optimizer Web 编辑器中创作单页应用程序 (SPA)。 |
-| 2023 年 9 月 | [渠道级报告](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports.html) | 视频 | 了解如何访问、导航和导出渠道级报告。 |
+| 2023 年 9 月 | [渠道级报告](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports.html) | 视频 | 了解如何访问、浏览和导出渠道级报告。 |
 | 2023 年 9 月 | [以 CSV 格式导出报告](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format.html) | 视频 | 了解如何下载报告和单个构件的 CSV 报告。 |
 | 2023 年 9 月 | [Web 编辑器中的单页应用程序 (SPA) 支持](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/singel-page-application-support.html) | 视频 | 了解如何在 Journey Optimizer Web 编辑器中创作单页应用程序 (SPA)。 |
 | 2023 年 9 月 | [在历程中创建应用程序内消息](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-an-in-app-message-in-a-journey.html) | 视频 | 了解什么是应用程序内消息以及如何在历程中应用。了解如何在历程中创建应用程序内消息以及如何测试和发布历程。 |
@@ -848,7 +848,7 @@ Last updated: **August 9, 2022**
 
 | 发布日期 | 应用程序 | 名称 | 类型 | 描述 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2023 年 9 月 | 应用程序 | [使用 Power Automate 创建简单的工作流程](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/simple-workflow-power-automate.html?lang=en) | 视频 | 了解组织中的非技术成员如何使用 Acrobat Sign 免费附带的预构建的 Microsoft Power Automate 连接器创建连接到其他系统的简单工作流程。 |
+| 2023 年 9 月 | 应用程序 | [使用 Power Automate 创建简单的工作流程](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/simple-workflow-power-automate.html?lang=zh-Hans) | 视频 | 了解组织中的非技术成员如何使用 Acrobat Sign 免费附带的预构建的 Microsoft Power Automate 连接器创建连接到其他系统的简单工作流程。 |
 
 {style="table-layout:auto"}
 
@@ -868,11 +868,11 @@ Last updated: **August 9, 2022**
 
 | 发布日期 | 名称 | 类型 | 描述 |
 | -----------| ---------- | ---------- | ---------- |
-| 2023 年 9 月 | [快速启动创意构思](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/jumpstart-ideation.html?lang=en) | 视频 | 了解如何在为营销活动开发创意内容方面占得先机。 |
-| 2023 年 9 月 | [Adobe Express 用例教程](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/overview-express-use-case-tutorials.html?lang=en) | 视频 | 发现组织内的不同团队如何从 Adobe Express 受益。 |
+| 2023 年 9 月 | [快速启动创意构思](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/jumpstart-ideation.html?lang=zh-Hans) | 视频 | 了解如何在为营销活动开发创意内容方面占得先机。 |
+| 2023 年 9 月 | [Adobe Express 用例教程](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/overview-express-use-case-tutorials.html?lang=zh-Hans) | 视频 | 发现组织内的不同团队如何从 Adobe Express 受益。 |
 | 2023 年 9 月 | [创建引人注目的促销内容](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/compelling-merchandise.html) | 视频 | 了解商务团队如何轻松地为其在线商店中的一组新库存创建引人注目的图像。 |
 | 2023 年 9 月 | [使营销团队能够创建多渠道内容](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/multi-channel-marketing-content.html) | 视频 | 了解活动营销团队如何创建独特的内容来吸引在线活动的查看者。 |
-| 2023 年 9 月 | [使分布式团队能够本地化内容](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/localized-marketing-content.html?lang=en) | 视频 | 了解分布式现场营销团队如何轻松地根据所在区域定制内容以进行本地营销活动。 |
+| 2023 年 9 月 | [使分布式团队能够本地化内容](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/localized-marketing-content.html?lang=zh-Hans) | 视频 | 了解分布式现场营销团队如何轻松地根据所在区域定制内容以进行本地营销活动。 |
 
 有关最新教程，请参阅 [Creative Cloud 企业版教程](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html)。
 
