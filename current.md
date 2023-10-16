@@ -6,9 +6,9 @@ last-update: October 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: c7daf1d029be332b56281f4c26bfb7170a81d8a0
+source-git-commit: 230040e579ffeedd77e493036bf23f0c1ea33d63
 workflow-type: tm+mt
-source-wordcount: '7532'
+source-wordcount: '7515'
 ht-degree: 99%
 
 ---
@@ -21,19 +21,13 @@ ht-degree: 99%
 
 **2023 年 10 月**
 
-此页面可帮助您随时了解 Experience League 的产品发布信息、活动和学习机会。
-
->[!TIP]
->
->要收到有关此页面更新的每月电子邮件通知，请订阅 [Adobe 优先产品更新](https://www.adobe.com/cn/subscription/priority-product-update.html)。经常回来查看 Adobe 的企业应用程序的最新动态。
-
-**需要帮助？**
-
-登录到 [Experience League](https://experienceleague.adobe.com/#home)，并自定义您在 Adobe 自助资源库中的搜索体验。浏览所有级别和角色的[产品文档](https://experienceleague.adobe.com/docs/)、[教程视频](https://experienceleague.adobe.com/docs/home-tutorials.html)、[课程](https://experienceleague.adobe.com/?lang=zh-Hans#courses)和[活动](https://experienceleague.adobe.com/events/)。从同行的在线[社区](https://experienceleaguecommunities.adobe.com/?profile.language=en)内提问，并在最需要的时候获得专家[支持](https://experienceleague.adobe.com/?support-tab=home#support)。
+此页面可帮助您随时了解 Experience League 的产品发布信息、活动和学习机会。要收到有关此页面更新的每月电子邮件通知，请订阅 [Adobe 优先产品更新](https://www.adobe.com/cn/subscription/priority-product-update.html)。
 
 ## 产品发布最新消息和活动
 
-最新更新日期：**2023 年 10 月 9 日**
+登录到 [Experience League](https://experienceleague.adobe.com/#home)，并自定义您在 Adobe 自助资源库中的搜索体验。浏览所有级别和角色的[产品文档](https://experienceleague.adobe.com/docs/)、[教程视频](https://experienceleague.adobe.com/docs/home-tutorials.html)、[课程](https://experienceleague.adobe.com/?lang=zh-Hans#courses)和[活动](https://experienceleague.adobe.com/events/)。从同行的在线[社区](https://experienceleaguecommunities.adobe.com/?profile.language=en)内提问，并在最需要的时候获得专家[支持](https://experienceleague.adobe.com/?support-tab=home#support)。
+
+已更新： **2023年10月9日**
 
 * [[!DNL Experience League] 活动和最新消息](#events)
 * [Adobe 认证](#certification)
