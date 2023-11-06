@@ -6,9 +6,9 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: efc6139288b9f5db66cfd4b72ef3778572986c43
+source-git-commit: 7fa9fdbba2d8089af11af45ad2dfa4fd2254de28
 workflow-type: tm+mt
-source-wordcount: '6940'
+source-wordcount: '6959'
 ht-degree: 96%
 
 ---
@@ -560,6 +560,7 @@ Learn more about [[!DNL Experience Manager Guides]](https://business.adobe.com/p
 +++详细信息
 
 * 请参阅 [ [!DNL Adobe Commerce]  和  [!DNL Magento Open Source] 的发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)以了解最新信息。
+* 请参阅 [Adobe Commerce Services指南](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/home.html) 以查看Commerce Services版本信息和文档。
 * 请参阅[产品可用性](https://experienceleague.adobe.com/docs/commerce-operations/release/product-availability.html)以访问单个产品发行说明并验证可用性。
 
 >[!NOTE]
