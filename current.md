@@ -1,6 +1,6 @@
 ---
 title: 最新发行说明
-description: 查找最新发行说明以进行Adobe [!DNL Experience Cloud] 产品和服务。 了解即将举行的活动以及 Experience League 的新文档。了解 [!DNL Experience Cloud] 应用程序的最新教程和课程。
+description: 查找有关 Adobe  [!DNL Experience Cloud]  产品和服务的最新发行说明。了解即将举行的活动以及 Experience League 的新文档。了解 [!DNL Experience Cloud] 应用程序的最新教程和课程。
 doc-type: release notes
 last-update: November 2023
 author: mfrei
