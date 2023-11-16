@@ -6,9 +6,9 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 28242010ab0a6583e0fe0b5d9338527bd564a32e
+source-git-commit: 20653cbc6b9ffc851c61b1dbe1508fece4f720fe
 workflow-type: tm+mt
-source-wordcount: '6902'
+source-wordcount: '6888'
 ht-degree: 95%
 
 ---
@@ -19,18 +19,9 @@ ht-degree: 95%
 
 <!-- ![Banner](assets/release-notes-header.png) -->
 
-此页可帮助您查找Experience Cloud和Adobe企业应用程序的发行说明。 要获得最佳的自助体验，请登录 [Experience League](https://experienceleague.adobe.com/#home) 并在Adobe免费的自助资源库中自定义您的搜索体验，包括：
-
-* [产品文档](https://experienceleague.adobe.com/docs/)
-* [教程视频](https://experienceleague.adobe.com/docs/home-tutorials.html)
-* [课程](https://experienceleague.adobe.com/?lang=zh-Hans#courses)
-* [Experience League 活动](https://experienceleague.adobe.com/events/)
-* [按产品划分的社区](https://experienceleaguecommunities.adobe.com/?profile.language=en)
-* [应用程序支持](https://experienceleague.adobe.com/?support-tab=home#support)
+此页可帮助您查找Experience Cloud和Adobe企业应用程序的发行说明。 要获得最佳的自助体验，请登录 [Experience League](https://experienceleague.adobe.com/#home) 并在Adobe的免费库中自定义您的搜索体验 [文档](https://experienceleague.adobe.com/docs/)， [课程](https://experienceleague.adobe.com/?lang=zh-Hans#courses)， [事件](https://experienceleague.adobe.com/events/)， [社区论坛](https://experienceleaguecommunities.adobe.com/?profile.language=en)、和 [支持](https://experienceleague.adobe.com/?support-tab=home#support).
 
 要收到有关此页面更新的每月电子邮件通知，请订阅 [Adobe 优先产品更新](https://www.adobe.com/cn/subscription/priority-product-update.html)。
-
-<!-- Browse [product documentation](https://experienceleague.adobe.com/docs/), [tutorial videos](https://experienceleague.adobe.com/docs/home-tutorials.html), [courses](https://experienceleague.adobe.com/#courses), and [events](https://experienceleague.adobe.com/events/) for all levels and roles. Ask questions from your online [community](https://experienceleaguecommunities.adobe.com/?profile.language=en) of peers and get expert [support](https://experienceleague.adobe.com/?support-tab=home#support) when you need it most. -->
 
 ## 2023 年 11 月
 
