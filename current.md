@@ -6,10 +6,10 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 53e36cf4a14b8917af8ca264eab876d16bac3731
+source-git-commit: 28242010ab0a6583e0fe0b5d9338527bd564a32e
 workflow-type: tm+mt
-source-wordcount: '6920'
-ht-degree: 96%
+source-wordcount: '6902'
+ht-degree: 95%
 
 ---
 
@@ -34,9 +34,9 @@ ht-degree: 96%
 
 ## 2023 年 11 月
 
-最新更新日期：**2023 年 10 月 27 日**
+最新更新日期：**2023 年 11 月 16 日**
 
-* [[!DNL Experience League] 活动和更新](#events) (已更新 **十月27日**)
+* [[!DNL Experience League] 活动和更新](#events) (已更新 **11月16**)
 * [Adobe 认证](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 中央界面和管理](#ecloud)
@@ -71,23 +71,17 @@ ht-degree: 96%
 
 +++Experience League 即将举行的活动
 
-* **[!DNL WORKFRONT]** | 客户研讨会 | _学习：Adobe Workfront 2023 年第 4 季度版本摘要{_ | **太平洋时间 10 月 31 日上午 8:00** | [登记](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,FZ_q0Nj-e0Sdz_UVakcklg,AheeuqBcdE6mNKFzR5xdKQ,UmZrNBnSp0-fUfkhbYAHYg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL JOURNEY OPTIMIZER]** |网络研讨会 | _掌握多渠道营销活动优化_ | **11月28日太平洋时间上午8:00** | [注册](https://adobejourneyoptimizerintegrations2023.experienceleague.adobeevents.com/)
 
-* **[!DNL EXPERIENCE PLATFORM]** | 网络研讨会 | _克服零售业中的全渠道挑战_ | **太平洋时间 11 月 1 日上午 9:00** | [登记](https://adobeexpertconnectretail2023.experienceleague.adobeevents.com/)
+* **[!DNL WORKFRONT]** |问答聊天 | _咨询专家：Workfront培训和支持网络研讨会跟进_ | **11月29日太平洋时间上午8:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,pbmEfJ_84Uyl4sMSFkTp7Q,MDVrhXnhAkSGge9zSz2BNg,07tf6wlMn0GBGI_LSuvLbQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL CAMPAIGN]** |网络研讨会 | _Adobe Campaign：无缝编排、启动和衡量跨渠道活动_ | **11月2日上午9:00（英国夏令时间）** | [注册](https://adobecampaignemea2023.experienceleague.adobeevents.com/)
+* **[!DNL WORKFRONT]** |社区活动 | _Connect： Adobe Workfront社区聊天_ | **12月5日太平洋时间上午10:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Q476otp5xUiO9ZMtkUcRgQ,u7FGXWt5EUGiSm43A4zXTg,TpNUAD7m4U6tDosCDYTrcg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL MARKETO]** 和 **[!DNL MARKETO ENGAGE]** |向同行学习 | _通过Marketo Engage和Dynamic Chat处理孤立的渠道和数据_ | **11月2日上午8:00（太平洋时间）** | [注册](https://engage.marketo.com/tackling_siloed_channels_register.html?utm_source=exl)
+* **[!DNL WORKFRONT]** |社区活动 | _连接： Workfront战略管理员聊天_ | **12月11日太平洋时间上午6:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,xBAvE_BSWkauyfCwoTsetQ,5St7yxZUykegmOBjGD2aIw,b4zaJWQ6jkWBLGEk_0vZ0A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL ANALYTICS]** |向同行学习 | _Adobe Analytics中有影响的数据可视化图表的艺术与科学_ | **11月2日上午11:00（东部时间）** | [注册](https://engage.adobe.com/Impactful_Data_Visualizations_webinar.html)
+* **[!DNL WORKFRONT]** |客户研讨会 | _管理员101 — 提出您的Workfront问题！_ | **12月12日太平洋时间上午8:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Wva1DB17Sk-4iO-lqe_V_g,bAywbVUch0OGG4WTjwuE_Q,6M7Cm8V6GEutt8-1Hzg_gA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** |向同行学习 | _咨询客户面板 — 组管理员入门_ | **11月2日太平洋时间上午10:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,WfmCjhXZYUmNAJ-noEDg9g,dmjkxx2DG06DJQsHegWI0g,Vnx4PzU9W0qE-ldYN2UOqw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL WORKFRONT]** |客户研讨会 | _Connect：面向营销和创意的管理员聊天_ | **11月3日太平洋时间上午9:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,7pgtykoMIUqlZFb7CwXTmA,XPcnsKNUuEaV0VRZ7j1jSg,hCoEu5MMXU6Zo734VOiyGg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL AEM]** 和 **[!DNL COMMERCE]** | Developers Live | _Content and Commerce：深入探讨[!UICONTROL Edge Delivery Services]、Headless 功能、可扩展性、可组合性和生产力工具_ | **北美山区时间 11 月 6 日上午 8:00** | [登记](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
-
-* **[!DNL EXPERIENCE MANAGER SITES]** |网络研讨会 | _提高内容创建和管理效率_ | **11月7日太平洋时间上午8:00** | [注册](https://aemexperiencefragments2023.experienceleague.adobeevents.com/)
+* **[!DNL WORKFRONT]** |客户研讨会 | _了解：年终报表_ | **12月19日太平洋时间上午8:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,AGTk8_saLUy8gNI9wD0PPQ,o3Q8HuN-Eka2GNNPPRiffA,Ox_u0YaaOkGanBtcn4E0pg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 在 Experience League 上查看更多[即将举行的活动](https://experienceleague.adobe.com/events/)或浏览[活动录像](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html)。
 
