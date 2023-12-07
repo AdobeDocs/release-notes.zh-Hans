@@ -1,15 +1,15 @@
 ---
 title: 最新发行说明
-description: 查找有关 Adobe  [!DNL Experience Cloud]  产品和服务的最新发行说明。了解即将举行的活动以及 Experience League 的新文档。了解 [!DNL Experience Cloud] 应用程序的最新教程和课程。
+description: 查找最新发行说明以进行Adobe [!DNL Experience Cloud] 产品和服务。 了解即将举行的活动以及 Experience League 的新文档。了解 [!DNL Experience Cloud] 应用程序的最新教程和课程。
 doc-type: release notes
 last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 20653cbc6b9ffc851c61b1dbe1508fece4f720fe
+source-git-commit: 0d2bdc559acd32422ad183b28cdbaef4e8c2df27
 workflow-type: tm+mt
-source-wordcount: '6888'
-ht-degree: 95%
+source-wordcount: '5582'
+ht-degree: 97%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 95%
 
 ## 2023 年 11 月
 
-最新更新日期：**2023 年 11 月 16 日**
+最新更新： **2023年11月16**
 
 * [[!DNL Experience League] 活动和更新](#events) (已更新 **11月16**)
 * [Adobe 认证](#certification)
@@ -37,7 +37,6 @@ ht-degree: 95%
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Audience Manager]](#aam)
 * [[!DNL Adobe Experience Manager]](#aem) （已发布） **十月26日**)
-* [[!DNL Adobe Experience Manager Guides]](#xml-doc)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
 * [[!DNL Adobe Campaign]](#ac)
@@ -61,12 +60,6 @@ ht-degree: 95%
 ### Experience League 活动
 
 +++Experience League 即将举行的活动
-
-* **[!DNL JOURNEY OPTIMIZER]** |网络研讨会 | _掌握多渠道营销活动优化_ | **11月28日太平洋时间上午8:00** | [注册](https://adobejourneyoptimizerintegrations2023.experienceleague.adobeevents.com/)
-
-* **[!DNL WORKFRONT]** |问答聊天 | _咨询专家：Workfront培训和支持网络研讨会跟进_ | **11月29日太平洋时间上午8:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,pbmEfJ_84Uyl4sMSFkTp7Q,MDVrhXnhAkSGge9zSz2BNg,07tf6wlMn0GBGI_LSuvLbQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL WORKFRONT]** |社区活动 | _Connect： Adobe Workfront社区聊天_ | **12月5日太平洋时间上午10:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Q476otp5xUiO9ZMtkUcRgQ,u7FGXWt5EUGiSm43A4zXTg,TpNUAD7m4U6tDosCDYTrcg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** |社区活动 | _连接： Workfront战略管理员聊天_ | **12月11日太平洋时间上午6:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,xBAvE_BSWkauyfCwoTsetQ,5St7yxZUykegmOBjGD2aIw,b4zaJWQ6jkWBLGEk_0vZ0A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -415,7 +408,7 @@ _早期采用者计划_
    * 此功能的早期采用者计划的可用性是有限的。
    * 此功能用于恢复意外删除的内容，不适用于灾难恢复。
 
-* **体验审核仪表板** - [Cloud Manager 体验审核仪表板](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/experience-audit-dashboard.html?lang=zh-Hans)包括页面性能分数的趋势视图以及帮助您改进这些分数的见解和推荐。体验审核作为 Cloud Manager 生产管道中的一个步骤包含在内。
+* **体验审核仪表板** - [Cloud Manager 体验审核仪表板](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/experience-audit-dashboard.html?lang=en)包括页面性能分数的趋势视图以及帮助您改进这些分数的见解和推荐。体验审核作为 Cloud Manager 生产管道中的一个步骤包含在内。
 
   该仪表板利用 Google Lighthouse，这是一种开源自动化工具，用于提高 Web 应用程序的质量。您可以针对任何公开的或需要身份验证的网页运行它。它对性能、可访问性、SEO、搜索引擎优化等进行审核。
 
