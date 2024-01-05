@@ -6,7 +6,7 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: deba7f42b2c1f34c67047c2e7caeeec7263ae1a1
+source-git-commit: 031c4bc36905490c421e548c306d810a4d5d23b2
 workflow-type: tm+mt
 source-wordcount: '5877'
 ht-degree: 92%
@@ -77,9 +77,9 @@ ht-degree: 92%
 
 * **[!DNL WORKFRONT]** | 客户研讨会 | _Connect：面向营销和创意的管理员聊天_ | 您是否是营销或创意团队的系统管理员？ 该客户导向课程将让您与其他管理员讨论最佳实践以及提示和技巧。 | **2月2日太平洋时间上午9:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,hmjerL5Xn0S-Xzf8VvpiLw,1qocJF5WrkOnYtT1VJFyfA,CySUm8_nZU2OrsID2CBZ9A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | 客户研讨会 | _Admin 101：让用户使用Workfront_ | 初次使用Workfront？ 加入我们每月的新管理员聚会！ 本月，我们将讨论用户采用的最佳实践。 | **2月14日太平洋时间上午8:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MDL_x5737EWfNcssbhAZ1A,5pHR-aY5vUuDZD_W7b413Q,6Q3YA7w40kC8sjrpjua41Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL WORKFRONT]** | 客户研讨会 | _Connect：行业圈 — 高等教育_ | 2024年成为全新的，此第一个行业圈是一个非正式的圆桌讨论会，旨在将高等教育机构中的Workfront管理员聚集在一起，交流联谊、分享经验、学习和最佳实践。 | **2月8日太平洋时间上午9:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL WORKFRONT]** | 客户研讨会 | _Admin 101：让用户使用Workfront_ | 初次使用Workfront？ 加入我们每月的新管理员聚会！ 本月，我们将讨论用户采用的最佳实践。 | **2月14日太平洋时间上午8:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MDL_x5737EWfNcssbhAZ1A,5pHR-aY5vUuDZD_W7b413Q,6Q3YA7w40kC8sjrpjua41Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 在 Experience League 上查看更多[即将举行的活动](https://experienceleague.adobe.com/events/)或浏览[活动录像](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html)。
 
