@@ -6,10 +6,10 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0d2bdc559acd32422ad183b28cdbaef4e8c2df27
+source-git-commit: deba7f42b2c1f34c67047c2e7caeeec7263ae1a1
 workflow-type: tm+mt
-source-wordcount: '5582'
-ht-degree: 97%
+source-wordcount: '5877'
+ht-degree: 92%
 
 ---
 
@@ -23,11 +23,11 @@ ht-degree: 97%
 
 要收到有关此页面更新的每月电子邮件通知，请订阅 [Adobe 优先产品更新](https://www.adobe.com/cn/subscription/priority-product-update.html)。
 
-## 2023 年 11 月
+## 2023 年 11 月/12 月
 
-最新更新： **2023年11月16**
+最新更新： **2024年1月5日**
 
-* [[!DNL Experience League] 活动和更新](#events) (已更新 **11月16**)
+* [[!DNL Experience League] 活动和更新](#events) (已更新 **1月5日**)
 * [Adobe 认证](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 中央界面和管理](#ecloud)
@@ -59,13 +59,27 @@ ht-degree: 97%
 
 ### Experience League 活动
 
+已更新 **2024年1月5日**
+
 +++Experience League 即将举行的活动
 
-* **[!DNL WORKFRONT]** |社区活动 | _连接： Workfront战略管理员聊天_ | **12月11日太平洋时间上午6:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,xBAvE_BSWkauyfCwoTsetQ,5St7yxZUykegmOBjGD2aIw,b4zaJWQ6jkWBLGEk_0vZ0A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | 社区活动 | _Connect：面向营销和创意的管理员聊天_ | 您是否是营销或创意团队的系统管理员？ 该客户导向课程将让您与其他管理员讨论最佳实践以及提示和技巧。 | **1月5日太平洋时间上午9:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,V-X5f42hW0yoR5sMCdOf_A,HEbDtYKlaEy13R0ITK-L7A,kbKNwK39r0KA4csQTMMfaw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** |客户研讨会 | _管理员101 — 提出您的Workfront问题！_ | **12月12日太平洋时间上午8:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Wva1DB17Sk-4iO-lqe_V_g,bAywbVUch0OGG4WTjwuE_Q,6M7Cm8V6GEutt8-1Hzg_gA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | 社区活动 | _连接： Workfront Collective_ | 与其他Workfront客户一起参加一个集体问题解决和成功共享会议！ | **1月8日太平洋时间上午6:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,P4UOkToG0EG2lSFnXW0zww,7Mik09hqxEW8tNXlzaPNEA,l7ip8UiiKkyv8QRJ6i6FCg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** |客户研讨会 | _了解：年终报表_ | **12月19日太平洋时间上午8:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,AGTk8_saLUy8gNI9wD0PPQ,o3Q8HuN-Eka2GNNPPRiffA,Ox_u0YaaOkGanBtcn4E0pg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | 网络研讨会 | _Workfront 24.1中的新增功能_ | Workfront 24.1面向客户的发布网络研讨会 | **1月11日上午8:00 MT** | [注册](https://webinars.on24.com/adobe_workfront/whatsnewin241?partnerref=ExperienceLeagueEvents)
+
+* **[!DNL WORKFRONT]** | 客户研讨会 | _管理员101 - Workfront快速入门_ | 初次使用Workfront？ 此活动向新系统管理员介绍资源、系统导航概要以及初始设置的最佳实践。 | **1月17日太平洋时间上午8:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,mO8IGPam00mi-XGVtohT-g,6dMGxrqXb0-eeS7HnaPDYQ,DnVW5SmEPU6HFB5j97ATFA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL MARKETO ENGAGE]** | 向同行学习 | _通过Marketo Engage掌握人员得分：全球框架中的本地化细微差别_ | 请参加2024年1月18日的此网络研讨会，届时Marketo Engage冠军将分享如何在您的评分模型中留下本地影响，同时在全球范围内开展工作而又不失去整个组织的一致性。 | **1月18日太平洋时间上午8:00** | [注册](https://engage.adobe.com/marketo-engage-person-scoring-localized-webinar-registration.html?sdid=S36FMPSR&amp;mv=email)
+
+* **[!DNL WORKFRONT]** | 客户研讨会 | _了解： Adobe Workfront 24.1发布综述_ | 加入其他Workfront客户，我们将讨论最新版本的功能、好处以及有关转出计划和管理更改的想法。 | **1月24日太平洋时间上午8:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Qie4feC5SEqgbRCYwnOV7g,Aw1yfkW4WEOnrD_kuVUspA,_lvF5TmeCES46V-oNW0O5g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL WORKFRONT]** | 客户研讨会 | _Connect：面向营销和创意的管理员聊天_ | 您是否是营销或创意团队的系统管理员？ 该客户导向课程将让您与其他管理员讨论最佳实践以及提示和技巧。 | **2月2日太平洋时间上午9:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,hmjerL5Xn0S-Xzf8VvpiLw,1qocJF5WrkOnYtT1VJFyfA,CySUm8_nZU2OrsID2CBZ9A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL WORKFRONT]** | 客户研讨会 | _Admin 101：让用户使用Workfront_ | 初次使用Workfront？ 加入我们每月的新管理员聚会！ 本月，我们将讨论用户采用的最佳实践。 | **2月14日太平洋时间上午8:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MDL_x5737EWfNcssbhAZ1A,5pHR-aY5vUuDZD_W7b413Q,6Q3YA7w40kC8sjrpjua41Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL WORKFRONT]** | 客户研讨会 | _Connect：行业圈 — 高等教育_ | 2024年成为全新的，此第一个行业圈是一个非正式的圆桌讨论会，旨在将高等教育机构中的Workfront管理员聚集在一起，交流联谊、分享经验、学习和最佳实践。 | **2月8日太平洋时间上午9:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 在 Experience League 上查看更多[即将举行的活动](https://experienceleague.adobe.com/events/)或浏览[活动录像](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html)。
 
@@ -405,7 +419,7 @@ _早期采用者计划_
   有兴趣测试这项新功能并分享您的反馈吗？从与您的 Adobe ID 关联的电子邮件地址向 [aemcs-restorefrombackup-adopter@adobe.com](mailto:aemcs-restorefrombackup-adopter@adobe.com) 发送电子邮件。请注意以下各项：
 
    * 早期采用者计划仅限于开发环境。
-   * 此功能的早期采用者计划的可用性是有限的。
+   * 参与此功能的早期采用者计划的人数受限。
    * 此功能用于恢复意外删除的内容，不适用于灾难恢复。
 
 * **体验审核仪表板** - [Cloud Manager 体验审核仪表板](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/experience-audit-dashboard.html?lang=en)包括页面性能分数的趋势视图以及帮助您改进这些分数的见解和推荐。体验审核作为 Cloud Manager 生产管道中的一个步骤包含在内。
