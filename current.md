@@ -6,10 +6,10 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f207f7f7dc042e0c7d8e3f8248cfbf1f29aa85b6
+source-git-commit: e67997d7c36585caece1d94124d3064588eec6ef
 workflow-type: tm+mt
-source-wordcount: '5841'
-ht-degree: 93%
+source-wordcount: '6123'
+ht-degree: 89%
 
 ---
 
@@ -28,6 +28,7 @@ ht-degree: 93%
 最新更新： **2024年1月12日**
 
 * [[!DNL Experience League] 活动和更新](#events) (已更新 **1月12日**)
+* [[!DNL Adobe GenStudio]](#genstudio) - **最新！**
 * [Adobe 认证](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 中央界面和管理](#ecloud)
@@ -80,6 +81,23 @@ ht-degree: 93%
 在 Experience League 上查看更多[即将举行的活动](https://experienceleague.adobe.com/events/)或浏览[活动录像](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html)。
 
 +++
+
+## ![图标](/assets/experience-league.png) Adobe GenStudio {#genstudio}
+
+[Adobe GenStudio](https://business.adobe.com/solutions/adobe-genstudio.html) 是一个端到端解决方案，它通过创新型人工智能和智能自动化加速并简化您的内容供应链。
+
++++详细信息
+
+| 发布日期 | 名称 | 类型 | 描述 |
+| -----------| ---------- | ---------- | ---------- |
+| 2024 年 1 月 | [GenStudioTutorials](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/overview.html?lang=en) | 视频 | 查看关于新的Experience League教程 [!DNL Adobe GenStudio]. GenStudio是一款端到端解决方案，可通过创新型人工智能和智能自动化加速和简化内容供应链。 |
+| 2024 年 1 月 | [工作流程和规划：简化并加快工作](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/workflow-and-planning.html?lang=en) | 视频 | 对于难以连接并跟踪其内容需求的公司，通过内容生产和完成的规划过程。 缺少有效的流程、规划、批准和跨项目的数据一致性，正在剥夺该公司内容供应链的生产力和效率。 |
+| 2024 年 1 月 | [创意工作效率：为创意团队提供超强动力](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/creative-productivity.html?lang=en) | 视频 | 面向拥有摇滚明星创意人员，但需要展示其内容创作的公司。 GenStudio提供了充满GenAI的工具，可帮助该团队提高内容生产、交付和发现能力。 |
+| 2024 年 1 月 | [营销敏捷性：使非创意人员能够进行扩展](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/marketing-agility.html?lang=en) | 视频 | 使用Adobe GenStudio，有时无需整个创意团队/工作室处理即可处理内容请求。 Adobe将工具交到营销人员和其他潜在内容创建者手中。 使用这些工具可以快速启用创建内容变体。 更新可以由连接到内容供应链的规模更大、范围更广的个人执行，从而大大增加了内容吞吐量和上市时间。 |
+| 2024 年 1 月 | [交付和激活：高性能体验和性能](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/delivery-and-activation.html?lang=en) | 视频 | 适用于在正确的渠道上向正确的个人提供正确的内容方面需要支持的公司。 GenStudio使这种连接比任何其他解决方案都更好，同时还提供了分析功能以确保总体内容性能。 |
+
+{style="table-layout:auto"}
+
 
 ## ![图标](/assets/certification-badge.png) 认证{#certification}
 
