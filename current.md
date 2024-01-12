@@ -6,10 +6,10 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 62df401007938e2d84633996957ca98661a2fad8
+source-git-commit: f207f7f7dc042e0c7d8e3f8248cfbf1f29aa85b6
 workflow-type: tm+mt
-source-wordcount: '5877'
-ht-degree: 92%
+source-wordcount: '5841'
+ht-degree: 93%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 92%
 
 ## 2023 年 11 月/12 月
 
-最新更新： **2024年1月5日**
+最新更新： **2024年1月12日**
 
-* [[!DNL Experience League] 活动和更新](#events) (已更新 **1月5日**)
+* [[!DNL Experience League] 活动和更新](#events) (已更新 **1月12日**)
 * [Adobe 认证](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 中央界面和管理](#ecloud)
@@ -59,15 +59,11 @@ ht-degree: 92%
 
 ### Experience League 活动
 
-已更新 **2024年1月5日**
+已更新 **2024年1月12日**
 
 +++Experience League 即将举行的活动
 
-* **[!DNL WORKFRONT]** | 社区活动 | _Connect：面向营销和创意的管理员聊天_ | 您是否是营销或创意团队的系统管理员？ 该客户导向课程将让您与其他管理员讨论最佳实践以及提示和技巧。 | **1月5日太平洋时间上午9:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,V-X5f42hW0yoR5sMCdOf_A,HEbDtYKlaEy13R0ITK-L7A,kbKNwK39r0KA4csQTMMfaw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL WORKFRONT]** | 社区活动 | _连接： Workfront Collective_ | 与其他Workfront客户一起参加一个集体问题解决和成功共享会议！ | **1月8日太平洋时间上午6:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,P4UOkToG0EG2lSFnXW0zww,7Mik09hqxEW8tNXlzaPNEA,l7ip8UiiKkyv8QRJ6i6FCg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL WORKFRONT]** | 网络研讨会 | _Workfront 24.1中的新增功能_ | Workfront 24.1面向客户的发布网络研讨会 | **1月11日上午8:00 MT** | [注册](https://webinars.on24.com/adobe_workfront/whatsnewin241?partnerref=ExperienceLeagueEvents)
+* **[!DNL ANALYTICS and CJA]** | Experience League直播 | _将Adobe Analytics数据和分析导入Customer Journey Analytics_ | 了解如何使用自动化流程将数据和分析从Adobe Analytics移动到Customer Journey Analytics，以及过程中要考虑的任何问题。 | **1月17日太平洋时间上午10:00** | [注册](https://engage.adobe.com/ExpLeagueLive-240117.html)
 
 * **[!DNL WORKFRONT]** | 客户研讨会 | _管理员101 - Workfront快速入门_ | 初次使用Workfront？ 此活动向新系统管理员介绍资源、系统导航概要以及初始设置的最佳实践。 | **1月17日太平洋时间上午8:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,mO8IGPam00mi-XGVtohT-g,6dMGxrqXb0-eeS7HnaPDYQ,DnVW5SmEPU6HFB5j97ATFA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
