@@ -6,10 +6,10 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f7dc09a68ae460dccf8b2633a5093b7a47516441
+source-git-commit: 32425affd2225574b859a2cc38d8a0ad775f4cb5
 workflow-type: tm+mt
-source-wordcount: '6284'
-ht-degree: 39%
+source-wordcount: '6259'
+ht-degree: 40%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 39%
 * 发行说明和产品文档
 * 支持知识库文章
 * 即将举办的Experience League活动
-* 最新视频教程和课程
+* 最新视频教程
 
 要获得最佳的自助体验，请登录 [Experience League](https://experienceleague.adobe.com/#home) 并在Adobe的免费库中自定义您的搜索体验 [文档](https://experienceleague.adobe.com/docs/)， [课程](https://experienceleague.adobe.com/?lang=zh-Hans#courses)， [事件](https://experienceleague.adobe.com/events/)， [社区论坛](https://experienceleaguecommunities.adobe.com/?profile.language=en)、和 [支持](https://experienceleague.adobe.com/?support-tab=home#support).
 
@@ -32,7 +32,7 @@ ht-degree: 39%
 
 ## 2024 年 1 月
 
-最新更新： **2024年1月17日**
+最新更新： **2024年1月24日**
 
 * [[!DNL Experience League] 活动和最新消息](#events)
 * [[!DNL Adobe GenStudio]](#genstudio) - **最新！**
@@ -68,15 +68,15 @@ ht-degree: 39%
 
 ### Experience League 活动
 
+已更新 **2024年1月24日**
+
 +++Experience League 即将举行的活动
 
-* **[!DNL ANALYTICS]和[!DNL Customer Journey Analytics]** | Experience League直播 | _将您的 [!DNL Adobe Analytics] 数据和分析[!DNL Customer Journey Analytics]_ | 了解如何使用自动化流程将数据和分析从Adobe Analytics移动到 [!DNL Customer Journey Analytics]以及任何要在此过程中考虑的疑问。 | **1月17日太平洋时间上午10:00** | [注册](https://engage.adobe.com/ExpLeagueLive-240117.html)
+* **[!DNL WORKFRONT]** | 网络研讨会 | _Marketo和Mochas：归因功能板的基础知识_ | 您的归因模型和MPI仪表板是否已配置为可随时利用关键性能指标？ 加入我们的Adobe专家，了解如何使用这些工具推动您的营销团队取得成功。 | **1月25日下午1:00 （东部时间）** | [注册](https://adobeevents.adobeconnect.com/exxuez7gobns/event/registration.html?campaign-id=ExL)
 
-* **[!DNL WORKFRONT]** | 客户研讨会 | _Admin 101 — 快速入门 [!DNL Workfront_] | 新到 [!DNL Workfront]？ 此活动向新系统管理员介绍资源、系统导航概要以及初始设置的最佳实践。 | **1月17日太平洋时间上午8:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,mO8IGPam00mi-XGVtohT-g,6dMGxrqXb0-eeS7HnaPDYQ,DnVW5SmEPU6HFB5j97ATFA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL EXPERIENCE MANAGER SITES]** | 网络研讨会 | _提高内容创建和管理效率。_ | 了解如何使用Adobe Experience Manager Sites体验片段提高内容速度。 获取有关跨任何渠道大规模提供丰富且个性化的体验的提示。 | **2月1日上午9:00 （格林威治标准时间）** | [注册](https://adobexperiencemanageremea2024.experienceleague.adobeevents.com/)
 
-* **[!DNL MARKETO ENGAGE]** | 向同行学习 | _人员得分熟练掌握 [!DNL Marketo Engage]：全局框架中的本地化细微差别_ | 作为2024年1月18日参加此网络研讨会 [!DNL Marketo Engage] Champion分享如何在全局工作的情况下允许评分模型中的本地影响，而不会失去整个组织的一致性。 | **1月18日太平洋时间上午8:00** | [注册](https://engage.adobe.com/marketo-engage-person-scoring-localized-webinar-registration.html?sdid=S36FMPSR&amp;mv=email)
-
-* **[!DNL WORKFRONT]** | 客户研讨会 | _学习：Adobe [!DNL Workfront] 24.1发布汇总_ | 加入其他 [!DNL Workfront] 客户。我们将讨论最新版本的功能、好处以及有关转出计划和管理更改的想法。 | **1月24日太平洋时间上午8:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Qie4feC5SEqgbRCYwnOV7g,Aw1yfkW4WEOnrD_kuVUspA,_lvF5TmeCES46V-oNW0O5g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL COMMERCE]** | 网络研讨会 | _Commerce和Coffee：使用AI个性化电子商务体验_ | 为个人客户打造个性化电子商务体验从未像现在这样容易。 加入Adobe自己的Corey Gelato，了解AI如何帮助您轻松定制Adobe Commerce中的产品、电子邮件和网站。 | **2月1日下午1:00 （东部时间）** | [注册](https://adobeevents.adobeconnect.com/e1yzux2yrk00/event/registration.html?campaign-id=ExL)
 
 * **[!DNL WORKFRONT]** | 客户研讨会 | _Connect：面向营销和创意的管理员聊天_ | 您是否是营销或创意团队的系统管理员？ 此客户导向型会议将您与其他管理员联系起来，讨论最佳实践以及提示和技巧。 | **2月2日太平洋时间上午9:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,hmjerL5Xn0S-Xzf8VvpiLw,1qocJF5WrkOnYtT1VJFyfA,CySUm8_nZU2OrsID2CBZ9A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
