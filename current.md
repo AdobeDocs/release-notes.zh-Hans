@@ -6,10 +6,10 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1928c6799fbc8ee5b11e533475e448c8ab1da80b
+source-git-commit: b0ed2e287f72205ce6c0564d778d9a936ee53092
 workflow-type: tm+mt
-source-wordcount: '6298'
-ht-degree: 40%
+source-wordcount: '6300'
+ht-degree: 39%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 40%
 
 最新更新： **2024年1月24日**
 
-* [[!DNL Experience League] 活动和最新消息](#events)
+* [[!DNL Experience League] 活动和更新](#events) (已更新 **1月24日**)
 * [[!DNL Adobe GenStudio]](#genstudio) - **最新！**
 * [Adobe 认证](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -57,7 +57,7 @@ ht-degree: 40%
 * [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Pass]](#pass)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
-* [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
+* [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud) (已更新 **1月24日**)
 * [客户数据管理 - 意见](#voices)
 * [Digital Experience Blueprint](#blueprints)
 * [Adobe 产品安全漏洞](https://helpx.adobe.com/cn/security.html)
@@ -826,11 +826,13 @@ Experience League 上的新 [!DNL Workfront] 教程。
 
 为 [!DNL Adobe Creative Cloud for enterprise] 中的应用程序发布的新视频、教程或课程。
 
+已更新 **2024年1月24日**
+
 +++详细信息
 
 | 发布日期 | 应用程序 | 名称 | 类型 | 描述 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2024 年 1 月 | Adobe Express | [Adobe ExpressTutorials](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html?lang=en) | 视频 | 开始创建令人惊叹的工作，这些工作与由Adobe Firefly提供支持的创作AI脱颖而出。 设计传单、TikToks、简历和带Adobe Express的卷轴。 |
+| 2024 年 1 月 | [!DNL Adobe Express] | [Adobe ExpressTutorials](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html?lang=en) | 视频 | 开始创建令人惊叹的工作，其中最突出的是由提供支持的创作AI [!DNL Adobe Firefly]. 设计传单、TikToks、简历和卷轴 [!DNL Adobe Express]. |
 
 有关最新教程，请参阅 [Creative Cloud 企业版教程](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html)。
 
