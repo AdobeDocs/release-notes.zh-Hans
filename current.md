@@ -6,9 +6,9 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 32425affd2225574b859a2cc38d8a0ad775f4cb5
+source-git-commit: 1928c6799fbc8ee5b11e533475e448c8ab1da80b
 workflow-type: tm+mt
-source-wordcount: '6259'
+source-wordcount: '6298'
 ht-degree: 40%
 
 ---
@@ -827,6 +827,10 @@ Experience League 上的新 [!DNL Workfront] 教程。
 为 [!DNL Adobe Creative Cloud for enterprise] 中的应用程序发布的新视频、教程或课程。
 
 +++详细信息
+
+| 发布日期 | 应用程序 | 名称 | 类型 | 描述 |
+| -----------| ---------- | ---------- | ---------- |---------- |
+| 2024 年 1 月 | Adobe Express | [Adobe ExpressTutorials](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html?lang=en) | 视频 | 开始创建令人惊叹的工作，这些工作与由Adobe Firefly提供支持的创作AI脱颖而出。 设计传单、TikToks、简历和带Adobe Express的卷轴。 |
 
 有关最新教程，请参阅 [Creative Cloud 企业版教程](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html)。
 
