@@ -6,10 +6,10 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: dff2ca5ce3e8a0dbe3e12e9e81a37da784a4d1f9
+source-git-commit: 72c690de35f883c2ef9904d4fa0cbe2d6432405b
 workflow-type: tm+mt
-source-wordcount: '6299'
-ht-degree: 97%
+source-wordcount: '6481'
+ht-degree: 94%
 
 ---
 
@@ -32,9 +32,9 @@ ht-degree: 97%
 
 ## 2024 年 1 月
 
-最新更新： **2024年1月24日**
+最新更新： **2024年1月29日**
 
-* [[!DNL Experience League] 活动和更新](#events) (已更新 **1月24日**)
+* [[!DNL Experience League] 活动和更新](#events) (已更新 **1月29日**)
 * [[!DNL Adobe GenStudio]](#genstudio) - **新！**
 * [Adobe 认证](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -45,7 +45,7 @@ ht-degree: 97%
 * [[!DNL Adobe Customer Journey Analytics]](#cja)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Audience Manager]](#aam)
-* [[!DNL Adobe Experience Manager]](#aem)
+* [[!DNL Adobe Experience Manager]](#aem) (已更新 **1月29日**)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
 * [[!DNL Adobe Campaign]](#ac)
@@ -68,11 +68,9 @@ ht-degree: 97%
 
 ### Experience League 活动
 
-已更新 **2024年1月24日**
+已更新 **2024年1月29日**
 
 +++Experience League 即将举行的活动
-
-* **[!DNL WORKFRONT]** | 网络研讨会 | _Marketo和Mochas：归因功能板的基础知识_ | 您的归因模型和MPI仪表板是否已配置为可随时利用关键性能指标？ 加入我们的Adobe专家，了解如何使用这些工具推动您的营销团队取得成功。 | **1月25日下午1:00 （东部时间）** | [注册](https://adobeevents.adobeconnect.com/exxuez7gobns/event/registration.html?campaign-id=ExL)
 
 * **[!DNL EXPERIENCE MANAGER SITES]** | 网络研讨会 | _提高内容创建和管理效率。_ | 了解如何使用Adobe Experience Manager Sites体验片段提高内容速度。 获取有关跨任何渠道大规模提供丰富且个性化的体验的提示。 | **2月1日上午9:00 （格林威治标准时间）** | [注册](https://adobexperiencemanageremea2024.experienceleague.adobeevents.com/)
 
@@ -82,7 +80,19 @@ ht-degree: 97%
 
 * **[!DNL WORKFRONT]** | 客户研讨会 | _互动沟通：行业圈 - 高等教育_ | 2024 年全新推出的首个行业圈是一种非正式的圆桌讨论，旨在让高等教育行业的 [!DNL Workfront] 管理员汇聚一堂，建立联系并分享经验、知识和最佳实践。| **太平洋时间 2 月 8 日上午 9:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
+* **[!DNL ANALYTICS]** | 网络研讨会 | _数据流：营销渠道和归因建模_ | 您是否了解客户互动对转化的影响？ 加入我们的Adobe专家，他们将向我们展示如何配置营销渠道，并利用Adobe Analytics中的AI构建自定义归因模型。 | **2月8日下午1:00 （东部时间）** | [注册](https://adobeevents.adobeconnect.com/e1smupitvxor/event/registration.html?campaign-id=ExL)
+
+* **[!DNL WORKFRONT]** | 社区活动 | _Workfront集体_ | 与其他Workfront客户一起，参加我们每月一次的集体问题解决和成功共享会议！ | **太平洋时间 2 月 12 日6:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Xn9a7-beEEy24cKL2PXNNg,7zi14AC4xkabCHqKTayiIA,IqLjAD7pD0iArKvVqEuvXg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL DATA COLLECTION]** | 网络研讨会 | _数据流优先级_ | 了解如何管理营销活动编排的数据流优先顺序，以增强贵组织执行数据驱动型个性化的能力。 | **太平洋时间 2 月 13 日9:30** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,wz2PUDDYrkiC_tdIA9Fmjg,zxRtJEK2-EOEMRsAgHTASw,_oHPrghx30--nY9ZXaZoOQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
 * **[!DNL WORKFRONT]** | 客户研讨会 | _管理员入门：让您的用户使用[!DNL Workfront]_ | [!DNL Workfront] 新手？参加我们每月举行的新管理员交流会！本月，我们将讨论用户采用的最佳实践。| **太平洋时间 2 月 14 日上午 8:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MDL_x5737EWfNcssbhAZ1A,5pHR-aY5vUuDZD_W7b413Q,6Q3YA7w40kC8sjrpjua41Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL EXPERIENCE PLATFORM]** | 网络研讨会 | _释放的战略领导力：行政赞助的权力_ | 掌握通过战略影响有效实现组织目标的策略。 本课程旨在让希望提升其执行资助的管理人员能够参与其中。 | **太平洋时间 2 月 15 日10:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,GhrB9xJg0Ue2T4RaLzkJLw,B3p-ouZzS0iARXaZhi5IXA,WnJS96CGxkWMxRYwMJAa8A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL EXPERIENCE PLATFORM]** | 网络研讨会 | _了解团队优势：解锁功能以简化成功_ | 了解产品集成如何简化数字工作流、提高团队效率和扩展业务流程。 了解提高精益团队内部协作的技术，以实现最高工作效率。 | **太平洋时间 2 月 20 日10:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,lzo8X450K0WiX2CQ1QsnUg,6GQkKH8YT0GizXdcl-r83A,qfG_3T7YZE-rhyNf2XFx-g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL WORKFRONT]** | 问答聊天 | _询问客户支持 — 常见布局模板疑难解答和视图问题_ | 加入Workfront客户支持团队的“咨询专家”类型会议，了解有关布局模板和视图的最佳实践和故障排除提示。 | **太平洋时间 2 月 22 日9:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,SHy3noeahk-cVr1c56xN3g,LabzJZ5I2ESS1IfzddF1Lw,rj5S03F0xUmcsyxTeJTtTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 在 Experience League 上查看更多[即将举行的活动](https://experienceleague.adobe.com/events/)或浏览[活动录像](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html)。
 
