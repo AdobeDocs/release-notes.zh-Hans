@@ -8,8 +8,8 @@ uuid: be6810fd-8a50-4e88-af09-ab00187e4082
 internal: n
 translate: y
 source-git-commit: 759707638404f746de2e71ac27bd16926a8d1151
-workflow-type: tm+mt
-source-wordcount: '235'
+workflow-type: ht
+source-wordcount: '219'
 ht-degree: 100%
 
 ---
@@ -22,9 +22,9 @@ ht-degree: 100%
 
 ## 帮助和技术支持 {#section_354AC2658BA84A2A96E64C5B2C43B73B}
 
-Adobe Marketing Cloud 客户关怀团队在此为您提供帮助，同时还提供了大量的参与机制：
+Adobe Marketing Cloud 客户关怀团队在此为您提供帮助，并提供大量他们可参与其中的机制：
 
-请参阅[联系 Adobe 企业支持](https://helpx.adobe.com/contact/enterprise-support.ec.html)
+请参阅[联系 Adobe 企业支持](https://helpx.adobe.com/cn/contact/enterprise-support.ec.html)
 
 ## 服务、功能和账单 {#section_FA4F5274FDFE4DF7BB079E575877DFC2}
 
@@ -42,7 +42,7 @@ Adobe Systems welcome any suggestions or feedback regarding this solution. You c
  <li> 由 Adobe Systems Incorporated 发布。 </li> 
 </ul>
 
-[使用条款](https://www.adobe.com/go/marketingcloud_terms_of_use_cn) | [隐私中心](https://www.adobe.com/privacy/policy.html)
+[使用条款](https://www.adobe.com/go/marketingcloud_terms_of_use_cn) | [隐私中心](https://www.adobe.com/cn/privacy/policy.html)
 
 Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries. A trademark symbol (®, ™, etc.) denotes an Adobe trademark.
 
