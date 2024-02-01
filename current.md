@@ -6,10 +6,10 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 72c690de35f883c2ef9904d4fa0cbe2d6432405b
+source-git-commit: 6d49c1d7f803c208e2fe243c09e2aae949675783
 workflow-type: tm+mt
-source-wordcount: '6481'
-ht-degree: 94%
+source-wordcount: '6394'
+ht-degree: 96%
 
 ---
 
@@ -32,9 +32,9 @@ ht-degree: 94%
 
 ## 2024 年 1 月
 
-最新更新： **2024年1月29日**
+最新更新： **2024年2月1日**
 
-* [[!DNL Experience League] 活动和更新](#events) (已更新 **1月29日**)
+* [[!DNL Experience League] 活动和更新](#events) (已更新 **2月1日**)
 * [[!DNL Adobe GenStudio]](#genstudio) - **新产品！**
 * [Adobe 认证](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -68,13 +68,9 @@ ht-degree: 94%
 
 ### Experience League 活动
 
-已更新 **2024年1月29日**
+已更新 **2024年2月1日**
 
 +++即将在 Experience League 上举行的活动
-
-* **[!DNL EXPERIENCE MANAGER SITES]** | 网络研讨会 | _提高内容创建和管理效率。_ | 了解如何使用Adobe Experience Manager Sites体验片段提高内容速度。 获取有关跨任何渠道大规模提供丰富且个性化的体验的提示。 | **2月1日上午9:00 （格林威治标准时间）** | [注册](https://adobexperiencemanageremea2024.experienceleague.adobeevents.com/)
-
-* **[!DNL COMMERCE]** | 网络研讨会 | _Commerce和Coffee：使用AI个性化电子商务体验_ | 为个人客户打造个性化电子商务体验从未像现在这样容易。 加入Adobe自己的Corey Gelato，了解AI如何帮助您轻松定制Adobe Commerce中的产品、电子邮件和网站。 | **2月1日下午1:00 （东部时间）** | [注册](https://adobeevents.adobeconnect.com/e1yzux2yrk00/event/registration.html?campaign-id=ExL)
 
 * **[!DNL WORKFRONT]** | 客户研讨会 | _互动沟通：有关营销和创意方面的管理员聊天_ | 您是营销或创意团队的系统管理员吗？这次由客户推动的活动让您与其他管理员交流以讨论最佳实践、提示和技巧。| **太平洋时间 2 月 2 日上午 9:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,hmjerL5Xn0S-Xzf8VvpiLw,1qocJF5WrkOnYtT1VJFyfA,CySUm8_nZU2OrsID2CBZ9A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
