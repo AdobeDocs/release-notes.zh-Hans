@@ -6,10 +6,10 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 6d49c1d7f803c208e2fe243c09e2aae949675783
+source-git-commit: c7869172861d322f3fb404855f8698d4bc0c1de0
 workflow-type: tm+mt
-source-wordcount: '6394'
-ht-degree: 96%
+source-wordcount: '6393'
+ht-degree: 95%
 
 ---
 
@@ -32,9 +32,9 @@ ht-degree: 96%
 
 ## 2024 年 1 月
 
-最新更新： **2024年2月1日**
+最新更新： **2024年2月7日**
 
-* [[!DNL Experience League] 活动和更新](#events) (已更新 **2月1日**)
+* [[!DNL Experience League] 活动和更新](#events) (已更新 **2月7日**)
 * [[!DNL Adobe GenStudio]](#genstudio) - **新产品！**
 * [Adobe 认证](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -68,11 +68,11 @@ ht-degree: 96%
 
 ### Experience League 活动
 
-已更新 **2024年2月1日**
+已更新 **2024年2月7日**
 
 +++即将在 Experience League 上举行的活动
 
-* **[!DNL WORKFRONT]** | 客户研讨会 | _互动沟通：有关营销和创意方面的管理员聊天_ | 您是营销或创意团队的系统管理员吗？这次由客户推动的活动让您与其他管理员交流以讨论最佳实践、提示和技巧。| **太平洋时间 2 月 2 日上午 9:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,hmjerL5Xn0S-Xzf8VvpiLw,1qocJF5WrkOnYtT1VJFyfA,CySUm8_nZU2OrsID2CBZ9A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL EXPERIENCE PLATFORM]** | Experience League直播 | _用例行动手册：自助模板，只需单击几下即可部署用例_ | 了解用例行动手册如何只需单击几下即可将营销目标转换为实施对象！ | **太平洋时间 2 月 8 日上午 9:00** | [注册](https://engage.adobe.com/ExpLeagueLive-240208.html)
 
 * **[!DNL WORKFRONT]** | 客户研讨会 | _互动沟通：行业座谈 - 高等教育_ | 行业座谈是 2024 年的全新活动，这次座谈是非正式的圆桌讨论，旨在让高等教育行业的 [!DNL Workfront] 管理员汇聚一堂以联络人脉、分享经验、知识和最佳实践。| **太平洋时间 2 月 8 日上午 9:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
