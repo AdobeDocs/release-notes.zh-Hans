@@ -6,9 +6,9 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: c7869172861d322f3fb404855f8698d4bc0c1de0
+source-git-commit: a4a69849a5df4dff25467dd89e9e8f563b53a826
 workflow-type: tm+mt
-source-wordcount: '6393'
+source-wordcount: '6207'
 ht-degree: 99%
 
 ---
@@ -70,17 +70,7 @@ ht-degree: 99%
 
 已更新 **2024年2月7日**
 
-+++即将在 Experience League 上举行的活动
-
-* **[!DNL EXPERIENCE PLATFORM]** | Experience League直播 | _用例行动手册：自助模板，只需单击几下即可部署用例_ | 了解用例行动手册如何只需单击几下即可将营销目标转换为实施对象！ | **太平洋时间 2 月 8 日上午 9:00** | [注册](https://engage.adobe.com/ExpLeagueLive-240208.html)
-
-* **[!DNL WORKFRONT]** | 客户研讨会 | _互动沟通：行业座谈 - 高等教育_ | 行业座谈是 2024 年的全新活动，这次座谈是非正式的圆桌讨论，旨在让高等教育行业的 [!DNL Workfront] 管理员汇聚一堂以联络人脉、分享经验、知识和最佳实践。| **太平洋时间 2 月 8 日上午 9:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL ANALYTICS]** | 网络研讨会 | _Data Drip：营销渠道和归因模型_ | 您是否了解客户互动对转化有多大影响？观看我们的 Adobe 专家展示如何配置营销渠道并利用 Adobe Analytics 中的 AI 构建自定义归因模型。| **东部时间 2 月 8 日下午 1:00** | [注册](https://adobeevents.adobeconnect.com/e1smupitvxor/event/registration.html?campaign-id=ExL)
-
-* **[!DNL WORKFRONT]** | 社区活动 | _Workfront Collective_ | 与其他 Workfront 客户一起参加我们每月一次相聚解决问题和分享成功案例的会议！| **太平洋时间 2 月 12 日上午 6:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Xn9a7-beEEy24cKL2PXNNg,7zi14AC4xkabCHqKTayiIA,IqLjAD7pD0iArKvVqEuvXg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL DATA COLLECTION]** | 网络研讨会 | _数据流优先级_ | 了解如何管理活动编排的数据流优先级，以增强您的组织执行由数据驱动的个性化的能力。| **太平洋时间 2 月 13 日 9:30** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,wz2PUDDYrkiC_tdIA9Fmjg,zxRtJEK2-EOEMRsAgHTASw,_oHPrghx30--nY9ZXaZoOQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
++++详细信息
 
 * **[!DNL WORKFRONT]** | 客户研讨会 | _管理员入门：敦促用户使用[!DNL Workfront]_ | 不熟悉 [!DNL Workfront]？请参加我们每月举行的新管理员见面会！本月，我们讨论关于“用户采用”这一议题的最佳实践。| **太平洋时间 2 月 14 日上午 8:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MDL_x5737EWfNcssbhAZ1A,5pHR-aY5vUuDZD_W7b413Q,6Q3YA7w40kC8sjrpjua41Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
