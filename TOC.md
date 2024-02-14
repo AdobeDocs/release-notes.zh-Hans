@@ -5,10 +5,10 @@ user-guide-title: Adobe Experience Cloud 发行说明
 breadcrumb-title: 发行说明
 user-guide-description: 了解 Adobe Experience Cloud 和 Experience Platform 中的新增功能、修复和重要注意事项。
 user-guide-url: https://www.adobe.com
-source-git-commit: 04b43454e3b3423940b99c2bbb678a87fb34b684
-workflow-type: ht
-source-wordcount: '130'
-ht-degree: 100%
+source-git-commit: a3458fe06ca6ee189da76ad8cb06287fc839a03c
+workflow-type: tm+mt
+source-wordcount: '87'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 100%
 
 + [当前的发行说明](current.md)
 + 以前的发行说明 {#previous}
+   + 2024 {#2024}
+      + [2024 年 1 月](c-legacy-releases/2024/01112023.md)
    + 2023 {#2023}
       + [2023 年 11 月](c-legacy-releases/2023/10252023.md)
       + [2023 年 10 月](c-legacy-releases/2023/10042023.md)
@@ -40,29 +42,5 @@ ht-degree: 100%
       + [2022 年 3 月](c-legacy-releases/2022/03232022.md)
       + [2022 年 2 月](c-legacy-releases/2022/02162022.md)
       + [2022 年 1 月](c-legacy-releases/2022/01192022.md)
-   + 2021 年{#2021}
-      + [2021 年 11 月](c-legacy-releases/2021/10282021.md)
-      + [2021 年 10 月](c-legacy-releases/2021/10072021.md)
-      + [2021 年 9 月](c-legacy-releases/2021/09152021.md)
-      + [2021 年 8 月](c-legacy-releases/2021/08192021.md)
-      + [2021 年 7 月](c-legacy-releases/2021/07222021.md)
-      + [2021 年 6 月](c-legacy-releases/2021/06172021.md)
-      + [2021 年 5 月](c-legacy-releases/2021/05202021.md)
-      + [2021 年 4 月](c-legacy-releases/2021/04222021.md)
-      + [2021 年 3 月](c-legacy-releases/2021/03252021.md)
-      + [2021 年 2 月](c-legacy-releases/2021/02182021.md)
-      + [2021 月 1 日](c-legacy-releases/2021/01142021.md)
-   + 2020 年 {#2020}
-      + [2020 年 11 月](c-legacy-releases/2020/10292020.md)
-      + [2020 年 10 月](c-legacy-releases/2020/10082020.md)
-      + [2020 年 9 月](c-legacy-releases/2020/09102020.md)
-      + [2020 年 8 月](c-legacy-releases/2020/08132020.md)
-      + [2020 年 7 月](c-legacy-releases/2020/07162020.md)
-      + [2020 年 6 月](c-legacy-releases/2020/06182020.md)
-      + [2020 年 5 月](c-legacy-releases/2020/05212020.md)
-      + [2020 年 4 月](c-legacy-releases/2020/04162020.md)
-      + [2020 年 3 月](c-legacy-releases/2020/03122020.md)
-      + [2020 年 2 月](c-legacy-releases/2020/02202020.md)
-      + [2020 月 1 日](c-legacy-releases/2020/01162020.md)
-   + 2019 年和更早{#legacy-rns}
-      + [2019 年和更早](c-legacy-releases/2019-earlier.md)
+   + 2021 年和更早{#legacy-rns}
+      + [2021年和更早](c-legacy-releases/2022-earlier.md)
