@@ -6,10 +6,10 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4cb8fce5ba7d00f4462cfaa5c29523a15c3ae0c2
+source-git-commit: 342d9caad0c8a904c94a2a8c087f19955f796095
 workflow-type: tm+mt
-source-wordcount: '5528'
-ht-degree: 59%
+source-wordcount: '5447'
+ht-degree: 100%
 
 ---
 
@@ -32,17 +32,17 @@ ht-degree: 59%
 
 ## 2024 年 2 月
 
-最新更新： **2024年2月14日**
+上次更新时间：**2024 年 2 月 14 日**
 
-* [[!DNL Experience League] 活动和更新](#events)
+* [[!DNL Experience League] 活动和最新消息](#events)
 * [[!DNL Adobe GenStudio]](#genstudio)
 * [Adobe 认证](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 中央界面和管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) （已发布） **2月14日**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) （已发布） **2月14日**)
+* [[!DNL Adobe Analytics]](#analytics)（发布日期：**2 月 14 日**）
+* [[!DNL Adobe Customer Journey Analytics]](#cja)（发布日期：**2 月 14 日**）
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -67,17 +67,13 @@ ht-degree: 59%
 
 ### Experience League 活动
 
-已更新 **2024年2月14日**
+**2024 年 2 月 14 日**&#x200B;更新
 
 +++详细信息
 
-* **[!DNL EXPERIENCE PLATFORM]** | 网络研讨会 | _释放战略领导力：高管支持的力量_ | 获得通过战略影响力有效实现组织目标的策略。本次会议旨在使高管可设法提升其执行支持力。| **太平洋时间 2 月 15 日上午 10:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,GhrB9xJg0Ue2T4RaLzkJLw,B3p-ouZzS0iARXaZhi5IXA,WnJS96CGxkWMxRYwMJAa8A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL EXPERIENCE PLATFORM]** | 网络研讨会 | _精益团队优势：发挥各种能力，简化成功过程_ | 了解产品集成如何简化数字工作流程、提高团队效率并扩展业务流程。了解在精益团队内改善协作以尽可能提高生产力的方法。| **太平洋时间 2 月 20 日上午 10:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,lzo8X450K0WiX2CQ1QsnUg,6GQkKH8YT0GizXdcl-r83A,qfG_3T7YZE-rhyNf2XFx-g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL WORKFRONT]** | 问答聊天 | _询问客户支持 - 排除常见的布局模板和视图问题_ | 与 Workfront 客户支持团队一起参加“询问专家”类型的会议以了解以布局模板和视图为重点的最佳实践和故障排除技巧。| **太平洋时间 2 月 22 日 9:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,SHy3noeahk-cVr1c56xN3g,LabzJZ5I2ESS1IfzddF1Lw,rj5S03F0xUmcsyxTeJTtTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **Adobe Summit** | 数字体验大会 | _扩展您的技能，发现最新趋势，并探索体验引导式增长的未来_ | 向领先品牌学习，发现创新型人工智能的未来，并为体验主导型增长做好准备。 | **3月25日 — 28日，拉斯维加斯和网上** | [注册](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
+* **Adobe 峰会** | 数字体验会议 | _拓展您的技能，发现最新趋势，探索体验主导型成长的未来_ | 向领先品牌学习，探索生成式人工智能的未来，并为体验主导的成长做好准备。| **3 月 25 日至 28 日@拉斯维加斯，在线** | [报名](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
 
 在 Experience League 上查看更多[即将举行的活动](https://experienceleague.adobe.com/events/)或浏览[活动录像](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html)。
 
@@ -121,15 +117,15 @@ ht-degree: 59%
 
 [!DNL Adobe System Status] 提供了关于 Adobe 产品与服务的详细信息、状态更新以及电子邮件通知。获取有关故障、中断和维护活动的通知。请在 [status.adobe.com](https://status.adobe.com/) 上查看它。
 
-发行日期： **2024年1月30日**
+发行日期：**2024 年 1 月 30 日**
 
 **新增功能**
 
-* 公告现在是Status API的一部分。
+* 公告现在是状态 API 的一部分。
 
 | 功能 | 描述 |
 | ------- | ------- |
-| 公告API | <ul><li>公告是全球、云或产品级消息，具有更广泛的影响。 过去的一个例子是 Covid-19 消息。其他示例包括log4j和support center down等全局安全漏洞。 公告与问题或维护无关。它们用于与客户就云或产品级更新进行通信。</li><li>公告现在是状态API收藏集的一部分。 客户可以查询并获取公告，以便将其与内部功能板集成。 查看新端点 [此处](https://developer.adobe.com/adobe-status/api/#tag/Events/operation/announcementsUsingGET).</li></ul> |
+| 公告 API | <ul><li>公告是具有广泛影响的全球、云或产品级消息。过去的一个例子是 Covid-19 消息。其他示例包括 Log4j 等全局安全漏洞或支持中心关闭等。公告与问题或维护无关。它们用于与客户就云或产品级更新进行沟通。</li><li>公告现在是状态 API 集合的一部分。客户可以查询并获取公告，以与其内部仪表板集成。在[此处](https://developer.adobe.com/adobe-status/api/#tag/Events/operation/announcementsUsingGET)查看新的端点。</li></ul> |
 | 错误修复 | <ul><li>界面性能改进。</li></ul> |
 
 {style="table-layout:auto"}
@@ -175,8 +171,8 @@ ht-degree: 59%
 
 | 发布日期 | 应用程序 | 名称 | 类型 | 描述 |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| 2024 年 2 月 | Real-time Customer Data Platform、Journey Optimizer | [用例战术手册](https://experienceleague.adobe.com/docs/platform-learn/tutorials/use-case-playbooks/overview.html) | 多个视频 | 了解用例行动手册如何帮助Real-time Customer Data Platform和Journey Optimizer的客户更快实现价值。 用例行动手册是涵盖多个行业和营销目标的几十个模板的目录。 |
-| 2024 年 2 月 | 标记 | [使用标记环境和嵌入代码](https://experienceleague.adobe.com/docs/platform-learn/data-collection/tags/use-environments-and-embed-codes.html) | 视频 | 了解如何使用开发、暂存和生产环境以及嵌入代码来开发和验证标记资产。 |
+| 2024 年 2 月 | Real-Time Customer Data Platform, Journey Optimizer | [用例战术手册](https://experienceleague.adobe.com/docs/platform-learn/tutorials/use-case-playbooks/overview.html) | 多个视频 | 了解用例战术手册如何帮助 Real-Time Customer Data Platform 和 Journey Optimizer 的客户更快地实现价值。用例战术手册是包含数十个模板的目录，涵盖多个行业和营销目标。 |
+| 2024 年 2 月 | 标记 | [使用标记环境和嵌入代码](https://experienceleague.adobe.com/docs/platform-learn/data-collection/tags/use-environments-and-embed-codes.html) | 视频 | 了解如何使用开发、暂存和生产环境以及嵌入代码来开发和验证您的标记属性。 |
 
 {style="table-layout:auto"}
 
@@ -186,9 +182,9 @@ ht-degree: 59%
 
 | 发布日期 | 名称 | 类型 | 描述 |
 |---------|----|----|-----------|
-| 2024 年 1 月 | [开发人员如何查看 [!DNL Assurance] 日志，通过 [!DNL API]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23389.html) | 新文章 | 了解开发人员如何查看 [!DNL Assurance] 日志，通过 [!DNL API]. |
-| 2024 年 1 月 | [新添加的属性未填充数据](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23416.html) | 新文章 | 了解在更新架构并摄取数据后问题的解决方案 [!DNL Adobe Experience Platform]，新定义的属性不会填充，从而导致生产问题。 |
-| 2024 年 1 月 | [[!DNL AEP] 数据收集 —  *[!UICONTROL 错误：“具有最大规则组件数”]* 将自定义事件添加到规则时](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23486.html) | 新文章 | 了解将事件添加到中的规则时问题的解决方案 [!DNL Experience Platform Data Collection] 属性，如果出现错误，请声明： *具有最大规则组件数*. |
+| 2024 年 1 月 | [开发者如何通过  [!DNL API]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23389.html) 查看 [!DNL Assurance] 日志 | 新文章 | 了解开发者如何通过 [!DNL API] 查看 [!DNL Assurance] 日志。 |
+| 2024 年 1 月 | [未填充新添加属性的数据](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23416.html) | 新文章 | 了解更新架构并在  [!DNL Adobe Experience Platform] 中提取数据后，新定义的属性未填充从而导致生产方面出现问题的解决方案。 |
+| 2024 年 1 月 | [[!DNL AEP] 数据收集 - *[!UICONTROL 向规则添加自定义事件时出现错误：“具有最大数量的规则组件”]* ](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23486.html) | 新文章 | 了解向 [!DNL Experience Platform Data Collection] 属性中的规则添加事件时出现错误“*具有最大数量的规则组件*”时的问题解决方案。 |
 
 {style="table-layout:auto"}
 
@@ -200,9 +196,9 @@ ht-degree: 59%
 
 +++详细信息
 
-* 视频教程： [了解Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/rtcdp/understanding-the-real-time-customer-data-platform.html?lang=zh-Hans)
+* 视频教程：[了解 Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/rtcdp/understanding-the-real-time-customer-data-platform.html?lang=zh-Hans)
 
-* 产品文档： [Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/real-time-customer-data-platform.html?lang=en)
+* 产品文档：[Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/real-time-customer-data-platform.html?lang=zh-Hans)
 
 +++
 
@@ -212,7 +208,7 @@ ht-degree: 59%
 
 +++详细信息
 
-[!DNL Analytics] 发行日期： **2024年2月16日**
+[!DNL Analytics] 发行日期：**2024 年 2 月 16 日**
 
 * [!DNL Analytics] [发行说明](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html)
 
@@ -230,12 +226,12 @@ ht-degree: 59%
 
 | 发布日期 | 名称 | 类型 | 描述 |
 | -----------| ---------- | ---------- | ---------- |
-| 2024 年 2 月 | [配置常规设置 [!DNL Analytics] Experience Platform标记中的扩展](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/experience-platform-tags/configuring-general-settings-in-the-tags-analytics-extension.html) | 更新的视频 | 了解标记中Analytics扩展的常规配置选项，包括设置跟踪服务器。 |
-| 2024 年 2 月 | [在Experience Platform标记中配置退出链接跟踪](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/experience-platform-tags/configuring-easy-exit-link-tracking.html) | 更新的视频 | 了解如何在 Experience Platform 标记中的 Adobe Analytics 扩展中通过几次单击来跟踪您网站上的退出链接（用于转到另一个网站的链接）。 |
-| 2024 年 2 月 | [使用数据层设置 [!DNL Analytics] Experience Platform标记中的变量](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/experience-platform-tags/using-a-data-layer-to-set-page-name-and-other-variables-via-tags.html) | 更新的视频 | 了解如何从数据层中提取值并在Experience Platform标记中使用它们来填充Adobe Analytics中的变量。 最佳实践就是将数据层用于Analytics和其他Experience Cloud解决方案。 |
-| 2024 年 2 月 | [在Experience Platform标记中配置下载链接跟踪](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/experience-platform-tags/configuring-easy-download-link-tracking.html) | 更新的视频 | 只需在Experience Platform标签中的Adobe Analytics扩展中单击几下，即可跟踪您网站上的下载链接（将非浏览器文件下载到计算机的链接）。 |
-| 2024 年 2 月 | [在Experience Platform标签中使用doPlugins和实施插件](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/experience-platform-tags/use-doplugins-and-implementation-plugins.html?lang=en) | 更新的视频 | 了解使用 doPlugins 功能的好处，并添加 Analytics 实施插件以丰富数据收集。 |
-| 2024 年 2 月 | [为特殊Experience Platform创建页面标记规则](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/experience-platform-tags/creating-tags-rules-for-special-pages.html?lang=en) | 视频 | 除了在每个页面上收集的数据之外，您在特定页面上还有必须收集的其他数据。这段视频展示如何合并这些数据和常规数据并将它发送到 Adobe Analytics。 |
+| 2024 年 2 月 | [为 Experience Platform 标记中的  [!DNL Analytics]  扩展配置常规设置](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/experience-platform-tags/configuring-general-settings-in-the-tags-analytics-extension.html) | 更新的视频 | 了解标记中 Analytics 扩展的常规配置选项，包括设置跟踪服务器。 |
+| 2024 年 2 月 | [在 Experience Platform 标记中配置退出链接跟踪](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/experience-platform-tags/configuring-easy-exit-link-tracking.html) | 更新的视频 | 了解如何在 Experience Platform 标记中的 Adobe Analytics 扩展中通过几次单击来跟踪您网站上的退出链接（用于转到另一个网站的链接）。 |
+| 2024 年 2 月 | [使用数据层在 Experience Platform 标记中设置  [!DNL Analytics]  变量](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/experience-platform-tags/using-a-data-layer-to-set-page-name-and-other-variables-via-tags.html) | 更新的视频 | 了解如何从数据层提取值以及在 Experience Platform 标记中使用这些值填充 Adobe Analytics 中的变量。将数据层用于 Analytics 和其他 Experience Cloud 解决方案是一项最佳实践。 |
+| 2024 年 2 月 | [在 Experience Platform 标记中配置下载链接跟踪](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/experience-platform-tags/configuring-easy-download-link-tracking.html) | 更新的视频 | 只需在 Experience Platform 标记中的 Adobe Analytics 扩展中单击几下，即可跟踪您网站上的下载链接（用于将非浏览器文件下载到您的计算机的链接）。 |
+| 2024 年 2 月 | [在 Experience Platform 标记中使用 doPlugins 和实施插件](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/experience-platform-tags/use-doplugins-and-implementation-plugins.html?lang=zh-Hans) | 更新的视频 | 了解使用 doPlugins 功能的好处，并添加 Analytics 实施插件以丰富数据收集。 |
+| 2024 年 2 月 | [创建针对特殊页面的 Experience Platform 标记规则](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/experience-platform-tags/creating-tags-rules-for-special-pages.html?lang=zh-Hans) | 视频 | 除了在每个页面上收集的数据之外，您在特定页面上还有必须收集的其他数据。这段视频展示如何合并这些数据和常规数据并将它发送到 Adobe Analytics。 |
 
 {style="table-layout:auto"}
 
@@ -245,7 +241,7 @@ ht-degree: 59%
 
 | 发布日期 | 名称 | 类型 | 描述 |
 |---------|----|----|-----------|
-| 2024 年 1 月 | [非管理员用户无法获取特定的数据 [!DNL eVars]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21705.html) | 新文章 | 本文详细概述非管理员用户为何无法获取特定版本的数据 [!DNL eVars] 在 [!DNL Adobe Analytics]. 管理员用户可以分配维度或将维度映射到 [!UICONTROL Media Analytics工作区]. |
+| 2024 年 1 月 | [非管理员用户无法获取特定的数据 [!DNL eVars]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21705.html) | 新文章 | 本文详细概述了为什么非管理员用户无法获取 [!DNL Adobe Analytics] 中特定 [!DNL eVars] 的数据。管理员用户可以分配维度或将维度映射到[!UICONTROL 媒体分析工作区]。 |
 
 {style="table-layout:auto"}
 
@@ -257,7 +253,7 @@ ht-degree: 59%
 
 +++详细信息
 
-[!DNL Customer Journey Analytics] 发行日期： **2024年2月16日**
+[!DNL Customer Journey Analytics] 发行日期：**2024 年 2 月 16 日**
 
 * [!DNL Customer Journey Analytics] [发行说明](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html)
 
@@ -309,11 +305,11 @@ Adobe 建议访问以下资源以随时了解发布信息：
 
 _Extension Manager in AEM Sites_
 
-探索新的 [AEM Sites中的Extension Manager](https://developer.adobe.com/uix/docs/extension-manager/) 因此，您可以通过配置UI扩展来个性化AEM设置。
+探索新的 [Extension Manager in AEM Sites](https://developer.adobe.com/uix/docs/extension-manager/) 以通过配置 UI 扩展而使您的 AEM 设置个性化。
 
-AEM Sites中的Extension Manager使开发人员和从业人员能够访问、管理和自定义 [UI扩展](https://developer.adobe.com/uix/docs/) 构建方式 [Adobe应用程序生成器](https://developer.adobe.com/app-builder/) 以增强AEM Sites的功能。
+通过 AEM Sites 中的 Extension Manager，开发人员和从业人员可访问、管理和自定义用 [Adobe App Builder](https://developer.adobe.com/app-builder/) 构建的 [UI 扩展](https://developer.adobe.com/uix/docs/)以增强 AEM Sites 的功能。
 
-使用Extension Manager，您可以执行以下操作：
+使用 Extension Manager，您可以执行以下操作：
 
 * 按实例启用或禁用扩展；
 * 配置扩展参数；
@@ -321,17 +317,17 @@ AEM Sites中的Extension Manager使开发人员和从业人员能够访问、管
 * 通过交互式演示探索 UI 可扩展性功能；
 * 通过第一方扩展访问 Adobe 的实验功能。
 
-Adobe正在积极寻求针对UI扩展的反馈，以及新的用例。 如果要连接，请发送电子邮件至 [uix@adobe.com](mailto:uix@adobe.com).
+Adobe 正在积极搜寻 UI 扩展的反馈和新用例。如果您想联系我们，请将电子邮件发送至 [uix@adobe.com](mailto:uix@adobe.com)。
 
 ### [!DNL Experience Manager Assets] as a [!DNL Cloud Service]
 
-_管理员查看预发行版功能_
+_管理视图中的预发布功能_
 
-* **预览所有受支持视频类型的演绎版**  — 默认情况下，Experience Manager Assets现在生成所有受支持视频类型的预览演绎版，而无需处理配置文件配置
+* **预览所有支持的视频类型的演绎版**——Experience Manager Assets 现在无需处理配置文件配置，即默认生成所有支持的视频类型的预览演绎版
 
 _资源视图中的新增功能_
 
-* **智能标记阻止列表**  — 现在，通过Assets Essentials可定义一个阻止列表，其中包含您不希望作为智能标记添加到存储库中的单词。 此功能帮助您确保品牌合规，并减少审核智能标记的工作量。
+* **智能标记阻止列表**  - Assets Essentials 现在允许您定义一个阻止列表，其中包含您不希望在资源上传到存储库时作为智能标记添加到资源中的单词。此功能帮助您确保品牌合规，并减少审核智能标记的工作量。
 
 ### [!DNL Experience Manager Forms] as a [!DNL Cloud Service]
 
@@ -339,9 +335,9 @@ _早期采用者计划_
 
 加入 Adobe 早期采用计划，即有机会测试一些即将推出的功能。
 
-* **[将自适应表单提交到Adobe Workfront Fusion场景](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/services/submit-adaptive-form-to-workfront-fusion.html?lang=zh-Hans)** - Formsas a Cloud Service提供开箱即用的选项，可轻松地将自适应表单与Adobe Workfront连接。 这简化了将自适应表单提交到 Adobe Workfront 场景的过程，使您可在提交自适应表单时触发 Workfront Fusion 场景。
+* **[将自适应表单提交到 Adobe Workfront Fusion 场景](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/services/submit-adaptive-form-to-workfront-fusion.html?lang=zh-Hans)**——Forms as a Cloud Service 提供一个现成的选项，可轻松地将自适应表单与 Adobe Workfront 建立联系。这简化了将自适应表单提交到 Adobe Workfront 场景的过程，使您可在提交自适应表单时触发 Workfront Fusion 场景。
 
-* **[从右至左语言支持](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/supporting-new-language-localization-core-components.html?lang=zh-Hans)**  — 基于核心组件构建的自适应Forms现在能够以从右至左(RTL)语言呈现，如阿拉伯语、波斯语和乌尔都语。 全球有超过20亿人使用RTL语言。 使用 RTL 语言的表单可扩大您自适应表单的覆盖范围，以满足这些不同受众的需求并选择进入 RTL 市场。在某些地区，提供当地语言的表单还是一项法律规定。通过使用当地语言，您不仅可以满足更广泛的受众的需求，还可以确保遵守相关法律法规。
+* **[支持从右向左书写的语言](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/supporting-new-language-localization-core-components.html?lang=zh-Hans)**——现在可用从右向左书写 (RTL) 的语言（如阿拉伯语、波斯语和乌尔都语）展示基于核心组件构建的自适应表单。全球有超过 20 亿人使用 RTL 语言。使用 RTL 语言的表单可扩大您自适应表单的覆盖范围，以满足这些不同受众的需求并选择进入 RTL 市场。在某些地区，提供当地语言的表单还是一项法律规定。通过使用当地语言，您不仅可以满足更广泛的受众的需求，还可以确保遵守相关法律法规。
 
 * **[用 DocAssurance API（Communication API 的一部分）保护文档](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/using-communications/aem-forms-cloud-service-communications-introduction.html?lang=zh-Hans#document-assurance-doc-assurance)** – DocAssurance API 使您能够通过对文档进行签名和加密来保护敏感信息。通过加密，可将文档内容转换为无法读取的格式，从而确保只有获得授权的用户可访问。这一层加强的保护不仅防止未经授权地查看宝贵的数据，还能让人安心。利用 Signature API，您的组织可以保护其分发和接收的 Adobe PDF 文档的安全和隐私。此服务使用数字签名和认证确保只有预期的接收者可更改文档。
 
@@ -349,41 +345,41 @@ _早期采用者计划_
 
 ### [!DNL Experience Manager] as a [!DNL Cloud Service Foundation]
 
-_支持Dynatrace_
+_支持 Dynatrace_
 
-* **Dynatrace客户可以监控其AEM使用情况** - [了解如何操作](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/dynatrace.html) 请求与您的Dynatrace环境建立连接，以便监控应用程序性能。 如果启用New Relic，则对所有客户可用的Dynatrace APM将停止收集数据。
+* **Dynatrace 客户可以监控其 AEM 使用情况**——[了解如何](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/dynatrace.html)请求与 Dynatrace 环境进行连接以监控应用程序性能。如果启用 Dynatrace，则可供所有客户使用的 New Relic APM 将停止收集数据。
 
 _早期采用者计划_
 
-* **RDE支持使用站点主题和站点模板的前端代码** - [快速开发环境(RDE)](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/rapid-development-environments.html) 现在支持基于以下内容的前端代码： [站点主题](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/site-creation/site-themes.html) 和 [站点模板](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/site-creation/site-templates.html)，适用于早期采用者。 对于RDE，这是使用命令行指令完成的，而不是 [前端管道](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/site-creation/enable-front-end-pipeline.html). 发送电子邮件至 [aemcs-rde-support@adobe.com](mailto:aemcs-rde-support@adobe.com) 如果您希望试用并提供反馈。
+* **使用网站主题和网站模板为前端代码提供 RDE 支持**——[快速开发环境 (RDE)](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/rapid-development-environments.html) 现在支持基于[网站主题](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/site-creation/site-themes.html)和[网站模板](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/site-creation/site-templates.html)的前端代码，供早期采用者使用。在 RDE 的情况下，使用命令行指令而非[前端管道](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/site-creation/enable-front-end-pipeline.html)实现这一点。如果您想试用并提供反馈，请发送电子邮件至 [aemcs-rde-support@adobe.com](mailto:aemcs-rde-support@adobe.com) 。
 
 ### [!DNL Cloud Manager]
 
 _新增功能_
 
-* Cloud Manager现在不仅验证主服务器的到期日期， [证书](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-ssl-certificates/introduction.html)，但也适用于中间证书。
-* 现在以压缩格式返回 CDN [日志](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-logs.html?lang=zh-Hans)。
+* Cloud Manager 现在不仅验证主[证书](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-ssl-certificates/introduction.html)的到期日期，还验证中间证书的到期日期。
+* 现在以压缩格式返回 CDN [日志](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-logs.html)。
 
 _早期采用者计划_
 
-为了获得测试某些即将推出的功能的机会，请加入Adobe的率先采用者计划。
+加入 Adobe 早期采用者计划，即有机会测试一些即将推出的功能。
 
-* **通过实时用户监控(RUM)进行客户端收集**  — 您可以使用 [Real User Monitoring (RUM)数据服务](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/content-requests.html?lang=en#cliendside-collection) 为AEMas a Cloud Service启用客户端收集。
+* **通过真实用户监控 (RUM) 功能进行客户端收集**——您可以使用[真实用户监控 (RUM) 数据服务](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/content-requests.html?lang=zh-Hans#cliendside-collection)来启用 AEM as a Cloud Service 的客户端收集功能。
 
-  真实用户监控 (RUM) 数据服务能够更准确地反映用户交互，确保可靠地衡量网站参与度。这是一个深入了解页面性能的绝佳机会。这对使用Adobe管理的CDN或非Adobe管理的CDN的客户是有益的。 对于使用非Adobe管理的CDN的客户，现在可以为其启用自动流量报表，因此无需与Adobe共享任何流量报表。
+  真实用户监控 (RUM) 数据服务能够更准确地反映用户交互，确保可靠地衡量网站参与度。这是一个深入了解页面性能的绝佳机会。这对于使用 Adobe 管理的 CDN 或非 Adobe 管理的 CDN 的客户都很有用。对于使用非 Adobe 管理的 CDN 的客户，现在可为其启用自动流量报告，这样即无需与 Adobe 共享任何流量报告。
 
-  如果您有兴趣测试这项新功能并分享您的反馈，请发送电子邮件至 [aemcs-rum-adopter@adobe.com](mailto:aemcs-rum-adopter@adobe.com) 来自与您的Adobe ID关联的电子邮件地址。 在您的电子邮件中包含生产、暂存和开发环境的域名。 参与此功能的早期采用者计划的人数受限。
+  如果您有兴趣测试此新功能并分享您的反馈，请从与您的 Adobe ID 关联的电子邮件地址发送电子邮件至 [aemcs-rum-adopter@adobe.com](mailto:aemcs-rum-adopter@adobe.com)。在您的电子邮件中包含生产、暂存和开发环境的域名。参与此功能的早期采用者计划的人数受限。
 
-* **自带GitHub**  — 如果您使用GitHub管理存储库， [您现在可以通过Cloud Manager直接在GitHub存储库中验证代码](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/managing-code/byo-github.html). 此集成消除了对代码与Adobe存储库保持一致同步的需求，并允许您在将拉取请求合并到主分支之前对其进行验证。
+* **使用您自己的 GitHub**——如果您使用 GitHub 管理存储库，[则现在可以通过 Cloud Manager 直接在 GitHub 存储库中验证代码](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/managing-code/byo-github.html)。此集成使您无需始终与 Adobe 存储库同步代码，并可在将拉取请求合并到主分支之前对其进行验证。
 
-  如果您有兴趣测试这项新功能并分享您的反馈，请发送电子邮件至 [Grp-CloudManager_BYOG@adobe.com](mailto:Grp-CloudManager_BYOG@adobe.com) 从与Adobe ID关联的电子邮件地址中查找。
+  如果您有兴趣测试此新功能并分享您的反馈，请从与您的 Adobe ID 关联的电子邮件地址发送电子邮件至 [Grp-CloudManager_BYOG@adobe.com](mailto:Grp-CloudManager_BYOG@adobe.com)。
 
 * **自助内容恢复** - [新的自助内容恢复功能](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/restore.html)现在可恢复最长 7 天的备份，早期采用者可将其作评估用途，其中包括：
 
    * 前 24 小时的时间点备份恢复
    * 固定时间恢复最长可达 7 天
 
-  如果您有兴趣测试这项新功能并分享您的反馈，请发送电子邮件至 [aemcs-restorefrombackup-adopter@adobe.com](mailto:aemcs-restorefrombackup-adopter@adobe.com) 来自与Adobe ID关联的电子邮件。
+  如果您有兴趣测试此新功能并分享您的反馈，请从与您的 Adobe ID 关联的电子邮件地址发送电子邮件至 [aemcs-restorefrombackup-adopter@adobe.com](mailto:aemcs-restorefrombackup-adopter@adobe.com)。
 
    * 早期采用者计划仅限于开发环境。
    * 参与此功能的早期采用者计划的人数受限。
@@ -393,7 +389,7 @@ _早期采用者计划_
 
   该仪表板利用 Google Lighthouse，这是一种开源自动化工具，用于提高 Web 应用程序的质量。您可以针对任何网页（公共网页或需要身份验证的网页）运行它。它对性能、可访问性、SEO、搜索引擎优化等进行审核。
 
-  有兴趣试驾新仪表板吗？若要开始，请发送电子邮件至 [aem-lighthouse-pilot@adobe.com](mailto:aem-lighthouse-pilot@adobe.com) 来自与Adobe ID关联的电子邮件。
+  有兴趣试驾新仪表板吗？若要开始使用，请从与您的 Adobe ID 关联的电子邮件发送电子邮件至 [aem-lighthouse-pilot@adobe.com](mailto:aem-lighthouse-pilot@adobe.com)。
 
 _错误修复_
 
@@ -402,17 +398,17 @@ _错误修复_
 
 ### [!DNL Workfront for Experience Manager] 增强型连接器
 
-最新版本1.9.16的Workfront for Experience Manager增强型连接器的发布日期为2024年1月19日。
+最新版本 (1.9.16) 的 Workfront for Experience Manager 增强型连接器的发布日期为 2024 年 1 月 19 日。
 
 _版本亮点_
 
 最新版本的 Workfront for Experience Manager 增强型连接器包括以下错误修复：
 
-* CRX DE中的Workfront配置当前不存储 `project ID`，导致在应用只读权限时出错。 详细了解如何[配置权限](https://experienceleague.adobe.com/docs/experience-manager-65/content/assets/integrations/workfront-connector-configure.html?lang=en#linked-folders)。
-* 没有公开文档介绍如何将自定义属性添加到现成索引定义。 详细了解[添加自定义属性](https://experienceleague.adobe.com/docs/experience-manager-65/content/assets/integrations/workfront-connector-configure.html?lang=en#metadata-schema-mapping)。
+* CRX DE 中的 Workfront 配置当前未存储 `project ID`，导致应用只读权限时出错。详细了解如何[配置权限](https://experienceleague.adobe.com/docs/experience-manager-65/content/assets/integrations/workfront-connector-configure.html?lang=zh-Hans#linked-folders)。
+* 没有公开的文档涉及如何将自定义属性添加到现成的索引定义。详细了解[添加自定义属性](https://experienceleague.adobe.com/docs/experience-manager-65/content/assets/integrations/workfront-connector-configure.html?lang=zh-Hans#metadata-schema-mapping)。
 * 删除增强型连接器上的连接配置显著影响事件订阅和其他保存的配置，导致其指向旧 URL。
-* 安装Forms附加组件包不会安装 **切换路由器**，从而导致WFEC AMS环境切换功能失败。
-* 在EWC设置中启用事件订阅会导致反复出现的API调用失败 `HTTP 400` 首次设置Workfront增强型连接器时出错。
+* 安装表单附加组件包却不安装&#x200B;**切换路由器**，导致 WFEC AMS 环境切换功能出现故障。
+* 在 EWC 设置上启用事件订阅导致在首次设置 Workfront 增强型连接器时调用 API 反复失败，发生 `HTTP 400` 错误。
 * 在 Workfront 上删除关于链接文件夹资源的评论无法在 AEM 上找到链接文件夹路径。
 * AEM 中对大文件资源的支持不足导致 4 字节大小问题。
 * 对于链接文件夹、文档更新和注释更新中的关键流程无请求时处理。
@@ -432,13 +428,13 @@ _已知问题_
 
 ### 社区
 
-* **在2024年Adobe Summit上宣布完整的AEM讲座和实验室**  — 探索Adobe Summit2024 AEM会议和实验室的完整列表，以及更深入的AEM体验的最终路线图。 请参阅 [https://adobe.ly/3HD1mw3](https://adobe.ly/3HD1mw3).
-* **AEMas a Cloud Service2024.1.0**  — 要了解更新，请访问 [https://adobe.ly/3w2lhBL](https://adobe.ly/3w2lhBL).
-* **AEM社区用户持续的博客**
-   * [如何通过AEM JMX触发Oak索引以开始应用更改的索引定义的过程](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/how-to-trigger-oak-index-via-aem-jmx-to-start-the-process-of/ba-p/650118)
-   * [如何不将分类迁移到AEM Assets](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/how-not-to-migrate-taxonomies-to-aem-assets/ba-p/648931)
-   * [探索AEM的隐藏功能：解锁OSGi Marvels](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/exploring-aem-s-hidden-power-unlocking-osgi-marvels/ba-p/648162)
-   * [AEM 6.5.5 Not Indexing问题 *固定*](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/aem-6-5-5-not-indexing-problem-fixed/ba-p/639836)
+* **宣布 Adobe Summit 2024 的完整 AEM 会议及实验室信息**——探索 Adobe Summit 2024 的 AEM 会议和实验室的完整列表，这是您获得更深入的 AEM 体验的终极路线图。请参阅 [https://adobe.ly/3HD1mw3](https://adobe.ly/3HD1mw3)。
+* **AEM as a Cloud Service 2024.1.0**——请在 [https://adobe.ly/3w2lhBL](https://adobe.ly/3w2lhBL) 了解更新信息。
+* **AEM 社区用户最新博客**
+   * [如何通过 AEM JMX 触发 Oak Index，以启动应用经过更改的索引定义的过程](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/how-to-trigger-oak-index-via-aem-jmx-to-start-the-process-of/ba-p/650118)
+   * [如何不将分类法迁移到 AEM 资源](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/how-not-to-migrate-taxonomies-to-aem-assets/ba-p/648931)
+   * [探索 AEM 的隐藏力量：解锁 OSGi 奇迹](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/exploring-aem-s-hidden-power-unlocking-osgi-marvels/ba-p/648162)
+   * [AEM 6.5.5 未建立索引问题 *已修复*](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/aem-6-5-5-not-indexing-problem-fixed/ba-p/639836)
 
 
 ### Experience Manager 发行信息
@@ -466,18 +462,18 @@ _已知问题_
 
 | 发布日期 | 应用程序 | 名称 | 类型 | 描述 |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| 2024 年 2 月 | AEM Sites | [日志记录和AEM事件](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/aem-eventing/examples/journaling.html) | 视频 | 了解如何从日志中检索初始AEM事件集并浏览有关每个事件的详细信息。 |
-| 2024 年 2 月 | AEM Sites | [使用Adobe I/O Runtime操作处理AEM事件](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/aem-eventing/examples/event-processing-using-runtime-action.html) | 视频 | 了解如何使用Adobe I/O Runtime操作处理收到的AEM事件。 |
-| 2024 年 2 月 | AEM Sites | [Adobe I/O Runtime操作和AEM事件](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/aem-eventing/examples/runtime-action.html) | 视频 | 了解如何使用Adobe I/O Runtime操作接收AEM事件并查看事件详细信息，例如有效负载、标头和元数据。 |
-| 2024 年 2 月 | AEM Assets | [使用批量导入](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/bulk-import.html?lang=zh-Hans) | 视频 | 了解如何使用AEMas a Cloud Service中的批量导入工具，以安全高效的方式从云存储批量导入资源。 |
+| 2024 年 2 月 | AEM Sites | [日志和 AEM 活动](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/aem-eventing/examples/journaling.html) | 视频 | 了解如何从日志中检索初始的 AEM 事件集，并探索有关每个事件的详细信息。 |
+| 2024 年 2 月 | AEM Sites | [使用 Adobe I/O Runtime 操作处理 AEM 事件](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/aem-eventing/examples/event-processing-using-runtime-action.html) | 视频 | 了解如何使用 Adobe I/O Runtime 操作处理接收到的 AEM 事件。 |
+| 2024 年 2 月 | AEM Sites | [Adobe I/O Runtime 操作和 AEM 事件](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/aem-eventing/examples/runtime-action.html) | 视频 | 了解如何使用 Adobe I/O Runtime 操作接收 AEM 事件，并查看事件详细信息，例如负载、标头和元数据。 |
+| 2024 年 2 月 | AEM Assets | [使用批量导入功能](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/bulk-import.html) | 视频 | 了解如何使用 AEM as a Cloud Service 中的批量导入工具，以安全高效的方式从云存储批量导入资源。 |
 | 2024 年 2 月 | [!DNL AEM Assets] | [查找相似图像](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/find-similar-images.html) | 视频 | 了解 [!DNL AEM Assets] 中的[!UICONTROL 查找相似图像]如何让查找最适合您需求的图像变得轻而易举。 |
 | 2024 年 2 月 | [!DNL AEM Assets] | [切换视图](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/switch-views.html) | 视频 | 了解如何在 [!DNL AEM Assets as a Cloud Service] 中高效地切换视图，并确保无缝地进行资产管理。 |
-| 2024 年 2 月 | AEM Forms | [使用共享点列表数据预填充自适应表单](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/prefill-data-from-sharepoint-list.html) | 视频 | 了解如何使用由共享点列表支持的表单数据模型预填自适应表单。 |
-| 2024 年 2 月 | AEM CS | [AEM事件](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/aem-eventing/overview.html?lang=en) | 多个视频 | 了解AEM事件、内容、使用原因和时机以及示例。 |
-| 2024 年 2 月 | AEM Forms | [在AEM Forms中使用输出和Forms服务进行开发](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/output-and-forms-services-article-develop.html) | 视频 | 了解如何在AEM Forms中使用Output和Forms Service API进行开发。 |
-| 2024 年 2 月 | AEM Assets | [已阻止的标记](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/advanced/blocked-tags.html) | 视频 | 了解如何使用阻止的标记增强AEM中的资产管理，以防止应用文化敏感、不相关或有争议的智能标记。 |
+| 2024 年 2 月 | AEM Forms | [使用共享点列表数据预填充自适应表单](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/prefill-data-from-sharepoint-list.html) | 视频 | 了解如何使用共享点列表支持的表单数据模型预填充自适应表单。 |
+| 2024 年 2 月 | AEM CS | [AEM 事件](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/aem-eventing/overview.html?lang=zh-Hans) | 多个视频 | 了解 AEM 事件、它是什么、使用它的原因和时间以及它的示例。 |
+| 2024 年 2 月 | AEM Forms | [使用 AEM Forms 中的 Output 和 Forms 服务进行开发](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/output-and-forms-services-article-develop.html) | 视频 | 了解如何在 AEM Forms 中使用 Output 和 Forms 服务 API 进行开发。 |
+| 2024 年 2 月 | AEM Assets | [阻止标记](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/advanced/blocked-tags.html) | 视频 | 了解如何使用阻止标记来防止应用在文化上敏感、不相关或有争议的智能标记，从而增强 AEM 中的资产管理。 |
 | 2024 年 2 月 | AEM Headless | [批量属性更新示例扩展](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/console-bulk-property-update.html) | 视频 | 批量更新内容片段属性的示例 AEM 内容片段控制台扩展。 |
-| 2024 年 2 月 | AEM Headless | [使用 OpenAI](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/console-image-generation-and-image-upload.html) 生成 AEM 图像资产 | 视频 | 了解如何使用OpenAI或DALL·E 2生成图像并将其上传到AEM DAM以提高内容速度。 |
+| 2024 年 2 月 | AEM Headless | [使用 OpenAI](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/console-image-generation-and-image-upload.html) 生成 AEM 图像资产 | 视频 | 了解如何使用 OpenAI 或 DALL·E 2 生成图像并将其上传到 AEM DAM 以提高内容速度。 |
 
 {style="table-layout:auto"}
 
@@ -487,19 +483,19 @@ _已知问题_
 
 | 发布日期 | 名称 | 类型 | 描述 |
 |---------|--------|---------|---------|
-| 2024 年 1 月 | [图像超大调整 [!UICONTROL 智能成像] 日期 [!UICONTROL Dynamic Media]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23359.html) | 新文章 | 了解使用时的解决方案 [!UICONTROL 智能成像] 日期 [!UICONTROL Dynamic Media]，图像大小有时可能比预期大。 |
-| 2024 年 1 月 | [中的用户组更改 [!UICONTROL Admin Console] 未反映在 [!DNL AEM]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23390.html) | 新文章 | 了解当您在中修改用户组时问题的解决方案 [!UICONTROL Admin Console]，这些更改可能不会在中立即可见 [!DNL Adobe Experience Manager (AEM)]. |
-| 2024 年 1 月 | [无法移动 [!UICONTROL 体验片段]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23391.html) | 新文章 | 了解有人尝试移动时问题的解决方案 [!UICONTROL 内容片段] 在 [!DNL Adobe Experience Manager 6.5]， [!DNL UI] 将旋转，并且移动操作未完全处理。 |
-| 2024 年 1 月 | [错误 *[!DNL org.apache.sling.api.request.TooManyCallsException]* 在自定义控制台中](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23463.html) | 新文章 | 了解如何解决 *[!DNL org.apache.sling.api.request.TooManyCallsException]* 自定义控制台中出错。 |
-| 2024 年 1 月 | [[!UICONTROL 复制队列] 已阻止 [!DNL AEMaaCS]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23465.html) | 新文章 | 了解问题的解决方案，如果 [!UICONTROL 复制队列] 在 [!DNL Adobe Experience Manager as a Cloud Service (AEMaaCS)] 被阻止。 |
-| 2024 年 1 月 | [[!UICONTROL 目标模式] 未出现在 [!UICONTROL 站点]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23485.html) | 新文章 | 了解解决方案 [!DNL AEMaaCS] 问题： [!UICONTROL 目标模式] 未出现在 [!UICONTROL 站点]. |
-| 2024 年 1 月 | [如何在中恢复已删除的内容路径 [!DNL AEM as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23505.html) | 新文章 | 了解问题的解决方案，以便您需要在以下位置找到恢复特定内容路径的不同方法 [!DNL Adobe Experience Manager as a Cloud Service]. |
+| 2024 年 1 月 | [使用 [!UICONTROL Dynamic Media]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23359.html) 上的[!UICONTROL 智能成像]时图像过大 | 新文章 | 了解在 [!UICONTROL Dynamic Media] 上使用[!UICONTROL 智能成像]时，图像大小有时会大于预期的解决方案。 |
+| 2024 年 1 月 | [ [!DNL AEM]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23390.html) 中未反应 [!UICONTROL Admin Console] 用户组的变化 | 新文章 | 了解修改 [!UICONTROL Admin Console] 内的用户组时出现的问题的解决方案，相关更改可能不会立即在 [!DNL Adobe Experience Manager (AEM)] 中可见。 |
+| 2024 年 1 月 | [无法移动[!UICONTROL 体验片段]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23391.html) | 新文章 | 了解当有人试图在 [!DNL Adobe Experience Manager 6.5] 中移动[!UICONTROL 内容片段]时出现的问题的解决方案；出现该问题时，[!DNL UI] 会旋转，并且移动操作未完全处理。 |
+| 2024 年 1 月 | 自定义控制台中[出错&#x200B;*[!DNL org.apache.sling.api.request.TooManyCallsException]*](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23463.html) | 新文章 | 了解如何解决自定义控制台中出现的 *[!DNL org.apache.sling.api.request.TooManyCallsException]* 错误。 |
+| 2024 年 1 月 | [[!UICONTROL 复制队列]在  [!DNL AEMaaCS]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23465.html) 中被锁定 | 新文章 | 了解 [!DNL Adobe Experience Manager as a Cloud Service (AEMaaCS)] 中的[!UICONTROL 复制队列]被锁定时的解决方案。 |
+| 2024 年 1 月 | [[!UICONTROL Target 模式]未在 [!UICONTROL Sites]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23485.html) 上出现 | 新文章 | 当 [!UICONTROL Target 模式]未在 [!UICONTROL Sites] 中出现时，了解 [!DNL AEMaaCS] 问题的解决方案。 |
+| 2024 年 1 月 | [如何恢复  [!DNL AEM as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23505.html) 中已删除的内容路径 | 新文章 | 了解当您需要找到不同的方法来恢复 [!DNL Adobe Experience Manager as a Cloud Service] 中特定的内容路径时所出现问题的解决方案 。 |
 
 {style="table-layout:auto"}
 
 ### [!DNL Experience Manager] 的其他帮助资源
 
-* [Dynamic Media Classic 帮助主页](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=en)
+* [Dynamic Media Classic 帮助主页](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=zh-Hans)
 * [《Experience Manager as a Cloud Service 指南》](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html?lang=zh-Hans)
 * [《Cloud Manager 用户指南》](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html)
 * [Experience Manager 6.5 学习和支持主页](https://experienceleague.adobe.com/docs/experience-manager-65/content/implementing/deploying/introduction/platform.html)
@@ -536,11 +532,11 @@ Experience League 上的 [!DNL Adobe Commerce] 新教程。
 
 | 发布日期 | 名称 | 类型 | 描述 |
 | -----------| ---------- | ---------- | ---------- |
-| 2024 年 2 月 | [创建礼品卡产品](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/create-products/create-gift-card-product.html) | 视频 | 了解如何使用REST API和商务管理员创建礼品卡产品。 |
-| 2024 年 2 月 | [集成Adobe Commerce和Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/integrate-commerce-ajo.html?lang=en) | 视频 | 了解如何集成Adobe Commerce和Adobe Journey Optimizer。 |
-| 2024 年 2 月 | [使用命令行查看和设置管理员配置](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/admin/view-update-store-configuration-cli.html?lang=en) | 视频 | 了解如何使用命令行查看和设置管理员配置。 |
-| 2024 年 2 月 | [配置Adobe Commerce服务连接器](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/admin/adobe-commerce-services/configure-adobe-commerce-services-connector.html) | 视频 | 了解如何配置Adobe Commerce服务连接器以用于Commerce SaaS产品，并了解如何解决常见问题。 |
-| 2024 年 2 月 | [为Adobe Commerce配置支付服务](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/admin/adobe-commerce-services/configure-adobe-payment-services.html) | 视频 | 了解如何配置Adobe Commerce支付服务。 |
+| 2024 年 2 月 | [创建礼品卡产品](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/create-products/create-gift-card-product.html) | 视频 | 了解如何使用 REST API 和 Commerce Admin 创建礼品卡产品。 |
+| 2024 年 2 月 | [集成 Adobe Commerce 和 Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/integrate-commerce-ajo.html?lang=zh-Hans) | 视频 | 了解如何集成 Adobe Commerce 和 Adobe Journey Optimizer。 |
+| 2024 年 2 月 | [使用命令行查看和设置管理配置](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/admin/view-update-store-configuration-cli.html?lang=zh-Hans) | 视频 | 了解如何使用命令行查看和设置管理配置。 |
+| 2024 年 2 月 | [配置 Adobe Commerce Services 连接器](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/admin/adobe-commerce-services/configure-adobe-commerce-services-connector.html) | 视频 | 了解如何配置 Adobe Commerce Services 连接器以与 Commerce SaaS 产品结合使用，并了解如何解决常见问题。 |
+| 2024 年 2 月 | [为 Adobe Commerce 配置付款服务](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/admin/adobe-commerce-services/configure-adobe-payment-services.html) | 视频 | 了解如何配置 Adobe Commerce 支付服务。 |
 
 {style="table-layout:auto"}
 
@@ -551,9 +547,9 @@ Adobe Commerce 的新文章和现有文章的更新。
 | 发布日期 | 名称 | 类型 | 描述 |
 |---------|--------|---------|---------|
 | 2024 年 1 月 | [[!DNL Quality Patches Tool (QPT)]](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview.html) | 新文章 | 已发布关于如何应用在 [!DNL QPT] 1.1.40、[!DNL QPT]1.1.42 和 [!DNL QPT] 1.1.43 中提供的补丁的新文章，可在其相应部分中找到这些文章。 |
-| 2024 年 1 月 | [[!DNL SendGrid] Adobe Commerce Cloud的限制](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/sendgrid-file-limitation.html) | 新文章 | 本文提供了一些解决方法，以便 [!DNL SendGrid] Adobe Commerce在云基础架构上的限制。 |
-| 2024 年 1 月 | [无法更改中的搜索引擎 `app/etc/env.php`](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/cannot-change-search-engine-in-admin-fields-locked.html) | 新文章 | 本文为您尝试从删除搜索引擎配置的问题提供了解决方案。 `app/etc/env.php` 文件，但在重新部署后，配置将恢复为以前的设置或更改为 [!DNL OpenSearch] 默认情况下。 |
-| 2024 年 1 月 | [未找到修补程序的部署错误](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/deployment/deployment-errors-where-patches-not-found.html) | 新文章 | 本文提供了升级实例时出现问题的解决方案，部署失败，并且在部署日志中看到错误： *未找到以下修补程序： MDVA-XXXXX、ACSD-XXXXX。 请检查这些修补程序的“状态”命令是否可用于当前Magento版本。* |
+| 2024 年 1 月 | [[!DNL SendGrid] Adobe Commerce 云的限制](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/sendgrid-file-limitation.html) | 新文章 | 本文为 Adobe Commerce 在云基础设施方面的 [!DNL SendGrid] 限制提供了一些解决方案。 |
+| 2024 年 1 月 | [无法更改 `app/etc/env.php`](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/cannot-change-search-engine-in-admin-fields-locked.html) 中的搜索引擎  | 新文章 | 本文提供了一个解决方案，可解决您尝试从 `app/etc/env.php` 文件中删除搜索引擎配置，但在重新部署后，该配置会恢复为之前的设置，或默认更改为 [!DNL OpenSearch] 的问题。 |
+| 2024 年 1 月 | [未找到补丁的部署错误](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/deployment/deployment-errors-where-patches-not-found.html) | 新文章 | 本文提供了升级实例时出现的问题的解决方案；出现此问题时，部署失败，并且您在部署日志中看到错误：*未找到下一个补丁：MDVA-XXXXX、ACSD-XXXXX。请查看当前 Magento 版本的这些补丁的“状态”命令可用性。* |
 
 {style="table-layout:auto"}
 
@@ -582,11 +578,11 @@ Adobe Commerce 的新文章和现有文章的更新。
 
 ### 最新营销活动产品版本
 
-* **最新！** [!DNL Campaign Web Interface]： [新增功能](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=en) | [产品文档](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html)
+* **全新！** [!DNL Campaign Web Interface]：[新增功能](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=zh-Hans) | [产品文档](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html)
 
-* **最新！** [!DNL Campaign] v8.6： [发行说明](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html) | [产品文档](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=en)
+* **全新！** [!DNL Campaign] v8.6：[发行说明](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html) | [产品文档](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=zh-Hans)
 
-* [!DNL Campaign Standard] v24.1 — 冬季： [发行说明](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=zh-Hans)
+* [!DNL Campaign Standard] v24.1 - 冬季：[发行说明](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=zh-Hans)
 
 * Campaign Classic v7.3.5：[发行说明](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=zh-Hans)
 
@@ -598,7 +594,7 @@ Adobe Commerce 的新文章和现有文章的更新。
 
 | 发布日期 | 版本 | 名称 | 类型 | 描述 |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| 2024 年 2 月 | 版本 | [Adobe Campaign V8简介](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/getting-started/introduction-to-adobe-campaign.html) | 更新的视频 | 了解 Adobe Campaign 如何适应 Adobe Digital Experience 作品集，并了解主要特性和功能。 |
+| 2024 年 2 月 | 版本 | [Adobe Campaign V8 简介](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/getting-started/introduction-to-adobe-campaign.html) | 更新的视频 | 了解 Adobe Campaign 如何适应 Adobe Digital Experience 作品集，并了解主要特性和功能。 |
 
 ### 新的 [!DNL Campaign] 支持知识库{#kb-campaign}
 
@@ -606,20 +602,20 @@ Adobe Commerce 的新文章和现有文章的更新。
 
 | 发布日期 | 名称 | 类型 | 描述 |
 |---------|----|----|-----------|
-| 2024 年 1 月 | [[!DNL BigQuery] 错误： *字段 `iMessageType` 已更改类型 `INTEGER` 到`BOOLEAN`*](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23348.html) | 新文章 | 如果您收到 [!DNL BigQuery] 尝试插入时出错 `INT8` bit数据类型，从 [!DNL Adobe Campaign Classic] 到 [!DNL GCP BigQuery] 数据库。 |
-| 2024 年 1 月 | [找不到键 `HKEY_LOCAL_MACHINE \ SOFTWARE \ Neolane \ NL_5 \ nlclient \ error`](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23311.html) | 新文章 | 了解如何以管理员身份运行客户端控制台以解决上的登录问题 [!DNL Adobe Campaign Classic v7]. |
+| 2024 年 1 月 | [[!DNL BigQuery] 错误：*字段 `iMessageType` 已将类型从 `INTEGER` 更改为`BOOLEAN`*](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23348.html) | 新文章 | 了解在尝试将 [!DNL Adobe Campaign Classic] 的 `INT8` 位数据类型插入 [!DNL GCP BigQuery] 数据库时收到 [!DNL BigQuery] 错误的解决方案。 |
+| 2024 年 1 月 | [找不到密钥 `HKEY_LOCAL_MACHINE \ SOFTWARE \ Neolane \ NL_5 \ nlclient \ error`](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23311.html) | 新文章 | 了解如何以管理员身份运行客户端控制台来解决 [!DNL Adobe Campaign Classic v7] 上的登录问题。 |
 | 2024 年 1 月 | [投放日志中的镜像页面链接未加载](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23365.html) | 新文章 | 了解投放日志中的镜像页面链接未加载时的解决方案。 |
-| 2024 年 1 月 | [时区对不正确 [!DNL Google BigQuery] schema)](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23329.html) | 新文章 | 了解问题的解决方案，当出现以下问题时： [!DNL Adobe Campaign Classic v8.5]，从的列读取数据时 [!DNL Google BigQuery] 表定义为 `datetimetz` 在架构级别，如果显示的日期和小时不包括运算符的时区信息。 |
-| 2024 年 1 月 | [[!DNL mcSync] 工作流因死锁错误而失败](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23471.html) | 新文章 | 了解问题的解决方案，当出现以下问题时： [!DNL Adobe Campaign Classic v7]，当 [!DNL mcSync] 工作流因死锁错误而失败。 |
-| 2024 年 1 月 | [[!DNL OOTB] 函数 `nms.eventHisto.GetMirrorUrl` 不返回任何 [!DNL URL] 或返回错误 [!DNL URL]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23477.html) | 新文章 | 了解在具有的工作流中时问题的解决方案 [!DNL JS] 活动，在调用 [!DNL Out-of-the-box (OOTB)] 函数 `nms.eventHisto.GetMirrorUrl`，它不返回任何 [!DNL URL] 或返回不正确的值 [!DNL URL]. |
-| 2024 年 1 月 | [访问 [!DNL SFTP] 文件夹 `/usr/local/neolane/nl6` 或 `/usr/local/neolane/nl6/var/`](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23493.html) | 新文章 | 了解如果您需要访问，该怎么做 [!DNL SFTP] 文件夹 `/usr/local/neolane/nl6` 或 `/usr/local/neolane/nl6/var/` 在 [!DNL Adobe Campaign Classic]. |
-| 2024 年 1 月 | [无法在中编辑品牌策略配置 [!DNL ACS]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23461.html) | 新文章 | 了解解决方案 [!DNL Campaign Standard] 当您无法在中编辑品牌策略配置时的问题 [!DNL ACS]. |
+| 2024 年 1 月 | [ [!DNL Google BigQuery] 架构的时区不正确）](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23329.html) | 新文章 | 了解如果显示的日期和小时不包括操作员的时区信息，则在 [!DNL Adobe Campaign Classic v8.5] 中，从模式级别定义为 `datetimetz` 的 [!DNL Google BigQuery] 表的列中读取数据时出现问题的解决方案。 |
+| 2024 年 1 月 | [[!DNL mcSync] 工作流因死锁错误而失败](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23471.html) | 新文章 | 了解 [!DNL Adobe Campaign Classic v7] 中 [!DNL mcSync] 工作流因死锁错误而失败时问题的解决方案。 |
+| 2024 年 1 月 | [[!DNL OOTB]  函数 `nms.eventHisto.GetMirrorUrl` 未返回任何 [!DNL URL] 或返回错误的  [!DNL URL]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23477.html) | 新文章 | 了解在具有 [!DNL JS] 活动的工作流中调用 [!DNL Out-of-the-box (OOTB)] 函数 `nms.eventHisto.GetMirrorUrl` 时未返回任何 [!DNL URL] 或返回错误的 [!DNL URL] 的问题解决方案。 |
+| 2024 年 1 月 | [访问 [!DNL SFTP] 文件夹`/usr/local/neolane/nl6`或 `/usr/local/neolane/nl6/var/`](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23493.html) | 新文章 | 了解如果您需要访问 [!DNL Adobe Campaign Classic] 中的 [!DNL SFTP] 文件夹`/usr/local/neolane/nl6`或 `/usr/local/neolane/nl6/var/` 时该怎么做。 |
+| 2024 年 1 月 | [无法编辑  [!DNL ACS]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23461.html) 中的品牌化配置 | 新文章 | 了解无法在 [!DNL Campaign Standard] 中编辑品牌化配置时 [!DNL ACS] 问题的解决方案。 |
 
 {style="table-layout:auto"}
 
 ### [!DNL Campaign] 帮助资源
 
-* [!DNL Campaign] Web界面： [新增功能](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=en) - [产品文档](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html?lang=en)
+* [!DNL Campaign] 网页界面：[新增功能](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=zh-Hans)——[产品文档](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html?lang=zh-Hans)
 * [!DNL Campaign] v8：[文档](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html) ‑ [发行说明](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html) ‑ [实施指南](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/implement/implement.html)
 * [!DNL Campaign] Standard：[Campaign Standard 文档](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html) ‑ [发行说明](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) ‑ [操作方法视频](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html) ‑ [发行计划](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html) ‑ [最新文档更新](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html)
 * [!DNL Campaign] Classic：[Campaign Classic v7 文档](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html) ‑ [发行说明](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) ‑ [操作方法视频](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html) ‑ [最新文档更新](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html)
@@ -643,12 +639,12 @@ Adobe Commerce 的新文章和现有文章的更新。
 
 | 发布日期 | 名称 | 类型 | 描述 |
 | -----------| ---------- | ---------- | ---------- |
-| 2024 年 2 月 | [预览、验证和发布](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/preview-proof-and-publish.html) | 视频 | 了解如何使用Litmus测试收件箱之间的电子邮件呈现，如何根据测试用户档案预览个性化电子邮件、发送验证和发布电子邮件。 |
+| 2024 年 2 月 | [预览、验证和发布](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/preview-proof-and-publish.html) | 视频 | 了解如何使用 Litmus 跨收件箱测试电子邮件呈现，如何根据测试资料预览个性化电子邮件、发送验证和发布电子邮件。 |
 | 2024 年 2 月 | [发布历程和历程状态](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/publish-a-journey.html) | 视频 | 了解历程的不同状态以及发布的影响。 |
 | 2024 年 2 月 | [面向营销人员的移动功能](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/mobile-capabilities.html) | 视频 | 了解 Adobe Journey Optimizer 为营销人员提供的移动功能。 |
-| 2024 年 2 月 | [Sinch和Infobip双重选择加入](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/sms-channel/sms-double-opt-in.html) | 视频 | 了解如何为短信配置双重选择加入。 |
+| 2024 年 2 月 | [Sinch 和 Infobip 的双重选择加入](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/sms-channel/sms-double-opt-in.html) | 视频 | 了解如何为 SMS 配置双重选择加入。 |
 | 2024 年 2 月 | [主要功能和用户界面](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface.html) | 视频 | 了解 Journey Optimizer 的主要功能和角色。了解如何在用户界面中导航。 |
-| 2024 年 2 月 | [构建历程的简介](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey.html?lang=zh-Hans) | 视频 | 了解在历程画布中构建历程的基础知识。 |
+| 2024 年 2 月 | [构建历程的简介](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey.html) | 视频 | 了解在历程画布中构建历程的基础知识。 |
 
 {style="table-layout:auto"}
 
@@ -712,7 +708,7 @@ New articles and updates to existing articles for [!DNL Journey Optimizer].
 
 | 发布日期 | 名称 | 类型 | 描述 |
 | -----------| ---------- | ---------- | ---------- |
-| 2024 年 2 月 | [营销归因成熟度](https://experienceleague.adobe.com/docs/marketo-measure-learn/tutorials/evangelist/marketing-attribution-maturity.html) | 视频 | 从专家那里了解MOPs团队如何从无归因报告发展到财富100强企业如何使用Marketo Measure。 |
+| 2024 年 2 月 | [营销属性成熟度](https://experienceleague.adobe.com/docs/marketo-measure-learn/tutorials/evangelist/marketing-attribution-maturity.html) | 视频 | 向专家了解 MOP 团队如何从无归因报告发展到财富 100 强公司如何使用 Marketo Measure。 |
 
 {style="table-layout:auto"}
 
@@ -732,7 +728,7 @@ Experience League 上的新 [!DNL Workfront] 教程。
 
 | 发布日期 | 名称 | 类型 | 描述 |
 | -----------| ---------- | ---------- | ---------- |
-| 2024 年 2 月 | [Workfront 教程中的新增内容](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=zh-Hans#what%E2%80%99s-new%3F) | 多个视频 | 查看过去一个月发布的最新教程。 |
+| 2024 年 2 月 | [Workfront 教程中的新增功能](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=zh-Hans#what%E2%80%99s-new%3F) | 多个视频 | 查看过去一个月发布的最新教程。 |
 
 {style="table-layout:auto"}
 
@@ -817,13 +813,13 @@ New articles and updates to existing articles for [!DNL Workfront].
 
 为 [!DNL Adobe Creative Cloud for enterprise] 中的应用程序发布的新视频、教程或课程。
 
-已更新 **2024年2月**
+ **2024 年 2 月**&#x200B;更新
 
 +++详细信息
 
 | 发布日期 | 应用程序 | 名称 | 类型 | 描述 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2024 年 2 月 | [!DNL Adobe Express] | [Adobe Express 教程](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html?lang=zh-Hans) | 视频 | 用 [!DNL Adobe Firefly] 助力的生成式 AI 开始创作精彩的作品。设计传单， [!DNL TikToks]，继续，和 [!DNL Reels] 替换为 [!DNL Adobe Express]. |
+| 2024 年 2 月 | [!DNL Adobe Express] | [Adobe Express 教程](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html?lang=zh-Hans) | 视频 | 用 [!DNL Adobe Firefly] 助力的生成式 AI 开始创作精彩的作品。使用 [!DNL Adobe Express] 设计传单、[!DNL TikToks]、简历以及 [!DNL Reels]。 |
 
 有关最新教程，请参阅 [Creative Cloud 企业版教程](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html)。
 
