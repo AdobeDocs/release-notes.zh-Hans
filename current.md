@@ -6,10 +6,10 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 342d9caad0c8a904c94a2a8c087f19955f796095
+source-git-commit: 1dc1f22cdf45150c58eb6a72641c70f988aaf5b5
 workflow-type: tm+mt
-source-wordcount: '5447'
-ht-degree: 100%
+source-wordcount: '5457'
+ht-degree: 98%
 
 ---
 
@@ -32,9 +32,9 @@ ht-degree: 100%
 
 ## 2024 年 2 月
 
-上次更新时间：**2024 年 2 月 14 日**
+最新更新： **2024年2月26**
 
-* [[!DNL Experience League] 活动和最新消息](#events)
+* [[!DNL Experience League] 活动和更新](#events)  (已更新 **2月26**)
 * [[!DNL Adobe GenStudio]](#genstudio)
 * [Adobe 认证](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -67,11 +67,11 @@ ht-degree: 100%
 
 ### Experience League 活动
 
-**2024 年 2 月 14 日**&#x200B;更新
+已更新 **2024年2月26**
 
 +++详细信息
 
-* **[!DNL WORKFRONT]** | 问答聊天 | _询问客户支持 - 排除常见的布局模板和视图问题_ | 与 Workfront 客户支持团队一起参加“询问专家”类型的会议以了解以布局模板和视图为重点的最佳实践和故障排除技巧。| **太平洋时间 2 月 22 日 9:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,SHy3noeahk-cVr1c56xN3g,LabzJZ5I2ESS1IfzddF1Lw,rj5S03F0xUmcsyxTeJTtTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **Workfront** | 问答聊天 | _咨询客户面板：通过Workfront推进您的职业生涯_ | 2024年的第一场座谈会以三位鼓舞人心的Workfront客户开始，他们利用自身的Workfront专业知识建立了成功的职业生涯。 加入我们，进行1小时的讨论，学习获得成功所需的技能。 | **太平洋时间 2 月 27 日8:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,2fZ2UKkqy0WZ22Alb9JdRQ,qGWMHwKiJ06A_XgUeGVhYg,cta_ZoLBA06u-8UH8SlbCQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **Adobe 峰会** | 数字体验会议 | _拓展您的技能，发现最新趋势，探索体验主导型成长的未来_ | 向领先品牌学习，探索生成式人工智能的未来，并为体验主导的成长做好准备。| **3 月 25 日至 28 日@拉斯维加斯，在线** | [报名](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
 
