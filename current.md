@@ -6,10 +6,10 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1dc1f22cdf45150c58eb6a72641c70f988aaf5b5
+source-git-commit: 4a1ad43ae7911334cbe58d633c4929d5645580f9
 workflow-type: tm+mt
-source-wordcount: '5457'
-ht-degree: 98%
+source-wordcount: '5779'
+ht-degree: 93%
 
 ---
 
@@ -32,9 +32,9 @@ ht-degree: 98%
 
 ## 2024 年 2 月
 
-最新更新： **2024年2月26**
+最新更新： **2024年2月28日**
 
-* [[!DNL Experience League] 活动和更新](#events)  (已更新 **2月26**)
+* [[!DNL Experience League] 活动和更新](#events)  (已更新 **2月28**)
 * [[!DNL Adobe GenStudio]](#genstudio)
 * [Adobe 认证](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -67,11 +67,27 @@ ht-degree: 98%
 
 ### Experience League 活动
 
-已更新 **2024年2月26**
+已更新 **2024年2月28日**
 
 +++详细信息
 
-* **Workfront** | 问答聊天 | _咨询客户面板：通过Workfront推进您的职业生涯_ | 2024年的第一场座谈会以三位鼓舞人心的Workfront客户开始，他们利用自身的Workfront专业知识建立了成功的职业生涯。 加入我们，进行1小时的讨论，学习获得成功所需的技能。 | **太平洋时间 2 月 27 日8:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,2fZ2UKkqy0WZ22Alb9JdRQ,qGWMHwKiJ06A_XgUeGVhYg,cta_ZoLBA06u-8UH8SlbCQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **Experience Manager** | 网络研讨会 | _EMEA AEM社区活动_ | 我们将举行一次关于内容供应链的精彩互动会议，讨论您的目标、迄今为止取得的成就、您面临的挑战以及如何解决它们。 | **2月29日下午3点格林尼治标准时** | [注册](https://registration.adobe.com/AdobeAEM24/)
+
+* **管理员和营销活动** | Experience League直播 | _全新Adobe Campaign Web用户界面大步前进_ | 欢迎在2月29日加入我们，了解如何使用新的Adobe Campaign Web用户界面来规划、发布和衡量跨渠道策略，并预览新的创作AI功能。 | **太平洋时间 2 月 29 日8:00** | [注册](https://engage.adobe.com/ExpLeagueLive-240229.html)
+
+* **Experience Manager** | 实时流 | _App Builder变为10.0岁_ | 加入App Builder工程团队，了解其最新CLI版本的新增功能以及即将推出的功能，包括一些使调试更轻松更多的新方法！ | **太平洋时间 2 月 29 日上午 9:00** | [注册](https://streamyard.com/watch/i7TEbhnR73h9)
+
+* **Workfront** | 客户研讨会 | _了解：Workfront法律与合规版_ | 加入我们，参加一个研讨会，了解如何与您的法律和合规团队协作来简化您的流程、将您的Workfront平台扩展到您组织中的更多受众，以及提高您的采用率。 | **太平洋时间 2 月 29 日9:30** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,-RtTT5LkeU2OT5UN6pjZiA,y4-cs7fHjEmhjyMRZ1Igcw,hjYyoGdB9UiGT2SRWhnc7A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Workfront** | 社区活动 | _Connect：面向营销和创意的管理员聊天_ | 您是否是营销或创意团队的系统管理员？ 该客户导向课程将让您与其他管理员讨论最佳实践以及提示和技巧。 | **3月1日太平洋时间上午9:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,bm8peHjA-k-iHyuhPz3AYQ,bo2nqNAMPkWK1pTv9uBkvg,mc8vdHlpqkGI-aXgy1J5ug?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Workfront** | 网络研讨会 | _使用Workfront唤醒：资源管理_ | 探索Workfront最具影响力的用例之一，资源管理，因为Adobe的Workfront业务顾问将使用Blueprint轻松创建随您的需求而发展的工作管理系统。 | **3月7日下午1:00 （东部时间）** | [注册](https://adobeevents.adobeconnect.com/exdj5n4atw60/event/registration.html?campaign-id=ExL)
+
+* **Workfront** | 社区活动 | _连接： Workfront Collective_ | 与其他Workfront客户一起参加一个集体问题解决和成功共享会议！ | **3月11日太平洋时间上午6:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Workfront** | 社区活动 | _连接： Workfront Collective_ | 与其他Workfront客户一起参加一个集体问题解决和成功共享会议！ | **3月11日太平洋时间上午6:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Experience Manager** | 网络研讨会 | _表达式和Experience Manager：为什么AEM在云中功能更强大_ | 与Adobe的专家一起，讨论如何使用Best Practice Analyzer和Cloud Acceleration Manager等工具，通过内容评估和迁移规划确保顺利过渡到云。 | **3月14日下午1:00 （东部时间）** | [注册](https://adobeevents.adobeconnect.com/e8jc5prppkfr/event/registration.html?campaign-id=ExL)
 
 * **Adobe 峰会** | 数字体验会议 | _拓展您的技能，发现最新趋势，探索体验主导型成长的未来_ | 向领先品牌学习，探索生成式人工智能的未来，并为体验主导的成长做好准备。| **3 月 25 日至 28 日@拉斯维加斯，在线** | [报名](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
 
