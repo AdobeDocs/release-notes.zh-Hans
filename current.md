@@ -6,9 +6,9 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4a1ad43ae7911334cbe58d633c4929d5645580f9
+source-git-commit: e18508b13d1c859f0aa3c3bd50cdad0db30a685f
 workflow-type: tm+mt
-source-wordcount: '5779'
+source-wordcount: '5771'
 ht-degree: 93%
 
 ---
@@ -75,19 +75,19 @@ ht-degree: 93%
 
 * **管理员和营销活动** | Experience League直播 | _全新Adobe Campaign Web用户界面大步前进_ | 欢迎在2月29日加入我们，了解如何使用新的Adobe Campaign Web用户界面来规划、发布和衡量跨渠道策略，并预览新的创作AI功能。 | **太平洋时间 2 月 29 日8:00** | [注册](https://engage.adobe.com/ExpLeagueLive-240229.html)
 
-* **Experience Manager** | 实时流 | _App Builder变为10.0岁_ | 加入App Builder工程团队，了解其最新CLI版本的新增功能以及即将推出的功能，包括一些使调试更轻松更多的新方法！ | **太平洋时间 2 月 29 日上午 9:00** | [注册](https://streamyard.com/watch/i7TEbhnR73h9)
+* **Experience Manager** | 实时流 | _App Builder变为10.0岁_ | 加入App Builder工程团队，了解其最新CLI版本的新增功能，以及即将推出的功能，包括一些使调试更轻松更多的新方法！ | **太平洋时间 2 月 29 日上午 9:00** | [注册](https://streamyard.com/watch/i7TEbhnR73h9)
 
 * **Workfront** | 客户研讨会 | _了解：Workfront法律与合规版_ | 加入我们，参加一个研讨会，了解如何与您的法律和合规团队协作来简化您的流程、将您的Workfront平台扩展到您组织中的更多受众，以及提高您的采用率。 | **太平洋时间 2 月 29 日9:30** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,-RtTT5LkeU2OT5UN6pjZiA,y4-cs7fHjEmhjyMRZ1Igcw,hjYyoGdB9UiGT2SRWhnc7A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **Workfront** | 社区活动 | _Connect：面向营销和创意的管理员聊天_ | 您是否是营销或创意团队的系统管理员？ 该客户导向课程将让您与其他管理员讨论最佳实践以及提示和技巧。 | **3月1日太平洋时间上午9:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,bm8peHjA-k-iHyuhPz3AYQ,bo2nqNAMPkWK1pTv9uBkvg,mc8vdHlpqkGI-aXgy1J5ug?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **Workfront** | 社区活动 | _Connect：面向营销和创意的管理员聊天_ | 您是否是营销或创意团队的系统管理员？ 此客户导向型会议将您与其他管理员联系起来，讨论最佳实践以及提示和技巧。 | **3月1日太平洋时间上午9:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,bm8peHjA-k-iHyuhPz3AYQ,bo2nqNAMPkWK1pTv9uBkvg,mc8vdHlpqkGI-aXgy1J5ug?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **Workfront** | 网络研讨会 | _使用Workfront唤醒：资源管理_ | 探索Workfront最具影响力的用例之一，资源管理，因为Adobe的Workfront业务顾问将使用Blueprint轻松创建随您的需求而发展的工作管理系统。 | **3月7日下午1:00 （东部时间）** | [注册](https://adobeevents.adobeconnect.com/exdj5n4atw60/event/registration.html?campaign-id=ExL)
-
-* **Workfront** | 社区活动 | _连接： Workfront Collective_ | 与其他Workfront客户一起参加一个集体问题解决和成功共享会议！ | **3月11日太平洋时间上午6:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **Workfront** | 网络研讨会 | _使用Workfront唤醒：资源管理_ | 探索Workfront最具影响力的用例之一，资源管理，因为Adobe的Workfront业务顾问将使用Blueprint轻松创建随您的需求而发展的工作管理系统。 | **3月7日下午1:00 （东部时间）** | [注册](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5653751992/event_landing.html?sco-id=5639062191&amp;campaign-id=ExL&amp;_charset_=utf-8)
 
 * **Workfront** | 社区活动 | _连接： Workfront Collective_ | 与其他Workfront客户一起参加一个集体问题解决和成功共享会议！ | **3月11日太平洋时间上午6:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **Experience Manager** | 网络研讨会 | _表达式和Experience Manager：为什么AEM在云中功能更强大_ | 与Adobe的专家一起，讨论如何使用Best Practice Analyzer和Cloud Acceleration Manager等工具，通过内容评估和迁移规划确保顺利过渡到云。 | **3月14日下午1:00 （东部时间）** | [注册](https://adobeevents.adobeconnect.com/e8jc5prppkfr/event/registration.html?campaign-id=ExL)
+* **Workfront** | 社区活动 | _连接： Workfront Collective_ | 与其他Workfront客户一起参加一个集体问题解决和成功共享会议！ | **3月11日太平洋时间上午6:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Experience Manager** | 网络研讨会 | _表达式和Experience Manager：为什么AEM在云中功能更强大_ | 与Adobe的专家一起，讨论如何使用Best Practice Analyzer和Cloud Acceleration Manager等工具，通过内容评估和迁移规划确保顺利过渡到云。 | **3月14日下午1:00 （东部时间）** | [注册](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5621127355/event_landing.html?sco-id=5643219583&amp;campaign-id=ExL&amp;_charset_=utf-8)
 
 * **Adobe 峰会** | 数字体验会议 | _拓展您的技能，发现最新趋势，探索体验主导型成长的未来_ | 向领先品牌学习，探索生成式人工智能的未来，并为体验主导的成长做好准备。| **3 月 25 日至 28 日@拉斯维加斯，在线** | [报名](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
 
@@ -658,7 +658,7 @@ Adobe Commerce 的新文章和现有文章的更新。
 | 2024 年 2 月 | [预览、验证和发布](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/preview-proof-and-publish.html) | 视频 | 了解如何使用 Litmus 跨收件箱测试电子邮件呈现，如何根据测试资料预览个性化电子邮件、发送验证和发布电子邮件。 |
 | 2024 年 2 月 | [发布历程和历程状态](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/publish-a-journey.html) | 视频 | 了解历程的不同状态以及发布的影响。 |
 | 2024 年 2 月 | [面向营销人员的移动功能](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/mobile-capabilities.html) | 视频 | 了解 Adobe Journey Optimizer 为营销人员提供的移动功能。 |
-| 2024 年 2 月 | [Sinch 和 Infobip 的双重选择加入](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/sms-channel/sms-double-opt-in.html) | 视频 | 了解如何为 SMS 配置双重选择加入。 |
+| 2024 年 2 月 | [双重选择加入 [!DNL Sinch] 和 [!DNL Infobip]](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/sms-channel/sms-double-opt-in.html) | 视频 | 了解如何为 SMS 配置双重选择加入。 |
 | 2024 年 2 月 | [主要功能和用户界面](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface.html) | 视频 | 了解 Journey Optimizer 的主要功能和角色。了解如何在用户界面中导航。 |
 | 2024 年 2 月 | [构建历程的简介](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey.html) | 视频 | 了解在历程画布中构建历程的基础知识。 |
 
