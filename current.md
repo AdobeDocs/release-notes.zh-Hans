@@ -6,9 +6,9 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3c9e639fd907074cf74c63ddbc061d07801b5900
+source-git-commit: 0c7a6c54b5f8fac7ae5295e8a28b968bda9c3bab
 workflow-type: tm+mt
-source-wordcount: '5582'
+source-wordcount: '5499'
 ht-degree: 99%
 
 ---
@@ -70,10 +70,6 @@ ht-degree: 99%
 **2024 年 2 月 28 日**&#x200B;更新
 
 +++详细信息
-
-* **CAMPAIGN (V7、V8)** | 茶歇 | _Adobe Campaign社区问答喝咖啡休息时间_ | 加入我们，与我们的Adobe Campaign产品团队围绕新的Adobe Campaign Web用户界面进行一小时的聊天会话。 | **太平洋时间 3 月 7 日8:00** | [注册](https://experienceleaguecommunities.adobe.com/t5/campaign-classic-events/community-q-amp-a-coffee-break-march-7th-with-adobe-campaign/ev-p/656010)
-
-* **Workfront** | 网络研讨会 | _用 Workfront 唤醒：资源管理_ | 探索 Workfront 最具影响力的用例之一，即资源管理，Adobe 的 Workfront 业务顾问将指导您使用 Blueprint 轻松创建随您的需求而演变的工作管理系统。| **东部时间 3 月 7 日下午 1:00** | [注册](https://experienceleaguecommunities.adobe.com/t5/campaign-classic-events/community-q-amp-a-coffee-break-march-7th-with-adobe-campaign/ev-p/656010)
 
 * **Workfront** | 社区活动 | _建立联系：Workfront Collective_ | 与其他 Workfront 客户一起参加我们相聚解决问题和分享成功案例的会议！| **太平洋时间 3 月 11 日上午 6:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
