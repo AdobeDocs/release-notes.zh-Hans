@@ -6,9 +6,9 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e4ed429fbc8ecdaa4149c9796c50c57272918613
+source-git-commit: 8911d232f3e218b9f5549d7626ef65ac92996bfc
 workflow-type: tm+mt
-source-wordcount: '6152'
+source-wordcount: '6115'
 ht-degree: 65%
 
 ---
@@ -605,7 +605,6 @@ Adobe Commerce 的新文章和现有文章的更新。
 | 2024 年 2 月 | Campaign Web 用户界面 | [管理和构建受众](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/profiles-and-audiences/manage-and-build-audiences.html) | 视频 | 了解如何构建和管理受众、如何为投放选择受众以及定义控制组。 |
 | 2024 年 2 月 | Campaign Web 用户界面 | [创建定位工作流](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/workflows/create-a-targeting-workflow.html) | 视频 | 了解工作流的工作方式以及如何创建定位工作流。 |
 | 2024 年 2 月 | Campaign Web 用户界面 | [创建电子邮件投放](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-an-email-delivery.html) | 视频 | 了解如何从头开始创建电子邮件投放、定义受众、设计内容、模拟预览并发送验证。 |
-| 2024 年 2 月 | Campaign Web 用户界面 | [从头开始设计电子邮件内容](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-email-content-from-scratch.html) | 视频 | 了解如何在电子邮件设计器中导航。了解如何从头开始构建和设计电子邮件，如何个性化和测试电子邮件。 |
 | 2024 年 2 月 | Campaign Web用户界面，Experience Platform | [创建具有Experience Platform的受众](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/profiles-and-audiences/create-an-audience-with-experience-platform.html) | 视频 | 了解如何在Adobe Campaign中创建目标以使用Experience Platform受众。 |
 | 2024 年 2 月 | Campaign Web 用户界面 | [通过上传HTML创建电子邮件](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-an-email-by-uploading-html.html) | 视频 | 了解如何通过上传 HTML 创建电子邮件、如何使其与电子邮件设计器兼容以及如何将其转换为模板。 |
 | 2024 年 2 月 | Campaign Web 用户界面 | [取消订阅待办事项和不待办事项](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/additional-resources/unsubscribe-dos-and-do-nots.html) | 文章 | 使用管理取消订阅时要执行的操作以及要避免的操作的列表。 |
