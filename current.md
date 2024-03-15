@@ -6,9 +6,9 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 8911d232f3e218b9f5549d7626ef65ac92996bfc
+source-git-commit: 4c1b46ffb7598946d87cd1d61330cf2a694d853e
 workflow-type: tm+mt
-source-wordcount: '6115'
+source-wordcount: '6023'
 ht-degree: 65%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 65%
 
 ## 2024 年 3 月
 
-最新更新： **2024年3月13日**
+最新更新： **2024年3月15日**
 
 * [[!DNL Experience League] 活动和最新消息](#events)
 * [Adobe 认证](#certification)
@@ -40,8 +40,8 @@ ht-degree: 65%
 * [[!DNL Adobe Experience Cloud] - 中央界面和管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics)
-* [[!DNL Adobe Customer Journey Analytics]](#cja)
+* [[!DNL Adobe Analytics]](#analytics) （已发布） **3月13日**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) （已发布） **3月13日**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -67,15 +67,11 @@ ht-degree: 65%
 
 ### Experience League 活动
 
-已更新 **2024年3月**
+已更新 **2024年3月15日**
 
 +++详细信息
 
-* **Workfront** | 客户研讨会 | _管理员101：获取Workfront数据_ | 初次使用Workfront？ 加入我们的“新管理员”每月聚会，提出问题、获取资源和推荐、结识其他新管理员，对于此会议，了解Workfront中所有内容报告的最佳实践。 | **太平洋时间 3 月 13 日8:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,POtiORmhEE2cwlhRFM2JMw,dUgy5MAHzkeSpm357qe4Ww,lKFY7SPny0-i8YfbN5Ow3g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **Experience Manager** | AEM GEMS | _AEM创作和Edge Delivery Services快速入门_ | 加入AEM GEM网络研讨会，了解如何使用Edge Delivery Services进行AEM创作。 了解如何使用AEM云服务创建启用AEM的项目开发以及WYSIWYG创作。 | **太平洋时间 3 月 13 日9:00** | [注册](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-getting-started-with-aem-authoring-and-edge-delivery-services/)
-
-* **Experience Manager** | 网络研讨会 | _Espressos &amp; Experience Manager：为什么 AEM 在云中发挥的作用更大_ | 与 Adobe 专家一起讨论如何通过 Best Practice Analyzer 和 Cloud Acceleration Manager 等工具进行内容评估和迁移规划，确保顺利过渡到云。| **东部时间 3 月 14 日下午 1:00** | [注册](https://adobeevents.adobeconnect.com/e8jc5prppkfr/event/registration.html?campaign-id=ExL)
+* **Workfront** | 客户研讨会 | _管理员101 — 提出您的Workfront问题_ | 您是否错过了之前的Admin 101课程，或者您仍然有疑问？ 加入我们，我们将对该系列进行一小时的后续培训，在那里我们将总结会议内容并准备问答！ | **太平洋时间 3 月 20 日8:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,1YdEYKuO-0KE3ermHwWEfg,UN_LlgnRokKfDGTmj7vhVg,XjCFMeclLEmuHQZslDQYHw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **Adobe 峰会** | 数字体验会议 | _拓展您的技能，发现最新趋势，探索体验主导型成长的未来_ | 向领先品牌学习，探索生成式人工智能的未来，并为体验主导的成长做好准备。| **3 月 25 日至 28 日@拉斯维加斯，在线** | [报名](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
 
