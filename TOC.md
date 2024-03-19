@@ -6,7 +6,7 @@ breadcrumb-title: 发行说明
 user-guide-description: 了解 Adobe Experience Cloud 和 Experience Platform 中的新增功能、修复和重要注意事项。
 user-guide-url: https://www.adobe.com
 source-git-commit: 7f81cfa7c0a9353d65ba724e90ad60d7d4f5da34
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '89'
 ht-degree: 100%
 
