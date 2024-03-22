@@ -6,9 +6,9 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e82e5513e7dcc435eaa1182db8c6ff3f246d47f3
+source-git-commit: ea0c4b9aaed870ca77014eed1db8a3915a937d2f
 workflow-type: tm+mt
-source-wordcount: '5974'
+source-wordcount: '6002'
 ht-degree: 99%
 
 ---
@@ -714,6 +714,12 @@ Adobe Commerce 的新文章和现有文章的更新。
 
 +++详细信息
 
+### [!DNL Adobe Workfront] 更新
+
+* 请参阅 [Adobe Workfront产品版本](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/product-releases) Workfront发行计划信息和发行说明页面。
+
+* 请参阅 [Adobe Workfront Fusion发行版活动概述](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/fusion-release/fusion-release-activity) 了解有关Fusion的最新信息。
+
 ### 新 Adobe [!DNL Workfront] 课程和教程 {#tutorials-workfront}
 
 Experience League 上的新 [!DNL Workfront] 教程。
@@ -741,7 +747,7 @@ New articles and updates to existing articles for [!DNL Workfront].
 {style="table-layout:auto"}
 -->
 
-有关所有产品最新信息的摘要，请参阅 [[!DNL Workfront] 产品版本](https://experienceleague.adobe.com/docs/workfront/using/product-announcements/product-releases/product-releases.html?lang=zh-Hans)页面。
+有关最新的产品文档，请参阅 [Adobe [!DNL Workfront] 文档主页](https://experienceleague.adobe.com/en/docs/workfront/using/home).
 
 +++
 
