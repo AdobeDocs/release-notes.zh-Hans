@@ -6,9 +6,9 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4c1b46ffb7598946d87cd1d61330cf2a694d853e
+source-git-commit: e82e5513e7dcc435eaa1182db8c6ff3f246d47f3
 workflow-type: tm+mt
-source-wordcount: '6023'
+source-wordcount: '5974'
 ht-degree: 99%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 99%
 
 ## 2024 年 3 月
 
-最新更新： **2024年3月15日**
+最新更新： **2024年3月22日**
 
 * [[!DNL Experience League] 活动和最新消息](#events)
 * [Adobe 认证](#certification)
@@ -70,8 +70,6 @@ ht-degree: 99%
 已更新 **2024年3月15日**
 
 +++详细信息
-
-* **Workfront** | 客户研讨会 | _管理员101 — 提出您的Workfront问题_ | 您是否错过了之前的Admin 101课程，或者您仍然有疑问？ 加入我们，我们将对该系列进行一小时的后续培训，在那里我们将总结会议内容并准备问答！ | **太平洋时间 3 月 20 日 8:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,1YdEYKuO-0KE3ermHwWEfg,UN_LlgnRokKfDGTmj7vhVg,XjCFMeclLEmuHQZslDQYHw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **Adobe 峰会** | 数字体验会议 | _拓展您的技能，发现最新趋势，探索体验主导型成长的未来_ | 向领先品牌学习，探索生成式人工智能的未来，并为体验主导的成长做好准备。| **3 月 25 日至 28 日@拉斯维加斯，在线** | [报名](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
 
