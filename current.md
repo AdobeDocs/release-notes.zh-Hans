@@ -6,10 +6,10 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ea0c4b9aaed870ca77014eed1db8a3915a937d2f
+source-git-commit: 76b633e2b12a93934e043c2e71636de51453dfe5
 workflow-type: tm+mt
-source-wordcount: '6002'
-ht-degree: 99%
+source-wordcount: '6053'
+ht-degree: 94%
 
 ---
 
@@ -32,9 +32,9 @@ ht-degree: 99%
 
 ## 2024 年 3 月
 
-最新更新： **2024年3月22日**
+最新更新： **2024年3月29日**
 
-* [[!DNL Experience League] 活动和最新消息](#events)
+* [[!DNL Experience League] 活动和更新](#events) (已更新 **3月29日**)
 * [Adobe 认证](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 中央界面和管理](#ecloud)
@@ -67,23 +67,25 @@ ht-degree: 99%
 
 ### Experience League 活动
 
-已更新 **2024年3月15日**
+已更新 **2024年3月29日**
 
 +++详细信息
 
-* **Adobe 峰会** | 数字体验会议 | _拓展您的技能，发现最新趋势，探索体验主导型成长的未来_ | 向领先品牌学习，探索生成式人工智能的未来，并为体验主导的成长做好准备。| **3 月 25 日至 28 日@拉斯维加斯，在线** | [报名](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
-
-* **ANALYTICS** | Experience Makers：技能交流 | _面向 Adobe Analytics 的 Adobe Summit 上的技能交流_ | 2024 年 3 月 28 日，我们将在拉斯维加斯的峰会上举办 Adobe Analytics 技能交流活动！立即预注册，从 Analytics 客户以及专业人士那里学习相关的提示、窍门和最佳实践。| **太平洋时间 3 月 28 日 9:00** | [注册](https://reg.adobe.com/flow/adobe/as24/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&amp;search=952%20953)
-
-* **EXPERIENCE MANAGER** | Experience Makers：技能交流 | _面向 AEM 的 Adobe Summit 上的技能交流_ | 2024 年 3 月 28 日，我们将在拉斯维加斯的峰会上举办 AEM 技能交流活动！立即预注册，从 AEM 客户以及专业人士那里学习相关的提示、窍门和最佳实践。| **太平洋时间 3 月 28 日 9:00** | [注册](https://reg.adobe.com/flow/adobe/as24/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&amp;search=950%20951)
-
-* **EXPERIENCE MANAGER** | Experience Makers：技能交流 | _面向 Marketo Engage 的 Adobe Summit 上的技能交流_ | 2024 年 3 月 28 日，我们将在拉斯维加斯的峰会上举办 Marketo Engage 技能交流活动！立即预注册，从 Marketo Engage 客户以及专业人士那里学习相关的提示、窍门和最佳实践。| **太平洋时间 3 月 28 日 9:00** | [注册](https://reg.adobe.com/flow/adobe/as24/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&amp;search=954%20955)
-
-* **WORKFRONT** | Experience Makers：技能交流 | _面向 Workfront 的 Adobe Summit 上的技能交流_ | 2024 年 3 月 28 日，我们将在拉斯维加斯的峰会上举办 Adobe Workfront 技能交流活动！立即预注册，从 Workfront 客户那里学习相关的提示、窍门和最佳实践。| **太平洋时间 3 月 28 日 9:00** | [注册](https://reg.adobe.com/flow/adobe/as24/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&amp;search=956%20957)
-
 * **Workfront** | 社区活动 | _互动沟通：有关营销和创意方面的管理员聊天_ | 您是营销或创意团队的系统管理员吗？这次由客户推动的活动将让您与其他管理员交流以讨论最佳实践、提示和提示。| **太平洋时间 4 月 5 日上午 9:00** | [登记](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,S3qiBpspOUyiG7Vl_PtPXg,rFPUK2gma0OCogFhuCyzjw,nTcEntnvgkePuH01JzrsQw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
+* **Workfront** | 客户研讨会 | _Admin 101： Workfront快速入门_ | 初次使用Workfront？ 加入我们的Admin 101每月聚会，提出问题、获取资源、学习最佳实践并会见其他新管理员。 本课程将重点介绍初始设置和配置。 | **太平洋时间 4 月 10 日8:00** | [登记](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,8EcZ9ObE6E6vfXJJKbUE-Q,c4BGCPZ3kEetwRnBo4FL-A,AfPWNe36XUiXIb3Ne0B3mQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Workfront** | 客户研讨会 | _了解： Adobe Workfront 2024年第二季度发布综述_ | 加入其他Workfront系统管理员，查看2024年第二季度版本中包含的最新增强功能。 我们将讨论好处、推出计划和管理更改。 | **太平洋时间 4 月 16 日8:00** | [登记](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,e3igCVj87kW2XCHT56EQog,RwH5xRVhtUSV93mv6mLh6w,HHrnE5sxuUyzPXNKDAYCdg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Marketo Engage** | 向同行学习 | _解锁强大的工作流自动化：Marketo EngageREST API的实际应用_ | 加入我们，从实际用例中获得灵感，这些用例说明了如何使用REST API简化工作流，例如批量合并潜在客户、创建UTM跟踪程序以及利用ChatGPT优化发送时间。 | **太平洋时间 4 月 17 日8:00** | [登记](https://engage.adobe.com/marketo-Unlocking-Powerful-Workflow-Automation-registration.html?cgen=4SC98Z4B&amp;mv=other)
+
+* **Workfront** | 客户研讨会 | _了解：Adobe Workfront中的10个文本模式提示_ | 希望通过文本模式扩展您的报告知识？ 别再看了！ 此研讨会将简要介绍文本模式的基础知识和API Explorer，随后将介绍Adobe Workfront中的10个文本模式提示。 | **太平洋时间 4 月 18 日上午 9:00** | [登记](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,--xUIfX6gEqCcuYNDuE5IA,S8LJKpyI4kywiEO88_bvdg,Z6HaWjLNV0CaMzwT0JeWQg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
 在 Experience League 上查看更多[即将举行的活动](https://experienceleague.adobe.com/events/)或浏览[活动录像](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=zh-Hans)。
+
+* **Workfront** | 社区活动 | _连接： Workfront Collective_ | 与您的Workfront系统管理员同行一起参加这个每月一次的集体集思广益和分享会议，我们将在其中讨论最新的更新和最佳实践。 | **太平洋时间 4 月 22 日6:00** | [登记](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,PLjes69h2kitBUQrGr_tSQ,9hwaemfUG0uEqL-RwJW9fQ,OzGfEfueq0yp19zAhpjfwA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Workfront** | 问答聊天 | _提问：迁移到Adobe业务平台_ | 加入我们，与我们的技术支持工程师一起进行问答，了解期待什么，以及如何为Adobe业务平台迁移做好最佳准备。 | **太平洋时间 4 月 23 日8:00** | [登记](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,wXdzewqwQEO_SiY5SC4i2Q,r3bZVp0PVkObL30IXUw5iA,1p0c3CZ2qEGQBAZpsDvvEw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 +++
 
