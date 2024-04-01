@@ -6,7 +6,7 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 76b633e2b12a93934e043c2e71636de51453dfe5
+source-git-commit: f768519d6c60ae2865ac881126a30d819b3c8846
 workflow-type: tm+mt
 source-wordcount: '6053'
 ht-degree: 94%
@@ -32,7 +32,7 @@ ht-degree: 94%
 
 ## 2024 年 3 月
 
-最新更新： **2024年3月29日**
+最新更新： **2024年3月31日**
 
 * [[!DNL Experience League] 活动和更新](#events) (已更新 **3月29日**)
 * [Adobe 认证](#certification)
@@ -67,7 +67,7 @@ ht-degree: 94%
 
 ### Experience League 活动
 
-已更新 **2024年3月29日**
+已更新 **2024年3月31日**
 
 +++详细信息
 
@@ -81,11 +81,11 @@ ht-degree: 94%
 
 * **Workfront** | 客户研讨会 | _了解：Adobe Workfront中的10个文本模式提示_ | 希望通过文本模式扩展您的报告知识？ 别再看了！ 此研讨会将简要介绍文本模式的基础知识和API Explorer，随后将介绍Adobe Workfront中的10个文本模式提示。 | **太平洋时间 4 月 18 日上午 9:00** | [登记](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,--xUIfX6gEqCcuYNDuE5IA,S8LJKpyI4kywiEO88_bvdg,Z6HaWjLNV0CaMzwT0JeWQg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-在 Experience League 上查看更多[即将举行的活动](https://experienceleague.adobe.com/events/)或浏览[活动录像](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=zh-Hans)。
-
 * **Workfront** | 社区活动 | _连接： Workfront Collective_ | 与您的Workfront系统管理员同行一起参加这个每月一次的集体集思广益和分享会议，我们将在其中讨论最新的更新和最佳实践。 | **太平洋时间 4 月 22 日6:00** | [登记](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,PLjes69h2kitBUQrGr_tSQ,9hwaemfUG0uEqL-RwJW9fQ,OzGfEfueq0yp19zAhpjfwA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **Workfront** | 问答聊天 | _提问：迁移到Adobe业务平台_ | 加入我们，与我们的技术支持工程师一起进行问答，了解期待什么，以及如何为Adobe业务平台迁移做好最佳准备。 | **太平洋时间 4 月 23 日8:00** | [登记](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,wXdzewqwQEO_SiY5SC4i2Q,r3bZVp0PVkObL30IXUw5iA,1p0c3CZ2qEGQBAZpsDvvEw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+在 Experience League 上查看更多[即将举行的活动](https://experienceleague.adobe.com/events/)或浏览[活动录像](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=zh-Hans)。
 
 +++
 
