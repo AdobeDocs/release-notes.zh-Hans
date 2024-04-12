@@ -6,10 +6,10 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f768519d6c60ae2865ac881126a30d819b3c8846
+source-git-commit: e581a323e92bda30c755d7030c024edb06c6f6a1
 workflow-type: tm+mt
-source-wordcount: '6053'
-ht-degree: 94%
+source-wordcount: '5962'
+ht-degree: 95%
 
 ---
 
@@ -71,10 +71,6 @@ ht-degree: 94%
 
 +++详细信息
 
-* **Workfront** | 社区活动 | _互动沟通：有关营销和创意方面的管理员聊天_ | 您是营销或创意团队的系统管理员吗？这次由客户推动的活动将让您与其他管理员交流以讨论最佳实践、提示和提示。| **太平洋时间 4 月 5 日上午 9:00** | [登记](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,S3qiBpspOUyiG7Vl_PtPXg,rFPUK2gma0OCogFhuCyzjw,nTcEntnvgkePuH01JzrsQw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **Workfront** | 客户研讨会 | _Admin 101： Workfront快速入门_ | 初次使用Workfront？ 加入我们的Admin 101每月聚会，提出问题、获取资源、学习最佳实践并会见其他新管理员。 本课程将重点介绍初始设置和配置。 | **太平洋时间 4 月 10 日8:00** | [登记](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,8EcZ9ObE6E6vfXJJKbUE-Q,c4BGCPZ3kEetwRnBo4FL-A,AfPWNe36XUiXIb3Ne0B3mQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **Workfront** | 客户研讨会 | _了解： Adobe Workfront 2024年第二季度发布综述_ | 加入其他Workfront系统管理员，查看2024年第二季度版本中包含的最新增强功能。 我们将讨论好处、推出计划和管理更改。 | **太平洋时间 4 月 16 日8:00** | [登记](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,e3igCVj87kW2XCHT56EQog,RwH5xRVhtUSV93mv6mLh6w,HHrnE5sxuUyzPXNKDAYCdg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **Marketo Engage** | 向同行学习 | _解锁强大的工作流自动化：Marketo EngageREST API的实际应用_ | 加入我们，从实际用例中获得灵感，这些用例说明了如何使用REST API简化工作流，例如批量合并潜在客户、创建UTM跟踪程序以及利用ChatGPT优化发送时间。 | **太平洋时间 4 月 17 日8:00** | [登记](https://engage.adobe.com/marketo-Unlocking-Powerful-Workflow-Automation-registration.html?cgen=4SC98Z4B&amp;mv=other)
@@ -91,7 +87,7 @@ ht-degree: 94%
 
 ## ![图标](/assets/experience-league.png) Adobe 内容供应链 {#content-supply-chain}
 
-了解[内容供应链](https://business.adobe.com/solutions/adobe-genstudio.html)，Adobe 的端到端解决方案，它可以通过生成式人工智能和智能自动化加速和简化您的内容。
+了解 [内容供应链](https://business.adobe.com/solutions/adobe-genstudio.html)，是Adobe的端到端解决方案，借助创作AI和智能自动化加速和简化您的内容。
 
 +++详细信息
 
