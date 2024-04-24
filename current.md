@@ -6,9 +6,9 @@ last-update: April 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: af76851090b09db9cc561e43f12ff735b0e992e8
+source-git-commit: d650848e6b2726166669a50d03f73cd1d6db5630
 workflow-type: tm+mt
-source-wordcount: '6240'
+source-wordcount: '6106'
 ht-degree: 99%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 99%
 
 ## 2024 年 4 月
 
-最新更新日期：**2024 年 4 月 17 日**
+最新更新： **2024年4月24日**
 
 * [[!DNL Experience League] 活动和最新消息](#events)
 * [Adobe 认证](#certification)
@@ -70,13 +70,6 @@ ht-degree: 99%
 已更新 **2024年4月19日**
 
 +++详细信息
-
-* **WORKFRONT** | 社区活动 | _连接：Workfront Collective_ | 与其他 Workfront Sys Admins 一起参加每月一次的集体头脑风暴和分享会议，我们将在其中讨论最新更新和最佳实践。| **太平洋时间 4 月 22 日上午 6:00** | [登记](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,PLjes69h2kitBUQrGr_tSQ,9hwaemfUG0uEqL-RwJW9fQ,OzGfEfueq0yp19zAhpjfwA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **WORKFRONT** | 问答聊天 | _询问：迁移到 Adobe Business Platform_ | 与我们的技术支持工程师一起进行问答，了解预期结果以及如何为 Adobe Business Platform 迁移做好最佳准备。| **太平洋时间 4 月 23 日上午 8:00** | [登记](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,wXdzewqwQEO_SiY5SC4i2Q,r3bZVp0PVkObL30IXUw5iA,1p0c3CZ2qEGQBAZpsDvvEw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-
-* **WORKFRONT** | 向同行学习 | _为您的系统管理员实践配备人员_ | 您需要多少名管理员来支持 Workfront？视情况而定！4 月 25 日，加入我们，听取 Dell 和 Adobe 的同行的意见，了解如何通过今天聘用合适的管理员来帮助您避免将来代价高昂的错误。| **太平洋时间 4 月 23 日上午 8:00** | [登记](https://webinars.on24.com/adobe_workfront/AdoptionStaffingAdmin?partnerref=exl)
 
 * **WORKFRONT** | 咨询专家：Fusion 操作 | _为您的系统管理员实践配备人员_ | 与专家 Andy Hess 一起了解有关 Adobe Workfront Fusion 中的操作的更多信息，包括如何量化它们，以及在您的场景中优化它们使用的技巧和窍门。| **太平洋时间 4 月 30 日上午 10:30** | [登记](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,XHiAwIIUlkqflbNCknr0rg,0-0SB3dRmU-HJRCgnAYtvA,T-_WWmP7z0q7uBFxnmdNLw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
