@@ -6,10 +6,10 @@ last-update: April 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: d650848e6b2726166669a50d03f73cd1d6db5630
+source-git-commit: 3f72ee17f088aa775dd54e62937f4e3ca3333eb4
 workflow-type: tm+mt
-source-wordcount: '6106'
-ht-degree: 99%
+source-wordcount: '6189'
+ht-degree: 98%
 
 ---
 
@@ -74,6 +74,10 @@ ht-degree: 99%
 * **WORKFRONT** | 咨询专家：Fusion 操作 | _为您的系统管理员实践配备人员_ | 与专家 Andy Hess 一起了解有关 Adobe Workfront Fusion 中的操作的更多信息，包括如何量化它们，以及在您的场景中优化它们使用的技巧和窍门。| **太平洋时间 4 月 30 日上午 10:30** | [登记](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,XHiAwIIUlkqflbNCknr0rg,0-0SB3dRmU-HJRCgnAYtvA,T-_WWmP7z0q7uBFxnmdNLw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **JOURNEY OPTIMIZER** | 咖啡休息时间 | _Adobe Journey Optimizer 社区问答咖啡休息时间_ | 与 Adobe Journey Optimizer 专家一起提出您的问题并围绕 Journey Optimizer 中新的基于代码的体验渠道进行讨论。| **太平洋时间 5 月 8 日上午 8:00** | [注册](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-may-1st-with-adobe-journey/ev-p/666816)
+
+* **Commerce** | 网络研讨会 | _Commerce与Coffee：掌握电子商务要点_ | 加入资深Commerce战略顾问Corey Gelato，分享电子商务要件以取得成功，包括个性化的客户促销活动、忠诚度计划以及优化的付款和配送流程。 | **太平洋时间 5 月 2 日10:00** | [注册](https://adobeevents.adobeconnect.com/ewpnh2ilj4ee/event/registration.html?campaign-id=ExL)
+
+* **Commerce** | 客户研讨会 | _Admin 101：让用户使用Workfront_ | 新到Workfront？ 加入我们的Admin 101每月聚会，提出问题、获取资源、学习最佳实践并会见其他新管理员。 本月，我们将讨论用户采用问题！ | **太平洋时间 5 月 8 日上午 8:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MYqYLHh3CEGjU5wABOZ3YQ,dCdeXlXv8EaBK4cc0csabA,Rc4VZTp9mkmagh_nu3e3hg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 在 Experience League 上查看 [即将举行的活动](https://experienceleague.adobe.com/events/)或浏览[活动录像](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview)。
 
