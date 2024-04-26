@@ -6,9 +6,9 @@ last-update: April 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3f72ee17f088aa775dd54e62937f4e3ca3333eb4
+source-git-commit: 6859f12eeda24987eba695b25bac8b1b98f7b96d
 workflow-type: tm+mt
-source-wordcount: '6189'
+source-wordcount: '6236'
 ht-degree: 98%
 
 ---
@@ -67,7 +67,7 @@ ht-degree: 98%
 
 ### Experience League 活动
 
-已更新 **2024年4月19日**
+已更新 **2024年4月26日**
 
 +++详细信息
 
@@ -77,7 +77,9 @@ ht-degree: 98%
 
 * **Commerce** | 网络研讨会 | _Commerce与Coffee：掌握电子商务要点_ | 加入资深Commerce战略顾问Corey Gelato，分享电子商务要件以取得成功，包括个性化的客户促销活动、忠诚度计划以及优化的付款和配送流程。 | **太平洋时间 5 月 2 日10:00** | [注册](https://adobeevents.adobeconnect.com/ewpnh2ilj4ee/event/registration.html?campaign-id=ExL)
 
-* **Commerce** | 客户研讨会 | _Admin 101：让用户使用Workfront_ | 新到Workfront？ 加入我们的Admin 101每月聚会，提出问题、获取资源、学习最佳实践并会见其他新管理员。 本月，我们将讨论用户采用问题！ | **太平洋时间 5 月 8 日上午 8:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MYqYLHh3CEGjU5wABOZ3YQ,dCdeXlXv8EaBK4cc0csabA,Rc4VZTp9mkmagh_nu3e3hg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **Workfront** | 客户研讨会 | _Admin 101：让用户使用Workfront_ | 初次使用Workfront？ 加入我们的Admin 101每月聚会，提出问题、获取资源、学习最佳实践并会见其他新管理员。 本月，我们将讨论用户采用问题！ | **太平洋时间 5 月 8 日上午 8:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MYqYLHh3CEGjU5wABOZ3YQ,dCdeXlXv8EaBK4cc0csabA,Rc4VZTp9mkmagh_nu3e3hg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Workfront** | 社区活动 | _Workfront产业圈：高等教育_ | 如果您是Workfront高等教育客户，并且希望与其他管理员一起解决问题并分享学习经验，请加入我们，与WGU合作进行1小时的公开讨论。 | **太平洋时间 5 月 9 日上午 8:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,jHukwQBRqkKZAQQmjDUyUg,MMnd2IdMvUmPnHLRw6PKLg,Cp-GtpugCkeOq3zdsIZDsQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 在 Experience League 上查看 [即将举行的活动](https://experienceleague.adobe.com/events/)或浏览[活动录像](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview)。
 
