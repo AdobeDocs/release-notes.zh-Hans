@@ -6,9 +6,9 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 270b9743ab0d3da4ccf830e512c881d536787b8e
+source-git-commit: 57bfa1093269549f16f34757ee9e083472098800
 workflow-type: tm+mt
-source-wordcount: '6443'
+source-wordcount: '6445'
 ht-degree: 53%
 
 ---
@@ -77,7 +77,7 @@ ht-degree: 53%
 
 * **Workfront** | 茶歇 | _Adobe Workfront社区问答喝咖啡休息时间：Adobe业务平台迁移_ | 与社区中的Workfront专家一起提问，即可了解有关Adobe业务平台、贵组织迁移到Adobe Admin Console等的任何问题！ | **太平洋时间 5 月 29 日上午 8:00** | [注册](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-wednesday-may-29th-at-8am-pt-best/ev-p/668763)
 
-在 Experience League 上查看 [即将举行的活动](https://experienceleague.adobe.com/events/)或浏览[活动录像](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview)。
+查看更多 [即将举行的活动](https://experienceleague.adobe.com/events/) 或浏览 [以往活动录制](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) Experience League时。
 
 +++
 
