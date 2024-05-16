@@ -6,9 +6,9 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 57bfa1093269549f16f34757ee9e083472098800
+source-git-commit: 776ff803675808b4695782c2fef15858a555bbae
 workflow-type: tm+mt
-source-wordcount: '6445'
+source-wordcount: '6449'
 ht-degree: 53%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 53%
 
 ## 2024 年 5 月
 
-最新更新： **2024年5月15日**
+最新更新： **2024年5月16日**
 
 * [[!DNL Experience League] 活动和最新消息](#events)
 * [Adobe 认证](#certification)
@@ -228,7 +228,7 @@ ht-degree: 53%
 
 [!DNL Analytics] 发行日期： **2024年5月15日**
 
-* [!DNL Analytics] [发行说明](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=zh-Hans)
+* [!DNL Analytics] [发行说明](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest)
 
 * [!DNL Analytics] [产品文档和教程](https://experienceleague.adobe.com/en/docs/analytics)
 
@@ -466,10 +466,10 @@ _已知问题_
 | 2024 年 5 月 | [!DNL AEM Sites] | [生成变体 — 在Edge Delivery Services中提示模板](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations/prompt-templates) | 视频 | 探索如何使用 Edge Delivery Services 文档创作中的生成式 AI 提示模板来生成内容变化。 |
 | 2024 年 5 月 | [!DNL AEM Sites] | [生成变体 — Edge Delivery Services中的自定义提示模板](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations/custom-prompt-templates) | 视频 | 了解如何在Edge Delivery Services文档创作中构建用于生成变体的自定义提示模板。 |
 | 2024 年 5 月 | [!DNL AEM Sites] | [生成变体 — 在Edge Delivery Services中保存自定义提示模板](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations/save-custom-prompt-template) | 视频 | 探索如何在 Edge Delivery Services 文档创作中保存生成式 AI 自定义提示模板，以生成内容变化。 |
-| 2024 年 5 月 | [!DNL AEM Sites] | [配置 Sidekick 以在 Edge Delivery Services 中生成变体](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations-sidekick-config.html?lang=en) | 视频 | 探索如何配置 Sidekick 以在 Edge Delivery Services 文档创作中生成变体。 |
+| 2024 年 5 月 | [!DNL AEM Sites] | [配置 Sidekick 以在 Edge Delivery Services 中生成变体](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations/configure-sidekick) | 视频 | 探索如何配置 Sidekick 以在 Edge Delivery Services 文档创作中生成变体。 |
 | 2024 年 5 月 | [!DNL AEM Assets] | [导出资产](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/sharing/export) | 文章 | 了解如何使用可自定义的资源导出到本地计算机 `Node.js` 脚本。 此导出脚本提供了一个示例，说明如何使用以编程方式从AEM下载资源 [!DNL AEM Assets] HTTP API，尤其侧重于原始演绎版以确保最高质量。 |
 | 2024 年 5 月 | [!DNL AEM Forms] | [使用GuideBridge APIPOST表单数据](https://experienceleague.adobe.com/en/docs/experience-manager-learn/forms/core-component-based-forms/submit-data-using-guidebridge-api) | 文章 | 使用 [!UICONTROL 保存并继续] ，以保存填写表单的进度，并稍后恢复该表单。 |
-| 2024 年 5 月 | [!DNL AEM Sites] | [中的创作AI [!DNL AEM Sites]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-generative-ai-for-aem-sites.html) | 视频 | 探索中可用的新创作AI功能 [!DNL AEM Sites] 文档创作。 |
+| 2024 年 5 月 | [!DNL AEM Sites] | [中的创作AI [!DNL AEM Sites]](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-generative-ai-for-aem-sites) | 视频 | 探索中可用的新创作AI功能 [!DNL AEM Sites] 文档创作。 |
 | 2024 年 5 月 | [!DNL AEM Forms] | [使用ChatBot填写PDF表单](https://experienceleague.adobe.com/en/docs/experience-manager-learn/forms/chatbot-and-aem-forms/introduction) | 视频 | 了解如何使用聊天机器人填写PDF表单。 |
 | 2024 年 5 月 | AEM Headless | [保护 AEM Headless 中的内容](https://experienceleague.adobe.com/en/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/protected-content) | 文章 | 了解如何保护AEM Headless中的内容。 |
 | 2024 年 5 月 | AEM CS | [高级联网](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/cloud-service/networking/advanced-networking) | 文章 | 了解AEMas a Cloud Service的高级联网选项。 |
@@ -497,13 +497,13 @@ _已知问题_
 | 2024 年 4 月 | [[!DNL Marcom]  — 修订版清理未显示在每日维护下 —  [!DNL AEM]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24037) | 新文章 | 了解 [!UICONTROL 修订清理] 中的任务 [!DNL Adobe Experience Manager (AEM)] UI位于 [!UICONTROL 日常维护]，尤其是在升级到 [!DNL SP17]，并提供有关管理方面的洞察  [!UICONTROL 修订垃圾收集] 使用时 [!DNL MongoDB] 作为数据存储。 |
 | 2024 年 4 月 | [禁用全文搜索依据 [!DNL mime] 带有自定义内容的类型 [!DNL Tika] 中的配置 [!DNL AEM]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24046) | 新文章 | 了解如何自定义 [!DNL Tika] 用于禁用基于文件的全文搜索的配置 [!DNL mime] 类型。 |
 | 2024 年 4 月 | [[!DNL Scene7]：选择海报帧或视频缩略图](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24053) | 新文章 | 了解如何在中指定特定的视频缩略图或海报图像 [!DNL Adobe Experience Manager (AEM)] 在上下文中 [!DNL Scene7]，现在称为 **[!DNL Dynamic Media]**. |
-| 2024 年 4 月 | [如何添加 `stricthostcheck` 在 [!DNL AEMaaCS] dispatcher配置](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24069) | 新文章 | 了解如何添加 `stricthostcheck` 在 [!DNL AEMaaCS] dispatcher配置。 |
+| 2024 年 4 月 | [如何添加 `stricthostcheck` 在 [!DNL AEMaaCS] Dispatcher配置](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24069) | 新文章 | 了解如何添加 `stricthostcheck` 在 [!DNL AEMaaCS] Dispatcher配置。 |
 | 2024 年 4 月 | [[!DNL Adobe Experience Manager]：无法查看 [!DNL Java] 来源 [!DNL JSP/HTL] 下 `/libs`](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24079) | 新文章 | 了解如何查看 [!DNL Java] 来源 [!DNL JSP/HTL] 下 `/libs` 通过禁用 [!DNL Adobe Experience Manager as a Cloud Service's aem-precompiled-scripts] 捆绑。 |
 | 2024 年 4 月 | [[!DNL Adobe Experience Manager]：针对的第一个调查步骤 `No renderer for extension html`](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24080) | 新文章 | 了解错误消息的原因： `No renderer for extension html`，尝试在中打开网页时遇到问题 [!DNL Adobe Experience Manager]. |
 | 2024 年 4 月 | [清除 [!DNL Fastly CDN] 使用时缓存 [!DNL WAF] 或 [!DNL BYOCDN]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24097) | 新文章 | 了解如何为以下对象配置缓存清除 [!DNL AEM as a Cloud Service] 使用 [!DNL Web Application Firewall (WAF)] 或自定义 [!DNL CDN] 解决方案([!DNL BYOCDN])。 了解如何导航这些复杂的设置对于保持高效的内容交付至关重要。 |
 | 2024 年 4 月 | [了解 [!UICONTROL 累计查询执行时间] 在 [!DNL AEM]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24128) | 新文章 | 了解如何在中了解查询性能疑难解答 [!DNL AEM]. |
 | 2024 年 4 月 | [页面在预览时显示不正确](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24147) | 新文章 | 了解在云中预览页面时的解决方案([!DNL AEMaaCS])预览环境，页面可能无法加载 [!DNL CSS]页面模板中包含的、格式或体验片段。 |
-| 2024 年 4 月 | [操作方法 [!DNL flush] 当存在具有单独缓存文件夹的场时调度程序缓存](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24023) | 新文章 | 了解如何 [!DNL flush] 当存在具有单独缓存文件夹的场时，Dispatcher缓存。 |
+| 2024 年 4 月 | [操作方法 [!DNL flush] 当存在具有单独缓存文件夹的场时，Dispatcher缓存](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24023) | 新文章 | 了解如何 [!DNL flush] 当存在具有单独缓存文件夹的场时，Dispatcher缓存。 |
 
 {style="table-layout:auto"}
 
@@ -659,7 +659,7 @@ New or updated videos tutorials published for Adobe Campaign.
 
 | 发布日期 | 名称 | 类型 | 描述 |
 | -----------| ---------- | ---------- | ---------- |
-| 2024 年 5 月 | [创建操作](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/configuration/journey-configuration/create-actions.html) | 视频 | 了解操作是什么，如何在中使用编辑配置文件和跳转操作 [!DNL Journey Optimizer]以及如何配置自定义操作。 |
+| 2024 年 5 月 | [创建操作](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/journey-configuration/create-actions) | 视频 | 了解操作是什么，如何在中使用编辑配置文件和跳转操作 [!DNL Journey Optimizer]以及如何配置自定义操作。 |
 | 2024 年 5 月 | [使用消息编辑器导入和创作 HTML 电子邮件内容](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content) | 视频 | 了解如何导入现有 HTML 内容、调整设计、添加镜像页面和取消订阅链接，以及如何对内容进行编码。 |
 | 2024 年 5 月 | [配置MMS API凭据和渠道平面](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/configure-mms-api-credentials-and-channel-surfaces) | 视频 | 了解如何连接 [!DNL Journey Optimizer] MMS服务提供商以及如何创建MMS渠道平面。 |
 | 2024 年 5 月 | [创建基于代码的体验营销活动](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/code-based-experience-channel/create-a-code-based-experience-campaign) | 视频 | 了解如何创建基于代码的体验促销活动，以支持服务器端、基于API或基于SDK的实施方法来扩展个性化，从而与开发环境无缝集成。 |
@@ -668,7 +668,7 @@ New or updated videos tutorials published for Adobe Campaign.
 ### [!DNL Journey Optimizer] 的更多资源
 
 * [[!DNL Journey Optimizer] 文档](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/ajo-home) - [发行说明](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes) - [操作方法视频](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/overview)
-* [决策管理文档](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/starting-offer-decisioning) — [发行说明](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes) — [操作方法视频](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-management/introduction-to-decision-management) — [最新文档更新](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/documentation-updates)
+* [决策管理文档](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/starting-offer-decisioning) — [发行说明](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes) — [操作方法视频](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-management/introduction-to-decision-management) — [最新文档更新](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/documentation-updates)
 
 +++
 
