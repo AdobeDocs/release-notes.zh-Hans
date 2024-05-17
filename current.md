@@ -6,9 +6,9 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 776ff803675808b4695782c2fef15858a555bbae
+source-git-commit: 3bfd6c90c7d3113f95e46b8f355cb581835b3242
 workflow-type: tm+mt
-source-wordcount: '6449'
+source-wordcount: '6457'
 ht-degree: 53%
 
 ---
@@ -71,7 +71,7 @@ ht-degree: 53%
 
 +++详细信息
 
-* **Workfront** | 问答聊天 | _咨询专家：为您的管理实践配备人员 — 网络研讨会跟进_ | 与您的同行以及戴尔专家一起，Adobe我们的网络研讨会后续活动，继续讨论如何配置您的管理实践。 | **太平洋时间 5 月 16 日上午 8:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,GXUvIFWKiEanOME_WMN1Hw,BMP5cgCS5UOxsAdDHNDUyw,RoMIPwb8AkKNMLe_k5S2ww?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **Real-time Customer Data Platform和TARGET** | 网络研讨会 | _完美结合：RTCDP、Target和Friends_ | 与高级解决方案顾问Josh Kimball一起分享RTCDP如何将跨渠道数据整合到客户配置文件中并无缝连接到Adobe Target以激活这些区段的个性化策略。 | **5月23日凌晨1:00（东部时间）** | [注册](https://adobeevents.adobeconnect.com/ev550gaxnx7r/event/registration.html?campaign-id=ExL)
 
 * **Workfront** | 社区活动 | _Adobe Workfront行业圈：零售_ | 如果您是零售业的Workfront客户，并且希望与其他管理员一起解决问题并分享所学到的知识，请加入我们，在DSW和Nordstrom的管理员领导下，进行1小时的公开讨论。 | **太平洋时间 5 月 23 日11:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,vFfS8Q7qMUCtqS73wkJMig,sz-whm3Hyka_fhpfall8TA,DCY8aPpdN069tKqlYeJMyQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
