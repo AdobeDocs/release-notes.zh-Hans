@@ -6,9 +6,9 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3bfd6c90c7d3113f95e46b8f355cb581835b3242
+source-git-commit: 45296141bb022d720f3d50d1dfe282224bde72d1
 workflow-type: tm+mt
-source-wordcount: '6457'
+source-wordcount: '6546'
 ht-degree: 53%
 
 ---
@@ -67,7 +67,7 @@ ht-degree: 53%
 
 ### Experience League 活动
 
-已更新 **2024年5月15日**
+已更新 **2024年5月17日**
 
 +++详细信息
 
@@ -76,6 +76,10 @@ ht-degree: 53%
 * **Workfront** | 社区活动 | _Adobe Workfront行业圈：零售_ | 如果您是零售业的Workfront客户，并且希望与其他管理员一起解决问题并分享所学到的知识，请加入我们，在DSW和Nordstrom的管理员领导下，进行1小时的公开讨论。 | **太平洋时间 5 月 23 日11:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,vFfS8Q7qMUCtqS73wkJMig,sz-whm3Hyka_fhpfall8TA,DCY8aPpdN069tKqlYeJMyQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **Workfront** | 茶歇 | _Adobe Workfront社区问答喝咖啡休息时间：Adobe业务平台迁移_ | 与社区中的Workfront专家一起提问，即可了解有关Adobe业务平台、贵组织迁移到Adobe Admin Console等的任何问题！ | **太平洋时间 5 月 29 日上午 8:00** | [注册](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-wednesday-may-29th-at-8am-pt-best/ev-p/668763)
+
+* **Workfront** | 网络研讨会 | _唤醒Workfront：优化和维护您的环境_ | 加入Adobe的业务顾问，他们将分享见解，通过清理和培训策略、实施计划和持续改进实践，优化您在Adobe Workfront的工作管理环境。 | **6月6日下午1:00 （东部时间）** | [注册](https://adobeevents.adobeconnect.com/e9nff5afn9gr/event/registration.html?campaign-id=ExL)
+
+* **Workfront** | 社区活动 | _互动沟通：有关营销和创意方面的管理员聊天_ | 您是营销或创意团队的系统管理员吗？这次由客户推动的活动将让您与其他管理员交流以讨论最佳实践、提示和提示。| **6月7日太平洋时间上午9:00** | [注册](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,KyjOwAGj_USpALk5Js5HDw,8bpwiT-VHkKc85B9WBuDIA,IRnBiA6r006OKoJtEKx3Vw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 查看更多 [即将举行的活动](https://experienceleague.adobe.com/events/) 或浏览 [以往活动录制](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) Experience League时。
 
