@@ -6,10 +6,10 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7aac2cd48bd037c3f860328e3418d7af6ad58d7d
+source-git-commit: aee0af049df43d0004e8d3b9686731cbb27587b4
 workflow-type: tm+mt
-source-wordcount: '4917'
-ht-degree: 99%
+source-wordcount: '4957'
+ht-degree: 98%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 99%
 
 ## 2024 年 5 月
 
-最新更新日期：**2024 年 5 月 16 日**
+最新更新： **2024年5月28日**
 
 * [[!DNL Experience League] 活动和最新消息](#events)
 * [Adobe 认证](#certification)
@@ -40,8 +40,8 @@ ht-degree: 99%
 * [[!DNL Adobe Experience Cloud] - 中央界面和管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics)（发布日期 **5 月 15 日**）
-* [[!DNL Adobe Customer Journey Analytics]](#cja)（发布日期 **5 月 15 日**）
+* [[!DNL Adobe Analytics]](#analytics) （已发布） **5月15日**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) （已发布） **5月15日**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -67,10 +67,11 @@ ht-degree: 99%
 
 ### Experience League 活动
 
-已更新 **2024年5月24日**
+已更新 **2024年5月28日**
 
 +++详细信息
 
+* **您的体验** | 视频 | _您的体验_ 提供由日常用户创建的内容，这些用户通过其AdobeDX解决方案已获得一定程度的专业知识和影响力。 寻找提升您的产品专业知识所需的灵感。 | [可按需使用](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/overview)
 * **WORKFRONT** | 咖啡休息时间 | _Adobe Workfront 社区问答咖啡休息时间：Adobe Business Platform 迁移_ | 加入社区中的 Workfront 专家，询问有关 Adobe Business Platform、您的组织向 Adobe Admin Console 进行迁移等方面的任何问题！| **太平洋时间 5 月 29 日上午 8:00** | [注册](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-wednesday-may-29th-at-8am-pt-best/ev-p/668763)
 
 * **WORKFRONT** | 网络研讨会 | _使用 Workfront 唤醒：优化和维护您的环境_ | 加入 Adobe 的业务顾问，他们将分享有关通过清理和培训策略、实施计划和持续改进实践来优化 Adobe Workfront 中的工作管理环境的见解。| **东部时间 6 月 6 日下午 1:00** | [注册](https://adobeevents.adobeconnect.com/e9nff5afn9gr/event/registration.html?campaign-id=ExL)
