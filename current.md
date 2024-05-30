@@ -6,10 +6,10 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: aee0af049df43d0004e8d3b9686731cbb27587b4
+source-git-commit: 2c43781a5d8372dc6967f0d193d5cfd3a369c0f5
 workflow-type: tm+mt
-source-wordcount: '4957'
-ht-degree: 98%
+source-wordcount: '5007'
+ht-degree: 97%
 
 ---
 
@@ -32,9 +32,9 @@ ht-degree: 98%
 
 ## 2024 年 5 月
 
-最新更新： **2024年5月28日**
+最新更新： **2024年5月30日**
 
-* [[!DNL Experience League] 活动和最新消息](#events)
+* [[!DNL Experience League] 活动和更新](#events) (**5月30日**)
 * [Adobe 认证](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 中央界面和管理](#ecloud)
@@ -67,16 +67,19 @@ ht-degree: 98%
 
 ### Experience League 活动
 
-已更新 **2024年5月28日**
+已更新 **2024年5月30日**
 
 +++详细信息
 
 * **您的体验** | 视频 | _您的体验_ 提供由日常用户创建的内容，这些用户通过其AdobeDX解决方案已获得一定程度的专业知识和影响力。 寻找提升您的产品专业知识所需的灵感。 | [可按需使用](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/overview)
-* **WORKFRONT** | 咖啡休息时间 | _Adobe Workfront 社区问答咖啡休息时间：Adobe Business Platform 迁移_ | 加入社区中的 Workfront 专家，询问有关 Adobe Business Platform、您的组织向 Adobe Admin Console 进行迁移等方面的任何问题！| **太平洋时间 5 月 29 日上午 8:00** | [注册](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-wednesday-may-29th-at-8am-pt-best/ev-p/668763)
 
 * **WORKFRONT** | 网络研讨会 | _使用 Workfront 唤醒：优化和维护您的环境_ | 加入 Adobe 的业务顾问，他们将分享有关通过清理和培训策略、实施计划和持续改进实践来优化 Adobe Workfront 中的工作管理环境的见解。| **东部时间 6 月 6 日下午 1:00** | [注册](https://adobeevents.adobeconnect.com/e9nff5afn9gr/event/registration.html?campaign-id=ExL)
 
 * **Workfront** | 社区活动 | _互动沟通：有关营销和创意方面的管理员聊天_ | 您是营销或创意团队的系统管理员吗？这次由客户推动的活动将让您与其他管理员交流以讨论最佳实践、提示和提示。| **太平洋时间 6 月 7 日上午 9:00** | [登记](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,KyjOwAGj_USpALk5Js5HDw,8bpwiT-VHkKc85B9WBuDIA,IRnBiA6r006OKoJtEKx3Vw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Commerce** | 网络研讨会 | _酿造者背后：Adobe Commerce情报(fka MBI)_ | 加入我们，深入了解Adobe Commerce Intelligence(以前称为Magento Business Intelligence)，这是一个功能强大的工具，旨在通过自定义功能板和报表将您的电子商务数据转换为可操作的见解。 | **东部时间 11 月 6 日下午 1:00** | [注册](https://adobeevents.adobeconnect.com/ex795wtgzy1v/event/registration.html?campaign-id=ExL)
+
+* **Marketo Engage** | 茶歇 | _用于Adobe Dynamic Chat的创作AI功能_ | 请不要错过这个机会，向我们的专家询问有关Adobe Dynamic Chat新增功能的所有信息，这些功能可以在聊天机器人中进行自由形式的双向对话等！ | **太平洋时间 6 月 12 日8:00** | [登记](https://mugs.marketo.com/events/details/marketo-marketo-coffee-breaks-presents-adobe-marketo-engage-community-coffee-break-gen-ai-for-dynamic-chat/)
 
 在 Experience League 上查看更多[即将举行的活动](https://experienceleague.adobe.com/events/)或浏览[过去的活动录像](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-recorded-events/overview)。
 
