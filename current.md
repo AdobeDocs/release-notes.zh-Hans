@@ -6,7 +6,7 @@ last-update: June 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: fbb4dc8b9e98de3010799a797da4714952a1700d
+source-git-commit: 1cafd2d5ef95cefa906742e028796600dca3bcbd
 workflow-type: tm+mt
 source-wordcount: '4006'
 ht-degree: 43%
@@ -652,7 +652,7 @@ New articles and updates to existing articles for [!DNL Workfront].
 | 发布日期 | 应用程序 | 名称 | 类型 | 描述 |
 | -----------| -----------|---------- | ---------- | ---------- |
 | 2024 年 5 月 | [!DNL Firefly] | [为商品创建可重复使用的场景](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/reusable-scenes) | 视频 | 了解如何为手袋和配饰等商品创建可重复使用的场景。创建可重复使用的场景可让您按季节或在任何时间更新网站商品，从而加速数字商品销售。 |
-| 2024 年 5 月 | [!DNL Firefly] | [加速创意构思](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/accelerate-ideas) | 视频 | 了解如何快速地将想法形象化，并探究商业活动的概念。加速创意构思可使组织能够快速生产出高质量的内容。 |
+| 2024 年 5 月 | [!DNL Firefly] | [加速创意构思](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/accelerate-ideas) | 视频 | 了解如何可视化有关业务营销活动的想法并探索其概念。 加速创意构思可使组织能够快速生产出高质量的内容。 |
 
 有关最新教程，请参阅 [Creative Cloud 企业版教程](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview)。
 
