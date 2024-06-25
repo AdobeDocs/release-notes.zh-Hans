@@ -6,10 +6,10 @@ last-update: June 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1cafd2d5ef95cefa906742e028796600dca3bcbd
-workflow-type: ht
-source-wordcount: '4006'
-ht-degree: 100%
+source-git-commit: 4c32968c3fe0e49e367b9b6130f681dd246541a7
+workflow-type: tm+mt
+source-wordcount: '4031'
+ht-degree: 95%
 
 ---
 
@@ -32,16 +32,16 @@ ht-degree: 100%
 
 ## 2024 年 6 月
 
-最新更新日期：**2024 年 6 月 12 日**
+最新更新： **2024年6月25日**
 
-* [[!DNL Experience League] 活动和最新消息](#events)（**5 月 30 日**）
+* [[!DNL Experience League] 活动和更新](#events) (**6月25日**)
 * [Adobe 认证](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 中央界面和管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics)（发布日期：**6 月 12 日**）
-* [[!DNL Adobe Customer Journey Analytics]](#cja)（发布日期：**6 月 12 日**）
+* [[!DNL Adobe Analytics]](#analytics) （已发布） **6月12日**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) （已发布） **6月12日**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -67,17 +67,19 @@ ht-degree: 100%
 
 ### Experience League 活动
 
-更新日期：**2024 年 6 月 12 日**
+已更新 **2024年6月25日**
 
 +++详细信息
 
-* **CREATIVE CLOUD、EXPERIENCE MANAGER 和 WORKFRONT** | 问答聊天 | _问：使用 Workfront、Creative Cloud 和 AEM 构建内容供应链_ | 与 Adobe 客户成功团队和 City National Bank 进行 1 小时访谈式讨论，了解相关的最佳实践、优势以及如何通过 Workfront、Creative Cloud 和 AEM 集成创造价值。| **太平洋时间 6 月 18 日上午 10:30** | [登记](https://events.teams.microsoft.com/event/ff76e5c9-8c8c-4dc4-927c-902a446215b7@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **CREATIVE CLOUD** | Adobe Developers Live | _适用于 Adobe Express 和 Creative Cloud 的 Adobe Developers Live_ | 欢迎实时参加为期两天的虚拟会议，该会议适用于所有开发 Adobe Express 或 Creative Cloud 附加组件、插件或集成的人员了解 2024 年开发人员的主要优先事项和路线图。| **北美山地时间 6 月 19 日上午 9:15** | [登记](https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fevents.ringcentral.com%2Fevents%2Fadobe-developers-live-adobe-express-creative-cloud-2024%3Futm_source%3DExperienceleague%2520Events%26utm_campaign%3DExperienceleague%2520Events&amp;data=05%7C02%7Cieichel%40adobe.com%7C350e6e0f78514d018ff708dc8998551f%7Cfa7b1b5a7b34438794aed2c178decee1%7C0%7C0%7C638536534560540136%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=l%2BVrnbrZ8BBlfl3v3UGMozKCOcF%2BtoN89bWgOsLokQo%3D&amp;reserved=0)
-
-* **MARKETO MEASURE** | 网络研讨会 | _Marketo Measure 和 Mochas：活动和自定义模型_ | 聆听 Adobe Marketo Measure 专家分享如何使用自定义属性模型和活动属性，直接通过来自 CRM 活动记录的接触点调整销售和营销数据。| **美国东部时间 6 月 20 日下午 1:00** | [注册](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5696306635/event_landing.html?sco-id=5696306640&amp;campaign-id=ExL&amp;_charset_=utf-8)
-
 * **WORKFRONT** | 客户研讨会 | _学习：在 Workfront 中确定工作优先级并进行战略规划_ | 加入 Workfront 客户成功团队，了解有关年度规划的最佳实践、如何创建确定优先级的正式流程以及用于通过显示项目数据来确保整体一致性的推荐视图。| **太平洋时间 6 月 25 日上午 9:30** | [登记](https://events.teams.microsoft.com/event/f765ea5b-c5a6-41d1-ac0d-ffea34ae1b11@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Workfront** | 客户研讨会 | _Admin 101：提出您的Workfront问题_ | 您是否错过了我们的任何Admin 101课程？ 加入我们这个长达一小时的问答会，我们将在此概述之前的事件，然后将其开放以供一般性讨论和提问。 | **北美山地时间 6 月 26 日9:00** | [登记](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,s9AzVDbQGkujSdPhs9lVDw,_ptlrrxSw0uslhILWOmKGg,C_k9EDSbrk652sjpeJ13Dw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Workfront** | 网络研讨会 | _24.7的新增功能_ | 6月26日上午10:00（东部标准时间）加入Adobe Workfront产品团队，了解即将推出的24.7版本中的功能和增强功能。 | **北美山地时间 6 月 27 日8:00** | [登记](https://webinars.on24.com/adobe_workfront/whatsnewin247?partnerref=ExperienceLeagueEvents)
+
+* **Journey Optimizer** | 问答聊天 | _Career Discovery网络研讨会 — Adobe Journey Optimizer_ | 在本网络研讨会中，您将了解嘉宾小组成员在Adobe Journey Optimizer中的工作和专业知识，并了解如何开始寻找新的职业机会。 | **北美山地时间 6 月 28 日8:00** | [登记](https://event.adobe.com/careerdiscovery)
+
+* **Workfront** | 客户研讨会 | _管理员101 - Workfront快速入门_ | 初次使用Workfront？ 加入我们的“新管理员”每月聚会，提出问题、获取资源和推荐、会见其他新管理员，并在该会议中，了解设置Workfront环境的最佳实践。 | **7月9日上午9:00 MT** | [注册]https://events.teams.microsoft.com/event/49c249c9-81d9-4a54-a0cb-6d6313ed429c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 在 Experience League 上查看所有[即将举行的活动](https://experienceleague.adobe.com/events/)或浏览[过去的活动录像。](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-recorded-events/overview)
 +++
