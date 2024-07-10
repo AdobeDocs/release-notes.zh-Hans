@@ -6,10 +6,10 @@ last-update: June 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 73136bb756a8be56a3c265b30a36005911c141d4
+source-git-commit: 38946bebc2e663fc6ac9e03e200d179f0916b433
 workflow-type: tm+mt
-source-wordcount: '3853'
-ht-degree: 98%
+source-wordcount: '4011'
+ht-degree: 95%
 
 ---
 
@@ -71,9 +71,15 @@ ht-degree: 98%
 
 +++详细信息
 
-* **Workfront** | 客户研讨会 | _管理员101 - Workfront快速入门_ | 初次使用Workfront？ 加入我们的“新管理员”每月聚会，提出问题、获取资源和推荐、会见其他新管理员，并在该会议中，了解设置Workfront环境的最佳实践。 | **7月9日上午9:00 MT** | [注册](https://events.teams.microsoft.com/event/49c249c9-81d9-4a54-a0cb-6d6313ed429c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **Workfront** | 社区活动 | _互动沟通：有关营销和创意方面的管理员聊天_ | 您是营销或创意团队的系统管理员吗？这次由客户推动的活动将让您与其他管理员交流以讨论最佳实践、提示和提示。| **7月12日上午10:00 MT** | [注册](https://events.teams.microsoft.com/event/99afa4e1-61be-4f51-8ec6-ddb5f3676d6d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-在 Experience League 上查看所有[即将举行的活动](https://experienceleague.adobe.com/events/)或浏览[过去的活动录像。](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-recorded-events/overview)
+* **Workfront** | 茶歇 | _喝咖啡休息抽奖：创意简报输入和最佳实践_ | 欢迎参加我们的第二次茶歇抽奖，主题是Creative Brief最佳做法！ 发现新策略并分享您的见解。 提交问题、评论或提示，以便有机会赢得Workfront奖赏。 不要错过！ | **7月16日上午11:00 MT** | [注册](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-sweepstakes-tuesday-july-16th-at-10am-pt/ev-p/682461)
+
+* **Workfront** | 客户研讨会 | _了解： Adobe Workfront 2024年第三季度发布汇总+环境提升_ | 参加我们的季度发布回顾会议，我们将讨论最新发布功能及其优势。 在此会议中，我们还将讨论备受期待的“环境升级”功能。 | **7月18日上午9:00 MT** | [注册](https://events.teams.microsoft.com/event/8bf3c919-e511-41db-8d55-ba151ccfbca3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Experience Manager、EXPERIENCE MANAGER ASSETS和EXPERIENCE MANAGER SITES** | 网络研讨会 | _Espresso和Experience Manager：利用AEM实现数字灵活性_ | 了解AEM Sites和Assets中的最新创新，这些创新使AEM成为您应对CMS领域中最常见挑战的解决方案。 我们将探索通用编辑器、Headless和基于文档的创作以及Assets UI。 | **7月18日上午11:00 MT** | [注册](https://adobeevents.adobeconnect.com/ev3w9wtf5th2/event/registration.html?campaign-id=ExL)
+
+更多精彩内容！在 Experience League 上查看所有[即将举行的活动](https://experienceleague.adobe.com/events/)或浏览[过去的活动录像。](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-recorded-events/overview)
 +++
 
 ## ![图标](/assets/experience-league.png) Adobe 内容供应链 {#content-supply-chain}
