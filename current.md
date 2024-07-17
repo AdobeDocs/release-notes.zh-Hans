@@ -6,10 +6,10 @@ last-update: July 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 2af1f8d226d3fc7e0f1157179444ef2fdd483f1d
+source-git-commit: ef4b1f6c217c9aedcbe2aed16526190bb26fc81e
 workflow-type: tm+mt
-source-wordcount: '3640'
-ht-degree: 44%
+source-wordcount: '3577'
+ht-degree: 43%
 
 ---
 
@@ -58,7 +58,7 @@ ht-degree: 44%
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
 * [客户数据管理 - 意见](#voices)
 * [Digital Experience Blueprint](#blueprints)
-* [Adobe 认证](#certification)
+* Adobe](https://experienceleague.adobe.com/zh-hans/docs/certification/program/overview)的[认证
 * [Adobe 产品安全漏洞](https://helpx.adobe.com/cn/security.html)
 
 ## ![图标](/assets/experience-league.png) [!DNL Experience League] 活动和最新消息 {#events}
@@ -150,6 +150,7 @@ New articles and updates to existing articles for [!DNL Experience Platform].
 |April 2024|[[!DNL AEP - Adobe Experience Platform] Use Case [!UICONTROL Playbooks] menu is missing](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24108)|New article| Learn about the solution for when the [!UICONTROL Playbooks] menu is missing from your [!UICONTROL sandbox].|
 
 {style="table-layout:auto"} -->
+
 +++
 
 ## ![图标](/assets/experience_platform_appicon_24.png) [!DNL Real-Time Customer Data Platform] {#rtcdp}
@@ -643,18 +644,18 @@ New articles and updates to existing articles for [!DNL Workfront].
 
 [Digital Experience Blueprint](https://experienceleague.adobe.com/zh-hans/docs/blueprints-learn/architecture/overview) 是可重复的实施，让您可以满足战略需求和解决已确定的业务问题。每个 Blueprint 都提供了一系列构件，这些构件说明了高价值业务问题、体系结构、实施步骤、技术注意事项以及指向相关文档的链接。
 
-## ![图标](/assets/certification-badge.png) 认证{#certification}
+<!-- ## ![Icon](/assets/certification-badge.png) Certification{#certification}
 
-所有 Adobe 认证候选者，请注意！访问 Experience League 上的 Experience Cloud [认证](https://experienceleague.adobe.com/zh-hans/docs/certification/program/overview)网站。
+Attention all Adobe certification candidates! Visit the Experience Cloud [Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) site on Experience League. 
 
-+++详细信息
++++Details
 
-您在 [Experience Cloud 认证](https://experienceleague.adobe.com/zh-hans/docs/certification/program/overview)网站上可一站式购买所有与 [!DNL Experience Cloud] 认证相关的内容，并且定期用以下各项更新该网站：
+The [Experience Cloud Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) site is your one-stop shop for all [!DNL Experience Cloud] certification-related content and is updated regularly with:
 
-* 可用认证
-* Adobe 应用程序的认证续订
-* 认证计划更新
+* Available certifications
+* Certification renewals for Adobe applications
+* Certification program updates
 
-更多精彩内容！前往 Experience League 上的 [Adobe 认证](https://experienceleague.adobe.com/zh-hans/docs/certification/program/overview)，立即开始您的认证之旅！
+And more! Head over to [Adobe Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) on Experience League and start your certification journey today!
 
-+++
++++ -->
