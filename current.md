@@ -6,10 +6,10 @@ last-update: July 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 936f9884f1a75fbd55abdcfbbfa0fdbaa2415e44
+source-git-commit: 2af1f8d226d3fc7e0f1157179444ef2fdd483f1d
 workflow-type: tm+mt
-source-wordcount: '3681'
-ht-degree: 47%
+source-wordcount: '3640'
+ht-degree: 44%
 
 ---
 
@@ -71,17 +71,17 @@ ht-degree: 47%
 
 +++详细信息
 
-* **[!DNL WORKFRONT]** | 客户研讨会 | _了解：Adobe Workfront 2024年第三季度发布汇总+环境促销活动_ | 参加我们的季度发布回顾会议，我们将讨论最新发布功能及其优势。 在此会议中，我们还将讨论备受期待的“环境升级”功能。 | **7月18日上午9:00 MT** | [注册](https://events.teams.microsoft.com/event/8bf3c919-e511-41db-8d55-ba151ccfbca3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | 客户研讨会 | _了解：Adobe[!DNL Workfront] 2024年第三季度发布汇总+环境促销活动_ | 参加我们的季度发布回顾会议，我们将讨论最新发布功能及其优势。 在此会议中，我们还将讨论备受期待的“环境升级”功能。 | **7月18日上午9:00 MT** | [注册](https://events.teams.microsoft.com/event/8bf3c919-e511-41db-8d55-ba151ccfbca3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL EXPERIENCE MANAGER]、[!DNL EXPERIENCE MANAGER ASSETS]和[!DNL EXPERIENCE MANAGER SITES]** | 网络研讨会 | _Espressos和Experience Manager：使用AEM的数字灵活性_ | 了解AEM Sites和Assets中的最新创新，这些创新使AEM成为您应对CMS领域中最常见挑战的解决方案。 我们将探索通用编辑器、Headless和基于文档的创作以及Assets UI。 | **7月18日上午11:00 MT** | [注册](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5705674188/event_landing.html?sco-id=5705710312&amp;campaign-id=ExL&amp;_charset_=utf-8)
+* **[!DNL EXPERIENCE MANAGER]、[!DNL EXPERIENCE MANAGER ASSETS]和[!DNL EXPERIENCE MANAGER SITES]** | 网络研讨会 | _Espressos和[!DNL Experience Manager:]：使用AEM的数字灵活性_ | 了解AEM Sites和Assets中的最新创新，这些创新使AEM成为您应对CMS领域中最常见挑战的解决方案。 我们将探索通用编辑器、Headless和基于文档的创作以及Assets UI。 | **7月18日上午11:00 MT** | [注册](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5705674188/event_landing.html?sco-id=5705710312&amp;campaign-id=ExL&amp;_charset_=utf-8)
 
-* **[!DNL WORKFRONT]** | 社区活动 | _连接： Workfront Collective_ | 参加我们每个月的周一Workfront集体会议，该会议旨在与其他客户联系，讨论Workfront的功能，分享想法，并一起集思广益，以解决共同面临的挑战。 | **7月22日上午7:00 MT** | [注册](https://events.teams.microsoft.com/event/61a9a387-0f0f-4d1d-9aa4-123f97eda635@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | 社区活动 | _连接： [!DNL Workfront]集合_ | 参加我们每个月的星期一[!DNL Workfront]集体聚会，此聚会旨在与其他客户联系，讨论[!DNL Workfront]功能，分享想法，并一起集思广益，以解决共同面临的挑战。 | **7月22日上午7:00 MT** | [注册](https://events.teams.microsoft.com/event/61a9a387-0f0f-4d1d-9aa4-123f97eda635@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | 客户研讨会 | _向客户学习：使用Workfront进行重组_ | 加入我们，观看客户和以前客户的1小时演示，他们分享关于如何使用Workfront帮助组织结构的调整和流程更改方面的经验和建议。 | **7月23日上午9:00 MT** | [注册](https://events.teams.microsoft.com/event/64ea4bad-fbbb-4051-8f21-c96a38daee79@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | 客户研讨会 | _与客户一起学习：将[!DNL Workfront]用于注册_ | 加入我们，观看客户和以前客户的1小时演示，他们分享关于如何使用[!DNL Workfront]帮助组织重组的结构化和处理更改方面的经验和建议。 | **7月23日上午9:00 MT** | [注册](https://events.teams.microsoft.com/event/64ea4bad-fbbb-4051-8f21-c96a38daee79@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL MARKETO AND MARKETO ENGAGE]** | 网络研讨会 | _Marketo和Mochas：奠定基础 — 成熟度部分1_ | 加入Adobe的业务顾问，了解如何最好地开发组织的Marketo使用。 我们将审查从实例治理到项目库的所有内容，该项目库托管多个项目以开始构建项目。 | **7月25日上午11:00 MT** | [注册](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5706378570/event_landing.html?sco-id=5706388344&amp;campaign-id=ExL&amp;_charset_=utf-8)
 
-* **[!DNL WORKFRONT]** | 网络研讨会 | _咨询Workfront客户支持 — 计算表达式疑难解答_ | 加入Workfront客户支持团队，花上1小时了解计算表达式。 在常见示例、疑难解答提示、关键学习以及实时演示之间，此会话不会被错过！ | **7月31日上午9:00 MT** | [注册](https://events.teams.microsoft.com/event/4d5cffba-77b5-480c-b6c9-a0ace4115b2d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | 网络研讨会 | _询问[!DNL Workfront]客户支持 — 计算表达式疑难解答_ | 加入[!DNL Workfront]客户支持团队，花上1小时处理计算表达式。 在常见示例、疑难解答提示、关键学习以及实时演示之间，此会话不会被错过！ | **7月31日上午9:00 MT** | [注册](https://events.teams.microsoft.com/event/4d5cffba-77b5-480c-b6c9-a0ace4115b2d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 更多精彩内容！在 Experience League 上查看所有[即将举行的活动](https://experienceleague.adobe.com/events/)或浏览[过去的活动录像。](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-recorded-events/overview)
 
@@ -247,9 +247,9 @@ New articles and updates to existing articles for [!DNL Analytics].
 
 +++
 
-## ![图标](/assets/aem.png) Adobe Experience Manager {#aem}
+## ![图标](/assets/aem.png) Adobe [!DNL Experience Manager:] {#aem}
 
-Experience Manager 中的新增功能、修复和更新。Adobe 推荐采用内部部署的客户部署最新的修补程序以确保稳定性、安全性和性能得到提高。
+[!DNL Experience Manager:] 中的新增功能、修复和更新。 Adobe 推荐采用内部部署的客户部署最新的修补程序以确保稳定性、安全性和性能得到提高。
 
 +++详细信息
 
@@ -257,19 +257,19 @@ Experience Manager 中的新增功能、修复和更新。Adobe 推荐采用内�
 
 所有 [!DNL Experience Manager] 发行说明均保留在以下页面：
 
-* [Experience Manager 发布更新和路线图](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-release-information/aem-release-updates/home) - 了解 Experience Manager 版本路线图、先前版本更新和文档更新。
-* [ Experience Manager as a Cloud Service 当前发行说明](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
-* [Experience Manager 6.5 服务包发行说明](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/release-notes/release-notes)
-* [Experience Manager Cloud Manager 发行说明](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-manager/content/release-notes/current)
+* [[!DNL Experience Manager:] 版本更新和路线图](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-release-information/aem-release-updates/home) — 了解[!DNL Experience Manager:]版本路线图、以前的版本更新和文档更新。
+* [当前发行说明 [!DNL Experience Manager:] as a Cloud Service](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
+* [[!DNL Experience Manager:] 6.5 Service Pack发行说明](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/release-notes/release-notes)
+* [[!DNL Experience Manager:] Cloud Manager发行说明](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-manager/content/release-notes/current)
 * [Automated Forms Conversion Service 发行说明](https://experienceleague.adobe.com/zh-hans/docs/aem-forms-automated-conversion-service/using/release-notes)
-* [Experience Manager Assets Dynamic Media 发行说明](https://experienceleague.adobe.com/zh-hans/docs/dynamic-media-developer-resources/release-notes/s7rn2017)
-* [Experience Manager Brand Portal 发行说明](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes)
-* [Experience Manager 桌面应用程序发行说明](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-desktop-app/using/release-notes)
-* [Experience Manager Dispatcher 发行说明](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-dispatcher/using/getting-started/release-notes)
+* [[!DNL Experience Manager:] Assets Dynamic Media发行说明](https://experienceleague.adobe.com/zh-hans/docs/dynamic-media-developer-resources/release-notes/s7rn2017)
+* [[!DNL Experience Manager:] Brand Portal发行说明](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes)
+* [[!DNL Experience Manager:] 桌面应用发行说明](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-desktop-app/using/release-notes)
+* [[!DNL Experience Manager:] Dispatcher发行说明](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-dispatcher/using/getting-started/release-notes)
 
 ### [!DNL Experience Manager] 的新教程 {#tutorials-aem}
 
-Experience Manager 上发布了有关 [!DNL Experience Manager] 的新教程。
+[!DNL Experience Manager]的新教程发布于[!DNL Experience Manager:]。
 
 | 发布日期 | 应用程序 | 名称 | 类型 | 描述 |
 | ----------| ---------- | ---------- | ---------- |---------- |
@@ -513,9 +513,9 @@ New articles and updates to existing articles for [!DNL Marketo].
 
 ### [!DNL Adobe Workfront]更新
 
-* 请参阅 [Adobe Workfront 产品发布](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/product-announcements/product-releases/product-releases) 页面，了解 Workfront 发布计划信息和发行说明。
+* 有关[!DNL Workfront]发行计划信息和发行说明，请参阅[Adobe [!DNL Workfront] 产品版本](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/product-announcements/product-releases/product-releases)页面。
 
-* 有关 Fusion 的最新信息，请参阅 [Adobe Workfront Fusion 发布活动概述](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/product-announcements/product-releases/fusion-release/fusion-release-activity)。
+* 有关Fusion的最新信息，请参阅[Adobe [!DNL Workfront] Fusion发行版活动概述](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/product-announcements/product-releases/fusion-release/fusion-release-activity)。
 
 ### Adobe [!DNL Workfront] 新教程 {#tutorials-workfront}
 
@@ -523,13 +523,13 @@ Experience League 上的新 [!DNL Workfront] 教程和活动。
 
 | 发布日期 | 名称 | 类型 | 描述 |
 | -----------| ---------- | ---------- | ---------- |
-| 2024 年 7 月 | [处理计划外工作](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/handle-unplanned-work) | 视频 | 了解如何使用Adobe Workfront处理计划外工作。 |
+| 2024 年 7 月 | [处理计划外工作](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/handle-unplanned-work) | 视频 | 了解如何使用Adobe[!DNL Workfront]处理计划外工作。 |
 | 2024 年 7 月 | [填写项目详细信息。](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/fill-in-the-project-details) | 视频 | 了解创建项目时所需的最常见项目设置。 |
 | 2024 年 7 月 | [学习任务排序](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks) | 视频 | 了解什么是前置任务，以及前置任务在项目中的排序方式。 然后，学习使用持续时间和前置任务创建时间线。 |
 | 2024 年 7 月 | [了解计划小时数](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours) | 视频 | 了解什么是计划小时数，为什么计划小时数对您的项目很重要，以及如何向任务添加计划小时数。 |
 | 2024 年 7 月 | [发出请求](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/make-a-request) | 视频 | 了解如何找到请求区域并提出请求。 然后，了解如何查看提交的请求和草稿请求。 |
-| 2024 年 7 月 | [更新请求](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/update-a-request) | 视频 | 了解如何查找您已提交的请求并在 Workfront 中更新这些请求。 |
-| 2024 年 7 月 | [最佳实践 — 计划](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/best-practices/schedules-bp) | 视频 | 探索Adobe Workfront专家提供的有关设置、管理和使用Workfront时间表的最佳实践建议。 |
+| 2024 年 7 月 | [更新请求](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/update-a-request) | 视频 | 了解如何在[!DNL Workfront]中查找您提交的请求并更新这些请求。 |
+| 2024 年 7 月 | [最佳实践 — 计划](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/best-practices/schedules-bp) | 视频 | 探索Adobe[!DNL Workfront]专家关于设置、管理和使用[!DNL Workfront]时间表的最佳实践建议。 |
 
 {style="table-layout:auto"}
 
