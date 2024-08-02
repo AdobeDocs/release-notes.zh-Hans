@@ -6,10 +6,10 @@ last-update: July 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ce3509b0e50a2febbd002d677bf31282c42684dd
+source-git-commit: 261f4a4a4ee24f61415febb87e95d9ffb4359ab7
 workflow-type: tm+mt
-source-wordcount: '3621'
-ht-degree: 93%
+source-wordcount: '3491'
+ht-degree: 94%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 93%
 
 ## 2024 年 7 月
 
-最近更新：**2024年7月23日**
+最新更新：**2024年8月2日**
 
 * [[!DNL Experience League] 活动和最新消息](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -67,15 +67,9 @@ ht-degree: 93%
 
 ### Experience League 活动
 
-更新日期：**2024年7月26日**
+更新日期：**2024年8月2日**
 
 +++详细信息
-
-* **[!DNL WORKFRONT]** | 网络研讨会 | _询问 [!DNL Workfront] 客户支持 - 计算表达式故障排除_ | 加入 [!DNL Workfront] 客户支持团队，进行 1 小时的计算表达式解答。包含常见示例、故障排除技巧、关键学习内容以及现场演示，本次课程不容错过！| **北美山地时间 7 月 31 日上午 9:00** | [登记](https://events.teams.microsoft.com/event/4d5cffba-77b5-480c-b6c9-a0ace4115b2d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL COMMERCE]** | 网络研讨会 | _Commerce和咖啡：B2B电子商务成功的策略_ | 加入高级Commerce战略顾问Corey Gelato，因为他重点讲述了一些最具影响力的B2B电子商务趋势，并回顾了客户可以在Adobe Commerce中利用的策略。 | **8月1日上午11:00 MT** | [注册](https://adobeevents.adobeconnect.com/edcpz7z8zmnb/event/registration.html?campaign-id=ExL)
-
-* **[!DNL WORKFRONT]** | 社区活动 | _连接：营销和创意的管理员聊天_ | 您是否是营销或创意团队的系统管理员？ 这次由客户推动的活动将让您与其他管理员交流以讨论最佳实践、提示和提示。| **8月2日@上午10:00 MT** | [注册](https://events.teams.microsoft.com/event/80518fbb-f97e-49ee-b7b8-d93c82991b2b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** | 客户研讨会 | _管理员101：让用户使用Workfront_ | 初次使用Workfront？ 加入我们的Admin 101每月聚会，提出问题、获取资源、学习最佳实践并会见其他新管理员。 本月，我们将讨论用户采用问题！ | **8月6日上午9:00 MT** | [注册](https://events.teams.microsoft.com/event/25756c69-c2ae-41d5-a5b8-b257193b1313@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
