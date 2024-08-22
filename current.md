@@ -6,10 +6,10 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4955798262f3d97c1a7944dbadab05d70cb66c40
+source-git-commit: 4f85a610d82980e431f5e3692e1fecb28677478b
 workflow-type: tm+mt
-source-wordcount: '3185'
-ht-degree: 90%
+source-wordcount: '3155'
+ht-degree: 91%
 
 ---
 
@@ -32,9 +32,9 @@ ht-degree: 90%
 
 ## 2024 年 8 月
 
-最新更新：**2024年8月20日**
+最新更新：**2024年8月22日**
 
-* [[!DNL Experience League] 活动和更新](#events) （更新日期： **8月20日**）
+* [[!DNL Experience League] 活动和更新](#events) （更新日期： **8月22日**）
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 中央界面和管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -68,17 +68,22 @@ ht-degree: 90%
 
 ### Experience League播放列表（新！）
 
-更新：**2024年8月16日**
+更新：**2024年8月22日**
 
-视频[播放列表](https://experienceleague.adobe.com/en/playlists)是Experience League的新列表。 播放列表是经过策划的视频集合，旨在快速帮助您获得所寻求的技能和知识。
+Experience League中有新视频[播放列表](https://experienceleague.adobe.com/en/playlists)。 播放列表是经过策划的视频集合，旨在快速帮助您获得所寻求的技能和知识。
+
+播放列表功能包括：
+
+* 自动播放视频
+* 章节选择和播放速度
+* 从你中断的地方继续
+* 视频成绩单
 
 要浏览播放列表，请导航到&#x200B;**[!UICONTROL 学习]** > **[!UICONTROL 浏览所有播放列表]**。
 
 >[!NOTE]
 >
->**个课程**&#x200B;正在从Experience League中弃用。 如果您为课程添加了书签，则会将您重定向到相应的播放列表。
-
-如果要向Experience League提交有关播放列表或任何帮助问题的反馈，请使用每页底部的“反馈”弹出菜单。
+>**个课程**&#x200B;正在从Experience League中弃用。 如果您为课程添加了书签，则会将您重定向到相应的播放列表（如果存在）。 在某些情况下，您可能需要浏览到涵盖您所查找主题的新播放列表。
 
 ### Experience League 活动
 
@@ -86,13 +91,11 @@ ht-degree: 90%
 
 * **[!DNL EXPERIENCE CLOUD]** | 社区活动 | _2025年Adobe体验创客奖_ | 2025年Adobe体验创客奖的提交内容现已开放。 非凡只是开始。 大胆的远见卓识。 卓越的客户体验。 | **不适用** | [立即申请](https://www.adobeexperienceawards.com/?cgen=98SH4H11&amp;mv=other)
 
-* **[!DNL WORKFRONT]** | 客户研讨会 | _学习：为引入流程使用Workfront请求队列_ | 请加入我们，讨论Workfront请求队列在跟踪、组织和报告您组织的工作方面的好处和最佳实践。 | **北美山地时间 8 月 21 日9:30** | [登记](https://events.teams.microsoft.com/event/ba631a2b-d656-42ca-99e9-3a78d0229c7b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL ANALYTICS]** | 社区活动 | _数据滴管：Adobe Analytics基础知识及更多内容_ | 加入Adobe Analytics专家，他们将引导我们了解组织工作区、导航面向初学者的Adobe Analytics学习路径以及将工作区与第三方数据可视化工具关联的最佳实践。 | **北美山地时间 8 月 22 日11:00** | [登记](https://adobeevents.adobeconnect.com/et45xd86xdq9/event/registration.html?campaign-id=ExL)
-
 * **[!DNL WORKFRONT]** | 客户研讨会 | _学习：为Workfront Fusion提供案例_ | 加入客户成功团队，与德勤和Adobe Workfront集成咨询部门一起参加一个时长的交互式研讨会，了解如何量化节省时间并为Workfront Fusion构建强大的业务案例。 | **北美山地时间 8 月 27 日10:00** | [登记](https://events.teams.microsoft.com/event/734d96e0-861a-48af-84e7-206a2e5c5ff5@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL JOURNEY OPTIMIZER]** | 茶歇 | _Adobe Journey Optimizer社区问答喝咖啡休息时间_ | 与Journey Optimizer专家围绕3人必须尝试Journey Optimizer试验、频率上限和多语言消息传送等功能，这是一个小时长的类似AMA的聊天会。 | **9月4日@上午9:00 MT** | [注册](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-september-4th-with-adobe-journey/ev-p/691101)
+
+* **[!DNL WORKFRONT]** | 社区活动 | _连接：营销和创意的管理员聊天_ | 您是否是营销或创意团队的系统管理员？ 这次由客户推动的活动将让您与其他管理员交流以讨论最佳实践、提示和提示。| **9月6日上午10:00 MT** | [注册](https://events.teams.microsoft.com/event/a481891f-b025-4a36-8672-601e8ca1819c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 更多精彩内容！在 Experience League 上查看所有[即将举行的活动](https://experienceleague.adobe.com/events/)或浏览[过去的活动录像。](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-recorded-events/overview)
 
