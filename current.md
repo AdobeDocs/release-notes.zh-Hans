@@ -6,10 +6,10 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4f85a610d82980e431f5e3692e1fecb28677478b
+source-git-commit: ea5f9d71aa7c077749f8ef0903362532688c7e44
 workflow-type: tm+mt
-source-wordcount: '3155'
-ht-degree: 91%
+source-wordcount: '3186'
+ht-degree: 90%
 
 ---
 
@@ -28,13 +28,19 @@ ht-degree: 91%
 
 为了获得最佳的自助体验，请登录到 [Experience League](https://experienceleague.adobe.com/#home)，并自定义您在 Adobe 的各种免费[文档](https://experienceleague.adobe.com/zh-hans/docs)、[课程](https://experienceleague.adobe.com/?lang=zh-Hans#courses)、[活动](https://experienceleague.adobe.com/events/)、[社区论坛](https://experienceleaguecommunities.adobe.com/?profile.language=en)和[支持](https://experienceleague.adobe.com/?support-tab=home#support)上的搜索体验。
 
+**提供反馈**
+
+查找&#x200B;**_此内容是否有帮助？每页底部会出现_**&#x200B;弹出窗口。 您的反馈经过策划，会发送给内容作者。
+
+**获取通知**
+
 要收到有关此页面更新的每月电子邮件通知，请订阅 [Adobe 优先产品更新](https://www.adobe.com/cn/subscription/priority-product-update.html)。
 
 ## 2024 年 8 月
 
-最新更新：**2024年8月22日**
+最新更新：**2024年8月28日**
 
-* [[!DNL Experience League] 活动和更新](#events) （更新日期： **8月22日**）
+* [[!DNL Experience League] 活动和更新](#events) （更新日期： **8月28日**）
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 中央界面和管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -91,9 +97,9 @@ Experience League中有新视频[播放列表](https://experienceleague.adobe.co
 
 * **[!DNL EXPERIENCE CLOUD]** | 社区活动 | _2025年Adobe体验创客奖_ | 2025年Adobe体验创客奖的提交内容现已开放。 非凡只是开始。 大胆的远见卓识。 卓越的客户体验。 | **不适用** | [立即申请](https://www.adobeexperienceawards.com/?cgen=98SH4H11&amp;mv=other)
 
-* **[!DNL WORKFRONT]** | 客户研讨会 | _学习：为Workfront Fusion提供案例_ | 加入客户成功团队，与德勤和Adobe Workfront集成咨询部门一起参加一个时长的交互式研讨会，了解如何量化节省时间并为Workfront Fusion构建强大的业务案例。 | **北美山地时间 8 月 27 日10:00** | [登记](https://events.teams.microsoft.com/event/734d96e0-861a-48af-84e7-206a2e5c5ff5@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL JOURNEY OPTIMIZER]** | 茶歇 | _Adobe Journey Optimizer社区问答喝咖啡休息时间_ | 与Journey Optimizer专家围绕3人必须尝试Journey Optimizer试验、频率上限和多语言消息传送等功能，这是一个小时长的类似AMA的聊天会。 | **9月4日@上午9:00 MT** | [注册](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-september-4th-with-adobe-journey/ev-p/691101)
+
+* **[!DNL EXPERIENCE MANAGER AS A CLOUD SERVICE]** | AEM GEMS | _AEM的快速开发环境中有哪些新增功能？_ | 加入我们，了解如何使用RDE缩短开发周转时间，并获得近乎即时的代码更改反馈。 我们将介绍最新功能，如改进的日志记录、前端支持等。 | **9月4日@上午9:00 MT** | [注册](https://adobe.ly/4cwc5W4)
 
 * **[!DNL WORKFRONT]** | 社区活动 | _连接：营销和创意的管理员聊天_ | 您是否是营销或创意团队的系统管理员？ 这次由客户推动的活动将让您与其他管理员交流以讨论最佳实践、提示和提示。| **9月6日上午10:00 MT** | [注册](https://events.teams.microsoft.com/event/a481891f-b025-4a36-8672-601e8ca1819c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
