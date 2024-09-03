@@ -6,9 +6,9 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ea5f9d71aa7c077749f8ef0903362532688c7e44
+source-git-commit: 5999b9ecba0626d515248194beaabc77613ddf2f
 workflow-type: tm+mt
-source-wordcount: '3186'
+source-wordcount: '3215'
 ht-degree: 90%
 
 ---
@@ -38,11 +38,11 @@ ht-degree: 90%
 
 ## 2024 年 8 月
 
-最新更新：**2024年8月28日**
+最新更新：**2024年9月3日**
 
-* [[!DNL Experience League] 活动和更新](#events) （更新日期： **8月28日**）
+* [[!DNL Experience League] 活动和最新消息](#events)
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Adobe Experience Cloud] - 中央界面和管理](#ecloud)
+* [[!DNL Adobe Experience Cloud]  — 中央界面和管理](#ecloud) （更新日期： **9月3日**）
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics)(发行日期：**8 月 14 日**)
@@ -132,7 +132,11 @@ Experience League中有新视频[播放列表](https://experienceleague.adobe.co
 
 +++详细信息
 
-未更新。
+版本：**2024年9月2日**
+
+| 功能 | 描述 |
+| -----------| ---------- |
+| Slack通知 | 您可以配置帐户首选项以向Slack发送Experience Cloud通知。 有关详细信息，请参阅[Slack首选项和通知](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences)帮助中的&#x200B;_帐户通知_。 |
 
 有关 Experience Cloud 中央界面组件的帮助，请参阅 [Experience Cloud 界面和管理指南](https://experienceleague.adobe.com/zh-hans/docs/core-services/interface/experience-cloud)（包括[!UICONTROL 客户属性]、[!DNL Experience Cloud Assets] 和[!UICONTROL 受众]）。
 
