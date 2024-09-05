@@ -6,10 +6,10 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 5999b9ecba0626d515248194beaabc77613ddf2f
+source-git-commit: 94b28700a1b4281fa99e9b47f2421960b085c519
 workflow-type: tm+mt
-source-wordcount: '3215'
-ht-degree: 90%
+source-wordcount: '3186'
+ht-degree: 89%
 
 ---
 
@@ -406,11 +406,13 @@ New articles and updates to existing articles for [!DNL Campaign].
 
 ### [!DNL Campaign] 帮助资源
 
-* [!DNL Campaign] 网页界面：[新增功能](https://experienceleague.adobe.com/zh-hans/docs/campaign-web/v8/whats-new)——[产品文档](https://experienceleague.adobe.com/zh-hans/docs/campaign-web/v8/campaign-web-home)
-* [!DNL Campaign] v8：[文档](https://experienceleague.adobe.com/zh-hans/docs/campaign/campaign-v8/campaign-home) ‑ [发行说明](https://experienceleague.adobe.com/zh-hans/docs/campaign/campaign-v8/new/whats-new) ‑ [实施指南](https://experienceleague.adobe.com/zh-hans/docs/campaign/campaign-v8/config/implement/implement)
-* [!DNL Campaign] Standard：[Campaign Standard 文档](https://experienceleague.adobe.com/zh-hans/docs/campaign-standard/using/campaign-standard-home) ‑ [发行说明](https://experienceleague.adobe.com/zh-hans/docs/campaign-standard/using/release-notes/release-notes) ‑ [操作方法视频](https://experienceleague.adobe.com/zh-hans/docs/campaign-standard-learn/tutorials/overview) ‑ [发行计划](https://experienceleague.adobe.com/zh-hans/docs/campaign-standard/using/release-notes/release-planning) ‑ [最新文档更新](https://experienceleague.adobe.com/zh-hans/docs/campaign-standard/using/release-notes/documentation-updates)
-* [!DNL Campaign] Classic：[Campaign Classic v7 文档](https://experienceleague.adobe.com/zh-hans/docs/campaign-classic/using/campaign-classic-home) ‑ [发行说明](https://experienceleague.adobe.com/zh-hans/docs/campaign-classic/using/release-notes/latest-release) ‑ [操作方法视频](https://experienceleague.adobe.com/zh-hans/docs/campaign-classic-learn/tutorials/overview) ‑ [最新文档更新](https://experienceleague.adobe.com/zh-hans/docs/campaign-classic/using/release-notes/documentation-updates)
-* [!DNL Campaign] 控制面板：[文档](https://experienceleague.adobe.com/zh-hans/docs/control-panel/using/control-panel-home) - [发行说明](https://experienceleague.adobe.com/zh-hans/docs/control-panel/using/release-notes/release-notes) - [操作方法视频](https://experienceleague.adobe.com/zh-hans/docs/control-panel-learn/tutorials/control-panel-overview)
+* [!DNL Web User Interface]： **9月3日** - [发行说明](https://experienceleague.adobe.com/zh-hans/docs/campaign-web/v8/release-notes/release-notes) | [产品文档](https://experienceleague.adobe.com/zh-hans/docs/campaign-web/v8/campaign-web-home)
+
+* [!DNL Campaign] v8：**9月3日** - [发行说明](https://experienceleague.adobe.com/zh-hans/docs/campaign/campaign-v8/releases/release-notes) | [产品文档](https://experienceleague.adobe.com/zh-hans/docs/campaign/campaign-v8/campaign-home)
+
+* [!DNL Campaign Classic] v7：[发行说明](https://experienceleague.adobe.com/zh-hans/docs/campaign-classic/using/release-notes/latest-release) | [产品文档](https://experienceleague.adobe.com/zh-hans/docs/campaign-classic/using/campaign-classic-home)
+
+* [!DNL Campaign Standard]：**2024年8月** - [发行说明](https://experienceleague.adobe.com/zh-hans/docs/campaign-standard/using/release-notes/release-notes) | [产品文档](https://experienceleague.adobe.com/zh-hans/docs/campaign-standard/using/campaign-standard-home)
 
 +++
 
