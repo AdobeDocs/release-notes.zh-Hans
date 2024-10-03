@@ -6,10 +6,10 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: c563d797f681063494a6b9b5e3448cb71bfa6ce1
+source-git-commit: 0d239505fecd3d8b933bfb0e16ded3632b463b1f
 workflow-type: tm+mt
-source-wordcount: '4127'
-ht-degree: 99%
+source-wordcount: '3845'
+ht-degree: 97%
 
 ---
 
@@ -38,15 +38,15 @@ ht-degree: 99%
 
 ## 2024 年 10 月
 
-最近更新： **2024年10月2日**
+最近更新： **2024年10月3日**
 
 * [[!DNL Experience League] 活动和最新消息](#events)（更新日期：**9 月 10 日**）
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 中央界面和管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics)
-* [[!DNL Adobe Customer Journey Analytics]](#cja)
+* [[!DNL Adobe Analytics]](#analytics) （发行版本：**10月2日**）
+* [[!DNL Adobe Customer Journey Analytics]](#cja) （发行版本：**10月2日**）
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -93,21 +93,9 @@ Experience League 上提供了新视频 [播放列表](https://experienceleague.
 
 +++详细信息
 
-* **[!DNL MARKETO ENGAGE]** | 社区活动 | _Marketo 和 Mochas：优化您的 Marketo 使用情况（成熟度第 2 部分）_ | 在我们的 Marketo 成熟度系列第 2 部分中了解如何优化您的 Marketo 使用情况。本次会议将重点讨论数据管理、集成和程序优化方面的最佳实践，以提高个性化水平。| **9 月 12 日上午 11:00（MT 时间）** | [注册](https://adobeevents.adobeconnect.com/eaawduywkndj/event/registration.html?campaign-id=ExL)
+* **[!DNL WORKFRONT]** | 社区活动 | _连接：营销和创意的管理员聊天_ | 您是否是营销或创意团队的系统管理员？ 该客户导向课程将让您与其他Workfront管理员讨论最佳实践以及提示和技巧。 | **10月4日@上午10:00 MT** | [注册](https://events.teams.microsoft.com/event/b9fa4c50-7e49-4853-a04f-98120542240a@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | 客户研讨会 | _学习：使用 Adobe 产品返回 Workfront Boards_ | 正在寻找使用 Workfront Boards 的新颖且有创意的方法？加入我们的产品经理，了解 Boards 的最佳实践以及如何使用该功能来提高采用率。| **9 月 12 日上午 11:00（MT 时间）** | [注册](https://events.teams.microsoft.com/event/e1e4a956-0115-4a60-b7f8-f519e6f26013@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL WORKFRONT]** | 社区活动 | _联系：Workfront Collective_ | 加入我们每月的周一 Workfront Collective 活动，与其他客户联系、讨论 Workfront 功能、分享想法并共同集思广益以解决共同的挑战。| **9 月 16 日上午 7:00（MT 时间）** | [注册](https://events.teams.microsoft.com/event/ecc08357-a15e-4058-a062-8efe038c81cc@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL WORKFRONT]** | 客户研讨会 | _管理 101：提出您的 Workfront 问题_ | 初次接触 Workfront？您错过了之前的任何 Admin 101 会议吗？加入我们的总结会议，提出问题，获取资源和建议，并结识其他新管理员。| **9 月 17 日上午 9:00（MT 时间）** | [注册](https://events.teams.microsoft.com/event/ea6802af-b1dc-441a-aedb-79ed8607e02d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL MARKETO ENGAGE]** | 网络研讨会 | _通过多流参与计划掌握复杂的客户历程_ | 与 Adobe Marketo Engage Champion Max Garrett 一起探索如何在客户历程的每一步通过多点触控和多流参与计划系统地吸引和培养客户关系。| **9 月 17 日上午 9:00（MT 时间）** | [注册](https://engage.adobe.com/Master-Muti-Stream-Engagement-Program-Marketo-Engage.html?trackingid=CJ1327K1&amp;mv=email)
-
-* **[!DNL WORKFRONT]** | 客户研讨会 | _学习：价值实现 - 从 Workfront 获得最大收益_ | 寻找如何从 Workfront 工作中实现最大价值的指导？与高级客户成功经理 Kait Winchell 一起分享行业最佳实践，以充分利用 Workfront。| **9 月 19 日上午 9:00（MT 时间）** | [注册](https://events.teams.microsoft.com/event/6fae993e-73b5-49e6-97a1-1aa0a64b83c8@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL COMMERCE]** | 网络研讨会 | _商业与咖啡：旺季准备_ | 加入 Corey Gelato 以了解如何在一年中的任何时候为您的网站做好旺季准备。了解如何优化网站性能、管理库存、履行订单以及主动加强支持。| **9 月 19 日上午 11:00（MT 时间）** | [注册](https://adobeevents.adobeconnect.com/e47se7d9nn63/event/registration.html?campaign-id=ExL)
-
-* **[!DNL DYNAMIC MEDIA CLASSIC]，[!DNL EXPERIENCE MANAGER ASSETS]** | 网络研讨会 | _动态媒体体验：揭开最新创新的面纱_ | AEM Dynamic Media 中的新创新现已推出，可提升您的客户体验！加入我们，了解以价值为中心的概述以及利用最新技术构建的引人注目的用户体验。| **9 月 25 日上午 10:00（MT 时间）** | [注册](https://events.teams.microsoft.com/event/043c6637-cfaf-486b-8924-2e562d28c833@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | 社区活动 | _管理员101： Workfront入门_ | 初次使用Workfront？ 请参加我们三部分Admin 101系列的第一场会议。 您可以了解有关系统设置和导航的最佳实践和建议，以及必备资源。 | **10月8日上午9:00 MT** | [注册](https://events.teams.microsoft.com/event/b9940fcc-4993-4f87-8b05-111fe841dc98@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 更多精彩内容！在 Experience League 上查看所有[即将举行的活动](https://experienceleague.adobe.com/events/)或浏览[过去的活动录像。](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-recorded-events/overview)
 
@@ -247,7 +235,7 @@ Experience League 上提供了新视频 [播放列表](https://experienceleague.
 
 +++详细信息
 
-[!DNL Customer Journey Analytics] 发布日期：**2024 年 9 月 11 日**
+[!DNL Customer Journey Analytics]发行日期：**2024年10月2日**
 
 * [!DNL Customer Journey Analytics] [发行说明](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/releases/latest#releases) <!-- * [!DNL Customer Journey Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html) -->
 
@@ -638,7 +626,6 @@ New articles and updates to existing articles for [!DNL Workfront].
 | 发布日期 | 应用程序 | 名称 | 类型 | 描述 |
 | -----------| ---------- | ---------- | ---------- |---------- |
 | 2024 年 9 月 | Acrobat | [如何将用户提升为管理员角色](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/promote-admin.html?lang=zh-hans) | 视频 | 了解如何使用 Adobe Admin Console 将用户提升为 Acrobat Sign 管理员角色。 |
-| 2024 年 9 月 | Acrobat | [如何使用多个轮廓](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/multiple-profiles) | 视频 | 了解如何使用轮廓选择器处理多个 Acrobat Sign 帐户。 |
 | 2024 年 9 月 | Acrobat Sign | [审核报告](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/audit-reports) | 视频 | 了解如何访问、使用和配置审核报告以满足您组织的需求。Acrobat Sign 中的每个文档都会经过一系列事件“里程碑”，这些事件“里程碑”决定了交易的进度。这些里程碑都详细记录在每笔交易的审计报告中。 |
 | 2024 年 9 月 | Acrobat Sign | [批量下载工具](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/bulk-download-tool) | 视频 | 了解如何使用批量下载工具快速下载所有签署的协议，从而节省大量时间。批量下载 工具适用于 Windows 和 MAC OS X。 |
 | 2024 年 9 月 | Acrobat Sign | [设置自动更新](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/sign-learning-hub/integrations/salesforce/salesforce-automatic-updates) | 视频 | 了解如何轻松地将您的帐户链接到 Salesforce 以获得自动更新 - 简化操作并提高准确性。 |
