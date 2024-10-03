@@ -2,18 +2,18 @@
 title: 最新发行说明
 description: 查找 Adobe [!DNL Experience Cloud] 产品和服务的最新发行说明和知识库问题。了解即将举行的活动以及 Experience League 的新文档。了解 [!DNL Experience Cloud] 应用程序的最新教程和课程。
 doc-type: release notes
-last-update: September 2024
+last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f0ee3effcdf1abcc2acbfe7b853adec15322dd2d
-workflow-type: ht
+source-git-commit: c563d797f681063494a6b9b5e3448cb71bfa6ce1
+workflow-type: tm+mt
 source-wordcount: '4127'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
-# Experience Cloud 发行说明 - 2024 年 9 月
+# Experience Cloud 发行说明 - 2024 年 10 月
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
@@ -36,9 +36,9 @@ ht-degree: 100%
 
 要收到有关此页面更新的每月电子邮件通知，请订阅 [Adobe 优先产品更新](https://www.adobe.com/cn/subscription/priority-product-update.html)。
 
-## 2024 年 9 月
+## 2024 年 10 月
 
-最新更新日期：**2024 年 9 月 11 日**
+最近更新： **2024年10月2日**
 
 * [[!DNL Experience League] 活动和最新消息](#events)（更新日期：**9 月 10 日**）
 * [[!DNL Adobe System Status]](#status)
@@ -208,7 +208,7 @@ Experience League 上提供了新视频 [播放列表](https://experienceleague.
 
 +++详细信息
 
-[!DNL Analytics] 发布日期：**2024 年 9 月 11 日**
+[!DNL Analytics]发行日期：**2024年10月2日**
 
 * [!DNL Analytics] [发行说明](https://experienceleague.adobe.com/zh-hans/docs/analytics/release-notes/latest) <!-- * [!DNL Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html)  -->
 
