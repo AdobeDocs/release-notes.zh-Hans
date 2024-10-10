@@ -6,10 +6,10 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1e26c1a450f5ddc45f49d3b6d5aaa85f9cbf008c
-workflow-type: ht
+source-git-commit: f80213edd3db47dd0519beeaaaeb1cbfc9e04883
+workflow-type: tm+mt
 source-wordcount: '3847'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -38,9 +38,9 @@ ht-degree: 100%
 
 ## 2024 年 9 月 - 10 月
 
-最新更新日期：**2024 年 10 月 3 日**
+最近更新： **2024年10月10日**
 
-* [[!DNL Experience League] 活动和最新消息](#events)（更新日期：**9 月 10 日**）
+* [[!DNL Experience League] 活动和更新](#events) （更新日期： **10月10日**）
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 中央界面和管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -93,9 +93,9 @@ Experience League 上提供了新视频 [播放列表](https://experienceleague.
 
 +++详细信息
 
-* **[!DNL WORKFRONT]** | 社区活动 | _互动沟通：有关营销和创意方面的管理员互动沟通_ | 您是营销或创意团队的系统管理员吗？这次由客户推动的活动将让您与其他 Workfront 管理员交流以讨论最佳实践以及相关的技巧和窍门。| **北美山区时间 10 月 4 日上午 10:00** | [登记](https://events.teams.microsoft.com/event/b9fa4c50-7e49-4853-a04f-98120542240a@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | 社区活动 | _连接： Workfront Collective_ | 参加客户成功团队周一上午的开放式讨论，旨在将您与其他Workfront管理员联系起来，讨论最新功能，分享想法，并针对常见挑战集思广益地提出解决方案。 | **北美山区时间 10 月 14 日7:00** | [登记](https://events.teams.microsoft.com/event/0759bd35-9bb0-434a-a61b-b7c681ccfebd@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | 社区活动 | _管理员 101：开始使用 Workfront_ | Workfront 新手？欢迎参加由三部分组成的“管理 101”系列的第一节课程。您可以学习有关系统设置和导航的最佳实践和建议，以及必备资源。| **北美山区时间 10 月 8 日上午 9:00** | [登记](https://events.teams.microsoft.com/event/b9940fcc-4993-4f87-8b05-111fe841dc98@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | 客户研讨会 | _学习：提高效率 — 认知者如何利用Adobe Workfront实现卓越项目_ | 与Creative Operations高级经理兼全球品牌与创意与系统管理员的Sujatha T S一起，分享Cognizant如何优化其系统和流程以提高卓越项目效率。 | **北美山区时间 10 月 17 日上午 9:00** | [登记](https://events.teams.microsoft.com/event/eab3de7d-a781-45fa-be77-e96c00b1fa32@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 更多精彩内容！在 Experience League 上查看所有[即将举行的活动](https://experienceleague.adobe.com/events/)或浏览[过去的活动录像。](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-recorded-events/overview)
 
@@ -545,7 +545,7 @@ Experience League 上的新 [!DNL Workfront] 教程和活动。
 | 2024 年 9 月 | [创建请求队列](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue) | 视频 | 了解如何设置请求队列和建立队列详细信息。请按照以下步骤帮助您的组织管理工作量。 |
 | 2024 年 9 月 | [将自定义表单附加到对象](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-using-a-custom-form) | 视频 | 了解如何将自定义表单附加到对象，并使自定义字段在报告上可见。 |
 | 2024 年 9 月 | [创建和共享自定义表单](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form) | 视频 | 了解如何创建自定义表单、向表单中添加唯一字段以及与用户共享表单。 |
-| 2024 年 9 月 | [编辑自动化工作流模板](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/workfront-proof/proof-workflows/edit-an-automated-workflow-template) | 视频 | 了解如何在 Workfront 中更改现有的自动验证工作流模板。 |
+| 2024 年 9 月 | [编辑自动化工作流模板](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/workfront-proof/proof-workflows/edit-an-automated-workflow-template) | 视频 | 了解如何在 Workfront 中更改现有的自动校对工作流模板。 |
 
 <!--
 ### New [!DNL Workfront] support knowledge base
