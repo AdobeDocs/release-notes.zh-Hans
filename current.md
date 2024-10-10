@@ -7,13 +7,13 @@ author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: 1e26c1a450f5ddc45f49d3b6d5aaa85f9cbf008c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3847'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
-# Experience Cloud发行说明 — 2024年9/10月
+# Experience Cloud 发行说明 - 2024 年 9 月/10 月
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
@@ -36,17 +36,17 @@ ht-degree: 96%
 
 要收到有关此页面更新的每月电子邮件通知，请订阅 [Adobe 优先产品更新](https://www.adobe.com/cn/subscription/priority-product-update.html)。
 
-## 2024年9月至10月
+## 2024 年 9 月 - 10 月
 
-最近更新： **2024年10月3日**
+最新更新日期：**2024 年 10 月 3 日**
 
 * [[!DNL Experience League] 活动和最新消息](#events)（更新日期：**9 月 10 日**）
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 中央界面和管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) （发行版本：**10月2日**）
-* [[!DNL Adobe Customer Journey Analytics]](#cja) （发行版本：**10月2日**）
+* [[!DNL Adobe Analytics]](#analytics)（版本：**10 月 2 日**）
+* [[!DNL Adobe Customer Journey Analytics]](#cja)（版本：**10 月 2 日**）
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -93,9 +93,9 @@ Experience League 上提供了新视频 [播放列表](https://experienceleague.
 
 +++详细信息
 
-* **[!DNL WORKFRONT]** | 社区活动 | _连接：营销和创意的管理员聊天_ | 您是否是营销或创意团队的系统管理员？ 该客户导向课程将让您与其他Workfront管理员讨论最佳实践以及提示和技巧。 | **10月4日@上午10:00 MT** | [注册](https://events.teams.microsoft.com/event/b9fa4c50-7e49-4853-a04f-98120542240a@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | 社区活动 | _互动沟通：有关营销和创意方面的管理员互动沟通_ | 您是营销或创意团队的系统管理员吗？这次由客户推动的活动将让您与其他 Workfront 管理员交流以讨论最佳实践以及相关的技巧和窍门。| **北美山区时间 10 月 4 日上午 10:00** | [登记](https://events.teams.microsoft.com/event/b9fa4c50-7e49-4853-a04f-98120542240a@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | 社区活动 | _管理员101： Workfront入门_ | 初次使用Workfront？ 请参加我们三部分Admin 101系列的第一场会议。 您可以了解有关系统设置和导航的最佳实践和建议，以及必备资源。 | **10月8日上午9:00 MT** | [注册](https://events.teams.microsoft.com/event/b9940fcc-4993-4f87-8b05-111fe841dc98@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | 社区活动 | _管理员 101：开始使用 Workfront_ | Workfront 新手？欢迎参加由三部分组成的“管理 101”系列的第一节课程。您可以学习有关系统设置和导航的最佳实践和建议，以及必备资源。| **北美山区时间 10 月 8 日上午 9:00** | [登记](https://events.teams.microsoft.com/event/b9940fcc-4993-4f87-8b05-111fe841dc98@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 更多精彩内容！在 Experience League 上查看所有[即将举行的活动](https://experienceleague.adobe.com/events/)或浏览[过去的活动录像。](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-recorded-events/overview)
 
@@ -196,7 +196,7 @@ Experience League 上提供了新视频 [播放列表](https://experienceleague.
 
 +++详细信息
 
-[!DNL Analytics]发行日期：**2024年10月2日**
+[!DNL Analytics] 发布日期：**2024 年 10 月 2 日**
 
 * [!DNL Analytics] [发行说明](https://experienceleague.adobe.com/zh-hans/docs/analytics/release-notes/latest) <!-- * [!DNL Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html)  -->
 
@@ -235,7 +235,7 @@ Experience League 上提供了新视频 [播放列表](https://experienceleague.
 
 +++详细信息
 
-[!DNL Customer Journey Analytics]发行日期：**2024年10月2日**
+[!DNL Customer Journey Analytics] 发布日期：**2024 年 10 月 2 日**
 
 * [!DNL Customer Journey Analytics] [发行说明](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/releases/latest#releases) <!-- * [!DNL Customer Journey Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html) -->
 
