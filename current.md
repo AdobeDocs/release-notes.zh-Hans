@@ -6,10 +6,10 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f80213edd3db47dd0519beeaaaeb1cbfc9e04883
+source-git-commit: 1c909c2060ac5d838028dcd49def2d5c04e49e9a
 workflow-type: tm+mt
-source-wordcount: '3847'
-ht-degree: 97%
+source-wordcount: '3922'
+ht-degree: 95%
 
 ---
 
@@ -139,9 +139,10 @@ Experience League 上提供了新视频 [播放列表](https://experienceleague.
 
 版本：**2024 年 9 月 10 日**
 
-| 功能 | 描述 |
-| -----------| ---------- |
-| [!DNL Slack]通知[!DNL Experience Cloud] | 您可以配置帐户偏好设置以向 Slack 发送 [!DNL Experience Cloud] 通知。有关详细信息，请参阅 [订阅 Slack 通知](https://experienceleague.adobe.com/zh-hans/docs/core-services/interface/features/account-preferences) 。 |
+| 发行日期 | 功能 | 描述 |
+| -----------| -----------| ---------- |
+| 10 年 9 月 | [!DNL Slack]通知[!DNL Experience Cloud] | 您可以配置帐户偏好设置以向 Slack 发送 [!DNL Experience Cloud] 通知。有关详细信息，请参阅 [订阅 Slack 通知](https://experienceleague.adobe.com/zh-hans/docs/core-services/interface/features/account-preferences) 。 |
+| 2 年 10 月 | 可自定义主页 | 在Experience Cloud登录页面上，单击&#x200B;**[!UICONTROL 编辑]**。 通过[!UICONTROL 编辑]模式，您可以访问构件库和自定义背景，从而个性化您的Experience Cloud主页。 [!UICONTROL 编辑]模式为移动、调整大小和管理构件提供无缝、直观的控件，包括批量操作和布局调整，从而提供更美观且量身定制的体验。通过访问构件库和自定义背景，实现您的Experience Cloud主页个性化。 |
 
 有关[!DNL Experience Cloud]中央界面组件的帮助，请参阅[Experience Cloud 界面和管理指南](https://experienceleague.adobe.com/zh-hans/docs/core-services/interface/experience-cloud)（包括 [!UICONTROL 客户属性]、[!DNL Experience Cloud Assets]和[!UICONTROL 受众]）。
 
