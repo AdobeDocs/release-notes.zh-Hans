@@ -6,10 +6,10 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e87cb9ab004a05e3555eabd29455ad9e8aa5231e
+source-git-commit: 6d6a35b5c5c9ebd43c9cf2a683213578ff0f5912
 workflow-type: tm+mt
-source-wordcount: '3969'
-ht-degree: 94%
+source-wordcount: '3921'
+ht-degree: 95%
 
 ---
 
@@ -93,11 +93,9 @@ Experience League 上提供了新视频 [播放列表](https://experienceleague.
 
 +++详细信息
 
-* **[!DNL WORKFRONT]** | 客户研讨会 | _学习：提高效率 — 认知者如何利用Adobe Workfront实现卓越项目_ | 与Creative Operations高级经理兼全球品牌与创意与系统管理员的Sujatha T S一起，分享Cognizant如何优化其系统和流程以提高卓越项目效率。 | **北美山区时间 10 月 17 日上午 9:00** | [登记](https://events.teams.microsoft.com/event/eab3de7d-a781-45fa-be77-e96c00b1fa32@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL COMMERCE]** | 网络研讨会 | _在布鲁后面：优化您的Commerce店面_ | 正在寻找策略来高效地维护和优化您的店面？ 了解如何防止常见数据拦截器、缓解机器人活动的策略以及磁盘空间和数据库大小的规划。 | **北美山区时间 10 月 17 日11:00** | [登记](https://adobeevents.adobeconnect.com/ekboarwqotqv/event/registration.html?campaign-id=ExL)
-
 * **[!DNL WORKFRONT]** | 问答聊天 | _了解：高通采用Adobe Workfront的历程_ | 来了解战略方法Becky Barus，高通的Adobe Workfront认证技术负责人，用于大幅提高Adobe Workfront的用户采用率。 | **北美山区时间 10 月 23 日10:00** | [登记](https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL MULTIPLE APPLICATIONS]** | Adobe Developers Live | _Adobe Developers Live 2024_ | 在圣何塞的Adobe Developers Live总部，亲自加入我们Adobe！ 与AEM和Commerce开发人员联系，探索最新创新并学习最佳实践。 11月12日，面对面或网上。 立即注册！ | **11月12日上午9:00 MT** | [注册][(https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
 
 还有更多！ 在 Experience League 上查看所有[即将举行的活动](https://experienceleague.adobe.com/events/)或浏览[过去的活动录像。](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-recorded-events/overview)
 
