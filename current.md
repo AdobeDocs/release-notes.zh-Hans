@@ -6,10 +6,10 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 64f8c46f7424a25a53e2da939c7ea29795ba1937
+source-git-commit: 1a51bbbeef7022125cd7498e6863f9ad367198a4
 workflow-type: tm+mt
-source-wordcount: '3907'
-ht-degree: 96%
+source-wordcount: '3952'
+ht-degree: 95%
 
 ---
 
@@ -95,7 +95,9 @@ Experience League 上提供了新视频 [播放列表](https://experienceleague.
 
 * **[!DNL WORKFRONT]** | 问答聊天 | _了解：高通采用Adobe Workfront的历程_ | 来了解战略方法Becky Barus，高通的Adobe Workfront认证技术负责人，用于大幅提高Adobe Workfront的用户采用率。 | **北美山区时间 10 月 23 日10:00** | [登记](https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL MULTIPLE APPLICATIONS]** | Adobe Developers Live | _Adobe Developers Live 2024_ | 在圣何塞的Adobe Developers Live总部，亲自加入我们Adobe！ 与AEM和Commerce开发人员联系，探索最新创新并学习最佳实践。 11月12日，面对面或网上。 立即注册！ | **11月12日上午9:00 MT** | [注册][(https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
+* **[!DNL Experience Platform, Journey Optimizer, and Real-Time Customer Data Platform Collaboration]** | 问答聊天 | _Adobe Experience League Live：协调Experience Ecostems中的受众 — Experience Platform中的联合受众构成_ | 了解联合受众构成如何通过Real-Time CDP和Journey Optimizer提供一种全面的受众管理和激活方法。 | **北美山区时间 10 月 24 日8:30** | [登记](https://engage.adobe.com/ExpLeagueLive-241024.html)
+
+* **[!DNL MULTIPLE APPLICATIONS]** | Adobe Developers Live | _Adobe Developers Live 2024_ | 在圣何塞的Adobe Developers Live总部，亲自加入我们Adobe！ 与AEM和Commerce开发人员联系，探索最新创新并学习最佳实践。 11月12日，面对面或网上。 立即注册！ | **11月12日上午9:00 MT** | [注册](https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 还有更多！ 在 Experience League 上查看所有[即将举行的活动](https://experienceleague.adobe.com/events/)或浏览[过去的活动录像。](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-recorded-events/overview)
 
