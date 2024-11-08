@@ -6,10 +6,10 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 719336060311e774db7799c3357946dc2568ac67
+source-git-commit: 9231c3a730a0b7167c8c63a7655f08239fd6dee9
 workflow-type: tm+mt
-source-wordcount: '4484'
-ht-degree: 99%
+source-wordcount: '4614'
+ht-degree: 97%
 
 ---
 
@@ -93,7 +93,13 @@ Experience League 上提供了新视频 [播放列表](https://experienceleague.
 
 +++详细信息
 
+* **[!DNL Workfront]** | 社区活动 | _连接： Workfront Collective_ | 参加我们每个月的周一Workfront集体活动，这些活动旨在与其他客户联系，讨论Workfront功能，分享想法，并一起集思广益，以解决共同面临的挑战。 | **11 月 11 日7:00（北美山地时区）** | [注册](https://events.teams.microsoft.com/event/ffc976b3-a3a9-44d3-bea7-ff315460495a@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | 客户研讨会 | _管理员101：让用户使用Workfront_ | 初次使用Workfront？ 请参加由3部分组成的Admin 101系列的第二次会议，讨论与用户采用相关的所有事项。 请回答您的问题！ | **11 月 12 日上午 9:00（北美山地时区）** | [注册](https://events.teams.microsoft.com/event/e9e4e06c-b492-4759-afda-b5d3fb31859e@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
 * **[!DNL Experience Cloud]（多产品）** | Adobe Developers Live | _Adobe Developers Live 2024_ | 欢迎亲临圣何塞 Adobe 总部参加 Adobe Developers Live！与 AEM 和 Commerce 开发人员交流，探索最新创新，学习最佳做法。11 月 12 日，现场或在线。立即注册！| **11 月 12 日上午 9:00（北美山地时区）** | [注册](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
+
+* **[!DNL Experience Platform and Real-Time CDP]** | Experience League直播 | _在Real-Time CDP中为营销人员引入AI助手_ | 与Adobe产品专家一起偷偷窥即将出现在Adobe Real-Time CDP的受众人工智能助手，以强化受众见解和操作。 获得Adobe产品专家的解答！ | **11 月 13 日10:00（北美山地时区）** | [注册](https://engage.adobe.com/ExpLeagueLive-241113.html)
 
 以及更多！在 Experience League 上查看所有[即将举行的活动](https://experienceleague.adobe.com/events/)或浏览[过去的活动录像。](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-recorded-events/overview)
 
