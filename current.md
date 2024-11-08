@@ -6,10 +6,10 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7b1fc9eb2230cb7779b9253211080933c73cb796
+source-git-commit: 719336060311e774db7799c3357946dc2568ac67
 workflow-type: tm+mt
-source-wordcount: '4608'
-ht-degree: 98%
+source-wordcount: '4484'
+ht-degree: 99%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 98%
 
 ## 2024 年 11 月
 
-最近更新： **11月4日**
+最近更新： **11月8日**
 
 * [[!DNL Experience League] 活动和最新消息](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -93,13 +93,7 @@ Experience League 上提供了新视频 [播放列表](https://experienceleague.
 
 +++详细信息
 
-* **[!DNL Workfront]** | 客户研讨会 | _学习：将更改管理应用于您的Workfront历程_ | 加入高级客户成功经理Keri Amundson的行列，她将分享更改管理最佳实践，帮助您推动Workfront历程中的更改。 | **11 月 7 日上午 9:00（北美山地时区）** | [注册](https://events.teams.microsoft.com/event/c890ca39-6dc6-43b2-9883-bfba1c51a494@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | 客户研讨会 | _学习：将更改管理应用于您的Workfront历程_ | 加入高级客户成功经理Keri Amundson的行列，她将分享更改管理最佳实践，帮助您推动Workfront历程中的更改。 | **11 月 7 日上午 9:00（北美山地时区）** | [注册](https://events.teams.microsoft.com/event/c890ca39-6dc6-43b2-9883-bfba1c51a494@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL Experience Cloud]（多产品）** | Adobe Developers Live | _Adobe Developers Live 2024_ | 欢迎亲临圣何塞 Adobe 总部参加 Adobe Developers Live！与 AEM 和 Commerce 开发人员交流，探索最新创新，学习最佳做法。11 月 12 日，现场或在线。立即注册！| **11 月 12 日上午 9:00（北美山地时区）** | [注册](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
-
-* **[!DNL MULTIPLE APPLICATIONS]** | Adobe Developers Live | _Adobe Developers Live 2024_ | 欢迎亲临圣何塞 Adobe 总部参加 Adobe Developers Live！与 AEM 和 Commerce 开发人员交流，探索最新创新，学习最佳做法。11 月 12 日，现场或在线。立即注册！| **11 月 12 日上午 9:00（北美山地时区）** | [注册](https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 以及更多！在 Experience League 上查看所有[即将举行的活动](https://experienceleague.adobe.com/events/)或浏览[过去的活动录像。](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-recorded-events/overview)
 
