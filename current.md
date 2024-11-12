@@ -6,10 +6,10 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 9231c3a730a0b7167c8c63a7655f08239fd6dee9
+source-git-commit: 0c46b2408ea58ab78dbd5b0dd9e3931ddd20e33a
 workflow-type: tm+mt
-source-wordcount: '4614'
-ht-degree: 97%
+source-wordcount: '4710'
+ht-degree: 95%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 97%
 
 ## 2024 年 11 月
 
-最近更新： **11月8日**
+最近更新： **11月12日**
 
 * [[!DNL Experience League] 活动和最新消息](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -93,13 +93,13 @@ Experience League 上提供了新视频 [播放列表](https://experienceleague.
 
 +++详细信息
 
-* **[!DNL Workfront]** | 社区活动 | _连接： Workfront Collective_ | 参加我们每个月的周一Workfront集体活动，这些活动旨在与其他客户联系，讨论Workfront功能，分享想法，并一起集思广益，以解决共同面临的挑战。 | **11 月 11 日7:00（北美山地时区）** | [注册](https://events.teams.microsoft.com/event/ffc976b3-a3a9-44d3-bea7-ff315460495a@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | 客户研讨会 | _管理员101：让用户使用Workfront_ | 初次使用Workfront？ 请参加由3部分组成的Admin 101系列的第二次会议，讨论与用户采用相关的所有事项。 请回答您的问题！ | **11 月 12 日上午 9:00（北美山地时区）** | [注册](https://events.teams.microsoft.com/event/e9e4e06c-b492-4759-afda-b5d3fb31859e@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL Experience Cloud]（多产品）** | Adobe Developers Live | _Adobe Developers Live 2024_ | 欢迎亲临圣何塞 Adobe 总部参加 Adobe Developers Live！与 AEM 和 Commerce 开发人员交流，探索最新创新，学习最佳做法。11 月 12 日，现场或在线。立即注册！| **11 月 12 日上午 9:00（北美山地时区）** | [注册](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
 
 * **[!DNL Experience Platform and Real-Time CDP]** | Experience League直播 | _在Real-Time CDP中为营销人员引入AI助手_ | 与Adobe产品专家一起偷偷窥即将出现在Adobe Real-Time CDP的受众人工智能助手，以强化受众见解和操作。 获得Adobe产品专家的解答！ | **11 月 13 日10:00（北美山地时区）** | [注册](https://engage.adobe.com/ExpLeagueLive-241113.html)
+
+* **[!DNL Marketo]** | Marketo Engage冠军 | _2024年11月Marketo Engage冠军办公时间_ | 参加我们11月14日星期四的Marketo冠军办公时间活动，我们由Alsyha Khan主持的冠军小组包括Miray Vu、Maria Cruz、AJ Navarro和Lucas Goncalves Machado。 | **11 月 14 日上午 9:00（北美山地时区）** | [注册](https://mugs.marketo.com/events/details/marketo-champion-office-hours-mug-presents-november-2024-marketo-engage-champion-office-hours/)
+
+* **[!DNL Analytics and Customer Journey Analytics]** | Experience Cloud技术讲座 | _Adobe Customer Journey Analytics产品创新：季度概述 — 2025年第四季度_ | 与Adobe Analytics产品专家一起探索Adobe Customer Journey Analytics的最新创新。 2025年第4季度会议即将召开，请立即注册以确保您的资格。 | **11 月 14 日10:00（北美山地时区）** | [注册](https://event.adobe.com/customerjourneyanalytics)
 
 以及更多！在 Experience League 上查看所有[即将举行的活动](https://experienceleague.adobe.com/events/)或浏览[过去的活动录像。](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-recorded-events/overview)
 
@@ -321,6 +321,9 @@ Experience League 上的 [!DNL Adobe Commerce] 新教程。
 
 | 发布日期 | 名称 | 类型 | 描述 |
 | -----------| ---------- | ---------- | ---------- |
+| 2024 年 11 月 | [配置值](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/troubleshooting/config-values) | 视频 | 了解如何使用`core_config_data`、XML文件和管理设置在Adobe Commerce中查找、验证和管理配置值。 |
+| 2024 年 11 月 | [解决常见错误](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/troubleshooting/config-values) | 视频 | 解决两个阻止站点加载的常见AdobeCloud项目错误。 |
+| 2024 年 11 月 | [过期的SSL证书](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/troubleshooting/invalid-ssl) | 视频 | 了解如何识别过期的ssl证书，以及如何为Adobe Commerce Cloud集成或其他开发环境重新生成一个证书。 |
 | 2024 年 10 月 | [Adobe Commerce](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/getting-started/migrating-to-adobe-commerce/qa/code-freeze) | 多个视频 | 观看有关 Commerce 市场结构、全球交付模式、管理角色、店面选项等的新视频。 |
 | 2024 年 10 月 | [迁移至 Adobe Commerce](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/getting-started/migrating-to-adobe-commerce/overview) | 视频 | 概述迁移到 Adobe Commerce 时的准备、自定义代码、QA、性能和安全性。 |
 | 2024 年 10 月 | [使用命令行重置管理 URI](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/admin/reset-admin-uri) | 视频 | 了解如何使用 Adobe Commerce Cloud cli 命令重置管理员 URI。如果管理员更改了管理 URL，但由于操作失误而导致无法访问管理员，这将非常有用。 |
