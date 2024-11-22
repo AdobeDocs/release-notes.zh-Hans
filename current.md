@@ -6,10 +6,10 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0c46b2408ea58ab78dbd5b0dd9e3931ddd20e33a
+source-git-commit: 1d63ee52cf877b33f2033666021918271a83404f
 workflow-type: tm+mt
-source-wordcount: '4710'
-ht-degree: 95%
+source-wordcount: '4660'
+ht-degree: 94%
 
 ---
 
@@ -38,15 +38,15 @@ ht-degree: 95%
 
 ## 2024 年 11 月
 
-最近更新： **11月12日**
+最近更新： **11月22日**
 
-* [[!DNL Experience League] 活动和最新消息](#events)
+* [[!DNL Experience League] 活动和更新](#events) （**11月24日**）
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 中央界面和管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics)（版本：**10 月 23 日**）
-* [[!DNL Adobe Customer Journey Analytics]](#cja)（版本：**10 月 23 日**）
+* [[!DNL Adobe Analytics]](#analytics) （发行日期：**10月23日**）
+* [[!DNL Adobe Customer Journey Analytics]](#cja) （发行日期：**10月23日**）
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -57,7 +57,7 @@ ht-degree: 95%
 * [[!DNL Adobe Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
 * [[!DNL Adobe Workfront]](#workfront)
-* [[!DNL GenStudio for Performance Marketing]](#genstudio-marketing) (**新的！**)
+* [[!DNL GenStudio for Performance Marketing]](#genstudio-marketing)
 * [[!DNL Adobe Mix Modeler]](#mix-modeler)
 * [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Pass]](#pass)
@@ -71,6 +71,17 @@ ht-degree: 95%
 ## ![图标](/assets/experience-league.png) [!DNL Experience League] 活动和最新消息 {#events}
 
 在 Experience League 上了解各种精彩的活动。它是向 Adobe 的产品专家学习、与其交流和获得解答的绝佳场所！
+
+### 目录增强功能
+
+更新：**2024年11月22日**
+
+对Experience League中的每个目录进行了以下更新：
+
+* **[!UICONTROL 展开所有部分]**：在任何Experience League指南上显示整个目录。 (此切换在页面加载后关闭。 此问题将在以后的更新中修复。) 已删除&#x200B;**[!UICONTROL 查看更多]**&#x200B;和&#x200B;**[!UICONTROL 查看更少]**&#x200B;选项。
+* **滚动**：允许滚动较长的目录。
+* **[!UICONTROL 按关键字筛选]**：允许您通过键入关键字来筛选目录条目。 下拉列表显示相关结果，您可以通过单击&#x200B;**[!UICONTROL 清除]**&#x200B;来清除筛选器。
+* **活动页面可见性**：活动页面在目录中始终高亮显示。
 
 ### Experience League 上的播放列表
 
@@ -93,15 +104,7 @@ Experience League 上提供了新视频 [播放列表](https://experienceleague.
 
 +++详细信息
 
-* **[!DNL Experience Cloud]（多产品）** | Adobe Developers Live | _Adobe Developers Live 2024_ | 欢迎亲临圣何塞 Adobe 总部参加 Adobe Developers Live！与 AEM 和 Commerce 开发人员交流，探索最新创新，学习最佳做法。11 月 12 日，现场或在线。立即注册！| **11 月 12 日上午 9:00（北美山地时区）** | [注册](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
-
-* **[!DNL Experience Platform and Real-Time CDP]** | Experience League直播 | _在Real-Time CDP中为营销人员引入AI助手_ | 与Adobe产品专家一起偷偷窥即将出现在Adobe Real-Time CDP的受众人工智能助手，以强化受众见解和操作。 获得Adobe产品专家的解答！ | **11 月 13 日10:00（北美山地时区）** | [注册](https://engage.adobe.com/ExpLeagueLive-241113.html)
-
-* **[!DNL Marketo]** | Marketo Engage冠军 | _2024年11月Marketo Engage冠军办公时间_ | 参加我们11月14日星期四的Marketo冠军办公时间活动，我们由Alsyha Khan主持的冠军小组包括Miray Vu、Maria Cruz、AJ Navarro和Lucas Goncalves Machado。 | **11 月 14 日上午 9:00（北美山地时区）** | [注册](https://mugs.marketo.com/events/details/marketo-champion-office-hours-mug-presents-november-2024-marketo-engage-champion-office-hours/)
-
-* **[!DNL Analytics and Customer Journey Analytics]** | Experience Cloud技术讲座 | _Adobe Customer Journey Analytics产品创新：季度概述 — 2025年第四季度_ | 与Adobe Analytics产品专家一起探索Adobe Customer Journey Analytics的最新创新。 2025年第4季度会议即将召开，请立即注册以确保您的资格。 | **11 月 14 日10:00（北美山地时区）** | [注册](https://event.adobe.com/customerjourneyanalytics)
-
-以及更多！在 Experience League 上查看所有[即将举行的活动](https://experienceleague.adobe.com/events/)或浏览[过去的活动录像。](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-recorded-events/overview)
+在 Experience League 上查看所有[即将举行的活动](https://experienceleague.adobe.com/events/)或浏览[过去的活动录像。](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-recorded-events/overview)
 
 +++
 
@@ -130,6 +133,10 @@ Experience League 上提供了新视频 [播放列表](https://experienceleague.
 了解 [!DNL Experience Cloud] 中央界面组件和管理。管理产品和用户、配置配置文件设置和首选项、搜索 Experience Cloud 对象以及管理 Cookie。
 
 +++详细信息
+
+为了更便于控制Experience Cloud产品使用数据偏好设置，我们简化了Experience Cloud偏好设置页面，以删除重复选项。 为简单起见，我们保留了当前的用户首选项，您可以随时在https://experience.adobe.com/preferences更新您的首选项。
+
+
 
 | 发行日期 | 功能 | 描述 |
 | -----------| -----------| ---------- |
