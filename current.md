@@ -6,9 +6,9 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1d63ee52cf877b33f2033666021918271a83404f
+source-git-commit: 8f8c2c1c77f9ca98e7543ff7a52071c6fa49fea5
 workflow-type: tm+mt
-source-wordcount: '4660'
+source-wordcount: '4635'
 ht-degree: 94%
 
 ---
@@ -28,23 +28,19 @@ ht-degree: 94%
 
 为了获得最佳的自助体验，请登录到 [Experience League](https://experienceleague.adobe.com/#home)，并自定义您在 Adobe 的各种免费[文档](https://experienceleague.adobe.com/zh-hans/docs)、[课程](https://experienceleague.adobe.com/#courses)、[活动](https://experienceleague.adobe.com/events/)、[社区论坛](https://experienceleaguecommunities.adobe.com/?profile.language=en)和[支持](https://experienceleague.adobe.com/?support-tab=home#support)上的搜索体验。
 
-**提供反馈**
+**提供反馈：**&#x200B;查找&#x200B;**_此内容是否有帮助？_** 每页底部弹出窗口。您的反馈将被整理并发送给内容作者。
 
-寻找&#x200B;**_此内容是否有帮助？_** 每页底部弹出窗口。您的反馈将被整理并发送给内容作者。
+**获取通知：**&#x200B;若要接收有关此页面更新的每月电子邮件通知，请订阅[Adobe产品更新早知道](https://www.adobe.com/cn/subscription/priority-product-update.html)。
 
-**获取通知**
+**2024 年 11 月**
 
-要收到有关此页面更新的每月电子邮件通知，请订阅 [Adobe 优先产品更新](https://www.adobe.com/cn/subscription/priority-product-update.html)。
-
-## 2024 年 11 月
-
-最近更新： **11月22日**
+最新更新：**2024年11月22日**
 
 * [[!DNL Experience League] 活动和更新](#events) （**11月24日**）
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 中央界面和管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
-* [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
+* [[!DNL Adobe Real-Time CDP]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics) （发行日期：**10月23日**）
 * [[!DNL Adobe Customer Journey Analytics]](#cja) （发行日期：**10月23日**）
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
@@ -68,9 +64,11 @@ ht-degree: 94%
 * [Adobe 认证](https://experienceleague.adobe.com/en/certification-home)
 * [Adobe 产品安全漏洞](https://helpx.adobe.com/cn/security.html)
 
-## ![图标](/assets/experience-league.png) [!DNL Experience League] 活动和最新消息 {#events}
+## [!DNL Experience League] 活动和最新消息 {#events}
 
 在 Experience League 上了解各种精彩的活动。它是向 Adobe 的产品专家学习、与其交流和获得解答的绝佳场所！
+
++++详细信息
 
 ### 目录增强功能
 
@@ -100,6 +98,8 @@ Experience League 上提供了新视频 [播放列表](https://experienceleague.
 >
 >如果您在 Experience League 上收藏了某个课程，您将被重定向到相应的播放列表。在某些情况下，您可能需要浏览到涵盖您正在寻找的主题的新播放列表。
 
++++
+
 ### Experience League 活动
 
 +++详细信息
@@ -108,7 +108,7 @@ Experience League 上提供了新视频 [播放列表](https://experienceleague.
 
 +++
 
-## ![图标](/assets/system-status.png) [!DNL Adobe System Status] {#status}
+## [!DNL Adobe System Status] {#status}
 
 了解 [!DNL Adobe System Status] 的最新功能和相关更新。
 
@@ -128,15 +128,13 @@ Experience League 上提供了新视频 [播放列表](https://experienceleague.
 
 +++
 
-## ![Icon](/assets/ec_appicon_24.png) [!DNL Experience Cloud] - 中央界面和管理 {#ecloud}
+## [!DNL Experience Cloud] - 中央界面和管理 {#ecloud}
 
 了解 [!DNL Experience Cloud] 中央界面组件和管理。管理产品和用户、配置配置文件设置和首选项、搜索 Experience Cloud 对象以及管理 Cookie。
 
 +++详细信息
 
 为了更便于控制Experience Cloud产品使用数据偏好设置，我们简化了Experience Cloud偏好设置页面，以删除重复选项。 为简单起见，我们保留了当前的用户首选项，您可以随时在https://experience.adobe.com/preferences更新您的首选项。
-
-
 
 | 发行日期 | 功能 | 描述 |
 | -----------| -----------| ---------- |
@@ -146,7 +144,7 @@ Experience League 上提供了新视频 [播放列表](https://experienceleague.
 
 +++
 
-## ![图标](/assets/experience_platform_appicon_24.png) [!DNL Experience Platform] {#platform}
+## [!DNL Experience Platform] {#platform}
 
 查找 [!DNL Experience Platform] 和 [!UICONTROL Mobile SDK] 的最新发行信息和新文档。查看 Experience League 上的新教程和知识库文章。
 
@@ -175,9 +173,9 @@ Experience League 上提供了新视频 [播放列表](https://experienceleague.
 
 +++
 
-## ![图标](/assets/experience_platform_appicon_24.png) [!DNL Real-Time Customer Data Platform] {#rtcdp}
+## [!DNL Real-Time CDP] {#rtcdp}
 
-在 Experience League 上查找 [!DNL Real-Time Customer Data Platform] 的最新教程。
+在 Experience League 上查找 [!DNL Real-Time CDP] 的最新教程。
 
 +++详细信息
 
@@ -187,7 +185,7 @@ Experience League 上提供了新视频 [播放列表](https://experienceleague.
 
 +++
 
-## ![图标](/assets/analytics.png) [!DNL Analytics] {#analytics}
+## [!DNL Analytics] {#analytics}
 
 查找 [!DNL Adobe Analytics] 和 [!DNL AppMeasurement] 的最新发布信息。查看新的 Experience League 教程。
 
@@ -225,7 +223,7 @@ Experience League 上提供了新视频 [播放列表](https://experienceleague.
 
 +++
 
-## ![图标](/assets/analytics.png) [!DNL Customer Journey Analytics] {#cja}
+## [!DNL Customer Journey Analytics] {#cja}
 
 查找 [!DNL Customer Journey Analytics] 的最新发布信息。查看 Experience League 上的新教程。
 
@@ -247,7 +245,7 @@ Experience League 上提供了新视频 [播放列表](https://experienceleague.
 
 +++
 
-## ![图标](/assets/analytics.png) [!DNL Streaming Media Analytics] {#sma}
+## [!DNL Streaming Media Analytics] {#sma}
 
 查找 [!DNL Streaming Media Analytics] 的最新发布信息。查看 Experience League 上的新教程。
 
@@ -259,7 +257,7 @@ Experience League 上提供了新视频 [播放列表](https://experienceleague.
 
 +++
 
-## ![图标](/assets/aem.png) Adobe [!DNL Experience Manager] {#aem}
+## Adobe [!DNL Experience Manager] {#aem}
 
 [!DNL Experience Manager] 中的新增功能、修复和更新。 Adobe 推荐采用内部部署的客户部署最新的修补程序以确保稳定性、安全性和性能得到提高。
 
@@ -312,7 +310,7 @@ Experience League 上提供了新视频 [播放列表](https://experienceleague.
 
 +++
 
-## ![图标](/assets/ec_appicon_24.png) [!DNL Adobe Commerce] {#commerce}
+## [!DNL Adobe Commerce] {#commerce}
 
 可在 Experience League 上访问 [!DNL Adobe Commerce] 的发行说明、新教程和知识库文章。
 
@@ -351,7 +349,7 @@ Adobe Commerce 的新文章和现有文章的更新。
 
 +++
 
-## ![图标](/assets/target.png) [!DNL Target] {#target}
+## [!DNL Target] {#target}
 
 获取对 [!DNL Adobe Target] 的预发行说明、当前发行说明和新教程的访问权限。
 
@@ -369,7 +367,7 @@ Adobe Commerce 的新文章和现有文章的更新。
 
 +++
 
-## ![图标](/assets/campaign.png) [!DNL Campaign] {#ac}
+## [!DNL Campaign] {#ac}
 
 获取 [!DNL Adobe Campaign] 的最新信息。查找 Experience League 上的新教程和知识库支持文章。
 
@@ -415,7 +413,7 @@ Adobe Commerce 的新文章和现有文章的更新。
 
 +++
 
-## ![图标](/assets/experience_platform_appicon_24.png) [!DNL Journey Optimizer] {#journey-opt}
+## [!DNL Journey Optimizer] {#journey-opt}
 
 了解 [!DNL Journey Optimizer] 的最新版本信息。查看 Experience League 上的最新教程和知识库支持文章。
 
@@ -462,7 +460,7 @@ Adobe Commerce 的新文章和现有文章的更新。
 
 +++
 
-## ![图标](/assets/ajo-b2b.png) [!DNL Journey Optimizer B2B Edition] {#ajo-b2b}
+## [!DNL Journey Optimizer B2B Edition] {#ajo-b2b}
 
 查找 Adobe [!DNL Journey Optimizer B2b Edition] 的发行说明和新文档。
 
@@ -473,7 +471,7 @@ Adobe Commerce 的新文章和现有文章的更新。
 
 +++
 
-## ![图标](/assets/experience_platform_appicon_24.png) [!DNL Journey Orchestration] {#journey-orch}
+## [!DNL Journey Orchestration] {#journey-orch}
 
 访问 Experience League 上 [!DNL Journey Orchestration] 的最新发行说明。
 
@@ -495,7 +493,7 @@ Adobe Commerce 的新文章和现有文章的更新。
 
 +++
 
-## ![图标](/assets/marketo.png) [!DNL Marketo Engage] {#marketo}
+## [!DNL Marketo Engage] {#marketo}
 
 了解 [!DNL Marketo Engage] 的最新发行说明和发行时间表。
 
@@ -531,7 +529,7 @@ New articles and updates to existing articles for [!DNL Marketo].
 
 +++
 
-## ![图标](/assets/workfront.png) [!DNL Workfront] {#workfront}
+## [!DNL Workfront] {#workfront}
 
 了解 [!DNL Adobe Workfront] 的最新发行说明。查找 Experience League 上的新教程。
 
@@ -594,7 +592,7 @@ New articles and updates to existing articles for [!DNL Workfront].
 
 +++
 
-## ![图标](/assets/ec_appicon_24.png) GenStudio for Performance Marketing {#genstudio-marketing}
+## GenStudio 性能营销 {#genstudio-marketing}
 
 查找[!DNL GenStudio for Performance Marketing]的最新发布信息和新文档。
 
@@ -613,7 +611,7 @@ New articles and updates to existing articles for [!DNL Workfront].
 
 +++
 
-## ![图标](/assets/ec_appicon_24.png) [!DNL Adobe Mix Modeler] {#mix-modeler}
+## [!DNL Adobe Mix Modeler] {#mix-modeler}
 
 +++详细信息
 
@@ -624,7 +622,7 @@ New articles and updates to existing articles for [!DNL Workfront].
 
 +++
 
-## ![图标](/assets/advertising-cloud.png) Adobe Advertising {#advertising}
+## Adobe Advertising {#advertising}
 
 [!DNL Adobe Advertising] 的发行说明。
 
@@ -642,7 +640,7 @@ New articles and updates to existing articles for [!DNL Workfront].
 
 +++
 
-## ![图标](/assets/pass.png) [!DNL Adobe Pass] {#pass}
+## [!DNL Adobe Pass] {#pass}
 
 [!DNL Adobe Pass] 是一个多屏幕电视平台，可帮助广播公司、有线电视网和服务提供商创造有吸引力的个性化观看体验并从中盈利。
 
@@ -652,7 +650,7 @@ New articles and updates to existing articles for [!DNL Workfront].
 
 +++
 
-## ![图标](/assets/document-cloud-24.png) [!DNL Document Cloud] {#doc-cloud}
+## [!DNL Document Cloud] {#doc-cloud}
 
 为 [!DNL Document Cloud] 发布的新教程，包括 [!DNL Acrobat Services] 和 [!DNL Acrobat Sign]。
 
@@ -679,7 +677,7 @@ New articles and updates to existing articles for [!DNL Workfront].
 
 +++
 
-## ![图标](/assets/creative-cloud-24.png) [!DNL Creative Cloud] 企业版 {#creative-cloud}
+## 企业的[!DNL Creative Cloud] {#creative-cloud}
 
 针对 [!DNL Adobe Creative Cloud for enterprise] 中的应用程序发布了新教程。
 
@@ -693,11 +691,11 @@ New articles and updates to existing articles for [!DNL Workfront].
 
 +++
 
-## ![图标](/assets/experience-league.png) 客户数据管理 — 意见 {#voices}
+## 客户数据管理 - 意见 {#voices}
 
 [客户数据管理意见](https://experienceleague.adobe.com/zh-hans/docs/events/customer-data-management-voices-recordings/overview)是您作为客户数据管理技术和营销实践领导者和专家的目标。本教程集是供您听取同行意见、获得灵感并了解 MarTech 发展的一站式服务。无需注册，只需点击即可观看。
 
-## ![图标](/assets/experience-league.png) Digital Experience Blueprint {#blueprints}
+## Digital Experience Blueprint {#blueprints}
 
 [Digital Experience Blueprint](https://experienceleague.adobe.com/zh-hans/docs/blueprints-learn/architecture/overview) 是可重复的实施，让您可以满足战略需求和解决已确定的业务问题。每个 Blueprint 都提供了一系列构件，这些构件说明了高价值业务问题、体系结构、实施步骤、技术注意事项以及指向相关文档的链接。
 
