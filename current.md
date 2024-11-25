@@ -6,9 +6,9 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 8f8c2c1c77f9ca98e7543ff7a52071c6fa49fea5
+source-git-commit: 974b5546b9fc18503dfc2007d2e3a4d92d95e315
 workflow-type: tm+mt
-source-wordcount: '4635'
+source-wordcount: '4639'
 ht-degree: 94%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 94%
 
 **2024 年 11 月**
 
-最新更新：**2024年11月22日**
+最新更新：**2024年11月24日**
 
 * [[!DNL Experience League] 活动和更新](#events) （**11月24日**）
 * [[!DNL Adobe System Status]](#status)
@@ -64,17 +64,17 @@ ht-degree: 94%
 * [Adobe 认证](https://experienceleague.adobe.com/en/certification-home)
 * [Adobe 产品安全漏洞](https://helpx.adobe.com/cn/security.html)
 
-## [!DNL Experience League] 活动和最新消息 {#events}
+## [!DNL Experience League]个更新和活动 {#events}
 
 在 Experience League 上了解各种精彩的活动。它是向 Adobe 的产品专家学习、与其交流和获得解答的绝佳场所！
 
-+++详细信息
+### Experience League更新
 
-### 目录增强功能
++++详细信息
 
 更新：**2024年11月22日**
 
-对Experience League中的每个目录进行了以下更新：
+**目录更新：**&#x200B;对Experience League中的每个目录进行了以下更新：
 
 * **[!UICONTROL 展开所有部分]**：在任何Experience League指南上显示整个目录。 (此切换在页面加载后关闭。 此问题将在以后的更新中修复。) 已删除&#x200B;**[!UICONTROL 查看更多]**&#x200B;和&#x200B;**[!UICONTROL 查看更少]**&#x200B;选项。
 * **滚动**：允许滚动较长的目录。
