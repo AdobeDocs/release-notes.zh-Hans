@@ -6,10 +6,10 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 974b5546b9fc18503dfc2007d2e3a4d92d95e315
+source-git-commit: b30261737a9476a3279ac1181314ea41170b0dbc
 workflow-type: tm+mt
-source-wordcount: '4639'
-ht-degree: 94%
+source-wordcount: '4720'
+ht-degree: 92%
 
 ---
 
@@ -34,15 +34,15 @@ ht-degree: 94%
 
 **2024 年 11 月**
 
-最新更新：**2024年11月24日**
+最近更新：**2024年12月11日**
 
-* [[!DNL Experience League] 活动和更新](#events) （**11月24日**）
+* [[!DNL Experience League] 事件和更新](#events) （**12月11日**）
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 中央界面和管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) （发行日期：**10月23日**）
-* [[!DNL Adobe Customer Journey Analytics]](#cja) （发行日期：**10月23日**）
+* [[!DNL Adobe Analytics]](#analytics) （最新发行日期：**10月23日**）
+* [[!DNL Adobe Customer Journey Analytics]](#cja) （最新发行日期：**10月23日**）
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -104,6 +104,10 @@ Experience League 上提供了新视频 [播放列表](https://experienceleague.
 
 +++详细信息
 
+* **[!DNL Workfront]** | 社区活动 | _连接： Workfront Collective_ | 参加我们每个月的周一Workfront集体活动，这些活动旨在与其他客户联系，讨论Workfront功能，分享想法，并一起集思广益，以解决共同面临的挑战。 | **12月16日上午7:00 MT** | [注册](https://events.teams.microsoft.com/event/d79e528e-b2ad-43fc-a37b-7ebefa30e2b2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | 问答聊天 | _管理员101：提出您的Workfront问题_ | 初次使用Workfront？ 您错过了之前的任何 Admin 101 会议吗？加入我们的总结会议，提出问题，获取资源和建议，并结识其他新管理员。| **12月17日上午9:00 MT** | [注册](https://events.teams.microsoft.com/event/d5af4ff8-c7f0-4ec1-bb45-91ab8ee45704@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
 在 Experience League 上查看所有[即将举行的活动](https://experienceleague.adobe.com/events/)或浏览[过去的活动录像。](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-recorded-events/overview)
 
 +++
@@ -130,7 +134,7 @@ Experience League 上提供了新视频 [播放列表](https://experienceleague.
 
 ## [!DNL Experience Cloud] - 中央界面和管理 {#ecloud}
 
-了解 [!DNL Experience Cloud] 中央界面组件和管理。管理产品和用户、配置配置文件设置和首选项、搜索 Experience Cloud 对象以及管理 Cookie。
+了解 [!DNL Experience Cloud] 中央界面组件和管理。管理产品和用户、配置轮廓设置和首选项、搜索 Experience Cloud 对象以及管理 Cookie。
 
 +++详细信息
 
