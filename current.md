@@ -6,10 +6,10 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b30261737a9476a3279ac1181314ea41170b0dbc
+source-git-commit: acb2e70c307774752fca6b7e0fb903c8d6c12601
 workflow-type: tm+mt
-source-wordcount: '4720'
-ht-degree: 92%
+source-wordcount: '4775'
+ht-degree: 91%
 
 ---
 
@@ -32,11 +32,11 @@ ht-degree: 92%
 
 **获取通知：**&#x200B;若要接收有关此页面更新的每月电子邮件通知，请订阅[Adobe产品更新早知道](https://www.adobe.com/cn/subscription/priority-product-update.html)。
 
-**2024 年 11 月**
+**2024年11月/12月**
 
-最近更新：**2024年12月11日**
+最近更新：**2024年12月16日**
 
-* [[!DNL Experience League] 事件和更新](#events) （**12月11日**）
+* [[!DNL Experience League] 事件和更新](#events) （**12月16日**）
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 中央界面和管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -104,9 +104,11 @@ Experience League 上提供了新视频 [播放列表](https://experienceleague.
 
 +++详细信息
 
-* **[!DNL Workfront]** | 社区活动 | _连接： Workfront Collective_ | 参加我们每个月的周一Workfront集体活动，这些活动旨在与其他客户联系，讨论Workfront功能，分享想法，并一起集思广益，以解决共同面临的挑战。 | **12月16日上午7:00 MT** | [注册](https://events.teams.microsoft.com/event/d79e528e-b2ad-43fc-a37b-7ebefa30e2b2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL Workfront]** | 问答聊天 | _管理员101：提出您的Workfront问题_ | 初次使用Workfront？ 您错过了之前的任何 Admin 101 会议吗？加入我们的总结会议，提出问题，获取资源和建议，并结识其他新管理员。| **12月17日上午9:00 MT** | [注册](https://events.teams.microsoft.com/event/d5af4ff8-c7f0-4ec1-bb45-91ab8ee45704@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | Workfront | _Adobe Workfront第一季度发布网络研讨会_ | 本网络研讨会由产品经理Jeremy Flores联合主办，将重点介绍定于下周在2025年第一季度发布中发布的最新Adobe Workfront功能增强。 | **1月9日上午10:30 MT** | [注册](https://events.teams.microsoft.com/event/5807575a-bfd0-4c7a-a052-47d055008417@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | Workfront | _连接：营销和创意的管理员聊天_ | 您是营销或创意团队的系统管理员吗？ 这次由客户驱动的会议与天主教救济会合作举办，将提供最佳做法和自由提问时间。 | **1月10日上午10:00 MT** | [注册](https://events.teams.microsoft.com/event/5650f441-e8c5-469b-a95b-37742e5d875f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 在 Experience League 上查看所有[即将举行的活动](https://experienceleague.adobe.com/events/)或浏览[过去的活动录像。](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-recorded-events/overview)
 
