@@ -6,14 +6,14 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: acb2e70c307774752fca6b7e0fb903c8d6c12601
+source-git-commit: 5e81c8f593c1bcb09e38e8fdb7dba85fb51aab75
 workflow-type: tm+mt
-source-wordcount: '4775'
-ht-degree: 91%
+source-wordcount: '4855'
+ht-degree: 89%
 
 ---
 
-# Experience Cloud 发行说明 - 2024 年 11 月
+# Experience Cloud发行说明 — 2024年11月/12月
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
@@ -34,15 +34,15 @@ ht-degree: 91%
 
 **2024年11月/12月**
 
-最近更新：**2024年12月16日**
+最新更新：**2024年1月9日**
 
 * [[!DNL Experience League] 事件和更新](#events) （**12月16日**）
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Adobe Experience Cloud] - 中央界面和管理](#ecloud)
+* [[!DNL Adobe Experience Cloud]  — 中央界面和管理](#ecloud) （**1月9日**）
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) （最新发行日期：**10月23日**）
-* [[!DNL Adobe Customer Journey Analytics]](#cja) （最新发行日期：**10月23日**）
+* [[!DNL Adobe Analytics]](#analytics) （下一个版本：**1月22日**）
+* [[!DNL Adobe Customer Journey Analytics]](#cja) （下一个版本：**1月22日**）
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -104,8 +104,6 @@ Experience League 上提供了新视频 [播放列表](https://experienceleague.
 
 +++详细信息
 
-* **[!DNL Workfront]** | 问答聊天 | _管理员101：提出您的Workfront问题_ | 初次使用Workfront？ 您错过了之前的任何 Admin 101 会议吗？加入我们的总结会议，提出问题，获取资源和建议，并结识其他新管理员。| **12月17日上午9:00 MT** | [注册](https://events.teams.microsoft.com/event/d5af4ff8-c7f0-4ec1-bb45-91ab8ee45704@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL Workfront]** | Workfront | _Adobe Workfront第一季度发布网络研讨会_ | 本网络研讨会由产品经理Jeremy Flores联合主办，将重点介绍定于下周在2025年第一季度发布中发布的最新Adobe Workfront功能增强。 | **1月9日上午10:30 MT** | [注册](https://events.teams.microsoft.com/event/5807575a-bfd0-4c7a-a052-47d055008417@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Workfront]** | Workfront | _连接：营销和创意的管理员聊天_ | 您是营销或创意团队的系统管理员吗？ 这次由客户驱动的会议与天主教救济会合作举办，将提供最佳做法和自由提问时间。 | **1月10日上午10:00 MT** | [注册](https://events.teams.microsoft.com/event/5650f441-e8c5-469b-a95b-37742e5d875f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
@@ -144,7 +142,9 @@ Experience League 上提供了新视频 [播放列表](https://experienceleague.
 
 | 发行日期 | 功能 | 描述 |
 | -----------| -----------| ---------- |
-| 2 年 10 月 | 可自定义的主页 | 在 Experience Cloud 登陆页面上，点击&#x200B;**[!UICONTROL 编辑]**。[!UICONTROL 编辑]模式使您能够通过访问小组件库和自定义背景来个性化您的 Experience Cloud 主页。[!UICONTROL 编辑]模式为移动、调整大小和管理小组件提供了无缝且直观的控制。该功能包括批量操作和布局调整，可提供更加美观和量身定制的体验。通过访问小组件库和自定义背景来定制您的 Experience Cloud 主页。 |
+| **9 年 1 月** | 产品使用数据 | 为了更便于控制Experience Cloud产品使用数据偏好设置，我们简化了Experience Cloud[偏好设置](https://experienceleague.adobe.com/docs/core-services/interface/features/account-preferences.html#product-usage-data)页面以删除重复选项。 通过这种简化，我们保留了当前的用户首选项，您可以随时在[Experience Cloud首选项](https://experience.adobe.com/preferences)上更新您的首选项。 |
+| **1月30日**（计划发行日期） | 频谱2 | Experience Cloud应用程序框架（包括标题栏和从标题栏访问的组件）以及某些应用程序的左侧导航边栏将更新为Adobe的最新设计系统Spectrum 2 。 此更新后的设计包括更新的肖像，但功能相同。 但是，标题中的多个元素会被重新定位，以便与其他Adobe网站和应用程序保持一致。 |
+| **10月2日** | 可自定义的主页 | 在 Experience Cloud 登陆页面上，点击&#x200B;**[!UICONTROL 编辑]**。[!UICONTROL 编辑]模式使您能够通过访问小组件库和自定义背景来个性化您的 Experience Cloud 主页。[!UICONTROL 编辑]模式为移动、调整大小和管理小组件提供了无缝且直观的控制。该功能包括批量操作和布局调整，可提供更加美观和量身定制的体验。通过访问小组件库和自定义背景来定制您的 Experience Cloud 主页。 |
 
 有关[!DNL Experience Cloud]中央界面组件的帮助，请参阅[Experience Cloud 界面和管理指南](https://experienceleague.adobe.com/zh-hans/docs/core-services/interface/experience-cloud)（包括 [!UICONTROL 客户属性]、[!DNL Experience Cloud Assets]和[!UICONTROL 受众]）。
 
