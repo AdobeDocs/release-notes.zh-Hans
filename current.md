@@ -6,10 +6,10 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 5e81c8f593c1bcb09e38e8fdb7dba85fb51aab75
+source-git-commit: 83c0def18c96df9a9325ecc69fa3c41a6cd2611f
 workflow-type: tm+mt
-source-wordcount: '4855'
-ht-degree: 89%
+source-wordcount: '5013'
+ht-degree: 86%
 
 ---
 
@@ -34,7 +34,8 @@ ht-degree: 89%
 
 **2024年11月/12月**
 
-最新更新：**2024年1月9日**
+最近更新：**2024年1月21日**
+下一页刷新：**2025年1月22日**
 
 * [[!DNL Experience League] 事件和更新](#events) （**12月16日**）
 * [[!DNL Adobe System Status]](#status)
@@ -47,7 +48,7 @@ ht-degree: 89%
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
-* [[!DNL Adobe Campaign]](#ac)
+* [[!DNL Adobe Campaign]](#ac)（**1 月 21 日**&#x200B;更新）
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Adobe Journey Optimizer B2B Edition]](#ajo-b2b)
 * [[!DNL Adobe Journey Orchestration]](#journey-orch)
@@ -104,9 +105,17 @@ Experience League 上提供了新视频 [播放列表](https://experienceleague.
 
 +++详细信息
 
-* **[!DNL Workfront]** | Workfront | _Adobe Workfront第一季度发布网络研讨会_ | 本网络研讨会由产品经理Jeremy Flores联合主办，将重点介绍定于下周在2025年第一季度发布中发布的最新Adobe Workfront功能增强。 | **1月9日上午10:30 MT** | [注册](https://events.teams.microsoft.com/event/5807575a-bfd0-4c7a-a052-47d055008417@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _使用Workfront唤醒：询问我任何问题_ | 在这个“向我提出任何问题”课程中，Adobe Workfront业务顾问Samantha Miller、Aaron Baker和Mary Ann Erickson将回答实时问题并分享Workfront的最佳做法，以帮助客户在2025年取得成功。 | **1月23日上午11:00 MT** | [注册](https://adobeevents.adobeconnect.com/eqfnatfznj47/event/registration.html?campaign-id=ExL)
 
-* **[!DNL Workfront]** | Workfront | _连接：营销和创意的管理员聊天_ | 您是营销或创意团队的系统管理员吗？ 这次由客户驱动的会议与天主教救济会合作举办，将提供最佳做法和自由提问时间。 | **1月10日上午10:00 MT** | [注册](https://events.teams.microsoft.com/event/5650f441-e8c5-469b-a95b-37742e5d875f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _连接： Workfront Collective_ | 参加我们每个月的周一Workfront集体活动，这些活动旨在与其他客户联系，讨论Workfront功能，分享想法，并一起集思广益，以解决共同面临的挑战。 | **1月27日上午7:00 MT** | [注册](https://events.teams.microsoft.com/event/7eabf155-b410-401e-8415-97306c28b9ca@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _学习：克服Workfront历程对变革的阻力_ | 加入我们的Workfront变更管理专家，与用户讨论识别和克服阻力的最佳实践。 | **1月30日上午10:00 MT** | [注册](https://events.teams.microsoft.com/event/ba4df540-2f36-427f-8893-978da4b26450@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Target]** | _Adobe Target成熟度网络研讨会系列_ | Adobe Target创新，包括GenAI，以及关于AI支持的大规模个性化和实验的最佳实践。 | **2月4日@上午9:00 MT** | [注册](https://event.adobe.com/adobetargetmaturitywebinars)
+
+* **[!DNL Target]** | _Marketo和Mochas：2025年要了解的5项Marketo功能_ | 在第一届Marketo与Mochas年度会议中，Marketo专家Carly Gaver和Kate Colbert将介绍5项功能丰富的功能，这些功能有助于在2025年提升客户体验并促进需求。 | **2月6日上午11:00 MT** | [注册](https://adobeevents.adobeconnect.com/ewh8dja8xr45/event/registration.html?campaign-id=ExL)
+
+* **[!DNL Commerce]** | _Commerce和咖啡：B2B中自助服务的兴起_ | 与我们的Commerce专家Corey Gelato和Agbi Bajrushi一起探讨最新的B2B趋势，以及利用新Adobe Commerce功能保持全年领先地位的方法，从年初开始，我们将在这一年中表现出色。 | **2月13日上午11:00 MT** | [注册](https://adobeevents.adobeconnect.com/eezfyv5cqz0c/event/registration.html?campaign-id=ExL)
 
 在 Experience League 上查看所有[即将举行的活动](https://experienceleague.adobe.com/events/)或浏览[过去的活动录像。](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-recorded-events/overview)
 
@@ -381,13 +390,13 @@ Adobe Commerce 的新文章和现有文章的更新。
 
 ### 最新营销活动产品版本
 
-* [!DNL Web User Interface]：[发行说明](https://experienceleague.adobe.com/zh-hans/docs/campaign-web/v8/release-notes/release-notes) | [产品文档](https://experienceleague.adobe.com/zh-hans/docs/campaign-web/v8/campaign-web-home)
+* [!DNL Campaign] v8：[2025年1月15日 — 发行说明](https://experienceleague.adobe.com/zh-hans/docs/campaign/campaign-v8/releases/release-notes) | [产品文档](https://experienceleague.adobe.com/zh-hans/docs/campaign/campaign-v8/campaign-home)
 
-* [!DNL Campaign] v8：[发行说明](https://experienceleague.adobe.com/zh-hans/docs/campaign/campaign-v8/releases/release-notes) | [产品文档](https://experienceleague.adobe.com/zh-hans/docs/campaign/campaign-v8/campaign-home)
+* [!DNL Web User Interface]：[发行说明](https://experienceleague.adobe.com/zh-hans/docs/campaign-web/v8/release-notes/release-notes) | [产品文档](https://experienceleague.adobe.com/zh-hans/docs/campaign-web/v8/campaign-web-home)
 
 * [!DNL Campaign Classic] v7：[发行说明](https://experienceleague.adobe.com/zh-hans/docs/campaign-classic/using/release-notes/latest-release) | [产品文档](https://experienceleague.adobe.com/zh-hans/docs/campaign-classic/using/campaign-classic-home)
 
-* [!DNL Campaign Standard]：[发行说明](https://experienceleague.adobe.com/zh-hans/docs/campaign-standard/using/release-notes/release-notes) | [产品文档](https://experienceleague.adobe.com/zh-hans/docs/campaign-standard/using/campaign-standard-home)
+* [!DNL Campaign Standard]： [25.1 - 2025版发行说明](https://experienceleague.adobe.com/zh-hans/docs/campaign-standard/using/release-notes/release-notes) | [产品文档](https://experienceleague.adobe.com/zh-hans/docs/campaign-standard/using/campaign-standard-home)
 
 ### [!DNL Campaign] 的新教程 {#tutorials-campaign}
 
