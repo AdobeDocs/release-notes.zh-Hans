@@ -6,10 +6,10 @@ last-update: January 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 03486f88bc94130445325ac63150ecb54c953f48
+source-git-commit: a92a0f05c31eda25feb5f7555b87f711ac089a40
 workflow-type: tm+mt
-source-wordcount: '4370'
-ht-degree: 95%
+source-wordcount: '4224'
+ht-degree: 97%
 
 ---
 
@@ -33,13 +33,13 @@ ht-degree: 95%
 
 ## 2025 年 1 月
 
-最近更新：**2025年2月5日**
+最近更新：**2025年2月12日**
 
 有关特定应用程序的发布日期，请参阅产品的发行说明。
 
 * [[!DNL Experience League] 活动和最新消息](#events)
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Adobe Experience Cloud]  - 中央界面和管理](#ecloud)
+* [[!DNL Adobe Experience Cloud]  — 中央界面和管理](#ecloud) （更新日期： **2月12日**）
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics)
@@ -77,7 +77,7 @@ ht-degree: 95%
 
 发布日期：**2025年2月5日**
 
-全新[Experience League主页](https://experienceleague.adobe.com/?lang=en)具有由[!DNL Adobe Target]提供支持的个性化学习推荐。
+全新的[Experience League主页](https://experienceleague.adobe.com/?lang=en)具有由[!DNL Adobe Target]提供支持的个性化学习推荐。
 
 主要功能：
 
@@ -95,15 +95,7 @@ ht-degree: 95%
 
 * **[!DNL Adobe Summit]** | _数字体验会议_ | 加入同行行列，聆听可口可乐公司、摩根大通、ServiceNow等企业高管的意见。 | **3月18日至19日@拉斯维加斯和在线** | [注册](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
-* **[!DNL Target]** | _Marketo 和 Mochas：2025 年需要了解的 5 项 Marketo 功能_ | 在我们今年的第一次 [!DNL Marketo] &amp; Mochas 会议中， [!DNL Marketo] 专家 Carly Gaver 和 Kate Colbert 将介绍 5 项性能强大的功能，可帮助提升客户体验并推动 2025 年的需求。| **北美山地时间 2 月 6 日上午 11:00** | [注册](https://adobeevents.adobeconnect.com/ewh8dja8xr45/event/registration.html?campaign-id=ExL)
-
-* **[!DNL Workfront]** | _连接：营销和创意的管理员聊天_ | 您是否是营销或创意团队的Workfront系统管理员？ 加入我们的交互式讨论，与其他管理员联系并分享最佳实践！ | **北美山地时间 2 月 7 日10:00** | [注册](https://events.teams.microsoft.com/event/5c409c21-d39e-4239-9853-5e69569711d0@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _管理员101：让用户使用Workfront_ | 初次使用Workfront？ 参加我们的3部分系列的第二次会议，我们在会上提供有关项目接收和用户采用的最佳实践。 | **北美山地时间 2 月 11 日9:00** | [注册](https://events.teams.microsoft.com/event/66877127-5d68-4f56-aeb6-ca6769551fb3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _向我询问有关Workfront治理的任何信息_ | 请咨询我们的内部专家，了解如何改进Workfront流程、政策和控制以更好地与贵组织的战略目标保持一致！ | **北美山地时间 2 月 12 日9:00** | [注册](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-governance/ev-p/729202)
-
-* **[!DNL Marketo and Marketo Engage]** | _Adobe Marketo Engage Champion办公时间 — 2025年2月_ | 加入我们，参加由2024/25Marketo Engage冠军举办的北美和拉丁美洲时间友好型Champion办公时间。 | **北美山地时间 2 月 13 日8:00** | [注册](https://mugs.marketo.com/events/details/marketo-champion-office-hours-mug-presents-february-2025-adobe-marketo-engage-champion-office-hours/?cgen=5JRH85H1&amp;mv=other)
+* **[!DNL Marketo and Marketo Engage]** | _Adobe Marketo Engage Champion办公时间 — 2025年2月_ | 加入我们，参加由2024/25 Marketo Engage Champions领导的北美和拉丁美洲时间友好型Champion办公时间。 | **北美山地时间 2 月 13 日8:00** | [注册](https://mugs.marketo.com/events/details/marketo-champion-office-hours-mug-presents-february-2025-adobe-marketo-engage-champion-office-hours/?cgen=5JRH85H1&amp;mv=other)
 
 * **[!DNL Commerce]** | _商业与咖啡：B2B 领域自助服务的兴起_ | 与我们的 [!DNL Commerce] 专家 Corey Gelato 和 Agbi Bajrushi 一起全力开启新的一年，他们将探索最新的 B2B 发展趋势以及如何利用新的 Adobe [!DNL Commerce] 功能在全年保持竞争优势的方法。| **北美山地时间 2 月 13 日上午 11:00** | [注册](https://adobeevents.adobeconnect.com/eezfyv5cqz0c/event/registration.html?campaign-id=ExL)
 
@@ -140,7 +132,7 @@ ht-degree: 95%
 | 日期 | 功能 | 描述 |
 | -----------| -----------| ---------- |
 | 1 月 9 日 | 产品使用数据 | 为了更轻松地控制 [!DNL Experience Cloud] 产品使用数据偏好设置，我们简化了 [!DNL Experience Cloud] [偏好设置](https://experienceleague.adobe.com/zh-hans/docs/core-services/interface/features/account-preferences) 页面，以删除重复的选项。通过这种简化，我们保留了当前用户偏好设置，您可以随时通过 [Experience Cloud 偏好设置](https://experience.adobe.com/preferences) 更新您的偏好设置。 |
-| 2 月 5 日（计划发布日期） | Spectrum 2 |  [!DNL Experience Cloud] 应用程序框架，包括标题栏和从标题栏访问的组件（以及某些应用程序的左侧导航器边栏）将更新为 Spectrum 2。Spectrum 是 Adobe 的设计标准。这个更新的设计包括更新的图标图像，但功能相同。但是重新定位了标题中的几个元素，使其与其他 Adobe 网站和应用程序保持一致。 |
+| 2 月 13 日（计划发布日期） | Spectrum 2 |  [!DNL Experience Cloud] 应用程序框架，包括标题栏和从标题栏访问的组件（以及某些应用程序的左侧导航器边栏）将更新为 Spectrum 2。Spectrum 是 Adobe 的设计标准。这个更新的设计包括更新的图标图像，但功能相同。但是重新定位了标题中的几个元素，使其与其他 Adobe 网站和应用程序保持一致。 |
 
 有关[!DNL Experience Cloud]中央界面组件的帮助，请参阅[Experience Cloud 界面和管理指南](https://experienceleague.adobe.com/zh-hans/docs/core-services/interface/experience-cloud)（包括 [!UICONTROL 客户属性]、[!DNL Experience Cloud Assets]和[!UICONTROL 受众]）。
 
@@ -207,7 +199,7 @@ ht-degree: 95%
 
 +++详细信息
 
-[!DNL Analytics] 发布日期：**2025 年 1 月 22 日**
+[!DNL Analytics]最新发行日期：**2025年1月22日**
 
 * [!DNL Analytics] [发行说明](https://experienceleague.adobe.com/zh-hans/docs/analytics/release-notes/latest)<!-- [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html) -->
 
@@ -245,7 +237,7 @@ ht-degree: 95%
 
 +++详细信息
 
-[!DNL Customer Journey Analytics] 发布日期：**2025 年 1 月 22 日**
+[!DNL Customer Journey Analytics]最新发行日期：**2025年1月22日**
 
 * [!DNL Customer Journey Analytics] [发行说明](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/releases/latest#releases)<!-- [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html) -->
 
