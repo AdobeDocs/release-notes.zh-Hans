@@ -6,9 +6,9 @@ last-update: January 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: a92a0f05c31eda25feb5f7555b87f711ac089a40
+source-git-commit: 4111e60fce38d2d4921bc817a587b735989fccc2
 workflow-type: tm+mt
-source-wordcount: '4224'
+source-wordcount: '4141'
 ht-degree: 97%
 
 ---
@@ -94,10 +94,6 @@ ht-degree: 97%
 +++详细信息
 
 * **[!DNL Adobe Summit]** | _数字体验会议_ | 加入同行行列，聆听可口可乐公司、摩根大通、ServiceNow等企业高管的意见。 | **3月18日至19日@拉斯维加斯和在线** | [注册](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
-
-* **[!DNL Marketo and Marketo Engage]** | _Adobe Marketo Engage Champion办公时间 — 2025年2月_ | 加入我们，参加由2024/25 Marketo Engage Champions领导的北美和拉丁美洲时间友好型Champion办公时间。 | **北美山地时间 2 月 13 日8:00** | [注册](https://mugs.marketo.com/events/details/marketo-champion-office-hours-mug-presents-february-2025-adobe-marketo-engage-champion-office-hours/?cgen=5JRH85H1&amp;mv=other)
-
-* **[!DNL Commerce]** | _商业与咖啡：B2B 领域自助服务的兴起_ | 与我们的 [!DNL Commerce] 专家 Corey Gelato 和 Agbi Bajrushi 一起全力开启新的一年，他们将探索最新的 B2B 发展趋势以及如何利用新的 Adobe [!DNL Commerce] 功能在全年保持竞争优势的方法。| **北美山地时间 2 月 13 日上午 11:00** | [注册](https://adobeevents.adobeconnect.com/eezfyv5cqz0c/event/registration.html?campaign-id=ExL)
 
 在 Experience League 上查看所有[即将举行的活动](https://experienceleague.adobe.com/events/)或浏览[过去的活动录像。](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-recorded-events/overview)
 
