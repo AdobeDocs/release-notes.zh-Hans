@@ -6,9 +6,9 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 2c335cc0a49915c85d284fdd4de72dfb985dcccb
+source-git-commit: 137dc623cf4b283e8a18e609d6847b72a5f20aa7
 workflow-type: tm+mt
-source-wordcount: '3630'
+source-wordcount: '3628'
 ht-degree: 51%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 51%
 
 * [[!DNL Experience League] 活动和最新消息](#events)
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Adobe Experience Cloud]  — 中央界面和管理](#ecloud) （更新日期： **2月12日**）
+* [[!DNL Adobe Experience Cloud] - 中央界面和管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics)
@@ -656,7 +656,7 @@ New articles and updates to existing articles for [!DNL Workfront].
 | 发布日期 | 应用程序 | 名称 | 类型 | 描述 |
 | -----------| ---------- | ---------- | ---------- |---------- |
 | 2025 年 2 月 | 应用程序 | [与模板轻松保持品牌一致性](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/use-templates) | 新建视频 | 了解如何在整个组织中快速高效地创建品牌内内容。 本教程将介绍如何创建可立即共享和本地化的全新品牌内内容。 |
-| 2025 年 2 月 | 应用程序 | [最大化效率：创建可重用模板](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/create-templates) | 新建视频 | 了解如何使用Adobe Express模板为您的组织带来品牌一致性、效率、专业精神和成本节约。 |
+| 2025 年 2 月 | 应用程序 | [最大化效率：创建可重用模板](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/create-templates) | 新建视频 | 了解如何使用Adobe Express模板为您的组织带来品牌一致性、效率、专业度和成本节约。 |
 
 有关最新教程，请参阅 [Creative Cloud 企业版教程](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview)。
 
