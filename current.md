@@ -6,9 +6,9 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 137dc623cf4b283e8a18e609d6847b72a5f20aa7
+source-git-commit: 566009aeac5ff30a0368d90226e1fd31583cba5d
 workflow-type: tm+mt
-source-wordcount: '3628'
+source-wordcount: '3671'
 ht-degree: 51%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 51%
 
 ## 2025 年 2 月
 
-上次更新时间：**2025年2月19日**
+上次更新时间：**2025年2月24日**
 
 使用这些链接查找应用程序发行说明、事件、新教程和最新的知识库支持文章：
 
@@ -87,11 +87,13 @@ ht-degree: 51%
 
 +++详细信息
 
-* **[!DNL Adobe Summit]** | _数字体验会议_ | 加入同行行列，聆听可口可乐公司、摩根大通、ServiceNow等企业高管的意见。 | **3月18日至19日@拉斯维加斯和在线** | [注册](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
+* **[!DNL Experience Cloud]** | Adobe Summit | _数字体验会议_ | 加入同行行列，聆听可口可乐公司、摩根大通、ServiceNow等企业高管的意见。 | **3月18日至19日@拉斯维加斯和在线** | [注册](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
-* **[!DNL Experience Cloud]** | _Adobe数字分析：展示2024年假期结果和2025年初趋势_ | 全面回顾2024年假日购物趋势并展望2025年上半年。 利用这些见解帮助您预测并超越客户对来年的期望。 | **2月20日上午10:00（山区标准时间）** | [注册](https://adobeevents.adobeconnect.com/eezfyv5cqz0c/event/registration.html?campaign-id=ExL)
+* **[!DNL Workfront]** | 向同行学习 | _如何度量和共享Workfront值_ | 2025年2月26日与我们一起加入我们，来自Synchrony和EMMsphere的同行将分享他们如何创建其最终的“Workfront Why”，以及如何传达可衡量的成果，如节省时间和成本。| **太平洋时间 2 月 26 日8:00** | [注册](https://engage.adobe.com/Workfront_Value_Realization.html?utm_source=exl-ac-events)
 
-* **[!DNL Workfront]** | _连接： Workfront Collective_ | 参加我们每个月的周一Workfront集体活动，这些活动旨在与其他客户联系，讨论Workfront功能，分享想法，并一起集思广益，以解决共同面临的挑战。 | **2月24日上午7:00（山区标准时间）** | [注册](https://events.teams.microsoft.com/event/d3b3a3c3-9563-4499-a147-8b966d13a30d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | 网络研讨会 | _获得Adobe Workfront的执行赞助_ | 探索AI Assistant如何在Adobe Experience Platform及其基于平台的应用程序中解锁有价值的运营见解、提高工作效率和重新定义工作。| **2月27日上午9:00 MST** | [注册](https://events.teams.microsoft.com/event/b9159f41-1aac-4fe5-8756-f1315c146c30@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Experience Platform]** | Experience League直播 | _在Adobe Experience Platform中使用AI助手解锁操作分析_ | 探索AI Assistant如何在Adobe Experience Platform及其基于平台的应用程序中解锁有价值的运营见解、提高工作效率和重新定义工作。| **2月27日上午8:30 PST** | [注册](https://engage.adobe.com/ExpLeagueLive-250227.html)
 
 以及更多！在 Experience League 上查看所有[即将举行的活动](https://experienceleague.adobe.com/events/)或浏览[过去的活动录像。](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-recorded-events/overview)
 
