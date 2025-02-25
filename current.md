@@ -6,10 +6,10 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3a542c8eddc0015672a975dd2b9fcd024a808084
+source-git-commit: f3fadcb8c041692973a902fd3433483592aebf4c
 workflow-type: tm+mt
 source-wordcount: '3671'
-ht-degree: 96%
+ht-degree: 95%
 
 ---
 
@@ -87,13 +87,13 @@ ht-degree: 96%
 
 +++详细信息
 
-* **[!DNL Experience Cloud]** | Adobe Summit | _数字体验会议_ | 加入同行行列，聆听可口可乐公司、摩根大通、ServiceNow等企业高管的意见。 | **3 月 18 日至 19 日在拉斯维加斯及线上** | [报名](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
+* **[!DNL Workfront]** | 向同行学习 | _如何度量和共享Workfront值_ | **2月26日上午8:00 PT** | 2025年2月26日与我们一起加入我们，来自Synchrony和EMMsphere的同行将分享他们如何创建其最终的“Workfront Why”，以及如何传达可衡量的成果，如节省时间和成本。 | [注册](https://engage.adobe.com/Workfront_Value_Realization.html?utm_source=exl-ac-events)
 
-* **[!DNL Workfront]** | 向同行学习 | _如何度量和共享Workfront值_ | 2025年2月26日与我们一起加入我们，来自Synchrony和EMMsphere的同行将分享他们如何创建其最终的“Workfront Why”，以及如何传达可衡量的成果，如节省时间和成本。| **太平洋时间 2 月 26 日8:00** | [注册](https://engage.adobe.com/Workfront_Value_Realization.html?utm_source=exl-ac-events)
+* **[!DNL Workfront]** | 网络研讨会 | _获得Adobe Workfront的执行赞助_ | **2月27日上午9:00（山区标准时间）** | 探索AI Assistant如何在Adobe Experience Platform及其基于平台的应用程序中解锁有价值的运营见解、提高工作效率和重新定义工作。 | [注册](https://events.teams.microsoft.com/event/b9159f41-1aac-4fe5-8756-f1315c146c30@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | 网络研讨会 | _获得Adobe Workfront的执行赞助_ | 探索AI Assistant如何在Adobe Experience Platform及其基于平台的应用程序中解锁有价值的运营见解、提高工作效率和重新定义工作。| **山区标准时间 2 月 27 日9:00** | [注册](https://events.teams.microsoft.com/event/b9159f41-1aac-4fe5-8756-f1315c146c30@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Experience Platform]** | Experience League直播 | _在Adobe Experience Platform中使用AI助手解锁操作分析_ | **2月27日上午8:30 PST** | 探索AI Assistant如何在Adobe Experience Platform及其基于平台的应用程序中解锁有价值的运营见解、提高工作效率和重新定义工作。 | [注册](https://engage.adobe.com/ExpLeagueLive-250227.html)
 
-* **[!DNL Experience Platform]** | Experience League直播 | _在Adobe Experience Platform中使用AI助手解锁操作分析_ | 探索AI Assistant如何在Adobe Experience Platform及其基于平台的应用程序中解锁有价值的运营见解、提高工作效率和重新定义工作。| **2月27日上午8:30 PST** | [注册](https://engage.adobe.com/ExpLeagueLive-250227.html)
+* **[!DNL Experience Cloud]** | Adobe Summit | _数字体验会议_ | **3月18日至19日@拉斯维加斯和在线**| 加入同行行列，聆听可口可乐公司、摩根大通、ServiceNow等企业高管的意见。 |  [注册](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
 以及更多！在 Experience League 上查看所有[即将举行的活动](https://experienceleague.adobe.com/events/)或浏览[过去的活动录像。](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-recorded-events/overview)
 
