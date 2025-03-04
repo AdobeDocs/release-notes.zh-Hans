@@ -6,10 +6,10 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ec5ef84d81c827c1bb16146f9694c31069023f2e
+source-git-commit: 9906503870a1994ab141ab535a075aaabb4ce463
 workflow-type: tm+mt
-source-wordcount: '3590'
-ht-degree: 97%
+source-wordcount: '3666'
+ht-degree: 95%
 
 ---
 
@@ -27,11 +27,11 @@ ht-degree: 97%
 
 ## 2025 年 2 月
 
-最近更新：**2025年2月27日**
+最新更新：**2025年3月4日**
 
 使用这些链接查找应用程序发行说明、活动、新教程以及最新的知识库支持文章：
 
-* [[!DNL Experience League] 活动和更新](#events) （**2月26日**）
+* [[!DNL Experience League] 事件和更新](#events) （**3月4日**）
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 中央界面和管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -87,9 +87,13 @@ ht-degree: 97%
 
 +++详细信息
 
-* **[!DNL Experience Platform]** | Experience League直播 | _在Adobe Experience Platform中使用AI助手解锁操作分析_ | **2月27日上午8:30 PST** | 探索AI Assistant如何在Adobe Experience Platform及其基于平台的应用程序中解锁有价值的运营见解、提高工作效率和重新定义工作。 | [注册](https://engage.adobe.com/ExpLeagueLive-250227.html)
+* **[!DNL Experience Manager Forms]** | _浓缩咖啡和Experience Manager： AEM Forms_ | **3月6日** | 加入Adobe的AEM产品团队，因为他们重点介绍AEM Forms的最新创新，包括：新的Gen AI助手、与AEM Sites的统一合成以及通过对话部署表单的新方法。 | [报名](https://adobeevents.adobeconnect.com/e1r30baigxln/event/registration.html?campaign-id=Events+Hub)
 
-* **[!DNL Experience Cloud]** | Adobe Summit | _数字体验会议_ | **3月18日至19日@拉斯维加斯和在线**| 加入同行行列，聆听可口可乐公司、摩根大通、ServiceNow等企业高管的意见。 |  [注册](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
+* **[!DNL Workfront]** | _连接：营销与Creative的管理员聊天_ | **3月7日** | 无论您是营销、创意还是任何其他团队的Workfront系统管理员，此交互式讨论都将重点介绍最佳实践和集体集思广益。 | [报名](https://adobeevents.adobeconnect.com/e1r30baigxln/event/registration.html?campaign-id=Events+Hub)
+
+* **[!DNL Workfront]** | _管理员101：正在获取Workfront数据_ | **3月11日** | 初次使用Workfront？ 参加第三届Admin 101系列会议，了解所有报表内容。 您可以期待有关Blueprint、功能板、自定义Forms等的交互式讨论。 | [报名](https://events.teams.microsoft.com/event/eda5b596-f91d-4834-80a0-e77205101a92@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Experience Cloud]** | _Adobe Summit — 数字体验会议_ | **3月18日至19日@拉斯维加斯和在线**| 加入同行行列，聆听可口可乐公司、摩根大通、ServiceNow等企业高管的意见。 |  [报名](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
 以及更多！在 Experience League 上查看所有[即将举行的活动](https://experienceleague.adobe.com/events/)或浏览[过去的活动录像。](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-recorded-events/overview)
 
