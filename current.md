@@ -6,9 +6,9 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 9906503870a1994ab141ab535a075aaabb4ce463
+source-git-commit: 749e5ed0a19e73ad9eca189c25b7a71304e2060c
 workflow-type: tm+mt
-source-wordcount: '3666'
+source-wordcount: '3696'
 ht-degree: 95%
 
 ---
@@ -125,8 +125,9 @@ ht-degree: 95%
 
 +++详细信息
 
-| 日期 | 功能 | 描述 |
+| 日期 | 更新 | 描述 |
 | -----------| -----------| ---------- |
+| 2025年3月6日 | 右键单击菜单选项修复 | Experience Cloud标题导航选项卡现在允许右键单击浏览器下拉菜单功能。 这修复了在2月份的Spectrum 2设计系统中引入的问题。 |
 | 13 年 2 月 | Spectrum 2 |  [!DNL Experience Cloud] 应用程序框架，包括标题栏和从标题栏访问的组件（以及某些应用程序的左侧导航器边栏）将更新为 Spectrum 2。Spectrum 是 Adobe 的设计标准。这个更新的设计包括更新的图标图像，但功能相同。但是重新定位了标题中的几个元素，使其与其他 Adobe 网站和应用程序保持一致。 |
 
 有关[!DNL Experience Cloud]中央界面组件的帮助，请参阅[Experience Cloud 界面和管理指南](https://experienceleague.adobe.com/zh-hans/docs/core-services/interface/experience-cloud)（包括 [!UICONTROL 客户属性]、[!DNL Experience Cloud Assets]和[!UICONTROL 受众]）。
