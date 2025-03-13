@@ -6,10 +6,10 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 9bae2ace4b03080dcb5568d029a7cec530948547
+source-git-commit: 88777fd2d5c5f195b07fc537d25887de5dd68eee
 workflow-type: tm+mt
-source-wordcount: '4056'
-ht-degree: 44%
+source-wordcount: '4011'
+ht-degree: 41%
 
 ---
 
@@ -19,15 +19,19 @@ ht-degree: 44%
 
 <!-- ![Banner](assets/release-notes-header.png) -->
 
-[Experience League](https://experienceleague.adobe.com/#home) 可帮助您了解 Experience Cloud 和 Adobe 企业应用程序。为了获得最佳体验，请登录并在我们的免费资源库中自定义搜索。
+[Experience League](https://experienceleague.adobe.com/?lang=zh-Hans#home)是您的资源库，可帮助您了解Experience Cloud和Adobe企业应用程序。 登录并：
 
-* **获取通知：** 要收到有关此页面更新的每月电子邮件通知，请订阅 [Adobe 优先产品更新](https://www.adobe.com/cn/subscription/priority-product-update.html)。
+* [自定义您的学习](https://experienceleague.adobe.com/en/home/profile-settings)：帮助我们自定义您的学习体验。 选择您的角色、行业以及您感兴趣的产品。
+* [浏览和发现](https://experienceleague.adobe.com/en/browse)：查找热门内容、新教程、文档、即将举行的活动等！
+* [获取全新的视角](https://experienceleague.adobe.com/en/perspectives)：我们已收集了由您的同行和Adobe产品专家编写的各种实际用例和最佳实践。
+* [获得认证](https://experienceleague.adobe.com/en/certification-home)：新的Adobe认证门户使磨练您的技能和获得认证的过程变得简单。
+* [与同行社区互动](https://experienceleaguecommunities.adobe.com/)：加入群组，会见我们的Experience League社区顾问，甚至了解如何成为其中的一员。
 
-* **提供反馈：**&#x200B;寻找&#x200B;**_此内容是否有帮助？_** 在每篇文章或视频的底部弹出。您的反馈将被整理并发送给内容作者。
+若要每季度收到有关此页面更新的电子邮件通知，请订阅[Adobe产品更新早知道](https://www.adobe.com/cn/subscription/priority-product-update.html)。
 
 ## 2025 年 3 月
 
-最新更新：**2025年3月12日**
+最新更新：**2025年3月13日**
 
 使用这些链接查找应用程序发行说明、活动、新教程以及最新的知识库支持文章：
 
@@ -58,37 +62,13 @@ ht-degree: 44%
 * [Adobe 认证](https://experienceleague.adobe.com/en/certification-home)
 * [Adobe 产品安全漏洞](https://helpx.adobe.com/cn/security.html)
 
-## [!DNL Experience League] 活动和最新消息 {#events}
+## [!DNL Experience League]上的事件 {#events}
 
-在 Experience League 上了解各种精彩的活动。它是向 Adobe 的产品专家学习、与其交流和获得解答的绝佳场所！
+查找[事件](https://experienceleague.adobe.com/events/)并注册您感兴趣的事件。
 
-### Experience League 更新
-
-+++详细信息
-
-**个性化主页**
-
-全新的 [Experience League 主页](https://experienceleague.adobe.com/?lang=en)提供由 [!DNL Adobe Target] 支持的个性化学习建议。
-
-主要功能：
-
-* 根据角色、产品和最近活动推荐内容
-* 最近浏览的内容
-* 建议的按需活动和认证
-* 您产品的新发布内容
-* 重新设计，全新界面
-
-[了解详情...](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-cloud/discover-smarter-faster-learning-with-experience-league-s-new/td-p/739750)
-
-+++
-
-### Experience League 活动
-
-+++详细信息
++++活动
 
 * **[!DNL Adobe Summit]** | _数字体验会议_ | **3月18日至19日@拉斯维加斯和在线**| 加入同行行列，聆听可口可乐公司、摩根大通、ServiceNow等企业高管的意见。 |  [报名](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
-
-* **[!DNL Workfront]** | _学习：用Adobe Workfront规划绘制课程成功图表_ | **3月13日** | 与我们的Adobe产品经理一起参加关于Workfront Planning的深入介绍性会议，他们将分享此功能如何让您全面了解组织的操作详细信息。 | [报名](https://events.teams.microsoft.com/event/2b79ba76-86bb-4100-9db7-c3d399e5d457@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Workfront]** | _管理员101：提出您的Workfront问题_ | **3月25日** | 初次使用Workfront？ 您错过了之前的任何 Admin 101 会议吗？加入我们的总结会议，提出问题，获取资源和建议，并结识其他新管理员。| [报名](https://events.teams.microsoft.com/event/98217af7-6ba1-423a-a744-817df52b9b1d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -110,7 +90,9 @@ ht-degree: 44%
 
 了解 [!DNL Adobe System Status] 的最新功能和相关更新。
 
-+++详细信息
+没有3月的更新。
+
++++发行说明
 
 [!DNL Adobe System Status] 提供了关于 Adobe 产品与服务的详细信息、状态更新以及电子邮件通知。获取有关故障、中断和维护活动的通知。请在 [status.adobe.com](https://status.adobe.com/) 上查看它。
 
@@ -130,7 +112,7 @@ ht-degree: 44%
 
 了解 [!DNL Experience Cloud] 中央界面组件和管理。管理产品和用户、配置轮廓设置和首选项、搜索 Experience Cloud 对象以及管理 Cookie。
 
-+++详细信息
++++新增功能
 
 | 日期 | 更新 | 描述 |
 | -----------| -----------| ---------- |
