@@ -6,9 +6,9 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b650fd69124036dd9e12bdb901467b3c5ab49de7
+source-git-commit: 53b0b8e4d33473fdca0a31307b905f51a49d405a
 workflow-type: tm+mt
-source-wordcount: '4011'
+source-wordcount: '3951'
 ht-degree: 96%
 
 ---
@@ -191,17 +191,15 @@ ht-degree: 96%
 
 ### AppMeasurement {#appm}
 
-发行版本：**2.27.0**
+* [AppMeasurement for JavaScript 发行说明](https://github.com/adobe/appmeasurement/releases)
 
-* [AppMeasurement for JavaScript 发行说明](https://experienceleague.adobe.com/zh-hans/docs/analytics/implementation/appmeasurement-updates)
+<!-- ### New [!DNL Analytics] tutorials {#tutorials-analytics}
 
-### [!DNL Analytics] 的新教程 {#tutorials-analytics}
+New tutorials published for Adobe [!DNL Analytics] on Experience League.
 
-在 Experience League 上为 Adobe [!DNL Analytics] 发布的新教程。
-
-| 发布日期 | 名称 | 类型 | 描述 |
+|Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-| 2025 年 3 月 | [使用标记将 Adobe Analytics 迁移到 Web SDK](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/migrate-analytics-to-websdk/migration-to-websdk-overview) | 多个视频 | 了解使用 Experience Platform 标记中的扩展（以前称为 [!DNL Launch]）将 Adobe [!DNL Analytics]实施[!DNL Analytics]迁移到 Web SDK 的步骤，同时使用标记中的 Web SDK 扩展。 |
+|March 2025|[Migrate Adobe Analytics to Web SDK using Tags](https://experienceleague.adobe.com/en/docs/platform-learn/migrate-analytics-to-websdk/migration-to-websdk-overview)| Multiple videos |Learn the steps to migrate an Adobe [!DNL Analytics] implementation using the [!DNL Analytics] extension in Experience Platform Tags (formerly known as [!DNL Launch]) to Web SDK, using the Web SDK extension also in Tags. |
 
 <!-- ### New Adobe [!DNL Analytics] support knowledge base{#kb-analytics}
 
