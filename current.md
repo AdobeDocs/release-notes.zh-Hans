@@ -6,10 +6,10 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 2ee49223680d875489b16b64b541a9e43341f459
+source-git-commit: beb77755fc91c4bede762130f3ca886926d2cf39
 workflow-type: tm+mt
-source-wordcount: '3951'
-ht-degree: 96%
+source-wordcount: '3867'
+ht-degree: 95%
 
 ---
 
@@ -69,10 +69,6 @@ ht-degree: 96%
 +++活动
 
 * **[!DNL Adobe Summit]** | _数字体验大会_ | **3 月 18 日至 19 日在拉斯维加斯和在线**| 与同行一起聆听可口可乐公司、摩根大通、ServiceNow 等公司高管的演讲。|  [报名](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
-
-* **[!DNL Workfront]** | _管理 101：提出您的 Workfront 问题_ | **3 月 25 日** | 初次接触 Workfront？您错过了之前的任何 Admin 101 会议吗？加入我们的总结会议，提出问题，获取资源和建议，并结识其他新管理员。| [报名](https://events.teams.microsoft.com/event/98217af7-6ba1-423a-a744-817df52b9b1d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _学习：Adobe Workfront 中的 10 个文本模式技巧_ | **3 月 27 日** | 想要通过文本模式扩展您的报告知识吗？不用再找了！该研讨会将为您介绍文本模式基础知识和 API Explorer，然后介绍 Adobe Workfront 中的 10 个基本技巧。| [报名](https://events.teams.microsoft.com/event/72b8860b-e330-4fcf-ad71-bb3c94265961@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Workfront]** | _联系：Workfront 集体_ | **3 月 31 日** | 参加我们每月一次的周一 Workfront 集体活动，旨在与其他客户联系、讨论 Workfront 功能、分享想法并共同集思广益以解决共有的挑战。| [报名](https://events.teams.microsoft.com/event/384ea292-adf1-41ab-a608-cc6a0ec70988@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
