@@ -6,9 +6,9 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: beb77755fc91c4bede762130f3ca886926d2cf39
+source-git-commit: 39d745e342a21c45ac6d4a053e26b953e2c95cc8
 workflow-type: tm+mt
-source-wordcount: '3867'
+source-wordcount: '3879'
 ht-degree: 95%
 
 ---
@@ -472,6 +472,12 @@ New articles and updates to existing articles for [!DNL Marketo].
 +++详细信息
 
 ### [!DNL Adobe Workfront]更新
+
+最新版本：
+
+* [2025年第二季度发行版概述](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-25-q2/25-q2-release-overview)
+
+对于所有发行信息：
 
 * 请参阅[ Adobe  [!DNL Workfront] 产品发布](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/product-announcements/product-releases/product-releases) 页面，[!DNL Workfront]了解发布计划信息和发行说明。
 
