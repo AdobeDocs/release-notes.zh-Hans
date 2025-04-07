@@ -9,7 +9,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: 39d745e342a21c45ac6d4a053e26b953e2c95cc8
 workflow-type: tm+mt
 source-wordcount: '3879'
-ht-degree: 95%
+ht-degree: 99%
 
 ---
 
@@ -19,19 +19,19 @@ ht-degree: 95%
 
 <!-- ![Banner](assets/release-notes-header.png) -->
 
-[Experience League](https://experienceleague.adobe.com/?lang=zh-hans#home)是您的资源库，可帮助您了解Experience Cloud和Adobe企业应用程序。 登录并：
+[Experience League](https://experienceleague.adobe.com/?lang=zh-hans#home) 是您的资源库，可帮助您了解 Experience Cloud 和 Adobe 企业应用程序。登录后可以：
 
-* [自定义您的学习](https://experienceleague.adobe.com/en/home/profile-settings)：帮助我们自定义您的学习体验。 选择您的角色、行业以及您感兴趣的产品。
+* [自定义您的学习](https://experienceleague.adobe.com/en/home/profile-settings)：帮助我们自定义您的学习体验。选择您的角色、行业和您感兴趣的产品。
 * [浏览和发现](https://experienceleague.adobe.com/en/browse)：查找热门内容、新教程、文档、即将举行的活动等！
-* [获取全新的视角](https://experienceleague.adobe.com/en/perspectives)：我们已收集了由您的同行和Adobe产品专家编写的各种实际用例和最佳实践。
-* [获得认证](https://experienceleague.adobe.com/en/certification-home)：新的Adobe认证门户使磨练您的技能和获得认证的过程变得简单。
-* [与同行社区互动](https://experienceleaguecommunities.adobe.com/)：加入群组，会见我们的Experience League社区顾问，甚至了解如何成为其中的一员。
+* [获取全新视角](https://experienceleague.adobe.com/en/perspectives)：我们收集了由您的同行和 Adobe 产品专家撰写的各种真实用例和最佳实践。
+* [获得认证](https://experienceleague.adobe.com/en/certification-home)：新的 Adobe Certification Portal 使您能更容易地磨练技能并获得认证。
+* [与同行社区互动](https://experienceleaguecommunities.adobe.com/)：加入群组，认识我们的 Experience League 社区顾问，还可以学习如何成为一名顾问。
 
-若要每季度收到有关此页面更新的电子邮件通知，请订阅[Adobe产品更新早知道](https://www.adobe.com/cn/subscription/priority-product-update.html)。
+要收到有关此页面更新的每季电子邮件通知，请订阅 [Adobe 优先产品更新](https://www.adobe.com/cn/subscription/priority-product-update.html)。
 
 ## 2025 年 3 月
 
-最新更新：**2025年3月13日**
+最新更新日期：**2025 年 3 月 13 日**
 
 使用这些链接查找应用程序发行说明、活动、新教程以及最新的知识库支持文章：
 
@@ -62,9 +62,9 @@ ht-degree: 95%
 * [Adobe 认证](https://experienceleague.adobe.com/en/certification-home)
 * [Adobe 产品安全漏洞](https://helpx.adobe.com/cn/security.html)
 
-## [!DNL Experience League]上的事件 {#events}
+## 在 [!DNL Experience League] 上举行的活动 {#events}
 
-查找[事件](https://experienceleague.adobe.com/events/)并注册您感兴趣的事件。
+查找[活动](https://experienceleague.adobe.com/events/)，并报名参加您感兴趣的活动。
 
 +++活动
 
@@ -86,7 +86,7 @@ ht-degree: 95%
 
 了解 [!DNL Adobe System Status] 的最新功能和相关更新。
 
-没有3月的更新。
+3 月无更新。
 
 +++发行说明
 
