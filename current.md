@@ -6,9 +6,9 @@ last-update: April 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 461a76bce5aeb1da20b613af4dccbc0ebf1383e0
+source-git-commit: 65080572140d4349dd797cdee32041a5ec0abddc
 workflow-type: tm+mt
-source-wordcount: '4065'
+source-wordcount: '4069'
 ht-degree: 37%
 
 ---
@@ -30,6 +30,8 @@ ht-degree: 37%
 要收到有关此页面更新的每月电子邮件通知，请订阅 [Adobe 优先产品更新](https://www.adobe.com/cn/subscription/priority-product-update.html)。
 
 更新日期：**2025年4月16日**
+
++++查看所有产品
 
 * [[!DNL Experience League] 活动和更新](#events) （更新日期： **4月15日**）
 * [[!DNL Adobe System Status]](#status)
@@ -58,11 +60,13 @@ ht-degree: 37%
 * [Adobe 认证](https://experienceleague.adobe.com/en/certification-home)
 * [Adobe 产品安全漏洞](https://helpx.adobe.com/cn/security.html)
 
++++
+
 ## 在 [!DNL Experience League] 上举行的活动 {#events}
 
 查找[活动](https://experienceleague.adobe.com/en/events)，并报名参加您感兴趣的活动。
 
-+++活动
++++即将举行的活动
 
 * **[!DNL Marketo]** | _Marketo和Mochas：审核继承或当前实例_ | **4月17日** | 您最近是否继承了Marketo实例？ 或者，您是否正在寻求对当前实例执行定期审核以最大限度地发挥其潜力？ 加入我们的Marketo和Mochas网络研讨会，参加者包括我们的Adobe业务顾问Cynthia Chang和Carly Gaver，中心讨论如何运行深入审核以了解实例的当前状态。 | [报名](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746113037/event_landing.html)
 
