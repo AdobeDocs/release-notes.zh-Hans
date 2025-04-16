@@ -6,9 +6,9 @@ last-update: April 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 65080572140d4349dd797cdee32041a5ec0abddc
+source-git-commit: 4c6d4a25f4dba2d88fc986eab08b34d7d9a4fa97
 workflow-type: tm+mt
-source-wordcount: '4069'
+source-wordcount: '4067'
 ht-degree: 37%
 
 ---
@@ -96,8 +96,8 @@ ht-degree: 37%
 
 | 功能 | 描述 |
 | ------- | ------- |
-| **虚拟助理测试版** | <ul><li>虚拟协助是一项功能，它允许Web和移动设备上的[!DNL Adobe Status]客户获得其问题的答案，并帮助在不离开主页的情况下执行快速操作。 它可以作为一个位置，用于解析所有查询。 如果您要参与客户测试版，请发送电子邮件至[statuscom-adobe-support@adobe.com](mailto:statuscom-adobe-support@adobe.com)。 </li></ul> |
-| **新事件词汇表帮助页** | <ul><li>一个专用帮助页面，用于详细指导[!DNL Adobe Status]用户了解所有事件类型、图标及其状态，以便更轻松地在网站上导航。</li><li>Adobe状态概述页面>帮助菜单新增了一个指向此新页面的菜单项（事件术语表）。</li><li>任何引用[!DNL Adobe Status]的Adobe表面都可以添加指向新帮助页面的链接。</li></ul> |
+| **虚拟助理测试版** | <ul><li>虚拟助理是一项功能，它允许Web和移动设备上的Status客户获得其问题的答案，并帮助在不离开主页的情况下执行快速操作。 它可以作为一个位置来解析所有查询。 如果您要参与客户测试版，请发送电子邮件至[statuscom-adobe-support@adobe.com](mailto:statuscom-adobe-support@adobe.com)。 </li></ul> |
+| **新事件术语表** | <ul><li>一个专用帮助页面，用于详细指导[!DNL Adobe Status]用户了解所有事件类型、图标及其状态，以便更轻松地在网站上导航。</li><li>Adobe状态概述页面>帮助菜单新增了一个指向此新页面的菜单项（事件术语表）。</li><li>任何引用[!DNL Adobe Status]的Adobe表面都可以添加指向新帮助页面的链接。</li></ul> |
 | **错误修复和改进** | <ul><li>Slack通知 — 提醒消息按计划显示</li><li>已停用的产品事件不应显示在概述页面上</li><li>_已关闭_ > _已解除的CSO_&#x200B;更新消息且未发送通知</li><li>状态Web页眉和页脚在刷新时加载时间较长</li><li>页脚上的状态本地化菜单已损坏</li></ul> |
 
 [!DNL Adobe System Status]以前的发行说明：
