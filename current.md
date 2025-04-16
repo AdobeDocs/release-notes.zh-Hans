@@ -6,9 +6,9 @@ last-update: April 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 9705d647e844bc4d5f2ded18db9e8eb3ad716086
+source-git-commit: dffaee650ea54de990c60a8e5bec09e4eb61f941
 workflow-type: tm+mt
-source-wordcount: '4071'
+source-wordcount: '4065'
 ht-degree: 37%
 
 ---
@@ -29,11 +29,10 @@ ht-degree: 37%
 
 要收到有关此页面更新的每月电子邮件通知，请订阅 [Adobe 优先产品更新](https://www.adobe.com/cn/subscription/priority-product-update.html)。
 
-更新日期：**2025年4月16日**
+**更新日期：2025年4月16日**
 
 +++查看所有产品
 
-* [[!DNL Experience League] 活动和更新](#events) （更新日期： **4月15日**）
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 中央界面和管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
