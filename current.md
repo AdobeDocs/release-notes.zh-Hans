@@ -6,10 +6,10 @@ last-update: April 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: dffaee650ea54de990c60a8e5bec09e4eb61f941
-workflow-type: ht
-source-wordcount: '4065'
-ht-degree: 100%
+source-git-commit: af9bda242f4ea74b71a8d42ca8669124f6e2cf13
+workflow-type: tm+mt
+source-wordcount: '3833'
+ht-degree: 99%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 100%
 
 若想每月收到关于此页面更新的电子邮件通知，请订阅 [Adobe 优先产品更新](https://www.adobe.com/cn/subscription/priority-product-update.html)。
 
-**更新日期 2025 年 4 月 16 日**
+**更新日期：2025年4月25日**
 
 +++查看所有产品
 
@@ -67,15 +67,7 @@ ht-degree: 100%
 
 +++即将举行的活动
 
-* **[!DNL Marketo]** | _Marketo 和 Mochas：审核一个继承的或当前的实例_ | **4 月 17 日** | 您最近是否继承了一个 Marketo 实例？或者，也许您想对当前实例进行定期审核以最大限度发挥其潜力？欢迎参加此次 Marketo 和 Mochas 网络研讨会，与我们的 Adobe 业务顾问 Cynthia Chang 和 Carly Gaver 一起重点关注如何深入审核实例以了解其当前状态。| [报名](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746113037/event_landing.html)
-
-* **[!DNL Workfront]** | _Connect：Workfront Collective_ | **4 月 21 日** | 此活动没有正式的演示或议程。讨论的主题取决于您的参与度。把这次研讨会视为一次集体解决问题的会议。如果您在 Workfront 中遇到一些挑战（或者您想要分享和推广您的成功经验！），并希望与其他客户讨论各种解决方法，那么这次活动非常适合您。| [报名](https://events.teams.microsoft.com/event/ba1a80ab-01c0-4675-83e5-d6d96f1aa9b2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **多解决方案** | _幕后：全面解析主动监测工具_ | **4 月 24 日** | 欢迎参加我们富有洞察力的研讨会，了解如何利用 SWAT、Fastly 和 New Relic 等尖端监测工具来优化系统健康和性能。| [报名](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746562317/event_landing.html?sco-id=5746562295&amp;campaign-id=ExL&amp;_charset_=utf-8)
-
-* **[!DNL Campaign Classic]** | _Adobe ACC 传递性能 - 故障排除_ | **4 月 25 日** | 在本次会议中，我们将探讨使用 Adobe Campaign Classic (ACC) 传递最佳性能时面临的常见挑战，并提供可行的故障排除及问题解决策略。了解如何识别性能瓶颈、解决传递准备/配置不一致问题，以及如何实施最佳实践以确保通信顺畅。| [报名](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/default_template/event_landing.html?sco-id=5748224915&amp;_charset_=utf-8)
-
-查看 Experience League 上 [即将举行的活动](https://experienceleague.adobe.com/en/events) 的完整列表或浏览 [过去的活动](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-recorded-events/overview)。
+查看Experience League上[即将举办的](https://experienceleague.adobe.com/en/events)和[按需](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-recorded-events/overview)活动的完整列表。
 
 +++
 
@@ -495,7 +487,7 @@ New or updated videos tutorials published for Adobe Campaign.
 
 * [2025 年第二季度发布概述](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/product-announcements/product-releases/release-25-q2/25-q2-release-overview)
 
-有关所有版本信息：
+关于所有发布信息：
 
 * 请参阅[ Adobe  [!DNL Workfront] 产品发布](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/product-announcements/product-releases/product-releases) 页面，[!DNL Workfront]了解发布计划信息和发行说明。
 
