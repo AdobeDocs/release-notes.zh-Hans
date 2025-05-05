@@ -12,7 +12,7 @@ ht-degree: 100%
 ## Adobe Open Source 行为准则
 
 
-该项目采用了 [Adobe Open Source 行为准则](https://experienceleague.adobe.com/docs/contributor/contributor-guide/conduct-contributions/code-of-conduct.html)或 [.NET Foundation 行为准则](https://dotnetfoundation.org/code-of-conduct)。有关更多信息，请参阅[参与](https://experienceleague.adobe.com/docs/contributor/contributor-guide/conduct-contributions/contributing.html)文章。
+该项目采用了 [Adobe Open Source 行为准则](https://experienceleague.adobe.com/docs/contributor/contributor-guide/conduct-contributions/code-of-conduct.html?lang=zh-Hans)或 [.NET Foundation 行为准则](https://dotnetfoundation.org/code-of-conduct)。有关更多信息，请参阅[参与](https://experienceleague.adobe.com/docs/contributor/contributor-guide/conduct-contributions/contributing.html?lang=zh-Hans)文章。
 
 ## 关于您对 Adobe 内容的贡献
 
