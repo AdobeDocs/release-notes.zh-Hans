@@ -269,7 +269,7 @@ ht-degree: 89%
 
 * [最新发行版概述视频](https://experienceleague.adobe.com/zh-hans/docs/events/aemcs-release-update-recordings/overview)
 * [[!DNL Experience Manager] 版本更新和路线图](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-release-information/aem-release-updates/home)
-*  [!DNL Experience Manager] as a Cloud Service](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) 的[当前发行说明。
+* [!DNL Experience Manager] as a Cloud Service[&#128279;](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) 的当前发行说明。
 * [[!DNL Experience Manager] 6.5 Service Pack 发行说明](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/release-notes/release-notes)
 * [[!DNL Experience Manager] AEM Cloud Manager 发行说明](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-manager/content/release-notes/current)
 * [Automated Forms Conversion Service 发行说明](https://experienceleague.adobe.com/zh-hans/docs/aem-forms-automated-conversion-service/using/release-notes)
