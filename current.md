@@ -252,7 +252,7 @@ New or updated video tutorials published for Adobe Analytics.
 
 所有 [!DNL Experience Manager] 发行说明均保留在以下页面：
 
-*  [!DNL Experience Manager] as a Cloud Service](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) 的[最新发行说明。
+* [!DNL Experience Manager] as a Cloud Service[&#128279;](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) 的最新发行说明。
 * [最新发行版概述视频](https://experienceleague.adobe.com/zh-hans/docs/events/aemcs-release-update-recordings/overview)
 * [[!DNL Experience Manager] 版本更新和路线图](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-release-information/aem-release-updates/home)
 * [[!DNL Experience Manager] 6.5 Service Pack 发行说明](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/release-notes/release-notes)
@@ -463,7 +463,7 @@ New or updated videos tutorials published for Adobe Campaign.
 | 2025 年 4 月 | [通过  [!DNL Adobe Journey Optimizer Query Service API]](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-26196) 解决访问问题 | 新文章 | 了解尝试通过 [!DNL Postman] 或类似工具访问 [!DNL Adobe Journey Optimizer Query Service API] 时，由于权限不足而出现访问错误，该问题的解决方案。 |
 | 2025 年 4 月 | [在 AJO 中设置 API 触发的事务性电子邮件营销活动时出现邮件交换器错误](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-26200) | 新文章 | 了解在 Adobe Journey Optimizer（AJO）中设置 API 触发的事务性电子邮件营销活动时，由于邮件交换器（MX）错误而无法创建新的渠道配置，该问题的解决方案。 |
 | 2025 年 4 月 | [Journey Optimizer：错误配置的 `AFTER` 日期函数会向非目标受众发送电子邮件](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-26173) | 新文章 | 了解 Adobe Journey Optimizer（AJO）中错误配置的 `AFTER` 日期函数而导致电子邮件发送给不符合目标受众资格的成员，该问题的解决方案。 |
-| 2025 年 4 月 | [无法在 AJO 中为  [!DNL Azure]  建立文件路由 ](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-26323) | 新文章 | 了解设置从 Adob&#x200B;&#x200B;e Journey Optimizer（AJO）到 [!DNL Azure] 的 [!UICONTROL 投放管理 ]（DM）输出文件的文件路由时，由于 [!DNL Azure] 连接字符串和容器配置不正确而出现错误，该问题的解决方案。 |
+| 2025 年 4 月 | [无法在 AJO 中为  [!DNL Azure]  建立文件路由 ](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-26323) | 新文章 | 了解设置从 Adob&#x200B;&#x200B;e Journey Optimizer（AJO）到 [!DNL Azure] 的 [!UICONTROL 投放管理 &#x200B;]（DM）输出文件的文件路由时，由于 [!DNL Azure] 连接字符串和容器配置不正确而出现错误，该问题的解决方案。 |
 | 2025 年 4 月 | [尽管满足事件条件，但轮廓中的历程仍未触发](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-26305) | 新文章 | 了解在 Adob&#x200B;&#x200B;e [!DNL Experience Platform]（AEP）[!DNL Journey Orchestration]中，即使满足事件条件，有时特定轮廓的历程也不会触发，该问题的解决方案。 |
 
 ### [!DNL Journey Optimizer] 的更多资源
