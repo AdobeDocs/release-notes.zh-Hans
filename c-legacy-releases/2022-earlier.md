@@ -1,15 +1,14 @@
 ---
-description: Experience Cloud 产品和服务已存档的发行说明。
-seo-description: New features and fixes in the Adobe Experience Cloud - 2018 and earlier.
-title: 2021 及更早版本的发行说明
+description: 存档了Experience Cloud产品和服务的PDF发行说明。
+title: 2022 及更早版本的发行说明
 solution: Experience Cloud,Analytics,Target,Advertising
 seo-title: Release Notes for 2021 and Earlier for Adobe Experience Cloud
 uuid: c56a1064-0f2c-4241-93c6-ca4b1f267763
 exl-id: 980a6e5e-a561-4fb5-b1cc-467ddabf0d01
-source-git-commit: 62cb9a8cd5ed8b54594f7f33f90d344014f74752
+source-git-commit: 7a108dcc0c7d64f27c52fb5afb250bedcb599106
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 100%
+source-wordcount: '66'
+ht-degree: 84%
 
 ---
 
