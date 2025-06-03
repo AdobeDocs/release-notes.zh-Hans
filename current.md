@@ -65,7 +65,7 @@ ht-degree: 96%
 
 查找[活动](https://experienceleague.adobe.com/en/events)，并报名参加您感兴趣的活动。
 
-更新日期： 2025年6月3日&#x200B;****
+更新日期： 2025年6月3日&#x200B;**&#x200B;**
 
 +++即将举行的活动
 
