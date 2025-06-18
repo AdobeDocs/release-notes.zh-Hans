@@ -65,7 +65,7 @@ ht-degree: 32%
 
 查找[活动](https://experienceleague.adobe.com/en/events)，并报名参加您感兴趣的活动。
 
-更新日期： 2025年6月18日&#x200B;****
+更新日期： 2025年6月18日&#x200B;**&#x200B;**
 
 +++即将举行的活动
 
@@ -140,7 +140,7 @@ ht-degree: 32%
 
 | 发布日期 | 名称 | 类型 | 描述 |
 |---------|----|----|-----------|
-| 2025 年 5 月 | 在AEP](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26451)中编辑[!UICONTROL Source]数据流时，[[!DNL Snowflake] 连接超时 | 新文章 | 了解在&#x200B;**[!UICONTROL 选择数据]**&#x200B;步骤中编辑[!DNL Snowflake] [!UICONTROL Source]数据流时Adobe Experience Platform中[!DNL Snowflake]连接超时问题的解决方案。 |
+| 2025 年 5 月 | 在AEP[&#128279;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26451)中编辑[!UICONTROL Source]数据流时，[!DNL Snowflake] 连接超时 | 新文章 | 了解在&#x200B;**[!UICONTROL 选择数据]**&#x200B;步骤中编辑[!DNL Snowflake] [!UICONTROL Source]数据流时Adobe Experience Platform中[!DNL Snowflake]连接超时问题的解决方案。 |
 | 2025 年 5 月 | [Adobe Experience Platform - **[!UICONTROL 合作伙伴ID]**&#x200B;配置文件查找不显示结果](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26462) | 新文章 | 了解当&#x200B;**[!UICONTROL 合作伙伴ID]**&#x200B;配置文件查找由于标识图的工作方式而无法在Adobe Experience Platform中显示结果时问题的解决方案。 |
 | 2025 年 5 月 | [AEP不支持根据特定IP地址限制API访问](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26471) | 新文章 | 了解无法将API访问限制为Adobe Experience Platform (AEP)中的特定IP地址问题的解决方案。 |
 | 2025 年 5 月 | [*UIS-0002-400：在Adobe Experience Platform中批处理标识解析失败*&#x200B;错误](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26520) | 新文章 | 了解当Adobe Experience Platform (AEP)中发生&#x200B;*UIS-0002-400：批处理身份解析失败错误*&#x200B;时问题的解决方案。 |
@@ -298,7 +298,7 @@ New or updated video tutorials published for Adobe Analytics.
 | 2025 年 5 月 | [解决 [!DNL Adobe Cloud Manager]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26339)中的SSL证书过期检索问题 | 新文章 | 了解在使用[!DNL Adobe Cloud Manager] API检索SSL证书过期日期时问题的解决方案，该过程会因不正确使用API端点以及域映射和证书之间缺少链接而中断。 |
 | 2025 年 5 月 | [无法限制AEM中的并发用户登录](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26398) | 新文章 | 了解用于解决Adobe Experience Manager (AEM)中缺少并发登录限制的解决方案。 |
 | 2025 年 5 月 | [在 [!DNL Adobe Experience Manager]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26441)中解析多个[!UICONTROL 身份提供程序]的身份验证失败 | 新文章 | 了解将多个[!UICONTROL 身份提供程序] (IDP)集成到Adobe Experience Manager (AEM)时，用户遇到身份验证失败问题的解决方案。 |
-| 2025 年 5 月 | AEM 6.5.21](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26452)中的[存储型跨站点脚本(XSS)漏洞 | 新文章 | 了解在Adobe Experience Manager (AEM)版本6.5.21及更早版本中发现了特征为存储型跨站点脚本(XSS)漏洞(**[!DNL CWE-79]**)的安全漏洞&#x200B;**[!DNL CVE-2024-43726]**&#x200B;的解决方案。 |
+| 2025 年 5 月 | AEM 6.5.21[&#128279;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26452)中的存储型跨站点脚本(XSS)漏洞 | 新文章 | 了解在Adobe Experience Manager (AEM)版本6.5.21及更早版本中发现了特征为存储型跨站点脚本(XSS)漏洞(**[!DNL CWE-79]**)的安全漏洞&#x200B;**[!DNL CVE-2024-43726]**&#x200B;的解决方案。 |
 | 2025 年 5 月 | [[!DNL AI] 协助在AEM Guides中不可见](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26453) | 新文章 | 了解无法使用Adobe Experience Manager (AEM) Guides中的[!DNL AI]帮助功能的问题的解决方案。 |
 | 2025 年 5 月 | [解决PDF文件在AEM环境中存在的 [!DNL Scene7] 资源名称差异](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26461) | 新文章 | 了解由于PDF处理设置中的变化，AEM资源在PDF环境中具有不同的[!DNL Scene7]资源名称问题的解决方案。 |
 | 2025 年 5 月 | [使用 [!DNL ACS Commons] 查询打包程序迁移内容增量标记](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26575) | 新文章 | 了解升级或迁移Adobe Experience Manager (AEM)时问题的解决方案，您只需移动已更改的内容（如更新的标记、资源或页面）。 |
@@ -306,7 +306,7 @@ New or updated video tutorials published for Adobe Analytics.
 | 2025 年 5 月 | Dynamic Media中 [!DNL TIFF] 图像演绎版的[背景颜色更改问题](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26637) | 新文章 | 了解在使用Dynamic Media API参数（如`bgc`、`clippathe`和`croppathe`）时，Dynamic Media背景颜色更改不适用于[!DNL TIFF]图像呈现时问题的解决方案。 |
 | 2025 年 5 月 | 基于[[!DNL OAuth] 的客户端凭据轮换在[!UICONTROL 作者]中工作，但不在[!UICONTROL 发布]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26706)中工作 | 新文章 | 了解在Adobe Experience Manager (AEM) Forms中旋转[!DNL OAuth]客户端凭据时，对[!UICONTROL Publish]实例的身份验证失败（尽管在[!UICONTROL Author]中工作），问题的解决方案。 |
 | 2025 年 5 月 | AEM Service Pack 21升级后[空白页面和&#x200B;*未捕获的SlingException*&#x200B;错误](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26321) | 新文章 | 了解此问题的解决方案：在将Adobe Experience Manager (AEM)升级到Service Pack 21（版本6.5.21）后，[!UICONTROL Publisher]实例在日志中显示空白页和&#x200B;*未捕获的SlingException*&#x200B;错误。 |
-| 2025 年 5 月 | 在AEM](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26343)中使用&#x200B;**[!UICONTROL PDFG]**&#x200B;和&#x200B;**[!UICONTROL PageOverlay]**&#x200B;的Word到PDF转换中缺少[超链接 | 新文章 | 了解在使用AEM **[!UICONTROL PDFG]**&#x200B;服务和[!UICONTROL Assembler服务]的&#x200B;**[!UICONTROL PageOverlay]**&#x200B;选项将Word文档转换为PDF时问题的解决方案，生成的PDF中不会显示超链接。 |
+| 2025 年 5 月 | 在AEM[&#128279;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26343)中使用&#x200B;**[!UICONTROL PDFG]**&#x200B;和&#x200B;**[!UICONTROL PageOverlay]**&#x200B;的Word到PDF转换中缺少超链接 | 新文章 | 了解在使用AEM **[!UICONTROL PDFG]**&#x200B;服务和[!UICONTROL Assembler服务]的&#x200B;**[!UICONTROL PageOverlay]**&#x200B;选项将Word文档转换为PDF时问题的解决方案，生成的PDF中不会显示超链接。 |
 | 2025 年 5 月 | [解决Adobe Experience Manager 6.5 Dynamic Media中&#x200B;**[!UICONTROL 智能裁切]**&#x200B;的损坏图像问题](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26367) | 新文章 | 了解解决以下问题的方法：单击&#x200B;**[!UICONTROL 智能裁切]**&#x200B;按钮导致Adobe Experience Manager 6.5 Dynamic Media中显示损坏的图像。 |
 | 2025 年 5 月 | [修复&#x200B;*无法加载数据*&#x200B;在AEM Sites](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26443)中对&#x200B;**[!UICONTROL 修改的]**&#x200B;列排序时出错 | 新文章 | 了解当您在Adobe Experience Manager (AEM) Sites中按&#x200B;**[!UICONTROL Modified]**&#x200B;列排序内容时，您收到&#x200B;*无法加载数据*&#x200B;错误，此问题的解决方案。 |
 | 2025 年 5 月 | [在AEM中修复视频上传、处理和渲染问题](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26533) | 新文章 | 了解针对在Adobe Experience Manager (AEM)中上传、处理、发布或渲染视频时由于视频过长、编码预设不匹配或Dynamic Media工作流超时等问题而导致视频失败问题的解决方案。 |
@@ -424,7 +424,7 @@ Adobe Commerce 的新文章和现有文章的更新。
 
 | 发布日期 | 名称 | 类型 | 描述 |
 |---------|----|----|-----------|
-| 2025 年 5 月 | Adobe Campaign Classic中的[**[!UICONTROL 更新数据库结构&#x200B;]**向导未显示架构](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26407) | 新文章 | 了解在Adobe Campaign Classic中使用&#x200B;**[!UICONTROL 更新数据库结构]**&#x200B;向导时，未显示链接到外部数据库的架构的解决方案。 |
+| 2025 年 5 月 | Adobe Campaign Classic中的[**[!UICONTROL 更新数据库结构&#x200B;]**&#x200B;向导未显示架构](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26407) | 新文章 | 了解在Adobe Campaign Classic中使用&#x200B;**[!UICONTROL 更新数据库结构]**&#x200B;向导时，未显示链接到外部数据库的架构的解决方案。 |
 | 2025 年 5 月 | 尽管Adobe Campaign Managed Cloud上有计划程序设置，[工作流仍意外运行](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26415) | 新文章 | 了解未应用调度程序更新并在Adobe Campaign托管云中发生意外工作流执行时问题的解决方案。 |
 | 2025 年 5 月 | [无法在Campaign Classic中查看定位和工作流选项卡](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26632) | 新文章 | 了解当&#x200B;**[!UICONTROL 定位和工作流]**&#x200B;选项卡在Adobe Campaign Classic中不可见时问题的解决方案。 |
 | 2025 年 5 月 | [由于Adobe Campaign Standard **[!UICONTROL 动态报告]**](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26697)中的10,000条记录限制，投放统计过滤器无法正常工作 | 新文章 | 了解当投放统计信息&#x200B;**[!UICONTROL 包含]**&#x200B;过滤器在应用特定关键词时未返回完整结果时问题的解决方案。 |
