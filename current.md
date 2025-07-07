@@ -6,10 +6,10 @@ last-update: June 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 8b375cdcf4c912c0f05a9189345dee09923578fa
-workflow-type: ht
-source-wordcount: '6364'
-ht-degree: 100%
+source-git-commit: 4507c886f985a4c63a61965700bae7e549a32df9
+workflow-type: tm+mt
+source-wordcount: '6328'
+ht-degree: 95%
 
 ---
 
@@ -19,47 +19,72 @@ ht-degree: 100%
 
 <!-- ![Banner](assets/release-notes-header.png) -->
 
-此页面可帮助您查找应用程序特定的发行说明、即将举行的活动、新教程以及 Experience League 上最新的支持文章。您在 Experience League 上的个性化主页会根据您的兴趣量身定制。
+此页面是Experience Cloud产品的中心发行说明资源。 查找特定于应用程序的发行说明、即将举行的活动、新教程以及Experience League上最新支持文章的链接。 您在 Experience League 上的个性化主页会根据您的兴趣量身定制。
 
-<!-- * [Customize your learning](https://experienceleague.adobe.com/zh-hans/home/profile-settings): Help us customize your learning experience. Select your role, industry, and the products that interest you.
-* [Browse and discover](https://experienceleague.adobe.com/zh-hans/browse): Find popular content, new tutorials, documentation, upcoming events, and more!
-* [Get fresh perspectives](https://experienceleague.adobe.com/zh-hans/perspectives): We've gathered a variety of real-world use cases and best practices, written by your peers and Adobe product experts. 
-* [Get certified](https://experienceleague.adobe.com/zh-hans/certification-home): The new Adobe Certification Portal makes honing your skills and getting certified a simple process.
+<!-- * [Customize your learning](https://experienceleague.adobe.com/en/home/profile-settings): Help us customize your learning experience. Select your role, industry, and the products that interest you.
+* [Browse and discover](https://experienceleague.adobe.com/en/browse): Find popular content, new tutorials, documentation, upcoming events, and more!
+* [Get fresh perspectives](https://experienceleague.adobe.com/en/perspectives): We've gathered a variety of real-world use cases and best practices, written by your peers and Adobe product experts. 
+* [Get certified](https://experienceleague.adobe.com/en/certification-home): The new Adobe Certification Portal makes honing your skills and getting certified a simple process.
 * [Engage with a community of peers](https://experienceleaguecommunities.adobe.com/): Join groups, meet our Experience League Community Advisors, and even learn how to become one. -->
 
 若要每月收到关于此页面更新的电子邮件通知，请订阅 [Adobe 优先产品更新](https://www.adobe.com/cn/subscription/priority-product-update.html)。
 
-**更新日期：2025 年 6 月 19 日**
+**更新日期：2025年7月7日**
 
-<!-- +++View product links
++++ 查看产品链接
 
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud) 
-* [[!DNL Adobe Experience Platform]](#platform) 
+* [[!DNL Adobe Experience Cloud]  - 中央界面和管理](#ecloud)
+* [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) 
-* [[!DNL Adobe Customer Journey Analytics]](#cja) 
+* [[!DNL Adobe Analytics]](#analytics)
+* [[!DNL Adobe Customer Journey Analytics]](#cja)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
-* [[!DNL Adobe Experience Manager]](#aem) 
+* [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
-* [[!DNL Adobe Target]](#target) 
-* [[!DNL Adobe Campaign]](#ac) 
+* [[!DNL Adobe Target]](#target)
+* [[!DNL Adobe Campaign]](#ac)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Adobe Journey Optimizer B2B Edition]](#ajo-b2b)
 * [[!DNL Adobe Marketo Engage]](#marketo)
 * [[!DNL Adobe Workfront]](#workfront)
-* [[!DNL Adobe GenStudio for Performance Marketing]](#genstudio-marketing) 
+* [[!DNL Adobe GenStudio for Performance Marketing]](#genstudio-marketing)
 * [[!DNL Adobe Mix Modeler]](#mix-modeler)
-* [[!DNL Adobe Advertising]](#advertising) 
+* [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Pass]](#pass)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
-* [Customer Data Management - Voices](#voices)
-* [Digital Experience Blueprints](#blueprints)
-* [Certification at Adobe](https://experienceleague.adobe.com/zh-hans/certification-home)
-* [Adobe product security vulnerabilities](https://helpx.adobe.com/cn/security.html)
+* [客户数据管理 - 意见](#voices)
+* [Digital Experience Blueprint](#blueprints)
+* [Adobe 认证](https://experienceleague.adobe.com/zh-hans/certification-home)
+* [Adobe 产品安全漏洞](https://helpx.adobe.com/cn/security.html)
 
-+++  -->
++++
+
+<!-- ## June updates
+
+| Product   | Release / Announcement Date            | Key Highlights |
+|-------|------------|----------------|
+| Experience Cloud admin & central interface   | [June 1, 2025](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/current) | Generative AI support in Admin Console, improved user/product license management |
+| Adobe Experience Platform | [June 18, 2025](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest)  | New dashboard email exports, updated tutorials & support articles |
+| Adobe Real-Time CDP  | [June 12, 2025](https://experienceleague.adobe.com/en/docs/real-time-cdp-collaboration/using/latest) | Self-serve destination support, audience refresh frequency |
+| Adobe Analytics  | [June 18-24, 2025](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest)  | Secure cloud exports, new preview bar chart, enhanced attribution |
+| Adobe Customer Journey Analytics | [June 2-18, 2025](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest)  | Fixed panel hover, new B2B Edition GA with account-level modeling |
+| Adobe Streaming Media Analytics  | _(Not updated)_  | No new release notes - last updated December 2024 | 
+| Adobe Experience Manager | [June 10, 2025](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-6-0)  | Maintenance release 21193, feature release 2025.6.0 scheduled June 26 |
+| Adobe Commerce (Magento)  | [June 10, 2025](https://experienceleague.adobe.com/en/docs/commerce-operations/release/versions)  | Commerce 2.4.9‑alpha & patch 2.4.8‑p1, security fixes via APSB25‑50 |
+| Adobe Commerce B2B Edition | [June 10, 2025](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/release-notes)  | B2B module v1.5.2‑p1 and v1.4.2‑p6 released with security compatibility |
+| Adobe Target   | _(Not updated)_  | No new official release info published in June 2025 |
+| Adobe Campaign   | _(Not updated)_   | Bundled under central Experience Cloud updates |
+| Adobe Journey Optimizer  | [June 18, 2025](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes) | Beta: AEP dataset decisioning |
+| Adobe Journey Optimizer B2B Edition  | *Included in Journey Optimizer June GA* via CJA B2B mention  | Account-level journey insights |
+| Adobe Marketo Engage   | _(Not updated)_ | No public release notes published in June |
+| Adobe Workfront | _(Not updated)_ | No public release notes published in June |
+| Adobe GenStudio for Performance Marketing    | *(Included in central AI updates)* | Announced along with LLM Optimizer (June 16) |
+| Adobe Mix Modeler   | [June 18, 2025](https://experienceleague.adobe.com/en/docs/mix-modeler/using/releases/latest)  | Introduced goal-based plans and spend pattern configurations |
+| Adobe Advertising   | _(Not updated)_ | No separate public June notes |
+| Adobe Pass   | _(Not updated)_   | No public release notes published in June |
+| Adobe Document Cloud  | _(Not updated)_    | No public release notes published in June | -->
 
 ## 在 [!DNL Experience League] 上举行的活动 {#events}
 
@@ -67,15 +92,13 @@ ht-degree: 100%
 
 +++即将举行的活动
 
-* **[!DNL Workfront]** | _Connect: Workfront Collective_ | 这是一次 Workfront Collective 活动 —— 所有 Workfront 用户的协作众包机会！本次活动没有正式的演讲或议程，讨论话题完全基于与会者的互动和参与。可以把这次研讨会视为一次集体解决问题的会议。如果您在使用 Workfront 过程中遇到挑战（或希望分享和推广某些成功经验），并希望与其他客户一起探讨解决方案，那么这将是最适合您的活动。| **6 月 23 日，星期一** | [注册](https://events.teams.microsoft.com/event/c9512e95-6ad0-4def-b178-1d8103702076@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _管理员101 - Workfront入门_ | 这一系列活动专为初学者系统管理员而设计，将为新管理员提供有关可用资源的介绍、系统导航的简述，以及有关初始设置、引入和基本报告的最佳实践。 有问题且不确定应该去哪里？ 加入我们，参加一个1小时的研讨会，我们鼓励大家参加，所有问题都与我们相关！ | **7月8日，星期二** | [注册](https://events.teams.microsoft.com/event/8fc563fe-d0f1-4b2c-bae6-a68bd28a22f4@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Journey Optimizer]** | _在线问答：Ask Me Anything_ | 6 月 25 日，Journey Optimizer 产品专家将围绕敏捷工作流展开交流，帮助您实现大规模个性化内容投放，并深入掌握频率上限与冲突优先级管理。| **6 月 25 日，星期三** | [注册](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-june-25th-with-journey-optimizer-product-experts/ev-p/757473)
+* **[!DNL Workfront]** | _Adobe Workfront 2025年第三季度发布网络研讨会_ | 该网络研讨会与Adobe Workfront产品管理团队联合托管，将持续1小时，重点介绍定于下周在2025年第三季度版本中推出的最新Workfront功能增强。 | **7月10日，星期四** | [注册](https://events.teams.microsoft.com/event/0481924a-fc34-4781-b7fc-ed4a54e6fa1f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | _轻松应对多选字段：Workfront API 与 Fusion 变更指引_ | 召集所有 Workfront Fusion 用户！本次网络研讨会由专业服务团队联合举办，旨在呼吁系统管理员及时掌握 Workfront API 即将发生的重要变更，主动应对，确保顺利过渡。| **6 月 25 日，星期三** | [注册](https://events.teams.microsoft.com/event/0f04ff7b-89ae-4685-ab3a-0825b7aea2ca@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Marketo Engage]** | _Marketo Engage基础：使用Marketo Personalization推动营销活动_ | 大致了解Marketo Engage的个性化功能，以了解如何提升营销影响。 在本会议中，我们将探讨个性化为什么重要，以及它如何促进营销活动中的更强参与和转化。 | **7月10日，星期四** | [注册](https://mugs.marketo.com/events/details/marketo-foundational-marketo-user-group-presents-foundations-of-marketo-engage-powering-campaigns-with-marketo-personalization/)
 
-* **[!DNL Workfront]** | _成功召唤：全面掌握 Workfront 规划功能最新进展_ | 欢迎参加本次互动式网络研讨会，助您充分发挥 Adobe Workfront 规划功能的价值。无论您是刚开始使用，还是希望优化现有设置，本次课程将为您讲解最新功能、公认最佳实践以及专家技巧，帮助您高效简化规划工作流。| **6 月 26 日，星期四** | [注册](https://events.teams.microsoft.com/event/46bd7591-c67b-43a4-aeec-f674f33e780c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-查看 Experience League 上[即将举行的活动](https://experienceleague.adobe.com/zh-hans/events)和[按需活动](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-recorded-events/overview)的完整列表。
+更多精彩内容！查看 Experience League 上[即将举行的活动](https://experienceleague.adobe.com/zh-hans/events)和[按需活动](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-recorded-events/overview)的完整列表。
 
 +++
 
@@ -195,7 +218,7 @@ New or updated video tutorials published for Adobe Analytics.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|April 2025|[Configure variables in Report Suite Manager](https://experienceleague.adobe.com/zh-hans/docs/analytics-learn/tutorials/administration/manage-report-suites/configuring-variables-in-the-admin-console)| New video |Configure variables and events in [!UICONTROL Report Suite Manager], ensuring that the reports, dimensions, and metrics have the right names and behavior.| -->
+|April 2025|[Configure variables in Report Suite Manager](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/administration/manage-report-suites/configuring-variables-in-the-admin-console)| New video |Configure variables and events in [!UICONTROL Report Suite Manager], ensuring that the reports, dimensions, and metrics have the right names and behavior.| -->
 
 ### 新的 [!DNL Analytics] 支持知识库{#kb-analytics}
 
@@ -282,8 +305,8 @@ New or updated video tutorials published for Adobe Analytics.
 
 | 发布日期 | 应用程序 | 名称 | 类型 | 描述 |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| 2025 年 6 月 | [!DNL Experience Manager] | [体验优化与价值实现](https://experienceleague.adobe.com/zh-hans/playlists/experience-manager-all-experience-optimization-and-value-realization) | 新视频 | Adobe Summit 2025 精选短片 |
-| 2025 年 6 月 | [!DNL Experience Manager] | [Experience Manager 中的生成式 AI 与 AI 驱动的创新](https://experienceleague.adobe.com/zh-hans/playlists/experience-manager-all-gen-ai-driven-innovations) | 新视频 | Adobe Summit 2025 精选短片 |
+| 2025 年 6 月 | [!DNL Experience Manager] | [体验优化与价值实现](https://experienceleague.adobe.com/en/playlists/experience-manager-all-experience-optimization-and-value-realization) | 新视频 | Adobe Summit 2025 精选短片 |
+| 2025 年 6 月 | [!DNL Experience Manager] | [Experience Manager 中的生成式 AI 与 AI 驱动的创新](https://experienceleague.adobe.com/en/playlists/experience-manager-all-gen-ai-driven-innovations) | 新视频 | Adobe Summit 2025 精选短片 |
 | 2025 年 6 月 | [!DNL Experience Manager Assets] | [用于管理透明度与内容自动化批量处理的 Dynamic Media](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/assets/dynamic-media/images/dynamic-media-image-automation) | 新视频 | 了解如何在 AEM 中使用 Dynamic Media 创建虚拟演绎版、管理透明度并自动处理图像，以实现可扩展的内容复用。 |
 | 2025 年 6 月 | [!DNL Experience Manager Sites] | [在  [!DNL Sites]](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/sites/expert-resources/authoring-guide-in-sites) 中创建实时创作指南 | 新视频 | AEM 认证专家 Brett Birschbach 分享在 Adobe Experience Manager (AEM) Sites 中构建实时创作指南的最佳实践。 |
 
@@ -324,9 +347,9 @@ New or updated video tutorials published for Adobe Analytics.
 | 2025 年 5 月 | [AEMaaCS 资产旋转后续操作无法显示的问题](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-26528) | 新文章 | 了解在 Adobe Experience Manager as a Cloud Service (AEMaaCS) - Assets 中旋转图像资产时，仅首次旋转立即生效，后续旋转由于后台资产处理流程而无法及时显示的问题解决方案。 |
 | 2025 年 5 月 | [页面无法取消发布（AEMaaCS）](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-26551) | 新文章 | 了解在 Adobe Experience Manager as a Cloud Service (AEMaaCS) 中，页面即使已取消发布或删除，仍然可访问的问题。该问题可能由虚拟 URL 或别名仍指向其他页面所致。 |
 | 2025 年 5 月 | [解决配置专用出口 IP 时连接超时错误（AEM Cloud Service）](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-26556) | 新文章 | 了解在 Adobe Experience Manager as a Cloud Service (AEMaaCS) 中配置专用出口 IP 以安全路由外部 API 调用时出现连接超时错误的解决方法。 |
-| 2025 年 5 月 | [AEM Developer Console 中发布实例的存储库浏览器不可见问题](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-26599) | 新文章 | 了解在 Adobe Experience Manager (AEM) as a Cloud Service – Sites 中，**Publish** 实例的 Developer Console 缺少存储库浏览器的解决方案。 |
+| 2025 年 5 月 | [AEM Developer Console 中发布实例的存储库浏览器不可见问题](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-26599) | 新文章 | 了解Adobe Experience Manager (AEM) as a Cloud Service - Sites中适用于&#x200B;**发布**&#x200B;实例的开发人员控制台中缺少存储库浏览器问题的解决方案。 |
 | 2025 年 5 月 | [AEMaaCS 中因 IP 白名单限制导致 UI 测试失败的问题](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-26654) | 新文章 | 了解在 AEM 的 **Author** 和 **Publish** 服务器上启用 IP 限制后，管道在进行端到端或 UI 测试时被阻止访问的问题解决方法。 |
-| 2025 年 5 月 | [解决 AEMaaCS 中非管理员用户无法查看元数据架构的问题](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-26655) | 新文章 | 了解在 AEM as a Cloud Service (AEMaaCS) – Assets 中，Contributors 或 Digital Asset Management (DAM) Users 等非管理员用户由于无读取架构文件夹的权限，无法查看自定义元数据架构的问题解决方法，而管理员则不受影响。 |
+| 2025 年 5 月 | [解决 AEMaaCS 中非管理员用户无法查看元数据架构的问题](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-26655) | 新文章 | 了解当在AEM as a Cloud Service (AEMaaCS) - Assets中，参与者或数字访问管理(DAM)用户无法查看自定义元数据架构时，该问题的解决方案，因为他们没有架构文件夹的读取权限，但管理员可以。 |
 | 2025 年 5 月 | [修复 AEM 构建中的 `jcr:mixinTypes ValueFormatException` 错误](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-26660) | 新文章 | 了解在 Adobe Experience Manager (AEM) as a Cloud Service 中，由于 `org.apache.sling.jcr.repoinit` 版本过旧，导致管道构建失败的问题解决方案。 |
 | 2025 年 5 月 | [了解 AEM as a Cloud Service 的 RTO 与 RPO](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-26664) | 新文章 | 了解 AEM Cloud 的恢复时间目标（RTO）和恢复点目标（RPO）。 |
 | 2025 年 5 月 | [AEMaaCS 管道构建期间出现间歇性 StackOverflow 错误](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-26669) | 新文章 | 了解在 Adobe Experience Manager as a Cloud Service (AEMaaCS) 构建阶段出现 *StackOverflowError* 时的问题解决方案，这通常由云服务提供商之间依赖关系解析不一致引起。 |
@@ -384,7 +407,7 @@ Adobe Commerce 的新文章和现有文章的更新。
 
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
-|July 2024|[[!DNL Adobe Target] bulk profile update [!DNL API] throws *[!DNL Unexpected Error]* when using [!DNL Postman]](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-24281)|New article| Learn about how to fix the issue when running the [!DNL Target Bulk Profile Update API] throws the *[!DNL Unexpected Error]* message in [!DNL Postman].|
+|July 2024|[[!DNL Adobe Target] bulk profile update [!DNL API] throws *[!DNL Unexpected Error]* when using [!DNL Postman]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24281)|New article| Learn about how to fix the issue when running the [!DNL Target Bulk Profile Update API] throws the *[!DNL Unexpected Error]* message in [!DNL Postman].|
 -->
 
 * 有关预发行信息，请参阅 [[!DNL Adobe Target]  预发行](https://experienceleague.adobe.com/zh-hans/docs/target/using/release-notes/target-release-notes)
@@ -499,9 +522,9 @@ Adobe Commerce 的新文章和现有文章的更新。
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|February 2025|[Account Journeys](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-b2b-learn/tutorials/account-journeys/introducing-account-journeys)|New videos |Visit the Account Journeys tutorial home. Learn about Account Journeys and how to use them to engage your target audience.|
-|February 2025|[Use Case Playbook - Abandoned shopping cart](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart)|New video |Learn how to implement the abandoned shopping cart use case, using the Playbook feature in Adobe Journey Optimizer.|
-|February 2025|[Import and activate an audience by uploading a CSV file](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file)|New video |Discover how to efficiently import and activate an audience by uploading a CSV file. Learn to personalize your content using enrichment attributes from the CSV file, ensuring a more tailored experience for your audience.| -->
+|February 2025|[Account Journeys](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/account-journeys/introducing-account-journeys)|New videos |Visit the Account Journeys tutorial home. Learn about Account Journeys and how to use them to engage your target audience.|
+|February 2025|[Use Case Playbook - Abandoned shopping cart](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart)|New video |Learn how to implement the abandoned shopping cart use case, using the Playbook feature in Adobe Journey Optimizer.|
+|February 2025|[Import and activate an audience by uploading a CSV file](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file)|New video |Discover how to efficiently import and activate an audience by uploading a CSV file. Learn to personalize your content using enrichment attributes from the CSV file, ensuring a more tailored experience for your audience.| -->
 
 有关更多信息，请参阅：
 
@@ -528,7 +551,7 @@ New tutorials published for Adobe Marketo.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|March 2025|[Best practices to implement live chat](https://experienceleague.adobe.com/zh-hans/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)| New video |Learn about the best practices to follow when you're implementing the live chat feature in Dynamic Chat.| -->
+|March 2025|[Best practices to implement live chat](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)| New video |Learn about the best practices to follow when you're implementing the live chat feature in Dynamic Chat.| -->
 
 有关最新的产品文档，请参阅 [Marketo 产品文档](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/home)主页。
 
@@ -660,7 +683,7 @@ Experience League 上的新 [!DNL Workfront] 教程和活动。
 
 | Published | Application | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| May 2025 | Applications | [Comment on a PDF](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/getting-started/comment-on-pdf-files) |  Updated video | Learn how to add comments on a shared PDF using just a web browser. Whether you're collaborating with a team or proofreading a document, Acrobat's commenting tools make it simple to provide clear and actionable feedback.  | -->
+| May 2025 | Applications | [Comment on a PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/comment-on-pdf-files) |  Updated video | Learn how to add comments on a shared PDF using just a web browser. Whether you're collaborating with a team or proofreading a document, Acrobat's commenting tools make it simple to provide clear and actionable feedback.  | -->
 
 要浏览 [!DNL Document Cloud] 教程，请参阅：
 
@@ -679,8 +702,8 @@ Experience League 上的新 [!DNL Workfront] 教程和活动。
 
 <!-- | Published | Application | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| February 2025 | Applications | [Effortless brand consistency with templates](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/use-templates) | New video | Learn how to create on-brand content quickly and efficiently across your entire organization. This tutorial walks through how to create fresh new on-brand content that can immediately be shared and localized.|
-| February 2025 | Applications | [Maximize efficiency: Create reusable templates](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/create-templates) | New video | Learn how to bring brand consistency, efficiency, professionalism, and cost savings to your organization with Adobe Express templates. | -->
+| February 2025 | Applications | [Effortless brand consistency with templates](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/use-templates) | New video | Learn how to create on-brand content quickly and efficiently across your entire organization. This tutorial walks through how to create fresh new on-brand content that can immediately be shared and localized.|
+| February 2025 | Applications | [Maximize efficiency: Create reusable templates](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/create-templates) | New video | Learn how to bring brand consistency, efficiency, professionalism, and cost savings to your organization with Adobe Express templates. | -->
 
 要查找最新教程，请参阅 [Creative Cloud 企业版教程](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview)。
 
@@ -696,21 +719,21 @@ Experience League 上的新 [!DNL Workfront] 教程和活动。
 
 <!-- |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|January 2025|[Guardrails](https://experienceleague.adobe.com/zh-hans/docs/blueprints-learn/architecture/architecture-overview/deployment/guardrails)|Updated article |Learn about guardrails, the performance expectations and impact for the components and services within Adobe Experience Platform and Applications.| -->
+|January 2025|[Guardrails](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/architecture-overview/deployment/guardrails)|Updated article |Learn about guardrails, the performance expectations and impact for the components and services within Adobe Experience Platform and Applications.| -->
 
 <!-- ## ![Icon](/assets/certification-badge.png) Certification{#certification}
 
-Attention all Adobe certification candidates! Visit the Experience Cloud [Certification](https://experienceleague.adobe.com/zh-hans/docs/certification/program/overview) site on Experience League. 
+Attention all Adobe certification candidates! Visit the Experience Cloud [Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) site on Experience League. 
 
 +++Details
 
-The [Experience Cloud Certification](https://experienceleague.adobe.com/zh-hans/docs/certification/program/overview) site is your one-stop shop for all [!DNL Experience Cloud] certification-related content and is updated regularly with:
+The [Experience Cloud Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) site is your one-stop shop for all [!DNL Experience Cloud] certification-related content and is updated regularly with:
 
 * Available certifications
 * Certification renewals for Adobe applications
 * Certification program updates
 
-And more! Head over to [Adobe Certification](https://experienceleague.adobe.com/zh-hans/docs/certification/program/overview) on Experience League and start your certification journey today!
+And more! Head over to [Adobe Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) on Experience League and start your certification journey today!
 
 +++ -->
 
