@@ -461,7 +461,7 @@ Adobe Commerce 的新文章和现有文章的更新。
 
 | 发布日期 | 名称 | 类型 | 描述 |
 |---------|----|----|-----------|
-| 2025 年 5 月 | Adobe Campaign Classic 中[**[!UICONTROL 更新数据库结构&#x200B;]**向导未显示架构](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-26407) | 新文章 | 了解在 Adobe Campaign Classic 中使用&#x200B;**[!UICONTROL 更新数据库结构]**&#x200B;向导时，未显示与外部数据库关联的架构问题的解决方案。 |
+| 2025 年 5 月 | Adobe Campaign Classic 中[**[!UICONTROL 更新数据库结构&#x200B;]**&#x200B;向导未显示架构](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-26407) | 新文章 | 了解在 Adobe Campaign Classic 中使用&#x200B;**[!UICONTROL 更新数据库结构]**&#x200B;向导时，未显示与外部数据库关联的架构问题的解决方案。 |
 | 2025 年 5 月 | [Adobe Campaign Managed Cloud 中调度器设置无效导致工作流意外运行](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-26415) | 新文章 | 了解在 Adobe Campaign Managed Cloud 中，调度器更新未生效，导致工作流在未预期的时间被触发的问题解决方案。 |
 | 2025 年 5 月 | [Campaign Classic 中无法查看“目标与工作流”选项卡](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-26632) | 新文章 | 了解在 Adobe Campaign Classic 中&#x200B;**[!UICONTROL 目标与工作流]**&#x200B;选项卡不可见的问题解决方案。 |
 | 2025 年 5 月 | [由于 Adobe Campaign Standard 中&#x200B;**[!UICONTROL 动态报告]**](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-26697)的投放统计筛选器因 10,000 条记录限制无法生效 | 新文章 | 了解当在投放统计中使用 **[!UICONTROL Contains]** 筛选器并应用特定关键字时，无法返回完整结果的问题解决方案。 |
