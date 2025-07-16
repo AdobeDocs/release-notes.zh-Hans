@@ -178,7 +178,7 @@ ht-degree: 34%
 
 | 发布日期 | 名称 | 类型 | 描述 |
 |---------|----|----|-----------|
-| 2025 年 6 月 | [在AEP **[!UICONTROL 配置文件查看器]****[!UICONTROL 中解析灰显的]** Edge](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26624)按钮 | 新文章 | 了解当Adobe Experience Platform (AEP) **[!UICONTROL 配置文件查看器]**&#x200B;中的&#x200B;**[!UICONTROL 受众成员资格]**&#x200B;下的&#x200B;**[!UICONTROL Edge]**&#x200B;按钮显示灰显时问题的解决方案。 |
+| 2025 年 6 月 | [在AEP **[!UICONTROL 配置文件查看器]**&#x200B;**[!UICONTROL 中解析灰显的]** Edge](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26624)按钮 | 新文章 | 了解当Adobe Experience Platform (AEP) **[!UICONTROL 配置文件查看器]**&#x200B;中的&#x200B;**[!UICONTROL 受众成员资格]**&#x200B;下的&#x200B;**[!UICONTROL Edge]**&#x200B;按钮显示灰显时问题的解决方案。 |
 | 2025 年 6 月 | [在Adobe Experience Platform中修复SFTP多访问摄取错误](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26748) | 新文章 | 了解当文件访问策略限制多次访问时，Adobe Experience Platform (AEP)无法从SFTP摄取数据时问题的解决方案。 |
 | 2025 年 6 月 | [无法访问Adobe Experience Platform](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26778) | 新文章 | 了解您看到此错误&#x200B;*没有为此用户启用沙盒的问题的解决方案。 请与组织的管理员交谈，并请求访问至少一个沙盒。在Adobe Experience Platform中*，即使您已被添加到具有管理权限的正确产品配置文件中。 |
 | 2025 年 6 月 | Adobe Experience Platform [受众生成器中的](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26806)操作数比较问题 | 新文章 | 了解使用Adobe Experience Platform (AEP) [!UICONTROL Audience Builder]时问题的解决方案，在使用体验事件数据过滤受众时出现多个错误。 |
@@ -442,7 +442,7 @@ Adobe Commerce 的新文章和现有文章的更新。
 | 2025 年 6 月 | [Elasticsearch显示为搜索引擎，尽管 [!DNL OpenSearch] 已安装](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26877) | 新文章 | 了解针对以下问题的解决方案：即使安装或升级到[!DNL OpenSearch]，Elasticsearch仍显示为云上Adobe Commerce的搜索引擎。 |
 | 2025 年 6 月 | [部署卡住，出现“无法将应用程序上载到远程群集”错误](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26878) | 新文章 | 了解部署卡住且错误消息在部署日志中的问题的解决方案： *错误：无法将应用程序上载到远程群集。* |
 | 2025 年 6 月 | Commerce Admin中的[锁定（灰显）字段](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26879) | 新文章 | 了解当您无法在Commerce管理员中修改锁定（灰显）字段时问题的解决方案。 |
-| 2025 年 6 月 | [*E：在`routes.yaml`*&#x200B;暂存[!UICONTROL 或生产部署]期间验证](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26880)错误时出错 | 新文章 | 了解针对您收到&#x200B;*E：在尝试将项目部署到`routes.yaml`*&#x200B;暂存[!UICONTROL 或生产环境时验证]错误消息时出错}问题的解决方案。 |
+| 2025 年 6 月 | [*E：在`routes.yaml`*&#x200B;暂存[!UICONTROL 或生产部署]期间验证](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26880)错误时出错 | 新文章 | 了解针对您收到&#x200B;*E：在尝试将项目部署到`routes.yaml`*&#x200B;暂存[!UICONTROL 或生产环境时验证]错误消息时出错&rbrace;问题的解决方案。 |
 | 2025 年 6 月 | [环境重新部署失败或 [!DNL MySQL] 服务器已消失](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26881) | 新文章 | 了解解决为[!DNL MySQL]分配的空间中断导致部署停滞或数据库连接错误问题的解决方案。 |
 | 2025 年 6 月 | 访问新的集成环境时[重定向到父环境](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26882) | 新文章 | 了解针对以下问题的解决方案：访问新创建的集成环境会将您重定向到父环境。 |
 | 2025 年 6 月 | 在云基础架构上访问Adobe Commerce中的&#x200B;[*时出现* 404`robots.txt`错误](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26885) | 新文章 | 了解在云基础架构上的Adobe Commerce中访问&#x200B;*文件时发生* 404`robots.txt`错误时问题的解决方案。 |
