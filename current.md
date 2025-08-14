@@ -390,7 +390,7 @@ New articles and updates to existing articles for [!DNL Analytics].
 | 2025 年 7 月 | [评论在[!UICONTROL Assets视图]中受限，尽管具有读取权限](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26928) | 新文章 | 了解[!UICONTROL Assets视图]如何使用与AEMaaCS中触屏UI中更细粒度模型不同的简化权限模型。 |
 | 2025 年 7 月 | 在AEM [链接检查器中，](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27042)HTTPS链接错误地标记为已断开 | 新文章 | 了解添加到RTF编辑器(RTE)的有效HTTPS链接在AEMaaCS中被[!UICONTROL 链接检查器]错误地标记为已损坏问题的解决方案。 |
 | 2025 年 7 月 | 在AEM中发布后未保留[富文本编辑器(RTE)换行符](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27046) | 新文章 | 了解通用编辑器的富文本编辑器(RTE)在AEMaaCS中发布内容时删除使用&#x200B;*Shift+Enter*&#x200B;添加的分行符问题的解决方案。 |
-| 2025 年 7 月 | [AEM通用编辑器不支持`scopes``importmap`的](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27047)节 | 新文章 | 了解在`scopes`文件中定义的`importmap`的`head.html`部分自动从具有通用编辑器的站点AEMaaCS中删除问题的解决方案。 |
+| 2025 年 7 月 | [AEM通用编辑器不支持`scopes` `importmap`的](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27047)节 | 新文章 | 了解在`scopes`文件中定义的`importmap`的`head.html`部分自动从具有通用编辑器的站点AEMaaCS中删除问题的解决方案。 |
 | 2025 年 7 月 | [无法在AEMaaCS中通过sFTP直接传输CSV文件](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27048) | 新文章 | 了解由于安全考虑因素和AEMaaCS的架构，如何不支持从AEM运行时通过安全文件传输协议(sFTP)将CSV文件从AEM直接传输到第三方系统。 |
 | 2025 年 7 月 | 在AEMaaCS中，[管道生成在可变内容安装步骤失败](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27058) | 新文章 | 了解在可变内容安装步骤期间管道构建由于AEMaaCS中的XML解析错误而失败时问题的解决方案。 |
 | 2025 年 7 月 | 由于AEMaaCS中的重定向，[内容片段编辑失败](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27059) | 新文章 | 了解当您在AEMaaCS - Assets中尝试通过新的内容片段(CF) UI编辑内容片段时被重定向离开预期的编辑界面时问题的解决方案。 |
@@ -457,7 +457,7 @@ Adobe Commerce 的新文章和现有文章的更新。
 | 2025 年 7 月 | [启用Braintree付款时，管理员无法创建订单/重新排序](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27169) | 新文章 | 了解Adobe Commerce 2.4.5问题的修补程序，该问题导致启用Braintree付款方法后，管理员用户无法为客户创建订单或重新订单。 |
 | 2025 年 7 月 | 针对2.4.4、2.4.5和2.4.6版本的[[!DNL JQuery] UI安全漏洞CVE-2022-31160修复](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27176) | 新文章 | 了解适用于2.4.4、2.4.5和2.4.6版本的[!DNL JQuery] UI安全漏洞CVE-2022-31160修复程序的修补程序。 |
 | 2025 年 7 月 | [可用于Adobe Commerce的安全更新 — APSB25-50](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27181) | 新文章 | 了解用于处理APSB25-50安全公告的修补程序。 |
-| 2025 年 7 月 | 从版本&lt; 2.4.5[**[!UICONTROL 升级时，]**salesRule](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27186)标签出现问题 | 新文章 | 了解在升级到低于版本2.4.5的较新Adobe Commerce版本后用于解决不匹配&#x200B;**[!UICONTROL salesRule]**&#x200B;标签的修补程序。 |
+| 2025 年 7 月 | 从版本&lt; 2.4.5[**[!UICONTROL 升级时，]**&#x200B;salesRule](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27186)标签出现问题 | 新文章 | 了解在升级到低于版本2.4.5的较新Adobe Commerce版本后用于解决不匹配&#x200B;**[!UICONTROL salesRule]**&#x200B;标签的修补程序。 |
 | 2025 年 7 月 | [从“管理”面板下订单时出现 Adobe Commerce 2.4.6 错误](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27187) | 新文章 | 了解适用于Cloud Infrastructure 2.4.6上的已知Adobe Commerce问题的修补程序，该问题会在您从Commerce管理面板下订单后卡在商店选择上。 |
 | 2025 年 7 月 | [集成环境增强请求 — Pro和Starter](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27242) | 新文章 | 了解Pro和Starter计划商家如何通过减少集成分支、提交支持票证和重新部署环境来解决部署和性能缓慢问题来进行升级。 |
 | 2025 年 7 月 | [App Builder与使用动态IP的外部服务的集成](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27043) | 新文章 | 了解App Builder与使用动态IP的外部服务的集成。 |
