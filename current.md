@@ -79,7 +79,7 @@ ht-degree: 99%
 | 产品 | 资源 | 描述 | 发布日期 |
 | ------- | ------- | ------- | ------- |
 | [!DNL Experience Cloud] | [代理AI位于 [!DNL Experience Cloud]](https://experienceleague.adobe.com/zh-hans/docs/core-services/interface/features/agentic-ai) | 查找有关人工智能代理(如Experience Platform Agent Orchestrator)的帮助或检查其可用性。 | 更新日期：2025 年 9 月 |
-| [!DNL Experience Cloud] | [ [!DNL Experience Cloud]](https://experienceleague.adobe.com/zh-hans/docs/core-services/interface/features/generative-ai) 中的生成式 AI | 查找有关 Experience Cloud 应用程序中生成式 AI（GenAI）和 AI 助手的帮助信息。 | 更新日期：2025 年 9 月 |
+| [!DNL Experience Cloud] | [&#x200B; [!DNL Experience Cloud]](https://experienceleague.adobe.com/zh-hans/docs/core-services/interface/features/generative-ai) 中的生成式 AI | 查找有关 Experience Cloud 应用程序中生成式 AI（GenAI）和 AI 助手的帮助信息。 | 更新日期：2025 年 9 月 |
 | Customer Journey Analytics | [使用 AI 助手](https://experienceleague.adobe.com/zh-hans/docs/customer-journey-analytics-learn/tutorials/cja-basics/use-ai-assistant) | 了解 Customer Journey Analytics 中的 AI 助手如何帮助您学习概念、排查问题并优化工作流。 | 2025 年 8 月 |
 | [!DNL AI Assistant in Marketo Email Designer] | [电子邮件设计器](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant?lang=en) | Marketo Engage 电子邮件设计器中的 AI 助手可帮助您快速创建现代且高效的电子邮件。它利用 Adobe 的生成式 AI、提示库以及用于图像生成的 Firefly，可根据受众、历程阶段、策略或语气定制内容。您还可以引入自有品牌资产。 | 2025 年 8 月 |
 
@@ -362,7 +362,7 @@ New articles and updates to existing articles for [!DNL Analytics].
 
 +++发行说明、新教程和支持文章
 
-* 请参阅 [ [!DNL Adobe Commerce] 和 [!DNL Magento Open Source] 的发行说明](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/release/notes/overview)以了解最新信息。
+* 请参阅 [&#x200B; [!DNL Adobe Commerce] 和 [!DNL Magento Open Source] 的发行说明](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/release/notes/overview)以了解最新信息。
 * 请参阅 [Adobe [!DNL Commerce] Services 指南](https://experienceleague.adobe.com/zh-hans/docs/commerce/user-guides/home)以查看 Commerce Services 发布信息和文档。
 * 请参阅[产品可用性](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/release/product-availability)以访问单个产品发行说明并验证可用性。
 
@@ -573,7 +573,7 @@ New articles and updates to existing articles for [!DNL Marketo].
 
 关于所有发布信息：
 
-* 请参阅[ Adobe  [!DNL Workfront] 产品发布](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/product-announcements/product-releases/product-releases) 页面，[!DNL Workfront]了解发布计划信息和发行说明。
+* 请参阅[&#x200B; Adobe  [!DNL Workfront] 产品发布](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/product-announcements/product-releases/product-releases) 页面，[!DNL Workfront]了解发布计划信息和发行说明。
 
 * 有关 Fusion 的最新信息，请参阅 [Adobe [!DNL Workfront]  Workfront Fusion 发布活动概述](https://experienceleague.adobe.com/zh-hans/docs/workfront-fusion/using/fusion-release-activity/fusion-release-activity)。
 
@@ -659,13 +659,13 @@ Experience League 上的新 [!DNL Workfront] 教程和活动。
 
 2025 年 9 月 3 日
 
-请参阅[ [!DNL Advertising DSP] 中的新增功能](https://experienceleague.adobe.com/zh-hans/docs/advertising/dsp/home)
+请参阅[&#x200B; [!DNL Advertising DSP] 中的新增功能](https://experienceleague.adobe.com/zh-hans/docs/advertising/dsp/home)
 
 ### [!DNL Advertising Search, Social, & Commerce] 中的新增功能 {#advertising-search}
 
 2025 年 7 月 30 日
 
-请参阅[ [!DNL Advertising Search, Social, & Commerce] 中的新增功能](https://experienceleague.adobe.com/zh-hans/docs/advertising/search-social-commerce/home)
+请参阅[&#x200B; [!DNL Advertising Search, Social, & Commerce] 中的新增功能](https://experienceleague.adobe.com/zh-hans/docs/advertising/search-social-commerce/home)
 
 +++
 
