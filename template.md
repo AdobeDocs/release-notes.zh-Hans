@@ -4,9 +4,9 @@ description: Experience Cloud 发行说明
 doc-type: release notes
 last-update: June 2021
 author: mfrei
-source-git-commit: e415b562703712157d907d3e3995ff5adad4db1e
+source-git-commit: 6ee325d5194c99b4d828f8d335dfd8583077d1e9
 workflow-type: tm+mt
-source-wordcount: '716'
+source-wordcount: '713'
 ht-degree: 100%
 
 ---
@@ -52,7 +52,7 @@ Adobe Experience Cloud 的新增功能和修复。
 
 请参阅 [Adobe 系统状态](https://status.adobe.com/)。
 
-## ![图标](/assets/ec_appicon_24.png) Experience Cloud 中央界面组件 {#ecloud}
+## Experience Cloud 中央 UI 组件 {#ecloud}
 
 Experience Cloud 中央界面组件包括从统一产品标题访问的更新，例如自助、搜索和用户帐户偏好设置。可在此处找到对人员、地点（位置）和产品管理的更新。
 
@@ -64,9 +64,9 @@ Experience Cloud 中央界面组件包括从统一产品标题访问的更新，
 
 功能和修复。
 
-## ![图标](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
+## Experience Platform {#platform}
 
-[!DNL Experience Platform,] 的发行说明，包括 [!DNL Experience Platform Launch,]、[!UICONTROL Journey Orchestration]、[!UICONTROL 选件]、[!UICONTROL 人员]、[!UICONTROL 位置]、[!UICONTROL 移动服务]和安全公告。
+[!DNL Experience Platform,] 的发行说明，包括 [!DNL Experience Platform Launch,]、[!UICONTROL Journey Orchestration]、[!UICONTROL 产品建议]、[!UICONTROL 人员]、[!UICONTROL 位置]、[!UICONTROL 移动服务]和安全公告。
 
 * [Experience Cloud ID 服务](#ecid)
 * [Experience Platform 发行说明](https://www.adobe.com/go/platform-release-notes_cn)
