@@ -327,7 +327,7 @@ New articles and updates to existing articles for [!DNL Customer Journey Analyti
 | 2025 年 9 月 | [在AEM Cloud中为Dynamic Media资源投放配置自定义域](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27330) | 新文章 | 了解如何在Adobe AEM Cloud中为Dynamic Media投放配置自定义域。 |
 | 2025 年 9 月 | [将图像批量上传到AEM Dynamic Media失败，原因是&#x200B;*文件格式不受支持*&#x200B;错误](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27467) | 新文章 | 了解当将批量图像上传到Adobe Experience Manager (AEM) Dynamic Media或Scene7失败，并出现&#x200B;*不是支持的文件格式*&#x200B;或&#x200B;*不是有效的格式*&#x200B;等错误时(即使图像是有效的JPG/JPEG文件)这个问题的解决方案。 |
 | 2025 年 9 月 | 无法在AEM Brand Portal中加载或下载[视频和演绎版](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27490) | 新文章 | 了解当从Adobe Experience Manager (AEM)发布到Brand Portal的视频在访问时触发&#x200B;*无法加载数据*&#x200B;错误或动态呈现版本下载为损坏或不完整文件时问题的解决方案。 |
-| 2025 年 9 月 | 由于重命名的管理员配置文件，AEM云服务中缺少[**[!UICONTROL 快速发布&#x200B;]**按钮](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27545) | 新文章 | 了解当分配给管理员产品配置文件的用户失去对&#x200B;**[!UICONTROL 快速发布]**&#x200B;和&#x200B;**[!UICONTROL 管理发布]**&#x200B;按钮的访问权限时，如果在Adobe Experience Manager (AEM) as a Cloud Service - Sites中的Admin Console中更改了默认配置文件名称，该问题的解决方案。 |
+| 2025 年 9 月 | 由于重命名的管理员配置文件，AEM云服务中缺少[**[!UICONTROL 快速发布&#x200B;]**&#x200B;按钮](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27545) | 新文章 | 了解当分配给管理员产品配置文件的用户失去对&#x200B;**[!UICONTROL 快速发布]**&#x200B;和&#x200B;**[!UICONTROL 管理发布]**&#x200B;按钮的访问权限时，如果在Adobe Experience Manager (AEM) as a Cloud Service - Sites中的Admin Console中更改了默认配置文件名称，该问题的解决方案。 |
 | 2025 年 9 月 | 由于AEM SP22/SP23[中的S3连接器不兼容，](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27567)HTTP 503错误 | 新文章 | 了解在升级到启用了S3数据存储的Service Pack 22或23后AEM变得无法访问时的问题的解决方案。 |
 | 2025 年 9 月 | [Adobe Experience Manager：复制粘贴容器时显示重复的组件](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27594) | 新文章 | 了解AEM 6.5.20和AEM 6.5.21中问题的解决方案，当您复制容器组件并将其粘贴到页面编辑器时，粘贴的容器可能会显示其内部组件重复。 |
 | 2025 年 9 月 | 通过Adobe I/O在AEM中使用[命令时，`aio app use`访问被拒绝](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27689) | 新文章 | 了解与Adobe I/O集成的Adobe Experience Manager (AEM)中问题的解决方案，当尝试使用&#x200B;*命令时，出现* 403 Forbidden`aio app use`错误。 |
@@ -376,7 +376,7 @@ New articles and updates to existing articles for [!DNL Customer Journey Analyti
 | 2025 年 9 月 | [修复通过AEM API推送内容片段时出现&#x200B;*403*&#x200B;错误](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27438) | 新文章 | 了解在将内容片段推送到&#x200B;*API时发生* 403 Forbidden`/sites/cf/fragments`错误时，AEMaaCS中问题的解决方案。 |
 | 2025 年 9 月 | [资产下载报告表单失败，因为AEMaaCS中的日期字段为空](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27540) | 新文章 | 了解当&#x200B;**[!UICONTROL 资产下载报告]**&#x200B;中的[!UICONTROL 调整日期]字段未标记为必填项，从而导致提交错误时，AEMaaCS - Assets中问题的解决方案。 |
 | 2025 年 9 月 | [无法从AEM Cloud用户组和工作流中删除非活动用户](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27541) | 新文章 | 了解AEMaaCS中问题的解决方案 — 当Identity Management System (IMS)中的停用用户继续收到工作流电子邮件通知时，Sites中会出现此问题。 |
-| 2025 年 9 月 | [**[!UICONTROL 添加到购物车&#x200B;]**无法用于 [!DNL Venia] 网站](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27554)中的可配置产品 | 新文章 | 了解当使用&#x200B;**[!UICONTROL 时，使用AEMaaCS构建的]**&#x200B;演示网站上可配置产品的[!DNL Venia]添加到购物车[!DNL AEM Reference Demos Add-on]功能失败时问题的解决方案。 |
+| 2025 年 9 月 | [**[!UICONTROL 添加到购物车&#x200B;]**&#x200B;无法用于 [!DNL Venia] 网站](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27554)中的可配置产品 | 新文章 | 了解当使用&#x200B;**[!UICONTROL 时，使用AEMaaCS构建的]**&#x200B;演示网站上可配置产品的[!DNL Venia]添加到购物车[!DNL AEM Reference Demos Add-on]功能失败时问题的解决方案。 |
 | 2025 年 9 月 | [在Adobe Experience Manager 6.5中使用Adaptive Forms解决大量计算中的Precision错误](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27642) | 新文章 | 了解当AEM 6.5中的自适应Forms无法以四位小数精度生成大数计算的准确结果时问题的解决方案。 |
 | 2025 年 9 月 | 在Adobe Target中显示不需要的域路径的[体验片段选件](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27491) | 新文章 | 了解在将Adobe Experience Manager (AEM)中的[!UICONTROL 体验片段]与Adobe Target集成时问题的解决方案，Adobe Target中显示的[!UICONTROL 查看选件内容] URL显示不需要的域路径。 |
 
@@ -400,7 +400,7 @@ New articles and updates to existing articles for [!DNL Customer Journey Analyti
 
 +++发行说明、新教程和支持文章
 
-* 请参阅 [ [!DNL Adobe Commerce] 和 [!DNL Magento Open Source] 的发行说明](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/release/notes/overview)以了解最新信息。
+* 请参阅 [&#x200B; [!DNL Adobe Commerce] 和 [!DNL Magento Open Source] 的发行说明](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/release/notes/overview)以了解最新信息。
 * 请参阅 [Adobe [!DNL Commerce] Services 指南](https://experienceleague.adobe.com/zh-hans/docs/commerce/user-guides/home)以查看 Commerce Services 发布信息和文档。
 * 请参阅[产品可用性](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/release/product-availability)以访问单个产品发行说明并验证可用性。
 
@@ -610,7 +610,7 @@ New articles and updates to existing articles for [!DNL Marketo].
 
 关于所有发布信息：
 
-* 请参阅[ Adobe  [!DNL Workfront] 产品发布](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/product-announcements/product-releases/product-releases) 页面，[!DNL Workfront]了解发布计划信息和发行说明。
+* 请参阅[&#x200B; Adobe  [!DNL Workfront] 产品发布](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/product-announcements/product-releases/product-releases) 页面，[!DNL Workfront]了解发布计划信息和发行说明。
 
 * 有关 Fusion 的最新信息，请参阅 [Adobe [!DNL Workfront]  Workfront Fusion 发布活动概述](https://experienceleague.adobe.com/zh-hans/docs/workfront-fusion/using/fusion-release-activity/fusion-release-activity)。
 
@@ -688,13 +688,13 @@ GenStudio for Performance Marketing的视频教程。
 
 2025年9月18日
 
-请参阅[ [!DNL Advertising DSP] 中的新增功能](https://experienceleague.adobe.com/zh-hans/docs/advertising/dsp/home)
+请参阅[&#x200B; [!DNL Advertising DSP] 中的新增功能](https://experienceleague.adobe.com/zh-hans/docs/advertising/dsp/home)
 
 ### [!DNL Advertising Search, Social, & Commerce] 中的新增功能 {#advertising-search}
 
 2025年9月23日
 
-请参阅[ [!DNL Advertising Search, Social, & Commerce] 中的新增功能](https://experienceleague.adobe.com/zh-hans/docs/advertising/search-social-commerce/home)
+请参阅[&#x200B; [!DNL Advertising Search, Social, & Commerce] 中的新增功能](https://experienceleague.adobe.com/zh-hans/docs/advertising/search-social-commerce/home)
 
 +++
 
