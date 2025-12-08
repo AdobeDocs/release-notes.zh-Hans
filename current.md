@@ -43,7 +43,7 @@ ht-degree: 56%
 +++查看章节链接
 
 * [活动日程](#events)
-* [ [!DNL Experience Cloud]中的AI功能](#ai)
+* [&#x200B; [!DNL Experience Cloud]中的AI功能](#ai)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud]  - 中央界面和管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -316,7 +316,7 @@ New articles and updates to existing articles for [!DNL Customer Journey Analyti
 | 2025 年 10 月 | 使用Dynamic Media及Open API [性能相关问答](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27825) | 新文章 | 了解当DMwOA图像提供的延迟时间长于预期时问题的解决方案。 |
 | 2025 年 10 月 | 使用OpenAPI的DM上有[问题 — 视频播放器容器API](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27804) | 新文章 | 了解问题的解决方案。当结合使用DynamicMedia和开放API函数时，如果使用返回的代码在未更改的情况下显示外部网站中的查看器，则代码会生成格式错误的URL来获取视频详细信息，并且无法按预期工作。 |
 | 2025 年 10 月 | 在AEM Forms as a Cloud Service中使用本地开发令牌时出现[401错误](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27706) | 新文章 | 了解在AEM Forms as a Cloud Service中使用Adobe Developer Console (ADC)的本地开发令牌时问题的解决方案，出现401错误。 |
-| 2025 年 10 月 | [**[!UICONTROL 删除请求&#x200B;]**工作流在AEM Sites中不起作用](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27558) | 新文章 | 了解在AEM Sites中删除没有&#x200B;**[!UICONTROL 复制]**&#x200B;权限的内容页面时，系统会触发&#x200B;**[!UICONTROL 删除请求]**&#x200B;工作流，从而解决此问题。 |
+| 2025 年 10 月 | [**[!UICONTROL 删除请求&#x200B;]**&#x200B;工作流在AEM Sites中不起作用](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27558) | 新文章 | 了解在AEM Sites中删除没有&#x200B;**[!UICONTROL 复制]**&#x200B;权限的内容页面时，系统会触发&#x200B;**[!UICONTROL 删除请求]**&#x200B;工作流，从而解决此问题。 |
 | 2025 年 10 月 | [AEMaaCS：移动设备在Dynamic Media视频中显示两个播放按钮](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27477) | 新文章 | 了解当Adobe Experience Manager (AEM) as a Cloud Service中的Dynamic Media视频在移动设备上查看时显示两个重叠的播放按钮时问题的解决方案。 |
 | 2025 年 10 月 | [New Relic仪表板仅显示AMS虚拟机(VM)，而不是AEMaaCS中的AEMaaCS VM](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27864) | 新文章 | 了解当New Relic仪表板仅显示AMS虚拟机(VM)而非AEMaaCS VM时，AEMaaCS中问题的解决方案。 |
 | 2025 年 10 月 | [Querybuilder API绕过Dispatcher筛选器并公开敏感信息](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27832) | 新文章 | 了解当Adobe Experience Manager as a Cloud Service (AEMaaCS)中存在访问控制问题时，当Querybuilder API可以绕过Dispatcher过滤器，潜在泄露敏感信息时的问题的解决方案。 |
@@ -345,7 +345,7 @@ New articles and updates to existing articles for [!DNL Customer Journey Analyti
 
 +++发行说明、新教程和支持文章
 
-* 请参阅 [ [!DNL Adobe Commerce] 和 [!DNL Magento Open Source] 的发行说明](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/release/notes/overview)以了解最新信息。
+* 请参阅 [&#x200B; [!DNL Adobe Commerce] 和 [!DNL Magento Open Source] 的发行说明](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/release/notes/overview)以了解最新信息。
 * 请参阅 [Adobe [!DNL Commerce] Services 指南](https://experienceleague.adobe.com/zh-hans/docs/commerce/user-guides/home)以查看 Commerce Services 发布信息和文档。
 * 请参阅[产品可用性](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/release/product-availability)以访问单个产品发行说明并验证可用性。
 
@@ -551,7 +551,7 @@ New articles and updates to existing articles for [!DNL Marketo].
 
 关于所有发布信息：
 
-* 请参阅[ Adobe  [!DNL Workfront] 产品发布](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/product-announcements/product-releases/product-releases) 页面，[!DNL Workfront]了解发布计划信息和发行说明。
+* 请参阅[&#x200B; Adobe  [!DNL Workfront] 产品发布](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/product-announcements/product-releases/product-releases) 页面，[!DNL Workfront]了解发布计划信息和发行说明。
 
 * 有关 Fusion 的最新信息，请参阅 [Adobe [!DNL Workfront]  Workfront Fusion 发布活动概述](https://experienceleague.adobe.com/zh-hans/docs/workfront-fusion/using/fusion-release-activity/fusion-release-activity)。
 
@@ -629,13 +629,13 @@ GenStudio for Performance Marketing 视频教程。
 
 2025年10月29日
 
-请参阅[ [!DNL Advertising DSP] 中的新增功能](https://experienceleague.adobe.com/zh-hans/docs/advertising/dsp/home)
+请参阅[&#x200B; [!DNL Advertising DSP] 中的新增功能](https://experienceleague.adobe.com/zh-hans/docs/advertising/dsp/home)
 
 ### [!DNL Advertising Search, Social, & Commerce] 中的新增功能 {#advertising-search}
 
 2025年10月15日
 
-请参阅[ [!DNL Advertising Search, Social, & Commerce] 中的新增功能](https://experienceleague.adobe.com/zh-hans/docs/advertising/search-social-commerce/home)
+请参阅[&#x200B; [!DNL Advertising Search, Social, & Commerce] 中的新增功能](https://experienceleague.adobe.com/zh-hans/docs/advertising/search-social-commerce/home)
 
 +++
 
