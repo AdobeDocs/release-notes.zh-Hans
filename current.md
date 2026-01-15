@@ -43,7 +43,7 @@ ht-degree: 34%
 +++查看章节链接
 
 * [活动日程](#events)
-* [ [!DNL Experience Cloud]中的AI功能](#ai)
+* [&#x200B; [!DNL Experience Cloud]中的AI功能](#ai)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 中央界面和管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -403,7 +403,7 @@ New articles and updates to existing articles for [!DNL Customer Journey Analyti
 
 +++发行说明、新教程和支持文章
 
-* 请参阅 [ [!DNL Adobe Commerce] 和 [!DNL Magento Open Source] 的发行说明](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/release/notes/overview)以了解最新信息。
+* 请参阅 [&#x200B; [!DNL Adobe Commerce] 和 [!DNL Magento Open Source] 的发行说明](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/release/notes/overview)以了解最新信息。
 * 请参阅 [Adobe [!DNL Commerce] Services 指南](https://experienceleague.adobe.com/zh-hans/docs/commerce/user-guides/home)以查看 Commerce Services 发布信息和文档。
 * 请参阅[产品可用性](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/release/product-availability)以访问单个产品发行说明并验证可用性。
 
@@ -613,7 +613,7 @@ New articles and updates to existing articles for [!DNL Marketo].
 
 关于所有发布信息：
 
-* 请参阅[ Adobe  [!DNL Workfront] 产品发布](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/product-announcements/product-releases/product-releases) 页面，[!DNL Workfront]了解发布计划信息和发行说明。
+* 请参阅[&#x200B; Adobe  [!DNL Workfront] 产品发布](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/product-announcements/product-releases/product-releases) 页面，[!DNL Workfront]了解发布计划信息和发行说明。
 
 * 有关 Fusion 的最新信息，请参阅 [Adobe [!DNL Workfront]  Workfront Fusion 发布活动概述](https://experienceleague.adobe.com/zh-hans/docs/workfront-fusion/using/fusion-release-activity/fusion-release-activity)。
 
@@ -688,13 +688,13 @@ Video tutorials for GenStudio for Performance Marketing.
 
 2025年12月17日
 
-请参阅[ [!DNL Advertising DSP] 中的新增功能](https://experienceleague.adobe.com/zh-hans/docs/advertising/dsp/home)
+请参阅[&#x200B; [!DNL Advertising DSP] 中的新增功能](https://experienceleague.adobe.com/zh-hans/docs/advertising/dsp/home)
 
 ### [!DNL Advertising Search, Social, & Commerce] 中的新增功能 {#advertising-search}
 
 2025年11月12日
 
-请参阅[ [!DNL Advertising Search, Social, & Commerce] 中的新增功能](https://experienceleague.adobe.com/zh-hans/docs/advertising/search-social-commerce/home)
+请参阅[&#x200B; [!DNL Advertising Search, Social, & Commerce] 中的新增功能](https://experienceleague.adobe.com/zh-hans/docs/advertising/search-social-commerce/home)
 
 +++
 
