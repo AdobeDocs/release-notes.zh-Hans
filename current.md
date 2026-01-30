@@ -6,10 +6,10 @@ last-update: January 2026
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 42549e49ab75ce4afc47d7e3dc1d9d9f47c5ebf4
+source-git-commit: 1fce1984175aed35a6e3c5da939f42e8eeab2964
 workflow-type: tm+mt
-source-wordcount: '4801'
-ht-degree: 99%
+source-wordcount: '4806'
+ht-degree: 98%
 
 ---
 
@@ -139,9 +139,9 @@ Experience League 上提供[课程](https://experienceleague.adobe.com/zh-hans/c
 
 请参阅 [Experience Cloud 界面和管理](https://experienceleague.adobe.com/zh-hans/docs/core-services/interface/experience-cloud)指南，获取以下方面的帮助：
 
-<!-- * [Generative AI in Experience Cloud applications](https://experienceleague.adobe.com/zh-hans/docs/core-services/interface/features/generative-ai)
-* [User management and product licenses](https://experienceleague.adobe.com/zh-hans/docs/core-services/interface/administration/admin-console) (Admin Console)
-* [Customer Attributes, Audience Library, Assets](https://experienceleague.adobe.com/zh-hans/docs/core-services/interface/services/overview), and more -->
+<!-- * [Generative AI in Experience Cloud applications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/generative-ai)
+* [User management and product licenses](https://experienceleague.adobe.com/en/docs/core-services/interface/administration/admin-console) (Admin Console)
+* [Customer Attributes, Audience Library, Assets](https://experienceleague.adobe.com/en/docs/core-services/interface/services/overview), and more -->
 
 +++
 
@@ -153,11 +153,11 @@ Experience League 上提供[课程](https://experienceleague.adobe.com/zh-hans/c
 
 **Experience Platform**
 
-**2025 年 10 月 22 日**&#x200B;更新：详情请参阅 [[!DNL Experience Platform]  发行说明](https://experienceleague.adobe.com/zh-hans/docs/experience-platform/release-notes/latest)。
+**2026年1月27日**&#x200B;更新：有关详细信息，请参阅[[!DNL Experience Platform] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/experience-platform/release-notes/latest)。
 
 **Mobile SDK**
 
-更新日期：**2026 年 1 月 7 日**
+更新日期：**2026年1月29日**
 
 详情请参阅 [[!DNL Experience Platform] Mobile SDK 发行说明](https://developer.adobe.com/client-sdks/documentation/release-notes/)。
 
@@ -167,7 +167,7 @@ New tutorials published for Adobe [!DNL Experience Platform] on Experience Leagu
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|November 2025| [!DNL Experience Platform] | [Use the Adobe Experience Platform Agent Orchestrator interface](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/ai-assistant/agent-orchestrator-ui)| Video | Learn how to interact with Experience Cloud solutions through contextual prompts, dynamic objects, and multiple specialized agents using Adobe Experience Platform Agent Orchestrator.  | -->
+|November 2025| [!DNL Experience Platform] | [Use the Adobe Experience Platform Agent Orchestrator interface](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/agent-orchestrator-ui)| Video | Learn how to interact with Experience Cloud solutions through contextual prompts, dynamic objects, and multiple specialized agents using Adobe Experience Platform Agent Orchestrator.  | -->
 
 ### 新的 [!DNL Experience Platform] 支持知识库{#kb-aep}
 
@@ -191,7 +191,7 @@ New tutorials published for Adobe [!DNL Experience Platform] on Experience Leagu
 
 <!-- | Published | Name | Type | Description |
 | ----------| ---------- | ---------- |---------- |
-| October 2025 | [Configure a social destination](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/destinations/configure-a-social-destination#destinations) |  Video | Learn how to connect and activate audiences to a social destination. This video demonstrates the workflow using a LinkedIn Matched Audiences destination in Adobe Real-Time Customer Data Platform.| -->
+| October 2025 | [Configure a social destination](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/destinations/configure-a-social-destination#destinations) |  Video | Learn how to connect and activate audiences to a social destination. This video demonstrates the workflow using a LinkedIn Matched Audiences destination in Adobe Real-Time Customer Data Platform.| -->
 
 要获取相关帮助，请参见：
 
@@ -211,7 +211,7 @@ Adobe Analytics 的发行基于持续投放模型，从而支持更具扩展性�
 
 更新日期：**2026 年 1 月 15 日**
 
-详情请参阅[[!DNL Analytics] 发行说明](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html)。
+详情请参阅[[!DNL Analytics] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/analytics/release-notes/latest)。
 
 ### AppMeasurement {#appm}
 
@@ -223,8 +223,8 @@ New or updated video tutorials published for Adobe Analytics.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|November 2025|[Classification sets job history](https://experienceleague.adobe.com/zh-hans/docs/analytics-learn/tutorials/components/classifications/classification-sets-job-history)| Video |See your job history of uploading and downloading classification set data.|
-|November 2025|[Classification sets data import methods](https://experienceleague.adobe.com/zh-hans/docs/analytics-learn/tutorials/components/classifications/classification-sets-data-import-methods)| Video |Learn different methods of importing classification data with classification sets, as well as some associated use cases.| -->
+|November 2025|[Classification sets job history](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/components/classifications/classification-sets-job-history)| Video |See your job history of uploading and downloading classification set data.|
+|November 2025|[Classification sets data import methods](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/components/classifications/classification-sets-data-import-methods)| Video |Learn different methods of importing classification data with classification sets, as well as some associated use cases.| -->
 
 <!--
 ### New [!DNL Analytics] support knowledge base{#kb-analytics}
@@ -233,7 +233,7 @@ New articles and updates to existing articles for [!DNL Analytics].
 
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
-|November 2025|[Why does the **[!UICONTROL Workspace]** **[!UICONTROL Page]** dimension show over 100 bytes (page length exceeds 100-bytes limit)?](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-28067)|New article| Learn about the solutions to the issue when a page listed in the **[!UICONTROL Page]** dimension appeared to have a string value exceeding 100 bytes, even though the page dimension has a 100-byte limit.|
+|November 2025|[Why does the **[!UICONTROL Workspace]** **[!UICONTROL Page]** dimension show over 100 bytes (page length exceeds 100-bytes limit)?](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-28067)|New article| Learn about the solutions to the issue when a page listed in the **[!UICONTROL Page]** dimension appeared to have a string value exceeding 100 bytes, even though the page dimension has a 100-byte limit.|
 -->
 
 +++
@@ -248,7 +248,7 @@ New articles and updates to existing articles for [!DNL Analytics].
 
 更新日期：**2026 年 1 月 15 日**
 
-详情请参阅 [Customer Journey Analytics (CJA) 发行说明](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html#releases)。
+详情请参阅 [Customer Journey Analytics (CJA) 发行说明](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/releases/latest#releases)。
 
 ### [!DNL Customer Journey Analytics] 的新教程 {#tutorials-cja}
 
@@ -266,7 +266,7 @@ New articles and updates to existing articles for [!DNL Customer Journey Analyti
 
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
-|July 2025|[Access issues with shared metrics and dimensions in CJA](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-27020)|New article| Learn about the solutions to the issue in Adobe Customer Journey Analytics where you can't access **[!UICONTROL Shared Metrics and Dimensions]**.|
+|July 2025|[Access issues with shared metrics and dimensions in CJA](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27020)|New article| Learn about the solutions to the issue in Adobe Customer Journey Analytics where you can't access **[!UICONTROL Shared Metrics and Dimensions]**.|
 -->
 
 +++
@@ -393,7 +393,7 @@ New articles and updates to existing articles for [!DNL Customer Journey Analyti
 
 +++发行说明、新教程和支持文章
 
-* 请参阅 [&#x200B; [!DNL Adobe Commerce] 和 [!DNL Magento Open Source] 的发行说明](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/release/notes/overview)以了解最新信息。
+* 请参阅 [ [!DNL Adobe Commerce] 和 [!DNL Magento Open Source] 的发行说明](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/release/notes/overview)以了解最新信息。
 * 请参阅 [Adobe [!DNL Commerce] Services 指南](https://experienceleague.adobe.com/zh-hans/docs/commerce/user-guides/home)以查看 Commerce Services 发布信息和文档。
 * 请参阅[产品可用性](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/release/product-availability)以访问单个产品发行说明并验证可用性。
 
@@ -438,13 +438,13 @@ Adobe Commerce 的新文章和现有文章的更新。
 
 +++发行说明
 
-发行日期：**2025 年 11 月 14 日**
+发行日期：**26.1.1 - 2026年1月18日**
 
 <!-- ### New [!DNL Target] support knowledge base{#kb-target}
 
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
-|July 2024|[[!DNL Adobe Target] bulk profile update [!DNL API] throws *[!DNL Unexpected Error]* when using [!DNL Postman]](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-24281)|New article| Learn about how to fix the issue when running the [!DNL Target Bulk Profile Update API] throws the *[!DNL Unexpected Error]* message in [!DNL Postman].|
+|July 2024|[[!DNL Adobe Target] bulk profile update [!DNL API] throws *[!DNL Unexpected Error]* when using [!DNL Postman]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24281)|New article| Learn about how to fix the issue when running the [!DNL Target Bulk Profile Update API] throws the *[!DNL Unexpected Error]* message in [!DNL Postman].|
 -->
 
 * 有关预发行信息，请参阅 [[!DNL Adobe Target]  预发行](https://experienceleague.adobe.com/zh-hans/docs/target/using/release-notes/target-release-notes)
@@ -460,9 +460,9 @@ Adobe Commerce 的新文章和现有文章的更新。
 
 ### 最新营销活动产品版本
 
-* [!DNL Web User Interface]：2025 年 10 月 25 日 - [发行说明](https://experienceleague.adobe.com/zh-hans/docs/campaign-web/v8/release-notes/release-notes) | [产品文档](https://experienceleague.adobe.com/zh-hans/docs/campaign-web/v8/campaign-web-home)
+* [!DNL Web User Interface]： 2026年1月26日 — [发行说明](https://experienceleague.adobe.com/zh-hans/docs/campaign-web/v8/release-notes/release-notes) | [产品文档](https://experienceleague.adobe.com/zh-hans/docs/campaign-web/v8/campaign-web-home)
 
-* [!DNL Campaign] v8：2025 年 10 月 9 日 - [发行说明](https://experienceleague.adobe.com/zh-hans/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4) | [产品文档](https://experienceleague.adobe.com/zh-hans/docs/campaign/campaign-v8/campaign-home)
+* [!DNL Campaign] v8： 8.9.1 - 2026年1月27日 — [发行说明](https://experienceleague.adobe.com/zh-hans/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4) | [产品文档](https://experienceleague.adobe.com/zh-hans/docs/campaign/campaign-v8/campaign-home)
 
 * [!DNL Campaign Standard]：25.2 - 2025 年夏季 - [发行说明](https://experienceleague.adobe.com/zh-hans/docs/campaign-standard/using/release-notes/release-notes) | [产品文档](https://experienceleague.adobe.com/zh-hans/docs/campaign-standard/using/campaign-standard-home)
 
@@ -474,8 +474,8 @@ New or updated videos tutorials published for Adobe Campaign.
 
 | Published | Application | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|August 2025|Campaign v8 Web User Interface |[Enhance a delivery with dynamic content](https://experienceleague.adobe.com/zh-hans/docs/campaign-web-learn/tutorials/content-management/enhance-a-delivery-with-dynamic-content)| Video tutorial |Learn how to use the generative AI powered Content Generator to create and enhance the email content, optimizing your email deliveries to better resonate with your audience.|
-|August 2025|Campaign v8 Web User Interface |[Configure JavaScript code activity](https://experienceleague.adobe.com/zh-hans/docs/campaign-web-learn/tutorials/workflows/configure-java-script-code-activity)| Video tutorial |Learn how to use the JavaScript Code activity in Adobe Campaign Web v8 to enhance your workflows. This tutorial covers both simple and advanced scripting modes. It explains execution settings and error handling. View real-world examples, such as targeting VIP profiles, transforming data, and triggering conditional operations. |
+|August 2025|Campaign v8 Web User Interface |[Enhance a delivery with dynamic content](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/content-management/enhance-a-delivery-with-dynamic-content)| Video tutorial |Learn how to use the generative AI powered Content Generator to create and enhance the email content, optimizing your email deliveries to better resonate with your audience.|
+|August 2025|Campaign v8 Web User Interface |[Configure JavaScript code activity](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/workflows/configure-java-script-code-activity)| Video tutorial |Learn how to use the JavaScript Code activity in Adobe Campaign Web v8 to enhance your workflows. This tutorial covers both simple and advanced scripting modes. It explains execution settings and error handling. View real-world examples, such as targeting VIP profiles, transforming data, and triggering conditional operations. |
  -->
 
 ### 新的 [!DNL Campaign] 支持知识库{#kb-campaign}
@@ -499,7 +499,7 @@ New or updated videos tutorials published for Adobe Campaign.
 
 ### [!DNL Journey Optimizer] 产品发布更新
 
-最新发行日期：**2025 年 11 月 24 日**
+最新版本：**2026年1月**
 
 有关详细信息，请参阅 [Journey Optimizer 发行说明](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/whats-new/release-notes)。**注意：** [B2B Edition 的 Journey Optimizer](#journey-optimizer-b2b-edition) 是一个单独的产品。
 
@@ -548,9 +548,9 @@ New or updated videos tutorials published for Adobe Campaign.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|February 2025|[Account Journeys](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-b2b-learn/tutorials/account-journeys/introducing-account-journeys)|New videos |Visit the Account Journeys tutorial home. Learn about Account Journeys and how to use them to engage your target audience.|
-|February 2025|[Use Case Playbook - Abandoned shopping cart](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart)|New video |Learn how to implement the abandoned shopping cart use case, using the Playbook feature in Adobe Journey Optimizer.|
-|February 2025|[Import and activate an audience by uploading a CSV file](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file)|New video |Discover how to efficiently import and activate an audience by uploading a CSV file. Learn to personalize your content using enrichment attributes from the CSV file, ensuring a more tailored experience for your audience.| -->
+|February 2025|[Account Journeys](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/account-journeys/introducing-account-journeys)|New videos |Visit the Account Journeys tutorial home. Learn about Account Journeys and how to use them to engage your target audience.|
+|February 2025|[Use Case Playbook - Abandoned shopping cart](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart)|New video |Learn how to implement the abandoned shopping cart use case, using the Playbook feature in Adobe Journey Optimizer.|
+|February 2025|[Import and activate an audience by uploading a CSV file](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file)|New video |Discover how to efficiently import and activate an audience by uploading a CSV file. Learn to personalize your content using enrichment attributes from the CSV file, ensuring a more tailored experience for your audience.| -->
 
 +++
 
@@ -574,7 +574,7 @@ New tutorials published for Adobe Marketo.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|March 2025|[Best practices to implement live chat](https://experienceleague.adobe.com/zh-hans/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)| New video |Learn about the best practices to follow when you're implementing the live chat feature in Dynamic Chat.| -->
+|March 2025|[Best practices to implement live chat](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)| New video |Learn about the best practices to follow when you're implementing the live chat feature in Dynamic Chat.| -->
 
 有关最新的产品文档，请参阅 [Marketo 产品文档](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/home)主页。
 
@@ -584,7 +584,7 @@ New articles and updates to existing articles for [!DNL Marketo].
 
 |Published|Name|Type|Description|
 | -----------| ---------- | ---------- | ---------- |
-|July 2025|[Marketo Measure touchpoints not syncing to Marketo Engage](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-26692)|New article| Learn about the solutions to the issue when Marketo Measure touchpoints don't appear in Marketo Engage person records, even though they sync successfully to [!DNL Salesforce].| 
+|July 2025|[Marketo Measure touchpoints not syncing to Marketo Engage](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26692)|New article| Learn about the solutions to the issue when Marketo Measure touchpoints don't appear in Marketo Engage person records, even though they sync successfully to [!DNL Salesforce].| 
 -->
 
 +++
@@ -603,7 +603,7 @@ New articles and updates to existing articles for [!DNL Marketo].
 
 关于所有发布信息：
 
-* 请参阅[&#x200B; Adobe  [!DNL Workfront] 产品发布](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/product-announcements/product-releases/product-releases) 页面，[!DNL Workfront]了解发布计划信息和发行说明。
+* 请参阅[ Adobe  [!DNL Workfront] 产品发布](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/product-announcements/product-releases/product-releases) 页面，[!DNL Workfront]了解发布计划信息和发行说明。
 
 * 有关 Fusion 的最新信息，请参阅 [Adobe [!DNL Workfront]  Workfront Fusion 发布活动概述](https://experienceleague.adobe.com/zh-hans/docs/workfront-fusion/using/fusion-release-activity/fusion-release-activity)。
 
@@ -622,14 +622,14 @@ New articles and updates to existing articles for [!DNL Workfront].
 
 |Published|Name|Type|Description|
 | -----------| ---------- | ---------- | ---------- |
-|August 2025|[Calendar appears blank when owner is deactivated in Workfront](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-27192)|New article| Learn about the solutions to the issue when the owner of a calendar is deactivated, the calendar becomes blank, and no tasks or events are visible.|
-|August 2025|[Error appears when assigning resource managers in Workfront](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-27251)|New article| Learn about the solutions to the issue when the error *Only users with a plan license can be added as resource managers* occurs when attaching a project template that includes resource managers without the required license type.|
-|August 2025|[Issue to project conversion grants home group "view" access by default in Workfront](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-27261)|New article| Learn about the solutions to the issue when converting an issue into a project using a template in Adobe Workfront, the creator's home group automatically receives view access to the resulting project.|
-|August 2025|[Duplicate folders auto-created in Workfront via [!DNL Fusion] scenarios](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-27287)|New article| Learn about the solutions to the issue when duplicate folders are automatically created in certain Adobe Workfront projects due to active [!DNL Fusion] connections.|
-|August 2025|[Unable to report on specific approver actions in Adobe Workfront](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-27298)|New article| Learn about the solutions to the issue when Adobe Workfront reports don't natively support isolating actions taken by specific approvers in multi-stage approval workflows.|
-|August 2025|[Unable to attach template to an existing project in Workfront](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-27305)|New article| Learn about the solutions to the issue when an error occurs when attaching a template to an existing project in Adobe Workfront related to system-wide sharing permissions settings.|
+|August 2025|[Calendar appears blank when owner is deactivated in Workfront](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27192)|New article| Learn about the solutions to the issue when the owner of a calendar is deactivated, the calendar becomes blank, and no tasks or events are visible.|
+|August 2025|[Error appears when assigning resource managers in Workfront](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27251)|New article| Learn about the solutions to the issue when the error *Only users with a plan license can be added as resource managers* occurs when attaching a project template that includes resource managers without the required license type.|
+|August 2025|[Issue to project conversion grants home group "view" access by default in Workfront](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27261)|New article| Learn about the solutions to the issue when converting an issue into a project using a template in Adobe Workfront, the creator's home group automatically receives view access to the resulting project.|
+|August 2025|[Duplicate folders auto-created in Workfront via [!DNL Fusion] scenarios](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27287)|New article| Learn about the solutions to the issue when duplicate folders are automatically created in certain Adobe Workfront projects due to active [!DNL Fusion] connections.|
+|August 2025|[Unable to report on specific approver actions in Adobe Workfront](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27298)|New article| Learn about the solutions to the issue when Adobe Workfront reports don't natively support isolating actions taken by specific approvers in multi-stage approval workflows.|
+|August 2025|[Unable to attach template to an existing project in Workfront](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27305)|New article| Learn about the solutions to the issue when an error occurs when attaching a template to an existing project in Adobe Workfront related to system-wide sharing permissions settings.|
 
-For the latest product documentation, see the [Adobe [!DNL Workfront] documentation home page](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/home).
+For the latest product documentation, see the [Adobe [!DNL Workfront] documentation home page](https://experienceleague.adobe.com/en/docs/workfront/using/home).
 -->
 
 +++
@@ -648,13 +648,13 @@ Video tutorials for GenStudio for Performance Marketing.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|October 2025|[Assign Brand permissions](https://experienceleague.adobe.com/zh-hans/docs/genstudio-for-performance-marketing/user-guide/intro/configure-brand-permissions)| Video |Learn about assigning entitlements for GenStudio for Performance Marketing Brand creators and editors.| -->
+|October 2025|[Assign Brand permissions](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/intro/configure-brand-permissions)| Video |Learn about assigning entitlements for GenStudio for Performance Marketing Brand creators and editors.| -->
 
 **GenStudio for Performance Marketing 资源**
 
 * [GenStudio for Performance Marketing](https://experienceleague.adobe.com/zh-hans/browse/genstudio-for-performance-marketing)（全自助）
 * GenStudio for Performance Marketing [的产品文档](https://experienceleague.adobe.com/zh-hans/docs/genstudio-for-performance-marketing/user-guide/home)
-* [GenStudio for Performance Marketing](https://business.adobe.com/cn/products/genstudio-for-performance-marketing.html) 产品信息
+* [GenStudio for Performance Marketing](https://business.adobe.com/products/genstudio-for-performance-marketing.html) 产品信息
 
 +++
 
@@ -678,13 +678,13 @@ Video tutorials for GenStudio for Performance Marketing.
 
 2025 年 12 月 17 日
 
-请参阅[&#x200B; [!DNL Advertising DSP] 中的新增功能](https://experienceleague.adobe.com/zh-hans/docs/advertising/dsp/home)
+请参阅[ [!DNL Advertising DSP] 中的新增功能](https://experienceleague.adobe.com/zh-hans/docs/advertising/dsp/home)
 
 ### [!DNL Advertising Search, Social, & Commerce] 中的新增功能 {#advertising-search}
 
 2025 年 11 月 12 日
 
-请参阅[&#x200B; [!DNL Advertising Search, Social, & Commerce] 中的新增功能](https://experienceleague.adobe.com/zh-hans/docs/advertising/search-social-commerce/home)
+请参阅[ [!DNL Advertising Search, Social, & Commerce] 中的新增功能](https://experienceleague.adobe.com/zh-hans/docs/advertising/search-social-commerce/home)
 
 +++
 
@@ -732,8 +732,8 @@ Video tutorials for GenStudio for Performance Marketing.
 
 <!-- |Published|Application|Name|Type|Description |
 | -----------| -----------|---------- | ---------- | ---------- |
-| September 2025 | Firefly | [Create a Custom Model](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model) |  Video | Learn how to build Custom Models in Firefly to create fresh new imagery for your organization's brand using specific types of styles--such as backgrounds, colors, and hues. |
-| September 2025 | Firefly | [Background removal and replacement](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/background) |  Video | Learn how to use Firefly Creative Production to remove and/or replace backgrounds at scale. | -->
+| September 2025 | Firefly | [Create a Custom Model](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model) |  Video | Learn how to build Custom Models in Firefly to create fresh new imagery for your organization's brand using specific types of styles--such as backgrounds, colors, and hues. |
+| September 2025 | Firefly | [Background removal and replacement](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/background) |  Video | Learn how to use Firefly Creative Production to remove and/or replace backgrounds at scale. | -->
 
 浏览我们的 [Creative Cloud 企业版](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview)教程库，以获取更多内容。
 
@@ -749,16 +749,16 @@ Video tutorials for GenStudio for Performance Marketing.
 
 <!-- ## ![Icon](/assets/certification-badge.png) Certification{#certification}
 
-Attention all Adobe certification candidates! Visit the Experience Cloud [Certification](https://experienceleague.adobe.com/zh-hans/docs/certification/program/overview) site on Experience League. 
+Attention all Adobe certification candidates! Visit the Experience Cloud [Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) site on Experience League. 
 
 +++Details
 
-The [Experience Cloud Certification](https://experienceleague.adobe.com/zh-hans/docs/certification/program/overview) site is your one-stop shop for all [!DNL Experience Cloud] certification-related content and is updated regularly with:
+The [Experience Cloud Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) site is your one-stop shop for all [!DNL Experience Cloud] certification-related content and is updated regularly with:
 
 * Available certifications
 * Certification renewals for Adobe applications
 * Certification program updates
 
-And more! Head over to [Adobe Certification](https://experienceleague.adobe.com/zh-hans/docs/certification/program/overview) on Experience League and start your certification journey today!
+And more! Head over to [Adobe Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) on Experience League and start your certification journey today!
 
 +++ -->
