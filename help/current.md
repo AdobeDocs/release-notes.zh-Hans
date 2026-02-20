@@ -6,10 +6,10 @@ last-update: February 2026
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 40afb853a97a270e594a1b84562ed53c8ba66b9a
+source-git-commit: 64b154860d7bfac342798232aa90460a6d68ef56
 workflow-type: tm+mt
-source-wordcount: '3966'
-ht-degree: 52%
+source-wordcount: '4063'
+ht-degree: 50%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 52%
 * 查看每个应用程序的新视频教程
 * 查看最新支持文章
 
-最近更新：**2026年2月11日**
+最近更新：**2026年2月20日**
 
 ## Experience League 上的课程
 
@@ -44,28 +44,28 @@ Experience League 上提供[课程](https://experienceleague.adobe.com/zh-hans/c
 
 +++查看章节链接
 
-* [活动日程](#events)
-* [&#x200B; [!DNL Experience Cloud] 中的 AI 功能](#ai)
+* [事件计划](#events) （更新日期：**2月20日**）
+* [中的 [!DNL Experience Cloud]](#ai)AI功能（更新日期：**2月20日**）
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud]  - 中央界面和管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) （**2月**）
-* [[!DNL Adobe Customer Journey Analytics]](#cja) （**2月**）
+* [[!DNL Adobe Analytics]](#analytics)
+* [[!DNL Adobe Customer Journey Analytics]](#cja)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
-* [[!DNL Adobe Experience Manager]](#aem) （**1月**）
+* [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe LLM Optimizer]](#llm-optimizer)
 * [[!DNL Adobe Brand Concierge]](#brand-concierge)
 * [[!DNL Adobe Commerce]](#commerce)
-* [[!DNL Adobe Target]](#target) （**1月**）
-* [[!DNL Adobe Campaign]](#ac) （**1月**）
-* [[!DNL Adobe Journey Optimizer]](#journey-opt) （**2月**）
-* [[!DNL Adobe Journey Optimizer B2B Edition]](#ajo-b2b) （**2月**）
-* [[!DNL Adobe Marketo Engage]](#marketo) （**1月**）
-* [[!DNL Adobe Workfront]](#workfront) （**1月**）
-* [[!DNL Adobe GenStudio for Performance Marketing]](#genstudio-marketing) （**1月**）
+* [[!DNL Adobe Target]](#target)
+* [[!DNL Adobe Campaign]](#ac)
+* [[!DNL Adobe Journey Optimizer]](#journey-opt)
+* [[!DNL Adobe Journey Optimizer B2B Edition]](#ajo-b2b)
+* [[!DNL Adobe Marketo Engage]](#marketo)
+* [[!DNL Adobe Workfront]](#workfront)
+* [[!DNL Adobe GenStudio for Performance Marketing]](#genstudio-marketing)
 * [[!DNL Adobe Mix Modeler]](#mix-modeler)
-* [[!DNL Adobe Advertising]](#advertising) （**1月**）
+* [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Pass]](#pass)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
@@ -82,9 +82,15 @@ Experience League 上提供[课程](https://experienceleague.adobe.com/zh-hans/c
 
 +++查看即将举行的活动
 
+* **[!DNL Workfront]** | _网络研讨会_ | 实现可伸缩性：将Workfront Blueprint转化为现实世界的培训方案。 | **2月26日** | [注册](https://events.teams.microsoft.com/event/3ebe62c9-48da-4f99-a504-db4d4a05257d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Adobe Insider Tour]** | _参加我们的Adobe Insider之旅_ | 我们很高兴在2月26日将Adobe Insider之旅带到西雅图 — 我们很乐意您加入我们。 | **2月26日** | [注册](https://event.adobe.com/adobe-insider-tour-seattle)
+
+* **[!DNL Workfront]** | _连接：营销与Creative的管理员聊天_ | 我们很高兴在2月26日将Adobe Insider之旅带到西雅图 — 我们很乐意您加入我们。 | **3月6日** | [注册](https://events.teams.microsoft.com/event/07277b90-bf7a-479c-a302-db2c6bbff3b9@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
 * **[!DNL Adobe Summit]** | _了解营销、创意和 AI 的未来_ | 探索营销、创意和 AI 领域的未来发展。| **拉斯维加斯，4 月 19 日至 22 日** | [报名](https://summit.adobe.com/na/)
 
-在 Experience League 上查看所有[即将举办](https://experienceleague.adobe.com/zh-hans/events)与[随选](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-recorded-events/overview)的活动完整列表。
+以及更多！在 Experience League 上查看所有[即将举办](https://experienceleague.adobe.com/zh-hans/events)与[随选](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-recorded-events/overview)的活动完整列表。
 
 +++
 
@@ -96,6 +102,7 @@ Experience League 上提供[课程](https://experienceleague.adobe.com/zh-hans/c
 
 | 产品 | 资源 | 描述 | 更新 |
 | ------- | ------- | ------- | ------- |
+| [!DNL Experience Cloud] | [代理作业和AI积分消耗](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption) | 了解Experience Cloud应用程序中的代理工作和AI信用消耗率。 | **2026年2月20日** |
 | [!DNL Experience Cloud] | [Experience Cloud 应用程序中的代理式 AI](https://experienceleague.adobe.com/zh-hans/docs/core-services/interface/features/agentic-ai) | 了解在 Experience Cloud 中启用代理式 AI。了解代理的工作和 AI 积分使用如何运作。 | **2026 年 1 月 29 日** |
 | [!DNL Experience Manager as a Cloud Service] | [AEM 中的代理式 AI](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/ai-in-aem/overview?#agentic-ai-in-aem) | 了解 AEM CS 中推出的全新 AI 代理。 | 2025 年 11 月 21 日 |
 | [!DNL Experience Cloud] | [Experience Cloud 应用程序中的生成式 AI](https://experienceleague.adobe.com/zh-hans/docs/core-services/interface/features/generative-ai) | 了解 Experience Cloud 中哪些位置已提供 AI 驱动的功能。 | 2025 年 11 月 |
