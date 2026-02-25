@@ -6,10 +6,10 @@ last-update: February 2026
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 64b154860d7bfac342798232aa90460a6d68ef56
+source-git-commit: b769f4e91b64c5cc4afae5183459a39758f1b0ca
 workflow-type: tm+mt
-source-wordcount: '4063'
-ht-degree: 50%
+source-wordcount: '4066'
+ht-degree: 51%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 50%
 * 查看每个应用程序的新视频教程
 * 查看最新支持文章
 
-最近更新：**2026年2月20日**
+最近更新：**2026年2月25日**
 
 ## Experience League 上的课程
 
@@ -118,7 +118,8 @@ Experience League 上提供[课程](https://experienceleague.adobe.com/zh-hans/c
 
 以前的 [!DNL Adobe System Status] 发行说明：
 
-* [2025年12月](https://experienceleague.adobe.com/zh-hans/docs/release-notes/experience-cloud/previous/2025/01222025#status)
+* [2025年12月](https://experienceleague.adobe.com/zh-hans/docs/release-notes/experience-cloud/previous/2026/01142026#status)
+* [2025 年 8 月](https://experienceleague.adobe.com/zh-hans/docs/release-notes/experience-cloud/previous/2025/08132025#status)
 * [2025 年 4 月](https://experienceleague.adobe.com/zh-hans/docs/release-notes/experience-cloud/previous/2025/04162025#status)
 * [2024 年 8 月](https://experienceleague.adobe.com/zh-hans/docs/release-notes/experience-cloud/previous/2024/09122024#status)
 * [2024 年 5 月](https://experienceleague.adobe.com/zh-hans/docs/release-notes/experience-cloud/previous/2024/05152024#status)
