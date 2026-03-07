@@ -99,7 +99,7 @@ Experience League 上提供[课程](https://experienceleague.adobe.com/zh-hans/c
 | 产品 | 资源 | 描述 | 更新 |
 | ------- | ------- | ------- | ------- |
 | [!DNL Experience Cloud] | [Adobe Experience Platform代理可提高营销效率并改善业务成果](https://www.youtube.com/live/VlxHXfEnqjI) | 本独家会议包含与Adobe Experience Cloud高级副总裁Anjul Bhambhri进行的富有洞察力的问答会。 探索Adobe的历程以及大胆的愿景，提供创新的Agentic AI功能，这些功能可让营销和创意从业人员自动执行复杂步骤、加快决策并扩展团队容量，同时不影响控制或监督。 | **2026年3月3日** |
-| [!DNL Experience Cloud] | [代理作业和AI积分消耗](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption) | 了解Experience Cloud应用程序中的代理工作和AI信用消耗率。 | **2026年3月3日** |
+| [!DNL Experience Cloud] | [代理作业和AI积分消耗](https://experienceleague.adobe.com/zh-hans/docs/core-services/interface/features/ai-credit-consumption) | 了解Experience Cloud应用程序中的代理工作和AI信用消耗率。 | **2026年3月3日** |
 | [!DNL Experience Cloud] | [Experience Cloud 应用程序中的代理式 AI](https://experienceleague.adobe.com/zh-hans/docs/core-services/interface/features/agentic-ai) | 了解在 Experience Cloud 中启用代理式 AI。 了解代理的工作和 AI 积分使用如何运作。 | **2026年3月3日** |
 | [!DNL Experience Manager as a Cloud Service] | [AEM 中的代理式 AI](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/ai-in-aem/overview?#agentic-ai-in-aem) | 了解 AEM CS 中推出的全新 AI 代理。 | 2025 年 11 月 21 日 |
 | [!DNL Experience Cloud] | [Experience Cloud 应用程序中的生成式 AI](https://experienceleague.adobe.com/zh-hans/docs/core-services/interface/features/generative-ai) | 了解 Experience Cloud 中哪些位置已提供 AI 驱动的功能。 | 2025 年 11 月 |
