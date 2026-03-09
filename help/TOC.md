@@ -5,10 +5,10 @@ user-guide-title: Adobe Experience Cloud 发行说明
 breadcrumb-title: 中央发行说明
 user-guide-description: 了解 Adobe Experience Cloud 和 Experience Platform 中的新增功能、问题修复和重要注意事项。
 user-guide-url: https://www.adobe.com
-source-git-commit: e40d2dd3a1d11e5ac45c86cebeffabb0de17f631
+source-git-commit: 1b82750191ee50e2dfec8d2f4d1602bf463dc33a
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 100%
+source-wordcount: '111'
+ht-degree: 92%
 
 ---
 
@@ -18,7 +18,8 @@ ht-degree: 100%
 + [当前的发行说明](current.md)
 + 以前的发行说明 {#previous}
    + 2026 {#2026}
-      + [2026 年 1 月](c-legacy-releases/2026/01142026.md)
+      + [2026 年 2 月](c-legacy-releases/2026/02112026.md)
+      + [2026年1月](c-legacy-releases/2026/01142026.md)
    + 2025 {#2025}
       + [2025 年 10 月](c-legacy-releases/2025/10152025.md)
       + [2025 年 9 月](c-legacy-releases/2025/09112025.md)
@@ -53,5 +54,5 @@ ht-degree: 100%
       + [2023 年 3 月](c-legacy-releases/2023/03082023.md)
       + [2023 年 2 月](c-legacy-releases/2023/02082023.md)
       + [2023 年 1 月](c-legacy-releases/2023/01112023.md)
-   + 2022 年及更早 {#legacy-rns}
-      + [2022 年及更早](c-legacy-releases/2022-earlier.md)
+   + 2022年和更早 {#legacy-rns}
+      + [2022年和更早](c-legacy-releases/2022-earlier.md)
