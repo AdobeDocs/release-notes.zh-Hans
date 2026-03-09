@@ -6,10 +6,10 @@ last-update: February 2026
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 6327dedf77da7697e83326abcbe1ed75187eb138
+source-git-commit: c267781827d72bcd75bdfe8920b873c014095d8f
 workflow-type: tm+mt
-source-wordcount: '5639'
-ht-degree: 52%
+source-wordcount: '5811'
+ht-degree: 50%
 
 ---
 
@@ -82,7 +82,13 @@ Experience League 上提供[课程](https://experienceleague.adobe.com/zh-hans/c
 
 +++查看即将举行的活动
 
-* **[!DNL Workfront]** | _连接：营销与Creative的管理员聊天_ | 我们很高兴在2月26日将Adobe Insider之旅带到西雅图 — 我们很乐意您加入我们。 | **3月6日** | [注册](https://events.teams.microsoft.com/event/07277b90-bf7a-479c-a302-db2c6bbff3b9@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Adobe AI - Toronto]** | _探索新的见解以及营销和AI的后续发展_ | 亲身实践最新的Adobe AI创新，听取Adobe领导人在高管主题演讲中的发言，并从我们在埃森哲和德勤的合作伙伴以及真正的客户那里获得洞见 — 所有这些洞察力都来自于那些决定未来发展方向的同行。 | **3月10日** | [注册](https://event.adobe.com/adobe-ai-forum-toronto/il/expleague)
+
+* **[!DNL Adobe Commerce]** | _向同行学习网络研讨会： Adobe Commerce_ | 与Adobe Commerce支持者Manav Padhariya和Michael Schenck一起参加一个教育会议，了解如何将Adobe Commerce产品推荐从一个基本功能转变为强大的人工智能原生业务增长战略推动力。 | **3月11日** | [注册](https://engage.adobe.com/adobe-commerce-product-recommendations.html)
+
+* **[!DNL Experience Cloud]** | _Adobe Insider导览_ | 这个免费的半天活动充满了专家见解、客户成功案例以及与同行和Adobe产品领先者联系的机会。 通过互动会议和讨论，探索最佳实践并了解如何使用Adobe解决方案实现价值的最大化。 | **3月11日** | [注册](https://event.adobe.com/adobe-insider-tour-atlanta)
+
+* **[!DNL Adobe AI - Dallas]** | _探索新的见解以及营销和AI的后续发展_ | 亲身实践最新的Adobe AI创新，听取Adobe领导人在高管主题演讲中的发言，并从我们在埃森哲和德勤的合作伙伴以及真正的客户那里获得洞见 — 所有这些洞察力都来自于那些决定未来发展方向的同行。 | **3月12日** | [注册](https://event.adobe.com/adobe-ai-forum-dallas-il2026/expleague)
 
 * **[!DNL Adobe Summit]** | _了解营销、创意和 AI 的未来_ | 探索营销、创意和 AI 领域的未来发展。 | **拉斯维加斯，4 月 19 日至 22 日** | [报名](https://summit.adobe.com/na/)
 
