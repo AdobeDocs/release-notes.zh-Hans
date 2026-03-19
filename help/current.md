@@ -6,10 +6,10 @@ last-update: March 2026
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 760308da350bfa9769914ccabb1aab5dd7884c45
+source-git-commit: d5fdcb1d2d561318122a5941bbd04050b537559c
 workflow-type: tm+mt
-source-wordcount: '6709'
-ht-degree: 31%
+source-wordcount: '6872'
+ht-degree: 30%
 
 ---
 
@@ -24,11 +24,11 @@ ht-degree: 31%
 * 查看每个应用程序的新视频教程
 * 查看最新支持文章
 
-最新更新：**2026年3月13日**
+最新更新：**2026年3月19日**
 
 在此页面上：
 
-* [事件计划](#events)
+* [网络研讨会和学习活动](#events)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud]管理](#ecloud)
 * [Experience Cloud 中的 AI](#ai)
@@ -58,10 +58,15 @@ ht-degree: 31%
 * [Adobe 认证](https://experienceleague.adobe.com/zh-hans/certification-home){target="_blank"}
 * [Adobe产品安全漏洞](https://helpx.adobe.com/cn/security.html){target="_blank"}
 
-## 活动日程 {#events}
+## 网络研讨会和学习活动 {#events}
 
-* [即将到来的](https://experienceleague.adobe.com/zh-hans/events){target="_blank"}事件计划
-* [按需](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-recorded-events/overview){target="_blank"}事件计划
+* **[!DNL Experience Cloud]** | _Adobe Experience Platform Champion办公时间_ |让我们讨论挑战、阻止程序和愿望清单。 你需要什么才能让你的系统发出嗡嗡声？ | **2026年3月24日** | [注册](https://aep-augs.adobe.com/events/details/adobe-campaign-adobe-experience-platform-champion-office-hours-presents-lets-talk-challenges-blockers-and-wish-lists-what-do-you-need-to-make-your-system-hum/)
+
+* **[!DNL Workfront]** | _管理员101：提出您的Workfront问题_ |加入我们，参加一个一小时的后续研讨会，我们将快速共享每个会话的摘要，然后将其打开以供问答。 | **2026年3月24日** | [注册](https://events.teams.microsoft.com/event/5da27d2b-63c1-4ac4-9d55-9f3148222628@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _Fusion已解码：第2部分 — 让我们开始构建_ |在Fusion系列的第2部分，我们将深入了解现成的模板，并介绍如何使用它们快速启动您的自动化历程。 | **2026年3月25日** | [注册](https://events.teams.microsoft.com/event/364bd344-09a1-4630-8cfc-0bd694fa74a2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+查看[即将发生的](https://experienceleague.adobe.com/zh-hans/events){target="_blank"}和[按需](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-recorded-events/overview){target="_blank"}事件的完整计划。
 
 ## [!DNL Adobe System Status] {#status}
 
