@@ -50,7 +50,7 @@ Adobe Experience Cloud 的新增功能和修复。
 
 功能和修复。
 
-请参阅 [Adobe 系统状态](https://status.adobe.com/)。
+请参阅 [Adobe 系统状态](https://status.adobe.com/zh-cn/)。
 
 ## Experience Cloud 中央 UI 组件 {#ecloud}
 
