@@ -8,10 +8,10 @@ mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: 47738804b28c044373041282fa74527bf2f29128
+source-git-commit: 691631533bbce1eee3f829d039a3251aec347d4b
 workflow-type: tm+mt
-source-wordcount: 6824
-ht-degree: 81%
+source-wordcount: 6867
+ht-degree: 80%
 
 ---
 
@@ -31,9 +31,9 @@ ht-degree: 81%
 在此页面上：
 
 * [网络研讨会和学习活动](#events)
+* [[!DNL Adobe Experience Cloud]中央UI和管理](#ecloud)
 * [Experience Cloud 中的 AI](#ai)
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Adobe Experience Cloud]管理](#ecloud)
 * [[!DNL Adobe Brand Concierge]](#brand-concierge)
 * [[!DNL Adobe LLM Optimizer]](#llm-optimizer)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -64,33 +64,11 @@ ht-degree: 81%
 
 查看[即将发生的](https://experienceleague.adobe.com/zh-hans/events){target="_blank"}和[按需](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-recorded-events/overview){target="_blank"}事件的完整计划。
 
-## [!DNL Adobe System Status] {#status}
+## [!DNL Adobe Experience Cloud]中央UI和管理 {#ecloud}
 
-[!DNL Adobe System Status] 提供了关于 Adobe 产品与服务的详细信息、状态更新以及电子邮件通知。 获取有关故障、中断和维护活动的通知。 请在 [status.adobe.com](https://status.adobe.com/zh-cn/){target="_blank"} 上查看它。
-
-* AI虚拟助理测试版
-* 错误修复和改进
-
-| 功能 | 描述 |
-| ------- | ------- |
-| **AI虚拟助手Beta版** | <ul><li>虚拟助理是一项功能，可帮助Web和移动设备上的Status客户执行快速操作并提供反馈。 它用作解决所有查询的单一联系人。</li><li>我们正在向Virtual Assistant添加AI功能，以便能够更快、更直观地访问事件和订阅信息。</li><li>客户测试版仍在进行中。 如果您想参与，请发送电子邮件至[statuscom-adobe-support](mailto:statuscom-adobe-support@adobe.com)。</li></ul> |
-| **错误修复和改进** | <ul><li>在历史记录级别为Events API启用日期。</li><li>辅助功能错误修复。</li><li>Marketo订阅 — 环境未汇总到数据中心，导致通知错过。</li><li>页眉和页脚在“状态”页面上未本地化。</li><li>定期维护未显示最早的维护。</li><li>状态API未返回与状态为Web相同的信息以及已忽略的事件。</li><li>当维护在实际结束日期后关闭时，它无法在状态UI中正确显示。</li></ul> |
-
-
-发行说明历史记录：
-
-* [2025年12月](https://experienceleague.adobe.com/zh-hans/docs/release-notes/experience-cloud/previous/2026/01142026#status){target="_blank"}
-* [2025 年 8 月](https://experienceleague.adobe.com/zh-hans/docs/release-notes/experience-cloud/previous/2025/08132025#status){target="_blank"}
-* [2025 年 4 月](https://experienceleague.adobe.com/zh-hans/docs/release-notes/experience-cloud/previous/2025/04162025#status){target="_blank"}
-* [2024 年 8 月](https://experienceleague.adobe.com/zh-hans/docs/release-notes/experience-cloud/previous/2024/09122024#status){target="_blank"}
-* [2024 年 5 月](https://experienceleague.adobe.com/zh-hans/docs/release-notes/experience-cloud/previous/2024/05152024#status){target="_blank"}
-* [2024 年 1 月](https://experienceleague.adobe.com/zh-hans/docs/release-notes/experience-cloud/previous/2024/02142024#status){target="_blank"}
-* [2023 年 10 月](https://experienceleague.adobe.com/zh-hans/docs/release-notes/experience-cloud/previous/2023/10042023#status){target="_blank"}
-* [2023 年 8 月](https://experienceleague.adobe.com/zh-hans/docs/release-notes/experience-cloud/previous/2023/08092023#status){target="_blank"}
-* [2023 年 3 月](https://experienceleague.adobe.com/zh-hans/docs/release-notes/experience-cloud/previous/2023/03082023#status){target="_blank"}
-* [2023 年 1 月](https://experienceleague.adobe.com/zh-hans/docs/release-notes/experience-cloud/previous/2023/02082023#status){target="_blank"}
-
-## [!DNL Adobe Experience Cloud]管理 {#ecloud}
+| 功能 | 发行日期 | 描述 |
+| ------- | ------- | ------- |
+| 刷新的主页 | 2026年4月20日 | 在`https://experience.adobe.com/home`刷新了主页的外观。 在此版本中，所有功能保持不变，更新了UI，支持完整的&#x200B;_深色模式_，并且改进了辅助功能。 |
 
 有关文档，请参阅[Experience Cloud界面和管理](https://experienceleague.adobe.com/zh-hans/docs/core-services/interface/experience-cloud){target="_blank"}。
 
@@ -107,6 +85,30 @@ ht-degree: 81%
 | [!DNL Experience Cloud] | [Adobe Experience Platform代理可提高营销效率并改善业务成果](https://www.youtube.com/live/VlxHXfEnqjI){target="_blank"} | 本独家会议包含与Adobe Experience Cloud高级副总裁Anjul Bhambhri进行的富有洞察力的问答会。 探索Adobe的历程以及大胆的愿景，提供创新的Agentic AI功能，这些功能可让营销和创意从业人员自动执行复杂步骤、加快决策并扩展团队容量，同时不影响控制或监督。 | 2026年3月3日 |
 | [!DNL Experience Cloud] | [代理作业和AI积分消耗](https://experienceleague.adobe.com/zh-hans/docs/core-services/interface/features/ai-credit-consumption){target="_blank"} | 了解Experience Cloud应用程序中的代理工作和AI信用消耗率。 | 2026年3月3日 |
 
+## [!DNL Adobe System Status] {#status}
+
+[!DNL Adobe System Status] 提供了关于 Adobe 产品与服务的详细信息、状态更新以及电子邮件通知。 获取有关故障、中断和维护活动的通知。 请在 [status.adobe.com](https://status.adobe.com/zh-cn/){target="_blank"} 上查看它。
+
+* AI虚拟助理测试版
+* 错误修复和改进
+
+| 功能 | 描述 |
+| ------- | ------- |
+| **AI虚拟助手Beta版** | <ul><li>虚拟助理是一项功能，可帮助Web和移动设备上的Status客户执行快速操作并提供反馈。 它用作解决所有查询的单一联系人。</li><li>我们正在向Virtual Assistant添加AI功能，以便能够更快、更直观地访问事件和订阅信息。</li><li>客户测试版仍在进行中。 如果您想参与，请发送电子邮件至[statuscom-adobe-support](mailto:statuscom-adobe-support@adobe.com)。</li></ul> |
+| **错误修复和改进** | <ul><li>在历史记录级别为Events API启用日期。</li><li>辅助功能错误修复。</li><li>Marketo订阅 — 环境未汇总到数据中心，导致通知错过。</li><li>页眉和页脚在“状态”页面上未本地化。</li><li>定期维护未显示最早的维护。</li><li>状态API未返回与状态为Web相同的信息以及已忽略的事件。</li><li>当维护在实际结束日期后关闭时，它无法在状态UI中正确显示。</li></ul> |
+
+发行说明历史记录：
+
+* [2025年12月](https://experienceleague.adobe.com/zh-hans/docs/release-notes/experience-cloud/previous/2026/01142026#status){target="_blank"}
+* [2025 年 8 月](https://experienceleague.adobe.com/zh-hans/docs/release-notes/experience-cloud/previous/2025/08132025#status){target="_blank"}
+* [2025 年 4 月](https://experienceleague.adobe.com/zh-hans/docs/release-notes/experience-cloud/previous/2025/04162025#status){target="_blank"}
+* [2024 年 8 月](https://experienceleague.adobe.com/zh-hans/docs/release-notes/experience-cloud/previous/2024/09122024#status){target="_blank"}
+* [2024 年 5 月](https://experienceleague.adobe.com/zh-hans/docs/release-notes/experience-cloud/previous/2024/05152024#status){target="_blank"}
+* [2024 年 1 月](https://experienceleague.adobe.com/zh-hans/docs/release-notes/experience-cloud/previous/2024/02142024#status){target="_blank"}
+* [2023 年 10 月](https://experienceleague.adobe.com/zh-hans/docs/release-notes/experience-cloud/previous/2023/10042023#status){target="_blank"}
+* [2023 年 8 月](https://experienceleague.adobe.com/zh-hans/docs/release-notes/experience-cloud/previous/2023/08092023#status){target="_blank"}
+* [2023 年 3 月](https://experienceleague.adobe.com/zh-hans/docs/release-notes/experience-cloud/previous/2023/03082023#status){target="_blank"}
+* [2023 年 1 月](https://experienceleague.adobe.com/zh-hans/docs/release-notes/experience-cloud/previous/2023/02082023#status){target="_blank"}
 
 ## [!DNL Adobe Brand Concierge] {#brand-concierge}
 
