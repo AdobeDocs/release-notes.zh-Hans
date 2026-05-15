@@ -271,13 +271,13 @@ New articles and updates to existing articles for [!DNL Analytics].
 
 2026 年 3 月 25 日
 
-* [ [!DNL Advertising DSP]的新增功能](https://experienceleague.adobe.com/zh-hans/docs/advertising/dsp/home){target="_blank"}
+* [&#x200B; [!DNL Advertising DSP]的新增功能](https://experienceleague.adobe.com/zh-hans/docs/advertising/dsp/home){target="_blank"}
 
 ### [!DNL Advertising Search, Social, & Commerce] 中的新增功能 {#advertising-search}
 
 2026 年 2 月 25 日
 
-* [ [!DNL Advertising Search, Social, & Commerce]的新增功能](https://experienceleague.adobe.com/zh-hans/docs/advertising/search-social-commerce/home){target="_blank"}
+* [&#x200B; [!DNL Advertising Search, Social, & Commerce]的新增功能](https://experienceleague.adobe.com/zh-hans/docs/advertising/search-social-commerce/home){target="_blank"}
 
 ## [!DNL Adobe Experience Manager] {#aem}
 
@@ -331,20 +331,20 @@ New articles and updates to existing articles for [!DNL Analytics].
 | 2026 年 4 月 | [解决&#x200B;**[!UICONTROL 为Assets创建Live Copy]**&#x200B;作业](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30207)的长队列时间和错误 | 新文章 | 了解当&#x200B;**[!UICONTROL 为Adobe Experience Manager as a Cloud Service中的Assets创建Live Copy]**&#x200B;操作在中的内容片段保持排队的时间长于预期或失败并出现指示目标片段已存在错误的问题的解决方案。 |
 | 2026 年 4 月 | [AEM内容片段编辑器中的发布权限差异](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30216) | 新文章 | 了解在删除`crx:replicate`权限时，虽然删除了页面的“快速发布”，但仍会在新的内容片段编辑器中显示内容片段的“发布”操作，该问题的解决方案。 |
 | 2026 年 4 月 | [由于编码配置文件不受支持，来自DAM的视频不会在iOS设备上播放](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30313) | 新文章 | 了解当存储在DAM中的视频无法在iOS设备上加载或播放时问题的解决方案，因为视频是使用iOS不支持的[!DNL H.264]配置文件级别编码的。 |
-| 2026 年 4 月 | 当复制队列在AEM Author](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30262)上增长时，[**[!UICONTROL 经典UI Siteadmin ]**运行缓慢 | 新文章 | 了解当&#x200B;**[!UICONTROL 经典UI Siteadmin]**&#x200B;在无法访问发布实例时变得缓慢，且其复制队列在创作实例上增大时问题的解决方案。 |
+| 2026 年 4 月 | 当复制队列在AEM Author[&#128279;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30262)上增长时，**[!UICONTROL 经典UI Siteadmin &#x200B;]**&#x200B;运行缓慢 | 新文章 | 了解当&#x200B;**[!UICONTROL 经典UI Siteadmin]**&#x200B;在无法访问发布实例时变得缓慢，且其复制队列在创作实例上增大时问题的解决方案。 |
 | 2026 年 4 月 | [Adobe Experience Manager：如果未配置凭据存储区，配置管理器将在AEM Forms 6.5 LTS中停止](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30419) | 新文章 | 了解安装AEM Forms 6.5 LTS Configuration Manager时在&#x200B;**[!UICONTROL 部署AEM Forms EAR文件]**&#x200B;屏幕上停止并显示&#x200B;*[!DNL JBOSS]未联机错误*&#x200B;时问题的解决方案。 |
 | 2026 年 4 月 | [在Adobe Experience Manager as a Cloud Service中下载大型CRX包超时](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30325) | 新文章 | 了解在使用&#x200B;**[!UICONTROL 包管理器]**&#x200B;下载大型CRX包时遇到的问题的解决方案，该问题会在平台中运行，并且CDN强制实施的HTTP超时无法增加。 |
-| 2026 年 4 月 | 在Dynamic Media [!DNL OpenAPI] 搜索](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30304)中出现`projectedFields`的&#x200B;[*501未实现错误* | 新文章 | 了解在请求正文中将Dynamic Media [!DNL OpenAPI]投放层搜索API与`projectedFields`或`facets`结合使用时返回一个&#x200B;*501未实现错误*&#x200B;问题的解决方案，因为这些功能的服务器端支持不可用。 |
+| 2026 年 4 月 | 在Dynamic Media [!DNL OpenAPI] 搜索[&#128279;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30304)中出现`projectedFields`的&#x200B;*501未实现错误* | 新文章 | 了解在请求正文中将Dynamic Media [!DNL OpenAPI]投放层搜索API与`projectedFields`或`facets`结合使用时返回一个&#x200B;*501未实现错误*&#x200B;问题的解决方案，因为这些功能的服务器端支持不可用。 |
 | 2026 年 4 月 | 由于Cloud Manager中的AEM版本已过期，[管道验证失败](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30301) | 新文章 | 了解当管道配置有过期的AEM版本而导致Adobe Experience Manager as a Cloud Service中的管道验证失败时问题的解决方案。 |
 | 2026 年 4 月 | 在AEMaaCS的后端请求中缺少[营销查询参数](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30333) | 新文章 | 了解当营销查询参数（如`utm_*`、`cid`和`bid`）对后端servlet或服务不可用，因为CDN在请求到达Dispatcher或AEM之前删除了这些参数时问题的解决方案。 |
 | 2026 年 4 月 | [正在应用 [!DNL Subresource Integrity] 并限制对Adobe RUM脚本的直接访问](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30336) | 新文章 | 了解当Adobe Experience Manager as a Cloud Service中的Adobe [!DNL Real User Monitoring] (RUM)脚本公开内部环境详细信息并直接从发布者域访问时问题的解决方案，即使在启用外部域配置后也是如此。 |
-| 2026 年 4 月 | [**[!UICONTROL 以发布的形式查看&#x200B;]**对于AEM中未发布的页面返回404](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30269) | 新文章 | 了解对当前未发布的页面使用&#x200B;**[!UICONTROL 以发布的形式查看]**&#x200B;功能时问题的解决方案。如果页面以前设置了`offTime`，则显示404错误。 |
+| 2026 年 4 月 | [**[!UICONTROL 以发布的形式查看&#x200B;]**&#x200B;对于AEM中未发布的页面返回404](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30269) | 新文章 | 了解对当前未发布的页面使用&#x200B;**[!UICONTROL 以发布的形式查看]**&#x200B;功能时问题的解决方案。如果页面以前设置了`offTime`，则显示404错误。 |
 
 ## [!DNL Adobe Commerce] {#commerce}
 
 访问 [!DNL Adobe Commerce] 的发行说明、新教程和知识库支持文章。
 
-* [ [!DNL Adobe Commerce] 和 [!DNL Magento Open Source] 的发行说明](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/release/notes/overview){target="_blank"}
+* [&#x200B; [!DNL Adobe Commerce] 和 [!DNL Magento Open Source] 的发行说明](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/release/notes/overview){target="_blank"}
 * [Adobe [!DNL Commerce] 服务指南](https://experienceleague.adobe.com/zh-hans/docs/commerce/user-guides/home){target="_blank"}
 * [产品可用性](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/release/product-availability){target="_blank"}
 
