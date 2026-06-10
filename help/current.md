@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: b50bb01766d8cfadeeed250b7fc0d5a6e5b084ed
+source-git-commit: 877f89e212d5753fe765a5f1bac14bc61891b0bf
 workflow-type: tm+mt
-source-wordcount: '6063'
+source-wordcount: '6061'
 ht-degree: 52%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 52%
 * 了解CX Enterprise中新增的创作AI和代理AI功能
 * 查找导向特定应用程序发行说明的所有链接
 * 查找 Experience League 上提供的最新学习机会（Adobe 的 CX Enterprise 帮助网站）
-* 了解新活动的相关信息
+* 了解Experience League上的新活动
 * 查看最新支持文章
 
 <!--
@@ -28,7 +28,7 @@ ht-degree: 52%
 >To receive an email notification about updates to this page, subscribe to the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 -->
 
-最近更新：**2026年6月9日**
+最近更新：**2026年6月10日**
 
 ## 新增功能
 
