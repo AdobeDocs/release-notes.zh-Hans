@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: January 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: de4e6828e89183af7c845d6ca445c9326b3af804
+source-git-commit: 8f10855ecf307977cb13bee410a823c0102138cc
 workflow-type: tm+mt
 source-wordcount: '7264'
 ht-degree: 30%
@@ -276,7 +276,7 @@ Experience Manager as a Cloud Service的最新视频教程和支持文章
 | 2026年5月 | 在AEM生产环境中[特定用户登录失败](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-30530) | 新文章 | 了解当特定用户在Adobe Experience Manager as a Cloud Service生产环境中登录失败（尽管分配了正确的产品配置文件）时的问题的解决方案。 |
 | 2026年5月 | [多字段容器在通用编辑器中生成空的HTML或重复块](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-30402) | 新文章 | 了解当Edge Delivery的通用编辑器中的多字段容器在配置多值容器字段时呈现空HTML元素或重复块标记时问题的解决方案。 |
 | 2026年5月 | [在AEM as a Cloud Service中找到专用出口IP](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-30534) | 新文章 | 了解当专用出口IP在Adobe Experience Manager as a Cloud Service中保持启用状态，但界面不显示分配的IP地址时，问题的解决方案。 |
-| 2026年5月 | [体验片段Live Copy需要在AEM中选择&#x200B;**[!UICONTROL 转出配置]**](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-30482) | 新文章 | 了解在Adobe Experience Manager中创建体验片段的Live Copy变量时需要选择&#x200B;**[!UICONTROL 转出配置]**&#x200B;并跳过它生成一个断开连接的空白变量时问题的解决方案。 |
+| 2026年5月 | [体验片段Live Copy需要在AEM中选择&#x200B;**[!UICONTROL 转出配置]**](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-30482) | 新文章 | 了解在Adobe Experience Manager中创建体验片段的Live Copy变量时需要选择[!UICONTROL 转出配置]并跳过它生成一个断开连接的空白变量时问题的解决方案。 |
 | 2026年5月 | [使用自定义程序级产品配置文件时未发送通知电子邮件](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-30536) | 新文章 | 了解当Adobe Experience Manager as a Cloud Service中的通知电子邮件未送达所有目标收件人时问题的解决方案，因为具有程序级读取权限的自定义产品配置文件按程序访问权限过滤收件人。 |
 | 2026年5月 | [*在AEM as a Cloud Service中访问作者时出现错误500-001*](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-30294) | 新文章 | 了解访问Adobe Experience Manager as a Cloud Service中的创作环境时问题的解决方案，该问题显示&#x200B;*错误500-001：无法加载页面*&#x200B;消息，因为[!UICONTROL Unified Shell]流量未在Edge/CDN层正确路由。 |
 | 2026年5月 | [在AEM Edge Delivery站点中配置`lang`属性](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-31723) | 新文章 | 了解当Adobe Experience Manager Universal Editor和Edge Delivery Services站点中的静态HTML输出不包含HTML元素上的`lang`属性时问题的解决方案。 |
@@ -287,7 +287,7 @@ Experience Manager as a Cloud Service的最新视频教程和支持文章
 | 2026年5月 | [Assets不在AEMaaCS中从上传移动到目标文件夹](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-30538) | 新文章 | 了解当资产由于存储库提交冲突而移动自定义工作流失败而卡在Adobe Experience Manager as a Cloud Service的上传或暂存文件夹中的问题解决方案。 |
 | 2026年5月 | AEM Assets[&#128279;](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-30570)中缺少[!DNL ACS AEM Commons] 菜单和[!UICONTROL CSV导出程序] | 新文章 | 了解由于Cloud Service环境中不支持的[!DNL ACS AEM Commons]包而导致Adobe Experience Manager Assets中的[!UICONTROL 工具]菜单中缺少[!UICONTROL CSV导出程序]时问题的解决方案。 |
 | 2026年5月 | [工作流自动清除在AEMaaCS中留下空文件夹](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-30363) | 新文章 | 了解在Adobe Experience Manager as a Cloud Service中运行工作流自动清除功能时问题的解决方案，该功能会删除工作流实例节点，但会在`/var/workflow/instances`下留下空容器文件夹。 |
-| 2026年5月 | 由于&#x200B;**[!UICONTROL 核心组件数据层]**&#x200B;配置不正确，[部署失败](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-30388) | 新文章 | 了解当Adobe Experience Manager as a Cloud Service的Cloud Manager部署在[!UICONTROL 安装可变内容]步骤期间失败时该问题的解决方案，因为&#x200B;**[!UICONTROL 核心组件数据层]**&#x200B;配置节点创建为`cq:Page`，不支持所需的enabled属性。 |
+| 2026年5月 | 由于&#x200B;**[!UICONTROL 核心组件数据层]**&#x200B;配置不正确，[部署失败](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-30388) | 新文章 | 了解当Adobe Experience Manager as a Cloud Service的Cloud Manager部署在[!UICONTROL 安装可变内容]步骤期间失败时该问题的解决方案，因为[!UICONTROL 核心组件数据层]配置节点创建为`cq:Page`，不支持所需的enabled属性。 |
 | 2026年5月 | [RDE页面加载失败，在AEMaaCS中出现&#x200B;*错误500-001*](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-30404) | 新文章 | 了解在Adobe Experience Manager as a Cloud Service的快速开发环境(RDE)中发生页面加载失败（出现&#x200B;*错误500-001*，因为所需的捆绑包和运行状况检查失败）时问题的解决方案。 |
 | 2026年5月 | AEMaaCS中的批量翻译作业中的[自定义[!UICONTROL PageEvent]处理程序间歇性失败](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-30445) | 新文章 | 了解当已翻译页面的自定义后处理在Adobe Experience Manager as a Cloud Service中的批量翻译作业完成后无法始终触发，因此某些页面的别名更新和预览复制无法运行时的问题的解决方案。 |
 | 2026年5月 | 由于Dispatcher重定向，[子域无法验证](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-30531) | 新文章 | 了解当子域在Cloud Manager for Adobe Experience Manager as a Cloud Service中验证失败时（即使Apex域验证成功，因为Dispatcher配置重定向所有请求并阻止所需的2xx响应），该问题的解决方案。 |
