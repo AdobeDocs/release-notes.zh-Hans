@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: January 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: 8f10855ecf307977cb13bee410a823c0102138cc
+source-git-commit: 0cda8de324d183a470a80ce198d797d46410fb63
 workflow-type: tm+mt
-source-wordcount: '7264'
-ht-degree: 30%
+source-wordcount: '7107'
+ht-degree: 28%
 
 ---
 
@@ -28,14 +28,27 @@ ht-degree: 30%
 >To receive an email notification about updates to this page, subscribe to the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 -->
 
-最近更新：**2026年6月11日**
+最近更新：**2026年6月16日**
 
 ## 新增功能
 
-* [新发行说明 — 所有应用程序](#application-release-notes)
 * [CX Enterprise中的新AI功能](#ai)
+* [新发行说明 — 所有应用程序](#application-release-notes)
 * [即将召开的网络研讨会和活动](#events)
 * [新的教程和支持文章](#articles)
+
+## CX Enterprise中的新AI功能 {#ai}
+
+查找为CX Enterprise中的创新型和代理型AI发布的最新学习资源。
+
+| 应用程序 | 更新 | 描述 | 更新 |
+| ------- | ------- | ------- | ------- |
+| CX Enterprise | **[!DNL Coworker]** | CX Enterprise Co-worker是一个代理AI应用程序，它实现了端到端客户体验工作流的自动化。 它会在数小时内通过内置治理功能检测信号、构建受众和启动营销活动。 | 2026年6月11日 |
+| CX Enterprise | **代理AI功能目录** | 发现您的许可CX Enterprise应用程序中提供了哪些代理AI作业。 查找有关[Adobe Experience Platform代理作业和AI积分消耗的链接](https://experienceleague.adobe.com/zh-hans/docs/core-services/interface/features/ai-credit-consumption)。 | 2026年6月11日 |
+| [!DNL CX Enterprise] | **[!UICONTROL 正在监视]** | CX Enterprise现在提供[AI监视仪表板](https://experienceleague.adobe.com/zh-hans/docs/core-services/interface/features/monitoring){target="_blank"}以监视现有应用程序中的代理AI使用情况。 跟踪采用、审查对话和反馈，并管理通过AI Assistant和其他对话界面访问的Experience Platform代理的AI信用消耗。 概述、用户、反馈和AI信用视图有助于治理利益相关者使用数据指导采用。 | 2026年6月2日 |
+| [!DNL CX Enterprise] - Experience League | **AI培训** | Experience League的[AI中心](https://experienceleague.adobe.com/zh-hans/ai-training){target="_blank"}可帮助营销人员为日常营销工作构建实用的AI技能。 向面临着相同挑战的同行学习，探索行之有效的方法。 | 2026年4月15日 |
+| [!DNL CX Enterprise] | **Microsoft 365 Copilot的营销代理** | 了解[Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms){target="_blank"}如何将Experience Platform直接连接到Microsoft 365 Copilot。 | 2026 年 4 月 6 日 |
+| [!DNL AEM CS] | **Cloud Manager MCP 服务器** | 了解[Cloud Manager MCP服务器](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/cloud-service/ai/mcp-servers/cloud-manager){target="_blank"}如何使AI工具与AEM as a Cloud Service交互以管理程序、环境、存储库和管道。 | 2026 年 4 月 6 日 |
 
 ## 新发行说明 — 所有应用程序 {#application-release-notes}
 
@@ -71,7 +84,7 @@ ht-degree: 30%
 | [!DNL Adobe Campaign] v8 | 2026年3月11日 | [[!DNL Campaign] v8发行说明](https://experienceleague.adobe.com/zh-hans/docs/campaign/campaign-v8/releases/release-notes){target="_blank"} | <ul><li>Debian 13和PostgreSQL 17升级</li><li>安全性和稳定性修复</li></ul> |
 | [!DNL Adobe Campaign Standard] | 2026年2月(26.2) | [[!DNL Campaign Standard] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/campaign-standard/using/release-notes/release-notes){target="_blank"} | <ul><li>安全修复</li><li>其他修复</li></ul> |
 | [!DNL Adobe Campaign Classic] v7 | 2026年6月 | [[!DNL Campaign Classic] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/campaign-classic/using/release-notes/latest-release){target="_blank"} | <ul><li>安全更新（v7.4.3 6月版本）</li><li>Debian 13和PostgreSQL 17升级</li></ul> |
-| [!DNL Adobe Journey Optimizer] | 2026年6月 | [[!DNL Journey Optimizer] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>历程表达式人工智能助手（公共Beta）</li><li>非循环读取受众历程的自动完成</li><li>自定义操作中基于证书的自定义身份验证</li><li>历程模拟（有限可用）</li><li>历程片段（限量发布）</li></ul> |
+| [!DNL Adobe Journey Optimizer] | 2026年6月 | [[!DNL Journey Optimizer] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>历程表达式的 AI 助手（公共 Beta 版）</li><li>非循环读取受众历程的自动完成</li><li>自定义操作中基于证书的自定义身份验证</li><li>历程模拟（有限可用）</li><li>历程片段（有限发布）</li></ul> |
 | [!DNL Adobe Journey Optimizer B2B Edition] | 2026年5月22日 | [Journey Optimizer B2B edition发行说明](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-b2b/user/release-notes){target="_blank"} | <ul><li>登陆页面</li><li>表单</li><li>帐户列表筛选器成员</li><li>体验事件历史记录筛选</li><li>下一个最佳路径历程节点</li></ul> |
 | [!DNL Adobe Marketo Engage] | 2026年5月 | [Marketo Engage当前发行说明](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/release-notes/current){target="_blank"} | <ul><li>Marketo人工智能</li><li>Marketo Engage MCP服务器</li><li>电子邮件片段的电子邮件Designer条件内容</li><li>选取列表管理</li></ul> |
 | [!DNL Marketo Engage] [!DNL Dynamic Chat] | 2026年3月 | [Dynamic Chat发行说明](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/release-notes/dynamic-chat){target="_blank"} | <ul><li>访客等待时间限制</li><li>下载成绩单</li><li>路由逻辑改进</li></ul> |
@@ -79,22 +92,6 @@ ht-degree: 30%
 | [!DNL Adobe Workfront Fusion] | 2026年6月 | [Adobe Workfront Fusion发布活动](https://experienceleague.adobe.com/zh-hans/docs/workfront-fusion/using/fusion-release-activity/fusion-releases-2026/fusion-2026-6-1){target="_blank"} | <ul><li>重新触发程序特定的场景执行</li><li>“运行一次”功能的更新</li></ul> |
 | [!DNL Adobe GenStudio for Performance Marketing] | 2026年3月 | [GenStudio for Performance Marketing发行说明](https://experienceleague.adobe.com/zh-hans/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest){target="_blank"} | <ul><li>Meta、LinkedIn和Display on Horizon画布的快速模板</li><li>TikTok信息源中视频广告创建、批准和激活</li></ul> |
 | [!DNL Adobe Pass] | 2026年5月(3.7.0.2) | [Adobe Pass 3.7.0发行说明](https://experienceleague.adobe.com/en/docs/pass/authentication/product-releases/2026/auth-rn-370){target="_blank"} | <ul><li>PKCE支持基于OAuth2的MVPD身份验证</li><li>TVE功能板1.5.1</li><li>Apple SSO配置不匹配修复</li><li>HTTP 500 authorization-deny修复</li></ul> |
-
-## CX Enterprise中的新AI功能 {#ai}
-
-查找为CX Enterprise中的创新型和代理型AI发布的新知识和最新学习资源。
-
-| 产品 | 资源 | 描述 | 更新 |
-| ------- | ------- | ------- | ------- |
-| CX Enterprise Co-worker （正式发布） | 即将推出 | CX Enterprise Co-worker是一个代理AI应用程序，它实现了端到端客户体验工作流的自动化。 它会在数小时内通过内置治理功能检测信号、构建受众和启动营销活动。 | **2026年6月11日** |
-| CX企业版 | CX Enterprise Agentic AI功能目录 | 发现您的许可CX Enterprise应用程序中提供了哪些代理AI作业。 查找有关[Adobe Experience Platform代理作业和AI积分消耗的链接](https://experienceleague.adobe.com/zh-hans/docs/core-services/interface/features/ai-credit-consumption)。 | **2026年6月11日** |
-| [!DNL CX Enterprise] | [AI监视仪表板](https://experienceleague.adobe.com/zh-hans/docs/core-services/interface/features/monitoring){target="_blank"} | CX Enterprise现在提供了用于监视现有应用程序中代理AI使用情况的仪表板。 跟踪采用、审查对话和反馈，并管理通过AI Assistant和其他对话界面访问的Experience Platform代理的AI信用消耗。 概述、用户、反馈和AI信用视图有助于治理利益相关者使用数据指导采用。 | **2026年6月2日** |
-| [!DNL CX Enterprise] - Experience League | [AI 中心](https://experienceleague.adobe.com/zh-hans/ai-training){target="_blank"} | Experience League 的 AI 中心可帮助营销人员为日常营销工作构建实用的 AI 技能。 向面临着相同挑战的同行学习，探索行之有效的方法。 | 2026年4月15日 |
-| [!DNL CX Enterprise] | [Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms){target="_blank"} | 了解 Adobe Marketing Agent for Microsoft 365 Copilot 如何将 Experience Platform 直接与 Microsoft 365 Copilot 连接。 | 2026 年 4 月 6 日 |
-| [!DNL AEM CS] | [Cloud Manager MCP 服务器](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/cloud-service/ai/mcp-servers/cloud-manager){target="_blank"} | 了解 Cloud Manager MCP 服务器如何使 AI 工具与 AEM as a Cloud Service 交互，以管理项目、环境、存储库和管道。 | 2026 年 4 月 6 日 |
-| [!DNL Acrobat Services] | [Acrobat分析器](https://experienceleague.adobe.com/zh-hans/docs/events/acrobat-analyzer-webinars/overview){target="_blank"} | 探索Adobe Acrobat Analyzer网络研讨会，了解Generative AI如何从文档中提取结构化、可审核的分析，以自动化工作流、降低风险和大规模加快企业决策。 | 2026 年 3 月 10 日 |
-| [!DNL CX Enterprise] | [Adobe Experience Platform代理可提高营销效率并改善业务成果](https://www.youtube.com/live/VlxHXfEnqjI){target="_blank"} | 这个独家会议是一个与 Adobe CX Enterprise 高级副总裁 Anjul Bhambhri 进行的富有洞察力的问答会。 探索Adobe的历程以及大胆的愿景，提供创新的Agentic AI功能，这些功能可让营销和创意从业人员自动执行复杂步骤、加快决策并扩展团队容量，同时不影响控制或监督。 | 2026 年 3 月 3 日 |
-| [!DNL CX Enterprise] | [代理作业和AI积分消耗](https://experienceleague.adobe.com/zh-hans/docs/core-services/interface/features/ai-credit-consumption){target="_blank"} | 了解 CX Enterprise 应用程序中的代理工作和 AI 积分消耗率。 | 2026 年 3 月 3 日 |
 
 ## 即将召开的网络研讨会和活动 {#events}
 
@@ -367,7 +364,7 @@ New or updated videos tutorials published for Adobe Campaign.
 
 | 发布日期 | 应用程序 | 名称 | 类型 | 描述 |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
-| 2026年6月 | [!DNL Journey Optimizer] | [将历程节点另存为片段](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-fragments){target="_blank"} | 视频 | 了解如何在Adobe Journey Optimizer中将旅程节点另存为可重用片段。 通过跨多个历程重用复杂模式来简化工作流并确保一致性。 |
+| 2026年6月 | [!DNL Journey Optimizer] | [将历程节点另存为片段](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/journeys/journey-fragments){target="_blank"} | 视频 | 了解如何在Adobe Journey Optimizer中将旅程节点另存为可重用片段。 通过跨多个历程重用复杂模式来简化工作流并确保一致性。 |
 | 2026年5月 | [!DNL Journey Optimizer] | [讲座2 — 了解排名方法](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/ai-powered-decisioning-for-web-experiences/lecture-2-understand-ranking-methods){target="_blank"} | 视频 | 了解Adobe Journey Optimizer Decisioning中可用的各种排名方法。 探索AI优化模型和基于规则的排名公式以改进个性化优惠。 |
 | 2026年5月 | [!DNL Journey Optimizer] | [练习2 — 暗藏中：优惠、收藏集和决策规则](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/ai-powered-decisioning-for-web-experiences/exercise-2-under-the-hood){target="_blank"} | 视频 | 探索如何在Adobe Journey Optimizer Decisioning中配置优惠、收藏集和资格规则。 了解这些元素如何控制哪些客户有资格享受哪些产品优惠。 |
 | 2026年6月 | [!DNL Journey Optimizer] | [创建 Web 营销活动](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=zh-Hans){target="_blank"} | 视频 | 了解什么是Web营销活动以及如何在Adobe Journey Optimizer中配置其资产。 了解如何查看和发布Web营销活动，以提供个性化的Web体验。 |
