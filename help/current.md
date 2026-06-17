@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: 0cda8de324d183a470a80ce198d797d46410fb63
+source-git-commit: cb1d954668ee47f2414313cb624c7662b3aef1e4
 workflow-type: tm+mt
-source-wordcount: '7107'
+source-wordcount: '7116'
 ht-degree: 28%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 28%
 
 | 应用程序 | 更新 | 描述 | 更新 |
 | ------- | ------- | ------- | ------- |
-| CX Enterprise | **[!DNL Coworker]** | CX Enterprise Co-worker是一个代理AI应用程序，它实现了端到端客户体验工作流的自动化。 它会在数小时内通过内置治理功能检测信号、构建受众和启动营销活动。 | 2026年6月11日 |
+| CX Enterprise | **[!DNL Coworker]** | [CX Enterprise Co-worker](https://experienceleague.adobe.com/en/docs/cx-enterprise-coworker/content/home)是一个自动执行端到端客户体验工作流的代理AI应用程序。 它会在数小时内通过内置治理功能检测信号、构建受众和启动营销活动。 | 2026年6月11日 |
 | CX Enterprise | **代理AI功能目录** | 发现您的许可CX Enterprise应用程序中提供了哪些代理AI作业。 查找有关[Adobe Experience Platform代理作业和AI积分消耗的链接](https://experienceleague.adobe.com/zh-hans/docs/core-services/interface/features/ai-credit-consumption)。 | 2026年6月11日 |
 | [!DNL CX Enterprise] | **[!UICONTROL 正在监视]** | CX Enterprise现在提供[AI监视仪表板](https://experienceleague.adobe.com/zh-hans/docs/core-services/interface/features/monitoring){target="_blank"}以监视现有应用程序中的代理AI使用情况。 跟踪采用、审查对话和反馈，并管理通过AI Assistant和其他对话界面访问的Experience Platform代理的AI信用消耗。 概述、用户、反馈和AI信用视图有助于治理利益相关者使用数据指导采用。 | 2026年6月2日 |
 | [!DNL CX Enterprise] - Experience League | **AI培训** | Experience League的[AI中心](https://experienceleague.adobe.com/zh-hans/ai-training){target="_blank"}可帮助营销人员为日常营销工作构建实用的AI技能。 向面临着相同挑战的同行学习，探索行之有效的方法。 | 2026年4月15日 |
