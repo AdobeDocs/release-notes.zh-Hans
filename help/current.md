@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: January 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: cb1d954668ee47f2414313cb624c7662b3aef1e4
+source-git-commit: fee1ea6a1eee833f040e73e5fa19ef25be81043c
 workflow-type: tm+mt
-source-wordcount: '7116'
-ht-degree: 98%
+source-wordcount: '7175'
+ht-degree: 97%
 
 ---
 
@@ -28,14 +28,22 @@ ht-degree: 98%
 >To receive an email notification about updates to this page, subscribe to the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 -->
 
-最近更新：**2026年6月16日**
+最近更新：**2026年6月19日**
 
 ## 新增功能
 
+* [新活动和网络研讨会](#events)
 * [CX Enterprise 中的新 AI 功能](#ai)
 * [新版发行说明 - 所有应用程序](#application-release-notes)
-* [即将举行的网络研讨会和活动](#events)
 * [新教程和支持文章](#articles)
+
+## 新活动和网络研讨会 {#events}
+
+| 日期 | 活动 | 描述 |
+| ------- | ------- | ------- |
+| 2026年6月17日 | [Experience League直播 — Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-17-26#how-to-efficiently-test-simulate-and-validate-journeys-before-going-live) | 在启动之前测试和验证您的历程，并了解如何使用全新的历程模拟来进一步验证您的历程。 |
+
+如需查看所有活动，请访问 [Experience League 活动](https://experienceleague.adobe.com/en/events)。
 
 ## CX Enterprise 中的新 AI 功能 {#ai}
 
@@ -93,10 +101,6 @@ ht-degree: 98%
 | [!DNL Adobe GenStudio for Performance Marketing] | 2026年3月 | [GenStudio for Performance Marketing 发行说明](https://experienceleague.adobe.com/zh-hans/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest){target="_blank"} | <ul><li>适用于 Meta、LinkedIn 和 Horizon Canvas 展示广告的 Express 模板</li><li>TikTok 信息流视频广告创建、审批和激活</li></ul> |
 | [!DNL Adobe Pass] | 2026 年 5 月（3.7.0.2） | [Adobe Pass 3.7.0 发行说明](https://experienceleague.adobe.com/zh-hans/docs/pass/authentication/product-releases/2026/auth-rn-370){target="_blank"} | <ul><li>支持基于 OAuth2 的 MVPD 身份验证 PKCE</li><li>TVE Dashboard 1.5.1</li><li>修复 Apple SSO 配置不匹配问题</li><li>修复 HTTP 500 授权拒绝问题</li></ul> |
 
-## 即将举行的网络研讨会和活动 {#events}
-
-如需查看所有活动，请访问 [Experience League 活动](https://experienceleague.adobe.com/zh-hans/events)。
-
 ## 新教程和支持文章 {#articles}
 
 最新教程和支持文章链接。 Adobe System Status 发行说明如下所示：
@@ -126,7 +130,7 @@ ht-degree: 98%
 
 ### [!DNL Adobe System Status] {#status}
 
-[!DNL Adobe System Status] 提供了关于 Adobe 产品与服务的详细信息、状态更新以及电子邮件通知。 获取有关故障、中断和维护活动的通知。 请在 [status.adobe.com](https://status.adobe.com/zh-cn/){target="_blank"} 上查看它。
+[!DNL Adobe System Status] 提供了关于 Adobe 产品与服务的详细信息、状态更新以及电子邮件通知。 获取有关故障、中断和维护活动的通知。 请在 [status.adobe.com](https://status.adobe.com/){target="_blank"} 上查看它。
 
 * AI 虚拟助手测试版
 * 错误修复和改进
@@ -207,7 +211,7 @@ New articles and updates to existing articles for [!DNL Analytics].
 
 | Published | Name | Type | Description |
 | --------- | -------- | --------- | --------- |
-| February 2026 | [Data Warehouse export contains values exceeding 255 bytes due to escape sequences](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-29977){target="_blank"} | New article | Learn about the solutions to the issue when Data Warehouse export contains field values that exceed the 255-byte limit because special characters are escaped with additional backslashes. |
+| February 2026 | [Data Warehouse export contains values exceeding 255 bytes due to escape sequences](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29977){target="_blank"} | New article | Learn about the solutions to the issue when Data Warehouse export contains field values that exceed the 255-byte limit because special characters are escaped with additional backslashes. |
 -->
 
 ### [!DNL Adobe Customer Journey Analytics] {#cja}
@@ -233,8 +237,8 @@ New articles and updates to existing articles for [!DNL Customer Journey Analyti
 
 | Published | Name | Type | Description |
 | --------- | ---- | ---- | ----------- |
-| April 2026 | [Invalid `dataId` errors when creating segments using the CJA Segments API](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-30373) | New article | Learn about the solutions to the issue when creating a segment using the Customer Journey Analytics Segments API fails when the request includes an invalid `dataId` or the `dataId` value is incorrect or inaccessible. |
-| April 2026 | [CJA **[!UICONTROL Alert Manager]** doesn't show all alerts](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-30380) | New article | Learn about the solutions to the issue when only a subset of alerts appears in the CJA **[!UICONTROL Alert Manager]** because alert visibility depends on whether the user is a product admin. |
+| April 2026 | [Invalid `dataId` errors when creating segments using the CJA Segments API](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30373) | New article | Learn about the solutions to the issue when creating a segment using the Customer Journey Analytics Segments API fails when the request includes an invalid `dataId` or the `dataId` value is incorrect or inaccessible. |
+| April 2026 | [CJA **[!UICONTROL Alert Manager]** doesn't show all alerts](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30380) | New article | Learn about the solutions to the issue when only a subset of alerts appears in the CJA **[!UICONTROL Alert Manager]** because alert visibility depends on whether the user is a product admin. |
 -->
 
 ### [!DNL Adobe Experience Manager] {#aem}
@@ -335,8 +339,8 @@ New or updated videos tutorials published for Adobe Campaign.
 
 | Published | Application | Name | Type | Description |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
-| August 2025 | Campaign v8 Web User Interface |[Enhance a delivery with dynamic content](https://experienceleague.adobe.com/zh-hans/docs/campaign-web-learn/tutorials/content-management/enhance-a-delivery-with-dynamic-content){target="_blank"} | Video tutorial | Learn how to use the generative AI powered Content Generator to create and enhance the email content, optimizing your email deliveries to better resonate with your audience. |
-| August 2025 | Campaign v8 Web User Interface |[Configure JavaScript code activity](https://experienceleague.adobe.com/zh-hans/docs/campaign-web-learn/tutorials/workflows/configure-java-script-code-activity){target="_blank"} | Video tutorial | Learn how to use the JavaScript Code activity in Adobe Campaign Web v8 to enhance your workflows. This tutorial covers both simple and advanced scripting modes. It explains execution settings and error handling. View real-world examples, such as targeting VIP profiles, transforming data, and triggering conditional operations. |
+| August 2025 | Campaign v8 Web User Interface |[Enhance a delivery with dynamic content](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/content-management/enhance-a-delivery-with-dynamic-content){target="_blank"} | Video tutorial | Learn how to use the generative AI powered Content Generator to create and enhance the email content, optimizing your email deliveries to better resonate with your audience. |
+| August 2025 | Campaign v8 Web User Interface |[Configure JavaScript code activity](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/workflows/configure-java-script-code-activity){target="_blank"} | Video tutorial | Learn how to use the JavaScript Code activity in Adobe Campaign Web v8 to enhance your workflows. This tutorial covers both simple and advanced scripting modes. It explains execution settings and error handling. View real-world examples, such as targeting VIP profiles, transforming data, and triggering conditional operations. |
 -->
 
 #### 新的 [!DNL Campaign] 支持知识库{#kb-campaign}
@@ -369,7 +373,7 @@ New or updated videos tutorials published for Adobe Campaign.
 | 2026 年 5 月 | [!DNL Journey Optimizer] | [练习 2 - 深入了解：优惠、集合和决策规则](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/ai-powered-decisioning-for-web-experiences/exercise-2-under-the-hood){target="_blank"} | 视频 | 了解如何在 Adobe Journey Optimizer Decisioning 中配置优惠、集合和资格规则。 了解这些元素如何决定哪些客户符合哪些产品优惠的资格。 |
 | 2026 年 6 月 | [!DNL Journey Optimizer] | [创建 Web 营销活动](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=zh-hans){target="_blank"} | 视频 | 了解什么是 Web 营销活动，以及如何在 Adobe Journey Optimizer 中配置其属性。 了解如何审核和发布 Web 营销活动，以提供个性化 Web 体验。 |
 | 2026 年 5 月 | [!DNL Journey Optimizer] | [创建应用程序内营销活动](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/create-campaigns/action-campaigns/in-app){target="_blank"} | 视频 | 了解什么是应用程序内消息，以及它与 Adobe Journey Optimizer 中其他消息类型的区别。 了解如何在营销活动中创建、配置和发布应用程序内消息。 |
-| 2026 年 5 月 | [!DNL Journey Optimizer] | [配置并发送推送通知活动](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/push-channel/create-a-push-campaign.html?lang=zh-Hans){target="_blank"} | 视频 | 了解如何在 Adobe Journey Optimizer 中配置和发送推送通知营销活动。 通过有针对性且及时的推送消息触达移动端受众。 |
+| 2026 年 5 月 | [!DNL Journey Optimizer] | [配置并发送推送通知活动](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/push-channel/create-a-push-campaign.html){target="_blank"} | 视频 | 了解如何在 Adobe Journey Optimizer 中配置和发送推送通知营销活动。 通过有针对性且及时的推送消息触达移动端受众。 |
 
 <!-- 
 #### New [!DNL Journey Optimizer] support knowledge base{#kb-ajo}
@@ -378,7 +382,7 @@ New articles and updates to existing articles for [!DNL Journey Optimizer].
 
 | Published | Name | Type | Description |
 | --------- | ---- | ---- | ----------- |
-| January 2026 | [Audience qualification fails due to event timing and batch ingestion in AJO](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-29796){target="_blank"} | New article | Learn about the solutions to the issue when audience qualification fails because events fall outside the evaluation window defined in the audience criteria in Adobe Journey Optimizer. |
+| January 2026 | [Audience qualification fails due to event timing and batch ingestion in AJO](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29796){target="_blank"} | New article | Learn about the solutions to the issue when audience qualification fails because events fall outside the evaluation window defined in the audience criteria in Adobe Journey Optimizer. |
 -->
 
 #### [!DNL Journey Optimizer] 的更多资源
@@ -420,7 +424,7 @@ New articles and updates to existing articles for [!DNL Marketo].
 
 | Published | Name | Type | Description |
 | ----------- | ---------- | ---------- | ---------- |
-| February 2026 | [Understanding persistent report subscriptions for standard analytics reports](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-29909){target="_blank"} | New article | Learn about the solutions to the issue when Marketo Engage continues sending scheduled subscription emails for standard workspace-level analytics reports even when the report isn't a custom or standalone report. |
+| February 2026 | [Understanding persistent report subscriptions for standard analytics reports](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29909){target="_blank"} | New article | Learn about the solutions to the issue when Marketo Engage continues sending scheduled subscription emails for standard workspace-level analytics reports even when the report isn't a custom or standalone report. |
 -->
 
 ### [!DNL Adobe Workfront] {#workfront}
@@ -440,12 +444,12 @@ New articles and updates to existing articles for [!DNL Workfront].
 
 | Published | Name | Type | Description |
 | ----------- | ---------- | ---------- | ---------- |
-| August 2025 | [Calendar appears blank when owner is deactivated in Workfront](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-27192){target="_blank"} | New article | Learn about the solutions to the issue when the owner of a calendar is deactivated, the calendar becomes blank, and no tasks or events are visible. |
-| August 2025 | [Error appears when assigning resource managers in Workfront](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-27251){target="_blank"} | New article | Learn about the solutions to the issue when the error *Only users with a plan license can be added as resource managers* occurs when attaching a project template that includes resource managers without the required license type. |
-| August 2025 | [Issue to project conversion grants home group "view" access by default in Workfront](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-27261){target="_blank"} | New article | Learn about the solutions to the issue when converting an issue into a project using a template in Adobe Workfront, the creator's home group automatically receives view access to the resulting project. |
-| August 2025 | [Duplicate folders auto-created in Workfront via [!DNL Fusion] scenarios](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-27287){target="_blank"} | New article | Learn about the solutions to the issue when duplicate folders are automatically created in certain Adobe Workfront projects due to active [!DNL Fusion] connections. |
-| August 2025 | [Unable to report on specific approver actions in Adobe Workfront](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-27298){target="_blank"} | New article | Learn about the solutions to the issue when Adobe Workfront reports don't natively support isolating actions taken by specific approvers in multi-stage approval workflows. |
-| August 2025 | [Unable to attach template to an existing project in Workfront](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-27305){target="_blank"} | New article | Learn about the solutions to the issue when an error occurs when attaching a template to an existing project in Adobe Workfront related to system-wide sharing permissions settings. |
+| August 2025 | [Calendar appears blank when owner is deactivated in Workfront](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27192){target="_blank"} | New article | Learn about the solutions to the issue when the owner of a calendar is deactivated, the calendar becomes blank, and no tasks or events are visible. |
+| August 2025 | [Error appears when assigning resource managers in Workfront](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27251){target="_blank"} | New article | Learn about the solutions to the issue when the error *Only users with a plan license can be added as resource managers* occurs when attaching a project template that includes resource managers without the required license type. |
+| August 2025 | [Issue to project conversion grants home group "view" access by default in Workfront](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27261){target="_blank"} | New article | Learn about the solutions to the issue when converting an issue into a project using a template in Adobe Workfront, the creator's home group automatically receives view access to the resulting project. |
+| August 2025 | [Duplicate folders auto-created in Workfront via [!DNL Fusion] scenarios](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27287){target="_blank"} | New article | Learn about the solutions to the issue when duplicate folders are automatically created in certain Adobe Workfront projects due to active [!DNL Fusion] connections. |
+| August 2025 | [Unable to report on specific approver actions in Adobe Workfront](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27298){target="_blank"} | New article | Learn about the solutions to the issue when Adobe Workfront reports don't natively support isolating actions taken by specific approvers in multi-stage approval workflows. |
+| August 2025 | [Unable to attach template to an existing project in Workfront](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27305){target="_blank"} | New article | Learn about the solutions to the issue when an error occurs when attaching a template to an existing project in Adobe Workfront related to system-wide sharing permissions settings. |
 -->
 
 有关最新的产品文档，请参阅 [Adobe [!DNL Workfront] 文档主页](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/home){target="_blank"}。
@@ -462,7 +466,7 @@ GenStudio for Performance Marketing 视频教程。
 
 * [GenStudio for Performance Marketing](https://experienceleague.adobe.com/zh-hans/browse/genstudio-for-performance-marketing){target="_blank"}（全自助）
 * GenStudio for Performance Marketing [的产品文档](https://experienceleague.adobe.com/zh-hans/docs/genstudio-for-performance-marketing/user-guide/home){target="_blank"}
-* [GenStudio for Performance Marketing](https://business.adobe.com/cn/products/genstudio-for-performance-marketing.html) 产品信息
+* [GenStudio for Performance Marketing](https://business.adobe.com/products/genstudio-for-performance-marketing.html) 产品信息
 
 ### [!DNL Adobe Pass] {#pass}
 
