@@ -479,7 +479,7 @@ New or updated videos tutorials published for Adobe Campaign.
 
 | 发布日期 | 应用程序 | 名称 | 类型 | 描述 |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
-| 2026年7月 | [!DNL Journey Optimizer] | [AJO - Claude设计演示视频](https://video.tv.adobe.com/v/3492418){target="_blank"} | 视频 | 观看演示，了解如何直接将在Claude中创建的设计发送到Adobe Journey Optimizer。 |
+| 2026年7月 | [!DNL Journey Optimizer] | [AJO - Claude设计演示视频](https://video.tv.adobe.com/v/3492426?captions=chi_hans){target="_blank"} | 视频 | 观看演示，了解如何直接将在Claude中创建的设计发送到Adobe Journey Optimizer。 |
 | 2026年7月 | [!DNL Journey Optimizer] | [根据用户档案偏好或倾向分数优化渠道](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/content-management/channel-optimization){target="_blank"} | 视频 | 了解Journey Optimizer的渠道优化功能如何使用最有效的渠道（使用手动优先级、用户档案属性或Adobe的AI模型）为客户提供帮助，以确保将消息投放到每个客户最有可能参与的地方。 |
 | 2026年7月 | [!DNL Journey Optimizer] | [如何将Experience Manager内容片段与Journey Optimizer Decisioning结合使用](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/use-decisioning/use-aem-content-fragments-with-ajo-decisioning){target="_blank"} | 视频 | 了解如何将Adobe Experience Manager内容片段与Adobe Journey Optimizer Decisioning结合使用，以个性化和优化优惠中的内容。 |
 | 2026年7月 | [!DNL Journey Optimizer] | [使用API触发营销活动](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-campaigns/api-triggered-campaigns.html?lang=zh-Hans){target="_blank"} | 视频 | 了解如何使用交互式消息执行REST API，根据用户交互从外部系统创建并触发活动。 |
