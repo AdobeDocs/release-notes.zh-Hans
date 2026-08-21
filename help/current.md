@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: August 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: 655ebfa1efb1b1365c247f9f0105467351a4e702
+source-git-commit: b0fa4b80693428f871214415f7eeb05bc3982667
 workflow-type: tm+mt
-source-wordcount: '20806'
+source-wordcount: '20832'
 ht-degree: 11%
 
 ---
@@ -21,16 +21,9 @@ ht-degree: 11%
 * 适用于所有CX Enterprise应用程序的新产品[发行说明](#application-release-notes)
 * Experience League上提供了新的[教程和支持文章](#articles)
 
-<!--
 >[!TIP]
 >
->To receive an email notification about updates to this page, subscribe to the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
--->
-<!--
->[!TIP]
->
->To receive an email notification about updates to this page, enable the [[!UICONTROL Priority Product Update]](https://account.adobe.com/magazines) on the [!UICONTROL Newsletters] page.  
--->
+>若要每月收到一封有关CX Enterprise新功能和此页面更新的电子邮件，请在[[!UICONTROL 新闻稿]](https://account.adobe.com/magazines)页面上启用&#x200B;**[!UICONTROL 产品更新优先级]**。
 
 最新更新：**2026年8月14日**
 
