@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: August 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: b0fa4b80693428f871214415f7eeb05bc3982667
+source-git-commit: 25162d69b1259beed585214bc65cc058d8ca3934
 workflow-type: tm+mt
-source-wordcount: '20832'
+source-wordcount: '21003'
 ht-degree: 11%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 11%
 >
 >若要每月收到一封有关CX Enterprise新功能和此页面更新的电子邮件，请在[[!UICONTROL 新闻稿]](https://account.adobe.com/magazines)页面上启用&#x200B;**[!UICONTROL 产品更新优先级]**。
 
-最新更新：**2026年8月14日**
+最新更新：**2026年8月31日**
 
 ## Experience League的新增功能{#events}
 
@@ -49,20 +49,22 @@ ht-degree: 11%
 
 **注意：**&#x200B;部分 CX Enterprise 应用程序按周发布新版本。 请经常查看您所使用应用程序的发行说明页面，以及时了解最新更新。
 
-上次更新日期：**2026年8月12日**
+上次更新：**2026年8月31日**
 
 | 应用程序 | 发行日期 | 发行说明 URL | 更新 |
 | ------------- | ------------- | ------------- | ------------- |
+| [!DNL Adobe Commerce] as a Cloud Service | 2026年8月12日 | [Adobe Commerce as a Cloud Service发行说明](https://experienceleague.adobe.com/zh-hans/docs/commerce/cloud-service/release-notes){target="_blank"} | <ul><li>新的发票付款事件([!DNL observer.sales_order_invoice_pay])允许集成订阅发票付款状态而不是轮询</li><li>已更新至Adobe Commerce 2.4.9，其中新的REST API端点可用于同步沙盒和生产配置（沙盒；2026年9月1日生产）</li><li>有关每个源库存库存可见性的新GraphQL [!DNL sourceAvailability]查询</li><li>GraphQL公开永久购物车和愿望清单设置</li><li>按产品、SKU或订单ID搜索客户订单</li></ul> |
 | [!DNL Adobe Experience Manager] as a Cloud Service | 2026年8月10日 | [Adobe Experience Manager as a Cloud Service 当前发行说明](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current){target="_blank"} | <ul><li>改进了针对新内容片段编辑器转出到所有RDE和开发环境的内容引用选取器</li><li>功能版本2026.7.0现已更新；2026.8.0计划于2026年8月27日发布</li><li>可视化内容片段（以带格式的HTML形式呈现内容片段输出）</li><li>在Adobe Express嵌入式编辑器中打开Photoshop (.psd)资源</li></ul> |
 | [!DNL Adobe Customer Journey Analytics] | 2026年8月10日 | [Customer Journey Analytics 发行说明](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/releases/latest?lang=en#releases){target="_blank"} | <ul><li>CJA报表API“首次调用”指南（基本报表请求配置）</li><li>子事件分析（事件中单个容器的区段）</li><li>B2B edition对临时和关系数据集的支持</li><li>CX Enterprise [!DNL Coworker]：分析Customer Journey Analytics数据</li><li>CX Enterprise [!DNL Coworker]：从Adobe Analytics迁移时验证数据</li></ul> |
 | [!DNL Adobe Analytics] | 2026年8月10日 | [[!DNL Analytics] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/analytics/release-notes/latest){target="_blank"} | <ul><li>Analytics 1.4 API生命周期结束客户常见问题解答已发布</li><li>向2.0 API添加了营销渠道参考和端点指南</li><li>子点击分析</li><li>Activity Map扩展UI刷新</li><li>AA 2.0 API搜索功能</li></ul> |
+| [!DNL Adobe Commerce Optimizer] | 2026年8月7日 | [Adobe Commerce Optimizer发行说明](https://experienceleague.adobe.com/zh-hans/docs/commerce/optimizer/release-notes){target="_blank"} | <ul><li>已将[!DNL externalIds]字段添加到目录服务GraphQL，公开产品的原始外部数据源</li><li>修复了[!DNL refineProduct]GraphQL查询，该查询返回某些可配置产品的错误价格范围和可见性</li><li>类别导航性能改进：[!DNL CategoryNavigation]查询的吞吐量更高，P99延迟更短</li><li>语义搜索（由AI提供支持，基于含义和基于上下文）已添加到高级搜索选项卡，默认情况下对符合条件的英语目录启用该功能</li><li>产品推荐单位的推荐价格过滤器（测试版）</li></ul> |
 | [!DNL Adobe Journey Optimizer] | 2026年8月5日 | [[!DNL Journey Optimizer] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>用于AI内容生成的灵活图像源（平衡、仅限Assets或从AEM Assets Essentials提取的Creative AI模式）</li><li>忠诚度挑战：利用AI支持的报表实现游戏化的忠诚度计划</li><li>渠道优化：为历程和营销活动自动选择最佳渠道</li><li>电子邮件Designer模块：拖放布局组件库</li><li>新的历程画布UI（在新版和旧版之间切换）</li></ul> |
 | [!DNL Adobe Brand Visibility]（以前称为 [!DNL Adobe LLM Optimizer]） | 2026年8月4日 | [品牌可见度发行说明](https://abv.adobe.com/articles/release-notes){target="_blank"} | <ul><li>正式发布：在品牌可见度中统一的AI可见性测量、优化和影响跟踪（从LLM Optimizer中重新命名）</li><li>使用Semrush数据新建人工智能可见性仪表板</li><li>自助品牌和域载入</li><li>提示策略功能，用于发现高影响力的提示</li><li>更广泛的LLM平台覆盖范围([!DNL Claude]、Grok、DeepSeek)</li></ul> |
 | [!DNL Adobe Campaign Classic] v7 | 2026年8月 | [[!DNL Campaign Classic] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/campaign-classic/using/release-notes/latest-release){target="_blank"} | <ul><li>安全更新（v7.4.3，内部版本9399,8月3日）</li><li>安全更新（v7.4.3，内部版本9398,7月29日）</li><li>安全修复和webForm.jsp ctx-parameter行为更改（内部版本9397）</li></ul> |
 | [!DNL Adobe Target] | 2026年7月30日 | [[!DNL Adobe Target] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/target/using/release-notes/release-notes){target="_blank"} | <ul><li>A/B测试的贝叶斯统计信息（手动）</li><li>自动分配活动的Customer Journey Analytics报表</li><li>修复了选择或修改HTML或体验片段选件时可视化体验编辑器崩溃的问题</li></ul> |
 | Adobe Advertising | 2026年7月29日 | [Advertising Search、Social 与 Commerce 的新增功能](https://experienceleague.adobe.com/zh-hans/docs/advertising/search-social-commerce/home){target="_blank"} | <ul><li>AI Max功能在新UI中跨营销活动、广告组和创意管理进行了扩展</li><li>通过Experience Platform Web SDK进行Customer Journey Analytics数据交换</li><li>计划报表、批量处理工作表、广告网络经理帐户和支出计划者现在位于新UI中</li><li>Google AI最大搜索词报表</li><li>下载所有项目组合的“批量操作”页面</li><li>对所有Google Ads营销活动的AI Max优化支持</li></ul> |
 | [!DNL Adobe Experience Platform and Real-Time CDP] | 2026年7月28日 | [[!DNL Experience Platform] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/experience-platform/release-notes/latest){target="_blank"} | <ul><li>目标：受众/目标筛选、每小时增量导出、Microsoft Ads客户匹配和广告支持</li><li>Real-Time CDP：频谱2视觉化刷新</li><li>Real-Time Customer Profile：加快导出和激活速度</li><li>分段服务：支持外部受众JSON/Parquet；区段匹配将于2026年11月27日终止</li><li>源：已添加Google Ads和Meta Ads源</li></ul> |
-| [!DNL Adobe Campaign] Web 用户界面 | 2026年7月28日 | [Campaign Web UI 发行说明](https://experienceleague.adobe.com/zh-hans/docs/campaign-web/v8/release-notes/release-notes){target="_blank"} | <ul><li>直接在Web UI中进行选件管理（目录构建、资格规则、部署）</li><li>不通过客户端控制台进行品牌配置</li><li>电子邮件Designer中的公共资源</li><li>数据加载(RDBMS)工作流活动</li><li>在Web UI中创建和管理Dynamic JavaScript页面(JSSP)</li></ul> |
+| [!DNL Adobe Campaign] Web 用户界面 | 2026年7月28日 | [Campaign Web UI 发行说明](https://experienceleague.adobe.com/zh-hans/docs/campaign-web/v8/release-notes/release-notes){target="_blank"} | <ul><li>直接在Web UI中进行选件管理（目录构建、资格规则、部署）</li><li>不通过客户端控制台进行品牌配置</li><li>电子邮件设计器中的公共资源</li><li>数据加载 (RDBMS) 工作流活动</li><li>在Web UI中创建和管理Dynamic JavaScript页面(JSSP)</li></ul> |
 | [!DNL Adobe GenStudio for Performance Marketing] | 2026年7月16日 | [GenStudio for Performance Marketing 发行说明](https://experienceleague.adobe.com/zh-hans/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest){target="_blank"} | <ul><li>在Horizon画布上进行批量编辑（链接的文本/图像字段将跨大小和页面传播编辑内容）</li><li>向交易台显示广告激活</li><li>内容片段交换：将文本块替换为AEM中预批准、可重用的内容片段</li></ul> |
 | [!DNL Experience Platform]Mobile SDK | 2026年7月16日 | [[!DNL Experience Platform] Mobile SDK 发行说明](https://developer.adobe.com/client-sdks/documentation/release-notes/){target="_blank"} | <ul><li>React Native Optimize 7.2.0：React Native Turbo Module支持</li><li>iOS EdgeIdentity 5.1.0：将timeZone配置文件属性同步到Edge（需要AEPCore 5.10.0+）</li><li>iOS Core 5.10.0：新的updateProfileAttributes API</li><li>Android Core 3.8.0：更新用于时区同步的配置文件属性API</li><li>Android BOM 3.20.0：更新了核心、EdgeIdentity和优化扩展</li></ul> |
 | [!DNL CX Enterprise] | 2026年7月10日 | [CX Enterprise 中央 UI 与管理](https://experienceleague.adobe.com/zh-hans/docs/core-services/interface/more-resources/release-notes){target="_blank"} | <ul><li>CX对联合来宾帐户的企业级支持（7月10日）</li><li>CX Enterprise [!DNL Coworker]：用于CX工作流的代理AI应用程序（6月11日）</li><li>Agentic AI使用监控仪表板（6月1日）</li><li>Adobe CX Enterprise界面更新（深色模式，改进的辅助功能）（4月20日）</li></ul> |
@@ -541,7 +543,7 @@ Adobe Commerce 的新文章和现有文章的更新。
 | 2026年7月 | [!DNL Journey Optimizer] | [为忠诚度挑战配置奖励](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/loyalty/configure-your-challenge/configure-rewards){target="_blank"} | 视频 | 了解如何通过选择奖励类型、定义投放方法和在关键里程碑或挑战完成时奖励参与者来配置挑战奖励。 |
 | 2026年7月 | [!DNL Journey Optimizer] | [设置忠诚度挑战](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/loyalty/configure-your-challenge/set-up-a-loyalty-challenge){target="_blank"} | 视频 | 了解如何通过选择正确的挑战类型、配置受众和时间表、定义参与规则以及控制如何跟踪和奖励进度来设置忠诚度挑战。 |
 | 2026年7月 | [!DNL Journey Optimizer] | [为您的忠诚度挑战创建任务](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/loyalty/configure-your-challenge/create-tasks){target="_blank"} | 视频 | 了解如何使用购买、支出和自定义事件活动（包括资格规则和排除项）创建和配置忠诚度挑战任务。 |
-| 2026年7月 | [!DNL Journey Optimizer] | [了解Journey Optimizer忠诚度是什么](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty){target="_blank"} | 视频 | 了解Journey Optimizer忠诚度如何通过AI支持的见解、自适应gamification以及促进参与度的统一客户配置文件将忠诚度数据转化为个性化体验。 |
+| 2026年7月 | [!DNL Journey Optimizer] | [了解Journey Optimizer忠诚度是什么](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty){target="_blank"} | 视频 | 了解Journey Optimizer Loyalty如何通过AI支持的见解、自适应gamification以及促进参与度的统一客户配置文件将忠诚度数据转化为个性化体验。 |
 | 2026年7月 | [!DNL Journey Optimizer] | [与外部受众一起模拟历程](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/journeys/simulate-journeys-with-external-audiences){target="_blank"} | 视频 | 了解如何使用CSV文件中的外部受众配置文件或联合受众组合来模拟历程，使用外部属性个性化消息，以及在上线之前验证历程路径。 |
 | 2026年7月 | [!DNL Journey Optimizer] | [配置和使用自定义渠道](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/channels/configure-and-use-custom-channels){target="_blank"} | 视频 | 了解如何使用“自定义渠道”连接Journey Optimizer本身不支持的消息传送平台（如Slack、微信或Telegram），并在您的历程中使用它们。 |
 | 2026年7月 | [!DNL Journey Optimizer] | [新历程画布简介](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/journeys/introduction-to-the-new-journey-canvas){target="_blank"} | 视频 | 探索Journey Optimizer中的全新旅程画布体验，该体验引入了现代渲染引擎，使旅程构建与已在编排的营销活动和受众构成中使用的体验保持一致。 |
