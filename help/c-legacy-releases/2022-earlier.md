@@ -1,11 +1,11 @@
 ---
 description: 存档了Experience Cloud产品和服务的PDF发行说明。
 title: Central 2022及更早版本的发行说明
-solution: Experience Cloud,Analytics,Target,Advertising
+solution: CX Enterprise,Analytics,Target,Advertising
 seo-title: Central Release Notes for 2021 and Earlier for Adobe Experience Cloud
 uuid: c56a1064-0f2c-4241-93c6-ca4b1f267763
 exl-id: 980a6e5e-a561-4fb5-b1cc-467ddabf0d01
-source-git-commit: e40d2dd3a1d11e5ac45c86cebeffabb0de17f631
+source-git-commit: f98ba938fce628302f65d87be9ee332b7a41e27f
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 65%
