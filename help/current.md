@@ -9,9 +9,7 @@ source-git-commit: 07dffcce63ab1a94468a970d41337657f8fc532e
 workflow-type: tm+mt
 source-wordcount: '21404'
 ht-degree: 14%
-
 ---
-
 # CX Enterprise Central发行说明 — 2026年9月
 
 此页面可帮助您查找最新信息：
@@ -554,7 +552,7 @@ Adobe Commerce 的新文章和现有文章的更新。
 | 2026 年 7 月 | [!DNL Journey Optimizer] | [为忠诚度挑战配置奖励](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/loyalty/configure-your-challenge/configure-rewards){target="_blank"} | 视频 | 了解如何通过选择奖励类型、定义投放方法和在关键里程碑或挑战完成时奖励参与者来配置挑战奖励。 |
 | 2026 年 7 月 | [!DNL Journey Optimizer] | [设置忠诚度挑战](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/loyalty/configure-your-challenge/set-up-a-loyalty-challenge){target="_blank"} | 视频 | 了解如何通过选择正确的挑战类型、配置受众和时间表、定义参与规则以及控制如何跟踪和奖励进度来设置忠诚度挑战。 |
 | 2026 年 7 月 | [!DNL Journey Optimizer] | [为您的忠诚度挑战创建任务](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/loyalty/configure-your-challenge/create-tasks){target="_blank"} | 视频 | 了解如何使用购买、支出和自定义事件活动（包括资格规则和排除项）创建和配置忠诚度挑战任务。 |
-| 2026 年 7 月 | [!DNL Journey Optimizer] | [了解Journey Optimizer Loyalty是什么](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty){target="_blank"} | 视频 | 了解Journey Optimizer Loyalty如何通过AI支持的见解、自适应gamification以及促进参与度的统一客户配置文件将忠诚度数据转化为个性化体验。 |
+| 2026 年 7 月 | [!DNL Journey Optimizer] | [了解Journey Optimizer忠诚度是什么](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty){target="_blank"} | 视频 | 了解Journey Optimizer忠诚度如何通过AI支持的见解、自适应gamification以及促进参与度的统一客户配置文件将忠诚度数据转化为个性化体验。 |
 | 2026 年 7 月 | [!DNL Journey Optimizer] | [与外部受众一起模拟历程](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/journeys/simulate-journeys-with-external-audiences){target="_blank"} | 视频 | 了解如何使用CSV文件中的外部受众配置文件或联合受众组合来模拟历程，使用外部属性个性化消息，以及在上线之前验证历程路径。 |
 | 2026 年 7 月 | [!DNL Journey Optimizer] | [配置和使用自定义渠道](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/channels/configure-and-use-custom-channels){target="_blank"} | 视频 | 了解如何使用“自定义渠道”连接Journey Optimizer本身不支持的消息传送平台（如Slack、微信或Telegram），并在您的历程中使用它们。 |
 | 2026 年 7 月 | [!DNL Journey Optimizer] | [新历程画布简介](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/journeys/introduction-to-the-new-journey-canvas){target="_blank"} | 视频 | 探索Journey Optimizer中的全新旅程画布体验，该体验引入了现代渲染引擎，使旅程构建与已在编排的营销活动和受众构成中使用的体验保持一致。 |
