@@ -5,16 +5,16 @@ doc-type: release notes
 last-update: September 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: 37d60912fd1ea9adb3c77bc9c7406f7236300c93
+source-git-commit: 1922760b879f0c0ec86c42b4a938b23dba1c3341
 workflow-type: tm+mt
-source-wordcount: '21604'
+source-wordcount: '21662'
 ht-degree: 13%
 ---
 # [!DNL CX Enterprise]中央发行说明 — 2026年9月 {#top}
 
 此页面可帮助您查找最新信息：
 
-* 所有[!DNL CX Enterprise]应用程序的[发行说明](#application-release-notes) （更新日期： **9月14日**）
+* 所有[!DNL CX Enterprise]应用程序的[发行说明](#application-release-notes)（更新日期： **9月21日**）
 * Experience League上的[活动和新增功能](#events)（更新日期： **9月8日**）
 * [[!DNL CX Enterprise Coworker] 和AI](#ai)学习资源
 * [教程和支持文章](#articles)可在[!DNL Experience League]上找到
@@ -25,31 +25,31 @@ ht-degree: 13%
 
 ## [!DNL CX Enterprise] 发行说明 {#application-release-notes}
 
-了解针对所有[!DNL CX Enterprise]应用程序的突出显示的更新。 表中提供了各应用程序对应发行说明的链接。
+了解所有[!DNL CX Enterprise]应用程序的新（和计划）更新。
 
-**注意：**&#x200B;每周发布多个[!DNL CX Enterprise]应用程序。 请经常查看您所使用应用程序的发行说明页面，以及时了解最新更新。
+**重要信息：**&#x200B;某些应用程序每周发布一次。 要了解最新信息，请经常访问这些页面。
 
-上次更新日期：**2026年9月14日**
+上次更新日期：**2026年9月21日**
 
 | 应用程序 | 发行日期 | 发行说明 URL | 更新 |
 | ------------- | ------------- | ------------- | ------------- |
-| [!DNL Adobe Customer Journey Analytics] | 2026年9月9日 | [Customer Journey Analytics 发行说明](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/releases/latest?lang=en#releases){target="_blank"} | <ul><li>将区段限制为报表日期范围（对于“人员”顶层容器）</li><li>B2B：人员与帐户拼接从映射数据集派生缺少的帐户ID</li><li>同意策略筛选和报告符合Experience Platform同意策略的访客</li><li>子事件分析（事件中单个容器的区段）</li><li>B2B edition对临时和关系数据集的支持</li></ul> |
-| [!DNL Adobe Analytics] | 2026年9月9日 | [[!DNL Analytics] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/analytics/release-notes/latest){target="_blank"} | <ul><li>将区段限制为报表日期范围（对于访客顶级容器）</li><li>Analytics 1.4 API生命周期结束客户常见问题解答已发布</li><li>向2.0 API添加了营销渠道参考和端点指南</li><li>子点击分析</li><li>Activity Map扩展UI刷新</li></ul> |
+| [!DNL Adobe Analytics] | 2026年10月2 | [[!DNL Analytics] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/analytics/release-notes/latest){target="_blank"} | <ul><li>直接从[!DNL Coworker Chat]在Analysis Workspace中打开可视化图表</li><li>[!DNL Coworker Chat]根本原因分析解释了量度更改的原因，而不仅仅是更改了什么内容</li><li>使用自然语言提示分析[!DNL Coworker Chat]中的[!DNL Adobe Analytics]数据</li><li>将区段限制为报表日期范围（对于访客顶级容器）</li><li>子点击分析</li></ul> |
+| [!DNL Adobe Customer Journey Analytics] | 2026年9月30日 | [Customer Journey Analytics 发行说明](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/releases/latest?lang=en#releases){target="_blank"} | <ul><li>[!DNL CX Enterprise Coworker]中现在提供了升级和实施技能</li><li>配置文件和查找数据集的总人口报表；用于在Analysis Workspace中分析LLM客户体验的对话见解</li><li>将区段限制为报表日期范围（对于“人员”顶层容器）</li><li>同意策略筛选和报告符合Experience Platform同意策略的访客</li><li>子事件分析（事件中单个容器的区段）</li></ul> |
+| [!DNL Adobe Marketo Engage] | 2026年9月25日 | [Marketo Engage 当前发行说明](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/release-notes/current){target="_blank"} | <ul><li>[!DNL Marketo Engage]个新UI：刷新了菜单、图标和布局</li><li>为启用了工作区的环境选择导入时分区</li><li>即时提醒已订阅管理员的CRM同步状态更改</li><li>自助服务流程步骤回调超时从1小时增加到4小时</li><li>向Designer发送电子邮件：拖放表内容类型</li></ul> |
+| [!DNL Adobe Journey Optimizer] | 2026年9月18日 | [[!DNL Journey Optimizer] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>批量受众评估后触发：针对以批量受众为目标的定期历程的可配置等待窗口（最多6小时）</li><li>[!DNL Journey Optimizer]忠诚度现在可供Healthcare Shield和Privacy and Security Shield客户使用</li><li>历程模拟现在支持Decisioning（路径试验）</li><li>针对意外的流量偏差（生产沙盒）检测到新的历程异常警报</li><li>在历程高级编辑器中生成AI支持的表达式（正式发布）</li></ul> |
+| [!DNL Adobe Target] | 2026年9月17日 | [[!DNL Adobe Target] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/target/using/release-notes/release-notes){target="_blank"} | <ul><li>26.9.4：修复了可视化体验编辑器“此项前插入”控件在最顶部页面元素的视区之外的渲染</li><li>26.9.3：修复了A4T自动定位报表中缺少的提升和置信度值（最大访问转化率目标）</li><li>26.9.3：对于没有Analytics访问权限的实时活动，Analytics for Target报表Source字段现在为只读</li><li>A/B测试的贝叶斯统计信息（手动）</li><li>自动分配活动的Customer Journey Analytics报表</li></ul> |
+| [!DNL Adobe GenStudio for Performance Marketing] | 2026年9月15日 | [GenStudio for Performance Marketing 发行说明](https://experienceleague.adobe.com/zh-hans/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest){target="_blank"} | <ul><li>批量激活：从单个激活表跨付费广告渠道（[!DNL Meta]、[!DNL LinkedIn]、Google Campaign Manager 360、Amazon Ads、Innovid、[!DNL TikTok]、[!DNL YouTube]、ChatGPT、交易台）发布多个批准的体验</li><li>在Horizon画布上进行批量编辑（链接的文本/图像字段将跨大小和页面传播编辑内容）</li><li>向交易台显示广告激活</li><li>内容片段交换：将文本块替换为AEM中预批准、可重用的内容片段</li></ul> |
 | [!DNL Adobe Commerce Optimizer] | 2026年9月9日 | [Adobe Commerce Optimizer发行说明](https://experienceleague.adobe.com/zh-hans/docs/commerce/optimizer/release-notes){target="_blank"} | <ul><li>多值HTTP标头触发器策略（匹配单个标头中的多个逗号分隔值）</li><li>属性排名(Beta)：自动提升、隐藏或隐藏每个符合属性条件的产品</li><li>目录服务GraphQL中的新[!DNL externalIds]字段公开产品的原始外部数据源</li><li>高级搜索选项卡中的语义搜索（AI支持），默认情况下对符合条件的英语目录启用</li><li>产品推荐单位的推荐价格过滤器（测试版）</li></ul> |
 | [!DNL Adobe Commerce] as a Cloud Service | 2026年9月8日 | [Adobe Commerce as a Cloud Service发行说明](https://experienceleague.adobe.com/zh-hans/docs/commerce/cloud-service/release-notes){target="_blank"} | <ul><li>现在包括Adobe Commerce 2.4.9中的所有功能（沙盒；2026年9月8日生产）</li><li>用于跨环境读取和更新Commerce系统配置值的新REST端点</li><li>新的免费购物车价格规则类型，以及购物车价格规则的计划激活和到期</li><li>用于更新和删除自定义电子邮件模板的新REST端点</li><li>在采购订单、报价和退货之间共享的B2B公司通讯簿</li></ul> |
-| [!DNL Adobe Journey Optimizer] | 2026年9月8日 | [[!DNL Journey Optimizer] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>历程级别的保留组用于衡量增量影响（有限可用性）</li><li>在历程高级编辑器中生成AI支持的表达式（正式发布）</li><li>基于时间的历程逻辑的新[!DNL dateDiff]函数</li><li>历程模拟现在支持“内容决策”节点和优化定位</li><li>[!DNL CX Enterprise Coworker]：内容管理MCP工具和分析历程异常技能</li></ul> |
-| [!DNL Adobe Target] | 2026年9月8日 | [[!DNL Adobe Target] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/target/using/release-notes/release-notes){target="_blank"} | <ul><li>即将弃用Target UI版本切换（请参阅常见问题解答）</li><li>26.9.2：修复了“推荐”和“自动化区段”报表显示中信息源URL编码不正确的问题</li><li>26.9.1：修复了在复制具有仅限该活动的受众的A/B活动时出现“受众ID无效”错误的问题</li><li>A/B测试的贝叶斯统计信息（手动）</li><li>自动分配活动的Customer Journey Analytics报表</li></ul> |
 | [!DNL Adobe Experience Manager] as a Cloud Service | 2026年8月27日 | [Adobe Experience Manager as a Cloud Service 当前发行说明](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current){target="_blank"} | <ul><li>功能版本2026.8.0现已更新；2026.9.0计划于2026年9月24日发布</li><li>资产演绎版上的C2PA元数据用于标记人工智能生成的内容</li><li>Content Hub中生成的Dynamic Media on Demand演绎版</li><li>在资源上传时生成品牌感知AI元数据(Beta)</li><li>自适应Forms表组件和AEM Edge函数（在CDN上运行JavaScript）</li></ul> |
 | [!DNL Adobe Brand Visibility]（以前称为 [!DNL Adobe LLM Optimizer]） | 2026年8月4日 | [品牌可见度发行说明](https://abv.adobe.com/articles/release-notes){target="_blank"} | <ul><li>正式发布：在品牌可见度中统一的AI可见性测量、优化和影响跟踪（从LLM Optimizer中重新命名）</li><li>使用Semrush数据新建人工智能可见性仪表板</li><li>自助品牌和域载入</li><li>提示策略功能，用于发现高影响力的提示</li><li>更广泛的LLM平台覆盖范围([!DNL Claude]、Grok、DeepSeek)</li></ul> |
 | [!DNL Adobe Campaign Classic] v7 | 2026 年 8 月 | [[!DNL Campaign Classic] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/campaign-classic/using/release-notes/latest-release){target="_blank"} | <ul><li>关键漏洞的安全更新（v7.4.3，内部版本9401,8月25日）</li><li>投放域需要外部URL允许列表更新（2026年9月5日前）</li><li>Adobe Analytics连接器已迁移到Analytics 2.0 API（内部版本9400,8月11日）</li><li>安全更新（内部版本9399， 8月3日）</li></ul> |
 | Adobe Advertising | 2026年7月29日 | [Advertising Search、Social 与 Commerce 的新增功能](https://experienceleague.adobe.com/zh-hans/docs/advertising/search-social-commerce/home){target="_blank"} | <ul><li>AI Max功能在新UI中跨营销活动、广告组和创意管理进行了扩展</li><li>通过Experience Platform Web SDK进行Customer Journey Analytics数据交换</li><li>计划报表、批量处理工作表、广告网络经理帐户和支出计划者现在位于新UI中</li><li>Google AI最大搜索词报表</li><li>下载所有项目组合的“批量操作”页面</li><li>对所有Google Ads营销活动的AI Max优化支持</li></ul> |
 | [!DNL Adobe Experience Platform and Real-Time CDP] | 2026年7月28日 | [[!DNL Experience Platform] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/experience-platform/release-notes/latest){target="_blank"} | <ul><li>目标：受众/目标筛选、每小时增量导出、Microsoft Ads客户匹配和广告支持</li><li>Real-Time CDP：频谱2视觉化刷新</li><li>Real-Time Customer Profile：加快导出和激活速度</li><li>分段服务：支持外部受众JSON/Parquet；区段匹配将于2026年11月27日终止</li><li>源：已添加Google Ads和Meta Ads源</li></ul> |
 | [!DNL Adobe Campaign] Web 用户界面 | 2026年7月28日 | [Campaign Web UI 发行说明](https://experienceleague.adobe.com/zh-hans/docs/campaign-web/v8/release-notes/release-notes){target="_blank"} | <ul><li>直接在Web UI中进行选件管理（目录构建、资格规则、部署）</li><li>不通过客户端控制台进行品牌配置</li><li>电子邮件设计器中的公共资源</li><li>数据加载 (RDBMS) 工作流活动</li><li>在Web UI中创建和管理Dynamic JavaScript页面(JSSP)</li></ul> |
-| [!DNL Adobe GenStudio for Performance Marketing] | 2026年7月16日 | [GenStudio for Performance Marketing 发行说明](https://experienceleague.adobe.com/zh-hans/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest){target="_blank"} | <ul><li>在Horizon画布上进行批量编辑（链接的文本/图像字段将跨大小和页面传播编辑内容）</li><li>向交易台显示广告激活</li><li>内容片段交换：将文本块替换为AEM中预批准、可重用的内容片段</li></ul> |
 | [!DNL Experience Platform]Mobile SDK | 2026年7月16日 | [[!DNL Experience Platform] Mobile SDK 发行说明](https://developer.adobe.com/client-sdks/documentation/release-notes/){target="_blank"} | <ul><li>React Native Optimize 7.2.0：React Native Turbo Module支持</li><li>iOS EdgeIdentity 5.1.0：将timeZone配置文件属性同步到Edge（需要AEPCore 5.10.0+）</li><li>iOS Core 5.10.0：新的updateProfileAttributes API</li><li>Android Core 3.8.0：更新用于时区同步的配置文件属性API</li><li>Android BOM 3.20.0：更新了核心、EdgeIdentity和优化扩展</li></ul> |
 | [!DNL CX Enterprise] | 2026年7月10日 | [[!DNL CX Enterprise] 中央UI和管理](https://experienceleague.adobe.com/zh-hans/docs/core-services/interface/more-resources/release-notes){target="_blank"} | <ul><li>对Federated Guest帐户的[!DNL CX Enterprise]支持（7月10日）</li><li>[!DNL CX Enterprise Coworker]：用于CX工作流的代理AI应用程序（6月11日）</li><li>Agentic AI使用监控仪表板（6月1日）</li><li>Adobe [!DNL CX Enterprise]界面刷新（深色模式，改进了可访问性）（4月20日）</li></ul> |
 | [!DNL Adobe Journey Optimizer B2B Edition] | 2026年7月10日 | [Journey Optimizer B2B Edition 发行说明](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-b2b/user/release-notes){target="_blank"} | <ul><li>使用变体拆分路径旅程节点(Beta)以进行A/B测试</li><li>增强的“侦听事件”节点支持多个触发器</li><li>新人员操作：添加到人员历程/从人员历程中删除</li><li>历程的登陆页面和表单（正式发布）</li><li>电子邮件性能仪表板启动</li></ul> |
-| [!DNL Adobe Marketo Engage] | 2026年7月10日 | [Marketo Engage 当前发行说明](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/release-notes/current){target="_blank"} | <ul><li>Marketo AI技能 — 产品知识（公开测试版）</li><li>Marketo AI技能 — 调查潜在客户（公开测试版）</li><li>电子邮件Designer AI助手上下文菜单（即将推出）</li><li>弃用REST API access_token参数（2026年8月31日）</li><li>SOAP API日落（2026年7月31日）</li></ul> |
 | [!DNL Adobe Experience Manager] [!DNL Cloud Manager] | 2026年7月9日 | [Experience Manager Cloud Manager 发行说明](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-manager/content/release-notes/current){target="_blank"} | <ul><li>通过智能构建模块级缓存提高了构建性能</li><li>适用于AEM Managed Services (Beta)的Web层管道</li><li>客户管理密钥（CMK）自助服务</li></ul> |
 | [!DNL Adobe Commerce] | 持续发布 | [Adobe Commerce 和 Magento Open Source 发行说明](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/release/notes/adobe-commerce/2-4-9){target="_blank"} | <ul><li>REST API 产品图库继承控制（店面视图级别）</li><li>clearCart GraphQL突变现在可供Open Source使用</li><li>添加了PHP 8.5支持；删除了PHP 8.2支持</li><li>为REST和GraphQL API强制实施验证码验证</li><li>USPS集成已通过OAuth 2.0迁移到RESTful API</li><li>支持MariaDB 11.8/12.x和OpenSearch 3.x</li></ul> |
 | [!DNL Adobe Workfront] | 2026年第三季度 | [Adobe Workfront 产品发布](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview){target="_blank"} | <ul><li>面向新客户的独立Adobe Workfront规划产品</li><li>Adobe Cloud Drive桌面应用程序（工作流程Ultimate）</li><li>文档的并行审批路径（最多30个路径）</li><li>用于AI代理集成的Workfront MCP服务器</li><li>费率卡模板集成（工作流Ultimate）</li></ul> |
@@ -185,7 +185,7 @@ New articles and updates to existing articles for [!DNL Experience Platform].
 
 ### [!DNL Adobe Analytics] {#tutorials-analytics}
 
-Adobe Analytics 的发行基于持续投放模型，从而支持更具扩展性、分阶段的功能部署方式。 发行说明每月会更新多次。
+Adobe Analytics 的发布采用持续投放模型，从而支持更具扩展性、分阶段的功能部署方式。 发行说明每月会更新多次。
 
 #### AppMeasurement {#appm}
 
@@ -290,7 +290,7 @@ Experience Manager as a Cloud Service 的最新视频教程和支持文章。
 | 2026 年 8 月 | [在Adobe Experience Manager中紧急部署以恢复实时站点功能](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-41650) | 新文章 | 了解当Adobe Experience Manager生产站点上的关键功能不可用或损坏，并且在非生产环境中不可重现，因此需要紧急部署来恢复服务时问题的解决方案。 |
 | 2026 年 8 月 | [AEM：由于CDN缓存，更新的内容未出现在实时页面上](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-41658) | 新文章 | 了解当Adobe Experience Manager中发布的内容更新未出现在面向公众的站点上时问题的解决方案，因为该站点是通过一个CDN提供的，该CDN会继续提供页面的缓存版本，并且AEM中未显示错误消息。 |
 | 2026 年 8 月 | [AEM Dispatcher：解决未列入白名单的CDN域导致的间歇性页面和资源加载问题](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-41664) | 新文章 | 了解当Adobe Experience Manager Dispatcher配置中未将新CDN域列入白名单，因而阻止来自该域的请求时（这会导致访问网站页面或加载资产时出现间歇性失败），此问题的解决方案。 |
-| 2026 年 8 月 | [在Adobe Experience Manager中管理ACL和ACE节点的删除](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-42096) | 新文章 | 了解问题的解决方案，当您需要确定是否可以通过Adobe Experience Manager中的`/bin/policies`端点删除ACL (`rep:ACL`)节点时，因为该端点管理ACL节点中的ACE条目，而不删除ACL节点本身。 |
+| 2026 年 8 月 | [在Adobe Experience Manager中管理ACL和ACE节点删除](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-42096) | 新文章 | 了解这个问题的解决方案，当您需要确定是否可以通过Adobe Experience Manager中的`/bin/policies`端点删除ACL (`rep:ACL`)节点时，因为该端点管理ACL节点中的ACE条目，而不是删除ACL节点本身。 |
 | 2026 年 8 月 | [正在解决缺少推荐页面内容的404错误](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-42118) | 新文章 | 了解对推荐页面的`GetBookingContent`端点的请求在Adobe Experience Manager生产环境中返回“404未找到”错误，因此即使其他页面（例如票证选择、结帐或我的购物车）继续正常运行，受影响页面也不会显示时问题的解决方案。 |
 | 2026 年 8 月 | [Adobe Experience Manager：管理发布中计划的内容未按时](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-42138)发布 | 新文章 | 了解当[!UICONTROL 管理发布]中的内容计划在未来的日期和时间发布时，Adobe Experience Manager as a Cloud Service中的内容未按时发布，并且在内容可用之前发生延迟时问题的解决方案。 |
 | 2026 年 8 月 | 由于XML和ClientLib错误，[AEM Cloud Manager DEV部署失败](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-42150) | 新文章 | 了解当DEV部署所需的时间比平常长得多，并且在Adobe Experience Manager Cloud Manager中的[!UICONTROL 部署到DEV]阶段失败，原因是XML语法错误(如&#x200B;*元素类型“content”必须由匹配的结束标记“终止”时，此问题的解决方案</content>“。*”和客户端库编译问题。 |
@@ -656,7 +656,7 @@ GenStudio for Performance Marketing 视频教程。
 
 * [Adobe Acrobat](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/overview){target="_blank"}
 * [Adobe Acrobat Sign](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/sign-learning-hub/overview){target="_blank"}
-* [Adobe Acrobat服务API教程](https://experienceleague.adobe.com/zh-hans/docs/acrobat-services-learn/tutorials/overview){target="_blank"}
+* [Adobe Acrobat 服务 API 教程](https://experienceleague.adobe.com/zh-hans/docs/acrobat-services-learn/tutorials/overview){target="_blank"}
 * [Document Cloud学习与支持](https://helpx.adobe.com/cn/support/document-cloud.html)
 
 ### [!DNL Adobe Creative Cloud] 企业版 {#tutorials-creative-cloud}
