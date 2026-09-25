@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: September 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: 1922760b879f0c0ec86c42b4a938b23dba1c3341
+source-git-commit: cc67c372d836fad4f84ddc1516ab39ff2f340a04
 workflow-type: tm+mt
-source-wordcount: '21662'
+source-wordcount: '21482'
 ht-degree: 13%
 ---
 # [!DNL CX Enterprise]中央发行说明 — 2026年9月 {#top}
@@ -15,7 +15,7 @@ ht-degree: 13%
 此页面可帮助您查找最新信息：
 
 * 所有[!DNL CX Enterprise]应用程序的[发行说明](#application-release-notes)（更新日期： **9月21日**）
-* Experience League上的[活动和新增功能](#events)（更新日期： **9月8日**）
+* Experience League上的[活动和新增功能](#events)（更新日期： **9月23日**）
 * [[!DNL CX Enterprise Coworker] 和AI](#ai)学习资源
 * [教程和支持文章](#articles)可在[!DNL Experience League]上找到
 
@@ -81,11 +81,7 @@ ht-degree: 13%
 
 | 应用程序 | 日期 | 描述 | 详细信息 |
 | ------- | ------- | ------- | ------- |
-| [!DNL Adobe Workfront] | 2026年9月15日 | **切换：准备迁移到统一审阅和批准** — 了解正在发生什么变化，团队经常会遇到摩擦，以及帮助您为成功迁移做准备的实用提示。 | [注册](https://events.teams.microsoft.com/event/58e114db-6cad-4d9e-811c-0891a521b1cd@fa7b1b5a-7b34-4387-94ae-d2c178decee1){target="_blank"} |
-| [!DNL Adobe Analytics], [!DNL Adobe Marketo Measure], [!DNL Adobe Workfront] | 2026年9月16日 | **Adobe Insider明尼阿波利斯之旅** — 与会者将了解[!DNL Analytics]、[!DNL Marketo Measure]和[!DNL Workfront]的最新创新。 | [注册](https://event.adobe.com/adobeinsidertourFall2026){target="_blank"} |
-| [!DNL Experience Manager Assets], [!DNL Adobe Experience Manager] | 2026年9月16日 | **合适团队的合适访问权限：在AEM Assets中设计更智能的角色和工作流** — AEM系列的第3部分：了解权限和访问级别如何改善协作、加强治理、保护品牌标准以及创建更具可扩展性的[!DNL AEM Assets]运营模型。 | [注册](https://events.teams.microsoft.com/event/41d4fa3f-672b-451a-8e85-8c9b5d22866f@fa7b1b5a-7b34-4387-94ae-d2c178decee1){target="_blank"} |
-| [!DNL Adobe Workfront] | 2026年9月23日 | **[!DNL Workfront]Fusion星期三论坛** — 在此无议程圆桌会议期间，与同行一起脑力激荡[!DNL Fusion]解决方案。 | [注册](https://events.teams.microsoft.com/event/6da30228-2bfc-4368-a81d-06398f9f2b40@fa7b1b5a-7b34-4387-94ae-d2c178decee1){target="_blank"} |
-| [!DNL CX Enterprise] | 2026年9月23日 | **Adobe Digital Insights演示：定价压力指数** — 定价压力指数提供了一项独特的衡量标准，用于衡量消费者如何响应整个数字经济中不断变化的价格。 | [注册](https://events.teams.microsoft.com/event/9e9708a0-fa3b-4771-a16b-33f82da95062@fa7b1b5a-7b34-4387-94ae-d2c178decee1){target="_blank"} |
+| [!DNL Coworker] | 2026年9月24日 | **Experience League LIVE：[!DNL Coworker]已解锁：**&#x200B;正在使用Adobe CX Enterprise转换工作流[!DNL Coworker] | [YouTube](https://www.youtube.com/live/hrNuDVQFtLA){target="_blank"} |
 | General | 2026年9月29日 | **Experience Maker Awards社区AMA \|获奖者提供的建议** — 了解Adobe为何庆祝Experience Makers、我们希望识别的工作和影响，以及如何讲述引人注目的故事。 | [注册](https://events.teams.microsoft.com/event/005ef4f0-4f57-4f70-94bb-33c092cc91f4@fa7b1b5a-7b34-4387-94ae-d2c178decee1){target="_blank"} |
 | [!DNL Adobe Experience Manager], [!DNL Experience Manager Assets] | 2026年9月30日 | **从批准到激活：使用AEM Assets推动全渠道营销** — AEM系列的第4部分：了解[!DNL AEM Assets]如何帮助更快地跨渠道交付批准的内容，同时保持一致性、治理和控制。 | [注册](https://events.teams.microsoft.com/event/adcc686d-d687-4d20-ae4e-ab57c8a36d0e@fa7b1b5a-7b34-4387-94ae-d2c178decee1){target="_blank"} |
 
@@ -95,8 +91,9 @@ ht-degree: 13%
 
 | 应用程序 | 更新 | 描述 | 更新 |
 | ------- | ------- | ------- | ------- |
-| [!DNL CX Enterprise Coworker] | **内容顾问** | [使用自然语言生成营销资产](https://experienceleague.adobe.com/zh-hans/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/content-advisor/generate-assets){target="_blank"} — 了解[!DNL Coworker]如何在几分钟内为您的渠道创建品牌资产。 | 2026年9月11日 |
-| [!DNL CX Enterprise Coworker] | **内容顾问** | [正在运行的品牌治理](https://experienceleague.adobe.com/zh-hans/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/content-advisor/brand-compliance){target="_blank"} — 了解[!DNL Coworker]如何将品牌检查直接集成到营销工作流中。 | 2026年9月11日 |
+| [!DNL Coworker] | **Experience League LIVE** | [同事已解锁](https://www.youtube.com/live/hrNuDVQFtLA){target="_blank"}：使用Adobe CX Enterprise转换工作流[!DNL Coworker] | 2026年9月24日 |
+| [!DNL Coworker] | **内容顾问** | [使用自然语言生成营销资产](https://experienceleague.adobe.com/zh-hans/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/content-advisor/generate-assets){target="_blank"} — 了解[!DNL Coworker]如何在几分钟内为您的渠道创建品牌资产。 | 2026年9月11日 |
+| [!DNL Coworker] | **内容顾问** | [正在运行的品牌治理](https://experienceleague.adobe.com/zh-hans/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/content-advisor/brand-compliance){target="_blank"} — 了解[!DNL Coworker]如何将品牌检查直接集成到营销工作流中。 | 2026年9月11日 |
 | [!DNL Adobe Target] | **优化** | [使用 [!DNL Coworker]](https://experienceleague.adobe.com/zh-hans/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/optimization/target){target="_blank"}进行试验 — 了解[!DNL Coworker]如何在Adobe应用程序中读取结果、诊断缺失变量以及调整测试持续时间。 | 2026年9月10日 |
 | [!DNL CX Enterprise Coworker] | **技能** | [运行质量关卡技能](https://experienceleague.adobe.com/zh-hans/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/skills/run-a-quality-gate-skill){target="_blank"} — 了解自定义技能如何在部署之前根据禁止列表、频度上限和命名标准验证受众激活。 | 2026年9月9日 |
 | [!DNL CX Enterprise Coworker] | **技能** | [什么是技能？](https://experienceleague.adobe.com/zh-hans/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/skills/what-are-skills){target="_blank"}  — 了解可重复使用的行动手册如何帮助[!DNL Coworker]以一致的方式执行客户体验编排任务。 | 2026年8月26日 |
@@ -152,9 +149,9 @@ ht-degree: 13%
 
 | 发布日期 | 应用程序 | 名称 | 类型 | 描述 |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
-| 2026年9月 | [!DNL Real-Time CDP] | [增长积分和仪表板](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/license-usage/growth-credits-and-dashboard){target="_blank"} | 视频 | 了解如何使用增长信用仪表板监控许可证使用情况。 |
-| 2026年9月 | [!DNL Real-Time CDP] | [许可证使用情况：一年中有两项重大事件](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/license-usage/two-events-one-year){target="_blank"} | 教程 | 探索许可证使用用例，以便在一年内围绕两个主要事件进行规划。 |
-| 2026年9月 | [!DNL Real-Time CDP] | [许可证使用：临近合同周年日](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/license-usage/approaching-contract-anniversary){target="_blank"} | 教程 | 探索许可证使用使用案例，以便在合同周年临近时进行规划。 |
+| 2026 年 9 月 | [!DNL Real-Time CDP] | [增长积分和仪表板](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/license-usage/growth-credits-and-dashboard){target="_blank"} | 视频 | 了解如何使用增长信用仪表板监控许可证使用情况。 |
+| 2026 年 9 月 | [!DNL Real-Time CDP] | [许可证使用情况：一年中有两项重大事件](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/license-usage/two-events-one-year){target="_blank"} | 教程 | 探索许可证使用用例，以便在一年内围绕两个主要事件进行规划。 |
+| 2026 年 9 月 | [!DNL Real-Time CDP] | [许可证使用：临近合同周年日](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/license-usage/approaching-contract-anniversary){target="_blank"} | 教程 | 探索许可证使用使用案例，以便在合同周年临近时进行规划。 |
 | 2026 年 8 月 | [!DNL CX Enterprise Coworker] | [评估Experience Platform运行状况并从自然语言构建受众](https://experienceleague.adobe.com/zh-hans/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/audiences/create-audience-from-natural-language){target="_blank"} | 视频 | 了解[!DNL CX Enterprise Coworker]如何帮助您通过对话式的自然语言命令来评估Experience Platform环境并生成受众，从而消除手动配置任务。 |
 
 <!-- 
@@ -207,11 +204,11 @@ New articles and updates to existing articles for [!DNL Analytics].
 
 | 发布日期 | 名称 | 类型 | 描述 |
 | ----------- | ---------- | ---------- | ---------- |
-| 2026年9月 | [在Analysis Workspace项目中将区段用作维度](https://experienceleague.adobe.com/zh-hans/docs/customer-journey-analytics-learn/tutorials/components/filters/use-filters-as-dimensions){target="_blank"} | 视频 | 了解如何在Analysis Workspace项目中将区段用作维度时比较和可视化区段。 |
-| 2026年9月 | [创建快速区段](https://experienceleague.adobe.com/zh-hans/docs/customer-journey-analytics-learn/tutorials/components/filters/create-a-quick-filter){target="_blank"} | 视频 | 了解如何直接在您的项目中创建快速区段，以根据简单标准分段组件数据并立即查看结果。 |
-| 2026年9月 | [区段概述](https://experienceleague.adobe.com/zh-hans/docs/customer-journey-analytics-learn/tutorials/components/filters/introduction-to-filters-in-cja){target="_blank"} | 视频 | 了解Customer Journey Analytics中区段生成器的关键组件。 |
-| 2026年9月 | [浏览自由格式表中的行和列设置](https://experienceleague.adobe.com/zh-hans/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/freeform-tables/cja-explore-row-and-column-settings-in-freeform-tables){target="_blank"} | 视频 | 了解Analysis Workspace中自由格式表中的设置，以及它们如何影响进入这些表的数据。 |
-| 2026年9月 | [在Analysis Workspace中使用日期范围和比较](https://experienceleague.adobe.com/zh-hans/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/calendar-and-date-ranges/cja-use-date-ranges-and-comparisons){target="_blank"} | 视频 | 了解如何在项目中使用日期范围比较来分析性能。 |
+| 2026 年 9 月 | [在Analysis Workspace项目中将区段用作维度](https://experienceleague.adobe.com/zh-hans/docs/customer-journey-analytics-learn/tutorials/components/filters/use-filters-as-dimensions){target="_blank"} | 视频 | 了解如何在Analysis Workspace项目中将区段用作维度时比较和可视化区段。 |
+| 2026 年 9 月 | [创建快速区段](https://experienceleague.adobe.com/zh-hans/docs/customer-journey-analytics-learn/tutorials/components/filters/create-a-quick-filter){target="_blank"} | 视频 | 了解如何直接在您的项目中创建快速区段，以根据简单标准分段组件数据并立即查看结果。 |
+| 2026 年 9 月 | [区段概述](https://experienceleague.adobe.com/zh-hans/docs/customer-journey-analytics-learn/tutorials/components/filters/introduction-to-filters-in-cja){target="_blank"} | 视频 | 了解Customer Journey Analytics中区段生成器的关键组件。 |
+| 2026 年 9 月 | [浏览自由格式表中的行和列设置](https://experienceleague.adobe.com/zh-hans/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/freeform-tables/cja-explore-row-and-column-settings-in-freeform-tables){target="_blank"} | 视频 | 了解Analysis Workspace中自由格式表中的设置，以及它们如何影响进入这些表的数据。 |
+| 2026 年 9 月 | [在Analysis Workspace中使用日期范围和比较](https://experienceleague.adobe.com/zh-hans/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/calendar-and-date-ranges/cja-use-date-ranges-and-comparisons){target="_blank"} | 视频 | 了解如何在项目中使用日期范围比较来分析性能。 |
 | 2026 年 8 月 | [使用 [!DNL Coworker]验证Adobe Analytics到Customer Journey Analytics的数据](https://experienceleague.adobe.com/zh-hans/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/data-validation-aa-cja){target="_blank"} | 文章 | 了解[!DNL CX Enterprise Coworker]的验证技能如何将Adobe Analytics报告包与Customer Journey Analytics数据视图、显示差异和AI驱动的推荐进行比较，以支持顺利迁移。 |
 | 2026 年 8 月 | [与 [!DNL Coworker]](https://experienceleague.adobe.com/zh-hans/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/root-cause-analysis){target="_blank"}一起探索趋势和根本原因 | 视频 | 了解[!DNL CX Enterprise Coworker]如何将对话式人工智能与Customer Journey Analytics相结合，以便您可以提出自然语言问题、可视化结果并识别导致量度更改的原因。 |
 | 2026 年 8 月 | [在Analysis Workspace中使用日历和日期](https://experienceleague.adobe.com/zh-hans/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/calendar-and-date-ranges/cja-calendar-and-dates-in-analysis-workspace){target="_blank"} | 视频 | 大致了解如何在Analysis Workspace中为可视化图表使用日历和日期。 |
@@ -236,16 +233,16 @@ Experience Manager as a Cloud Service 的最新视频教程和支持文章。
 
 | 发布日期 | 应用程序 | 名称 | 格式 | 描述 |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
-| 2026年9月 | [!DNL AEM Assets] | [开始使用Assets视图](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/assets/overview){target="_blank"} | 视频 | 开始使用AEM Assets中的Assets视图。 |
-| 2026年9月 | [!DNL AEM Assets] | [在Assets视图中激活资源](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/assets/asset-distribution/sharing/publish){target="_blank"} | 视频 | 了解如何在AEM Assets Assets视图中激活资源。 |
-| 2026年9月 | [!DNL AEM Assets] | [在Assets视图中共享资源](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/assets/asset-distribution/sharing/link-sharing){target="_blank"} | 视频 | 了解如何在Assets视图中共享资源。 |
-| 2026年9月 | [!DNL AEM Assets] | [在Assets视图中组织和管理资源](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/assets/authoring/basic-operations){target="_blank"} | 视频 | 了解如何在Assets视图中整理和管理资源。 |
-| 2026年9月 | [!DNL AEM Assets] | Assets视图中的[资源详细信息](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/assets/authoring/metadata){target="_blank"} | 视频 | 了解Assets视图中的资源详细信息。 |
-| 2026年9月 | [!DNL AEM Assets] | 在Assets视图中[我的Workspace](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/assets/search-and-discovery/my-workspace){target="_blank"} | 视频 | 在Assets视图中了解我的Workspace。 |
-| 2026年9月 | [!DNL AEM Assets] | Assets视图中的[垃圾桶和恢复](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/assets/authoring/basic-operations){target="_blank"} | 视频 | 了解Assets视图中的垃圾桶和资产回收。 |
-| 2026年9月 | [!DNL AEM CS] | [AEM MCP服务器](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/ai/mcp-servers/mcp-server){target="_blank"} | 视频 | 了解Experience Manager MCP服务器可为您做什么。 |
-| 2026年9月 | [!DNL AEM Sites] | [AEM Headless Web组件](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/example-apps/web-component){target="_blank"} | 教程 | 了解如何使用基于Web组件的参考实施在任何网站上呈现AEM Headless内容。 |
-| 2026年9月 | [!DNL AEM Forms] | [在草稿模式下查询表单](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/cloud-service/forms/automate-forms-portal-reminder-emails/build-dashboard){target="_blank"} | 文章 | 了解如何构建可查询Experience Platform数据集的功能板，以查看已保存为草稿但尚未提交的自适应Forms。 |
+| 2026 年 9 月 | [!DNL AEM Assets] | [开始使用Assets视图](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/assets/overview){target="_blank"} | 视频 | 开始使用AEM Assets中的Assets视图。 |
+| 2026 年 9 月 | [!DNL AEM Assets] | [在Assets视图中激活资源](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/assets/asset-distribution/sharing/publish){target="_blank"} | 视频 | 了解如何在AEM Assets Assets视图中激活资源。 |
+| 2026 年 9 月 | [!DNL AEM Assets] | [在Assets视图中共享资源](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/assets/asset-distribution/sharing/link-sharing){target="_blank"} | 视频 | 了解如何在Assets视图中共享资源。 |
+| 2026 年 9 月 | [!DNL AEM Assets] | [在Assets视图中组织和管理资源](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/assets/authoring/basic-operations){target="_blank"} | 视频 | 了解如何在Assets视图中整理和管理资源。 |
+| 2026 年 9 月 | [!DNL AEM Assets] | Assets视图中的[资源详细信息](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/assets/authoring/metadata){target="_blank"} | 视频 | 了解Assets视图中的资源详细信息。 |
+| 2026 年 9 月 | [!DNL AEM Assets] | 在Assets视图中[我的Workspace](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/assets/search-and-discovery/my-workspace){target="_blank"} | 视频 | 在Assets视图中了解我的Workspace。 |
+| 2026 年 9 月 | [!DNL AEM Assets] | Assets视图中的[垃圾桶和恢复](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/assets/authoring/basic-operations){target="_blank"} | 视频 | 了解Assets视图中的垃圾桶和资产回收。 |
+| 2026 年 9 月 | [!DNL AEM CS] | [AEM MCP服务器](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/ai/mcp-servers/mcp-server){target="_blank"} | 视频 | 了解Experience Manager MCP服务器可为您做什么。 |
+| 2026 年 9 月 | [!DNL AEM Sites] | [AEM Headless Web组件](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/example-apps/web-component){target="_blank"} | 教程 | 了解如何使用基于Web组件的参考实施在任何网站上呈现AEM Headless内容。 |
+| 2026 年 9 月 | [!DNL AEM Forms] | [在草稿模式下查询表单](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/cloud-service/forms/automate-forms-portal-reminder-emails/build-dashboard){target="_blank"} | 文章 | 了解如何构建可查询Experience Platform数据集的功能板，以查看已保存为草稿但尚未提交的自适应Forms。 |
 
 #### 新的 [!DNL Experience Manager] 支持知识库{#kb-aem}
 
@@ -433,13 +430,13 @@ Experience League 上的 [!DNL Adobe Commerce] 新教程。
 
 | 发布日期 | 名称 | 类型 | 描述 |
 | ----------- | ---------- | ---------- | ---------- |
-| 2026年9月 | [Adobe Commerce Developer Agent概述](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/extensibility/commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video){target="_blank"} | 视频 | 了解Adobe Commerce Developer Agent如何在不人工编码的情况下，将纯英语请求转换为已部署、经过测试的店面功能（从创意到实时测试）。 |
-| 2026年9月 | [Adobe Commerce开发人员代理Blueprint和开发阶段](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/extensibility/commerce-developer-agent/adobe-commerce-developer-agent-blueprint-and-develop-stages-technical-video){target="_blank"} | 视频 | 了解开发人员代理如何将纯英文购物车限制规则转换为已批准的Blueprint，然后生成并自验证有效的webhook代码。 |
-| 2026年9月 | [Adobe Commerce Developer Agent连接集成](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/extensibility/commerce-developer-agent/adobe-commerce-developer-agent-connect-integrations-technical-video){target="_blank"} | 视频 | 了解在启用该功能之前，如何将开发人员代理生成的代码连接到App Builder、您的Adobe Commerce实例和GitHub。 |
-| 2026年9月 | [Adobe Commerce Developer Agent配置和测试](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/extensibility/commerce-developer-agent/adobe-commerce-developer-agent-configure-and-test-technical-video){target="_blank"} | 视频 | 了解如何配置购物车限制规则的业务设置，并在店面中测试该设置，而无需更改或重新部署代码。 |
-| 2026年9月 | [Adobe Commerce Developer Agent部署、关联和安装](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/extensibility/commerce-developer-agent/adobe-commerce-developer-agent-deploy-associate-and-install-technical-video){target="_blank"} | 视频 | 了解如何部署开发人员代理的应用程序，然后在Adobe Commerce管理员中关联并安装该应用程序以激活新的webhook功能。 |
-| 2026年9月 | [Adobe Commerce Developer Agent迁移现有代码](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/extensibility/commerce-developer-agent/adobe-commerce-developer-agent-migrate-existing-code-technical-video){target="_blank"} | 视频 | 了解如何使用迁移评估工具扫描旧版模块，然后让开发人员代理将其重建为经过测试的App Builder扩展。 |
-| 2026年9月 | [Adobe Commerce开发人员代理结论](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/extensibility/commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video){target="_blank"} | 视频 | Commerce Developer Agent演练的总结，通过要求或旧版扩展来实现无需手动编码且经过测试的有效商店功能。 |
+| 2026 年 9 月 | [Adobe Commerce Developer Agent概述](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/extensibility/commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video){target="_blank"} | 视频 | 了解Adobe Commerce Developer Agent如何在不人工编码的情况下，将纯英语请求转换为已部署、经过测试的店面功能（从创意到实时测试）。 |
+| 2026 年 9 月 | [Adobe Commerce开发人员代理Blueprint和开发阶段](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/extensibility/commerce-developer-agent/adobe-commerce-developer-agent-blueprint-and-develop-stages-technical-video){target="_blank"} | 视频 | 了解开发人员代理如何将纯英文购物车限制规则转换为已批准的Blueprint，然后生成并自验证有效的webhook代码。 |
+| 2026 年 9 月 | [Adobe Commerce Developer Agent连接集成](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/extensibility/commerce-developer-agent/adobe-commerce-developer-agent-connect-integrations-technical-video){target="_blank"} | 视频 | 了解在启用该功能之前，如何将开发人员代理生成的代码连接到App Builder、您的Adobe Commerce实例和GitHub。 |
+| 2026 年 9 月 | [Adobe Commerce Developer Agent配置和测试](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/extensibility/commerce-developer-agent/adobe-commerce-developer-agent-configure-and-test-technical-video){target="_blank"} | 视频 | 了解如何配置购物车限制规则的业务设置，并在店面中测试该设置，而无需更改或重新部署代码。 |
+| 2026 年 9 月 | [Adobe Commerce Developer Agent部署、关联和安装](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/extensibility/commerce-developer-agent/adobe-commerce-developer-agent-deploy-associate-and-install-technical-video){target="_blank"} | 视频 | 了解如何部署开发人员代理的应用程序，然后在Adobe Commerce管理员中关联并安装该应用程序以激活新的webhook功能。 |
+| 2026 年 9 月 | [Adobe Commerce Developer Agent迁移现有代码](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/extensibility/commerce-developer-agent/adobe-commerce-developer-agent-migrate-existing-code-technical-video){target="_blank"} | 视频 | 了解如何使用迁移评估工具扫描旧版模块，然后让开发人员代理将其重建为经过测试的App Builder扩展。 |
+| 2026 年 9 月 | [Adobe Commerce开发人员代理结论](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/extensibility/commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video){target="_blank"} | 视频 | Commerce Developer Agent演练的总结，通过要求或旧版扩展来实现无需手动编码且经过测试的有效商店功能。 |
 
 #### 新的 [!DNL Commerce] 支持知识库{#kb-commerce}
 
@@ -512,18 +509,18 @@ Adobe Commerce 的新文章和现有文章的更新。
 
 | 发布日期 | 应用程序 | 名称 | 类型 | 描述 |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
-| 2026年9月 | [!DNL Journey Optimizer] | [使用自定义操作使用挑战属性个性化内容](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/loyalty/apply-and-display-your-challenge/personalize-content-with-challenge-attributes-using-custom-actions){target="_blank"} | 视频 | 了解如何通过自定义操作检索挑战数据，并使用它根据每个成员的进度和奖励来个性化内容卡和基于代码的体验。 |
-| 2026年9月 | [!DNL Journey Optimizer] | [用例：事务性历程](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/journeys/use-cases/use-case-transactional-journey){target="_blank"} | 视频 | 了解事务型历程的适用用例，并了解如何构建它们以及可以应用的最佳实践。 |
-| 2026年9月 | [!DNL Journey Optimizer] | [创作应用程序内消息](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/author-in-app-messages.html?lang=zh-Hans){target="_blank"} | 视频 | 了解如何创作和测试应用程序内消息。 |
-| 2026年9月 | [!DNL Journey Optimizer] | [使用忠诚度分析仪表板分析忠诚度绩效](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/loyalty/analyze-and-report/analyze-loyalty-performance-using-loyalty-insights-dashboard){target="_blank"} | 视频 | 了解忠诚度分析仪表板中由AI生成的见解如何帮助您识别项目绩效的重大变化，并对最重要的指标采取行动。 |
-| 2026年9月 | [!DNL Journey Optimizer] | [配置订阅和登陆页面](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/subscriptions-and-landing-pages){target="_blank"} | 视频 | 了解如何配置订阅和创建登陆页面。 |
-| 2026年9月 | [!DNL Journey Optimizer] | [发布挑战并生成历程](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/loyalty/apply-and-display-your-challenge/publish-a-challenge-and-generate-a-journey){target="_blank"} | 视频 | 了解如何发布挑战并自动生成历程，然后使用条件、决策或优化逻辑对其进行自定义。 |
-| 2026年9月 | [!DNL Journey Optimizer] | [使用Decisioning在Web可视编辑器中个性化您的网页](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/use-decisioning/use-decisioning-within-the-web-visual-editor){target="_blank"} | 视频 | 了解如何使用Decisioning在Web可视编辑器中个性化您的网页。 |
-| 2026年9月 | [!DNL Journey Optimizer] | [使用质询报告测量质询性能](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/loyalty/analyze-and-report/measure-performance-with-challenge-reports){target="_blank"} | 视频 | 了解如何使用挑战报表和功能板来衡量参与率、完成率、收入归因和整体忠诚度绩效。 |
-| 2026年9月 | [!DNL Journey Optimizer] | [通过快速模拟加速历程测试](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/journeys/accelerate-journey-testing-with-quick-simulation){target="_blank"} | 视频 | 了解快速模拟如何在发布之前生成测试用户档案、协调事件、加快等待时间并验证历程。 |
-| 2026年9月 | [!DNL Journey Optimizer] | [为您的挑战设置生命周期消息传递](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/loyalty/apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge){target="_blank"} | 视频 | 了解如何为忠诚度挑战的每个阶段配置多渠道消息传递，从邀请到完成和奖励通知。 |
-| 2026年9月 | [!DNL Journey Optimizer] | [使用基于代码的体验渠道显示质询内容](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/loyalty/apply-and-display-your-challenge/display-challenge-content-using-code-based-experience-channel){target="_blank"} | 视频 | 了解如何使用基于代码的体验来借助HTML或JSON提升忠诚度挑战、显示进展并在应用程序中提供个性化内容。 |
-| 2026年9月 | [!DNL Journey Optimizer] | [设置忠诚奖励提供商](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/loyalty/set-up-loyality/set-up-a-loyalty-reward-provider){target="_blank"} | 视频 | 了解如何设置奖励提供商、创建奖励定义和配置奖励负载，以便Journey Optimizer可以通过您的外部系统发布忠诚度奖励。 |
+| 2026 年 9 月 | [!DNL Journey Optimizer] | [使用自定义操作使用挑战属性个性化内容](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/loyalty/apply-and-display-your-challenge/personalize-content-with-challenge-attributes-using-custom-actions){target="_blank"} | 视频 | 了解如何通过自定义操作检索挑战数据，并使用它根据每个成员的进度和奖励来个性化内容卡和基于代码的体验。 |
+| 2026 年 9 月 | [!DNL Journey Optimizer] | [用例：事务性历程](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/journeys/use-cases/use-case-transactional-journey){target="_blank"} | 视频 | 了解事务型历程的适用用例，并了解如何构建它们以及可以应用的最佳实践。 |
+| 2026 年 9 月 | [!DNL Journey Optimizer] | [创作应用程序内消息](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/author-in-app-messages.html?lang=zh-Hans){target="_blank"} | 视频 | 了解如何创作和测试应用程序内消息。 |
+| 2026 年 9 月 | [!DNL Journey Optimizer] | [使用忠诚度分析仪表板分析忠诚度绩效](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/loyalty/analyze-and-report/analyze-loyalty-performance-using-loyalty-insights-dashboard){target="_blank"} | 视频 | 了解忠诚度分析仪表板中由AI生成的见解如何帮助您识别项目绩效的重大变化，并对最重要的指标采取行动。 |
+| 2026 年 9 月 | [!DNL Journey Optimizer] | [配置订阅和登陆页面](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/subscriptions-and-landing-pages){target="_blank"} | 视频 | 了解如何配置订阅和创建登陆页面。 |
+| 2026 年 9 月 | [!DNL Journey Optimizer] | [发布挑战并生成历程](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/loyalty/apply-and-display-your-challenge/publish-a-challenge-and-generate-a-journey){target="_blank"} | 视频 | 了解如何发布挑战并自动生成历程，然后使用条件、决策或优化逻辑对其进行自定义。 |
+| 2026 年 9 月 | [!DNL Journey Optimizer] | [使用Decisioning在Web可视编辑器中个性化您的网页](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/use-decisioning/use-decisioning-within-the-web-visual-editor){target="_blank"} | 视频 | 了解如何使用Decisioning在Web可视编辑器中个性化您的网页。 |
+| 2026 年 9 月 | [!DNL Journey Optimizer] | [使用质询报告测量质询性能](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/loyalty/analyze-and-report/measure-performance-with-challenge-reports){target="_blank"} | 视频 | 了解如何使用挑战报表和功能板来衡量参与率、完成率、收入归因和整体忠诚度绩效。 |
+| 2026 年 9 月 | [!DNL Journey Optimizer] | [通过快速模拟加速历程测试](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/journeys/accelerate-journey-testing-with-quick-simulation){target="_blank"} | 视频 | 了解快速模拟如何在发布之前生成测试用户档案、协调事件、加快等待时间并验证历程。 |
+| 2026 年 9 月 | [!DNL Journey Optimizer] | [为您的挑战设置生命周期消息传递](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/loyalty/apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge){target="_blank"} | 视频 | 了解如何为忠诚度挑战的每个阶段配置多渠道消息传递，从邀请到完成和奖励通知。 |
+| 2026 年 9 月 | [!DNL Journey Optimizer] | [使用基于代码的体验渠道显示质询内容](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/loyalty/apply-and-display-your-challenge/display-challenge-content-using-code-based-experience-channel){target="_blank"} | 视频 | 了解如何使用基于代码的体验来借助HTML或JSON提升忠诚度挑战、显示进展并在应用程序中提供个性化内容。 |
+| 2026 年 9 月 | [!DNL Journey Optimizer] | [设置忠诚奖励提供商](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/loyalty/set-up-loyality/set-up-a-loyalty-reward-provider){target="_blank"} | 视频 | 了解如何设置奖励提供商、创建奖励定义和配置奖励负载，以便Journey Optimizer可以通过您的外部系统发布忠诚度奖励。 |
 | 2026 年 8 月 | [!DNL Journey Optimizer] | [使用 [!DNL Coworker]](https://experienceleague.adobe.com/zh-hans/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/journeys/create-journey-from-natural-language){target="_blank"}从自然语言创建历程 | 视频 | 了解[!DNL CX Enterprise Coworker]如何在Journey Optimizer中将纯语言描述转换为完全起草的历程，以便您可以加快历程创建并专注于优化而不是手动设置。 |
 | 2026 年 8 月 | [!DNL Journey Optimizer] | [在影响客户之前捕获历程问题](https://experienceleague.adobe.com/zh-hans/docs/cx-enterprise-agentic-tools/using/in-action/manage-ajo-journeys){target="_blank"} | 文章 | 了解如何通过通过CX [!DNL Coworker]网关连接的AI客户端主动监控Journey Optimizer历程和营销活动，以便在不打开Journey Optimizer UI的情况下发现操作问题和机会。 |
 
@@ -561,7 +558,7 @@ Adobe Commerce 的新文章和现有文章的更新。
 
 | 发布日期 | 名称 | 类型 | 描述 |
 | ----------- | ---------- | ---------- | ---------- |
-| 2026年9月 | [Sales Qualifier概述](https://experienceleague.adobe.com/zh-hans/docs/sales-qualifier/using/home){target="_blank"} | 视频 | 了解Sales Qualifier产品，包括其特性和功能。 |
+| 2026 年 9 月 | [Sales Qualifier概述](https://experienceleague.adobe.com/zh-hans/docs/sales-qualifier/using/home){target="_blank"} | 视频 | 了解Sales Qualifier产品，包括其特性和功能。 |
 
 * [Marketo Engage教程](https://experienceleague.adobe.com/zh-hans/docs/marketo-learn/tutorials/overview){target="_blank"} — 浏览教程库并充分利用Marketo Engage。
 
@@ -583,19 +580,19 @@ Experience League 上的新 [!DNL Workfront] 教程和活动。
 
 | 发布日期 | 名称 | 类型 | 描述 |
 | ----------- | ---------- | ---------- | ---------- |
-| 2026年9月 | [创建项目模板并浏览Blueprint](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template.html?lang=zh-Hans){target="_blank"} | 视频 | 了解如何从头开始或从现有项目创建项目模板，以及Blueprint如何让您访问Workfront专家创建的模板。 |
-| 2026年9月 | [用户的项目财务](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/project-finances-for-users/overview){target="_blank"} | 文章 | 了解如何跟踪项目的财务信息、设置成本和收入类型以及覆盖计费费率。 |
-| 2026年9月 | [管理员的项目财务](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/project-finances-for-administrators/overview){target="_blank"} | 文章 | 了解如何在Workfront实例或组中建立一致的账单和报告财务设置。 |
-| 2026年9月 | [管理工作 — 中间](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/manage-work-intermediate/overview){target="_blank"} | 文章 | 学习创建、规划和管理项目的中级技能，以便更加充分地利用Workfront。 |
-| 2026年9月 | [管理工作 — 快速入门](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/manage-work-getting-started/overview){target="_blank"} | 文章 | 通过学习创建和计划项目并保持简单来开始您的Workfront之旅。 |
-| 2026年9月 | [在优先级中执行操作并显示您的工作](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/priorities/taking-action-and-showing-your-work){target="_blank"} | 视频 | 了解如何使用优先级更新工作、附加文件、记录时间、创建任务并保持进度可见，而无需额外的状态会议。 |
-| 2026年9月 | [使用优先级集中您的工作时间](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/priorities/focus-your-day-using-priorities){target="_blank"} | 视频 | 了解什么是Workfront优先级，它显示什么，以及如何使用筛选器和我的焦点来整理您的生活。 |
-| 2026年9月 | [为问题管理创建自定义报告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/report-on-issues.html?lang=zh-Hans){target="_blank"} | 视频 | 了解如何创建显示未结问题和转化信息的报告。 |
-| 2026年9月 | [将问题或请求转换为任务](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/convert-issues-to-other-work-items.html?lang=zh-Hans){target="_blank"} | 视频 | 了解如何在Adobe Workfront中将问题转化为其他工作项。 |
-| 2026年9月 | [将问题或请求转换为项目](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/create-a-project-from-a-request){target="_blank"} | 视频 | 了解如何将请求转化为项目，选择相应的模板并完成转化。 |
-| 2026年9月 | [有效管理问题分配](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/manage-issue-assignments.html?lang=zh-Hans){target="_blank"} | 视频 | 了解如何将问题分配给个人、多个用户或团队，以便解决问题。 |
-| 2026年9月 | [在Workfront中更新请求](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/update-a-request.html?lang=zh-Hans){target="_blank"} | 视频 | 了解如何查找并更新您提交的请求。 |
-| 2026年9月 | [有效地更新问题状态](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/update-the-issue-status){target="_blank"} | 视频 | 了解问题状态（如新建、进行中、已挂起和已解决），以及未完成的问题阻止项目完成的原因。 |
+| 2026 年 9 月 | [创建项目模板并浏览Blueprint](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template.html?lang=zh-Hans){target="_blank"} | 视频 | 了解如何从头开始或从现有项目创建项目模板，以及Blueprint如何让您访问Workfront专家创建的模板。 |
+| 2026 年 9 月 | [用户的项目财务](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/project-finances-for-users/overview){target="_blank"} | 文章 | 了解如何跟踪项目的财务信息、设置成本和收入类型以及覆盖计费费率。 |
+| 2026 年 9 月 | [管理员的项目财务](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/project-finances-for-administrators/overview){target="_blank"} | 文章 | 了解如何在Workfront实例或组中建立一致的账单和报告财务设置。 |
+| 2026 年 9 月 | [管理工作 — 中间](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/manage-work-intermediate/overview){target="_blank"} | 文章 | 学习创建、规划和管理项目的中级技能，以便更加充分地利用Workfront。 |
+| 2026 年 9 月 | [管理工作 — 快速入门](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/manage-work-getting-started/overview){target="_blank"} | 文章 | 通过学习创建和计划项目并保持简单来开始您的Workfront之旅。 |
+| 2026 年 9 月 | [在优先级中执行操作并显示您的工作](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/priorities/taking-action-and-showing-your-work){target="_blank"} | 视频 | 了解如何使用优先级更新工作、附加文件、记录时间、创建任务并保持进度可见，而无需额外的状态会议。 |
+| 2026 年 9 月 | [使用优先级集中您的工作时间](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/priorities/focus-your-day-using-priorities){target="_blank"} | 视频 | 了解什么是Workfront优先级，它显示什么，以及如何使用筛选器和我的焦点来整理您的生活。 |
+| 2026 年 9 月 | [为问题管理创建自定义报告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/report-on-issues.html?lang=zh-Hans){target="_blank"} | 视频 | 了解如何创建显示未结问题和转化信息的报告。 |
+| 2026 年 9 月 | [将问题或请求转换为任务](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/convert-issues-to-other-work-items.html?lang=zh-Hans){target="_blank"} | 视频 | 了解如何在Adobe Workfront中将问题转化为其他工作项。 |
+| 2026 年 9 月 | [将问题或请求转换为项目](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/create-a-project-from-a-request){target="_blank"} | 视频 | 了解如何将请求转化为项目，选择相应的模板并完成转化。 |
+| 2026 年 9 月 | [有效管理问题分配](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/manage-issue-assignments.html?lang=zh-Hans){target="_blank"} | 视频 | 了解如何将问题分配给个人、多个用户或团队，以便解决问题。 |
+| 2026 年 9 月 | [在Workfront中更新请求](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/update-a-request.html?lang=zh-Hans){target="_blank"} | 视频 | 了解如何查找并更新您提交的请求。 |
+| 2026 年 9 月 | [有效地更新问题状态](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/update-the-issue-status){target="_blank"} | 视频 | 了解问题状态（如新建、进行中、已挂起和已解决），以及未完成的问题阻止项目完成的原因。 |
 | 2026 年 8 月 | [为复杂报表创建EXISTS筛选器](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/understand-exists-filters){target="_blank"} | 更新的视频 | 了解“存在”过滤器是什么、它可以对您做什么，以及如何从头开始构建一个，并提供了一些示例供您根据自己的报告进行调整。 |
 | 2026 年 8 月 | [使用文本模式创建自定义提示](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/custom-prompts.html?lang=zh-Hans){target="_blank"} | 更新的视频 | 了解自定义提示是什么，如何使用文本模式创建自定义提示，并查看您可以在自己的Workfront报表中使用的示例。 |
 | 2026 年 8 月 | [高级聚合演练](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/iteration-and-aggregation/advanced-aggregation-walkthrough.html?lang=zh-Hans){target="_blank"} | 更新的视频 | 在Workfront Fusion中通过使用分组从单个场景生成多个聚合输出来实施高级聚合。 |
@@ -645,12 +642,12 @@ GenStudio for Performance Marketing 视频教程。
 
 | 发布日期 | 应用程序 | 名称 | 类型 | 描述 |
 | ----------- | ---------- | ---------- | ---------- | ---------- |
-| 2026年9月 | Acrobat | [在Acrobat Studio中使用Analyzer探索高级功能](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/analyzer/advanced){target="_blank"} | 视频 | 了解如何使用Analyzer中的AI Assistant导出提取的数据、共享收藏集、比较两个文档以及提出临时问题。 |
-| 2026年9月 | Acrobat | [将数据隐私风险转变为全面可见性和监控](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/analyzer/use-cases/data-privacy-risk){target="_blank"} | 视频 | 了解Analyzer如何帮助隐私、法律和采购团队大规模提取、监控和验证关键数据处理协议条款以及可跟踪的结果。 |
-| 2026年9月 | Acrobat | [加快财务收入和审核审核](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/analyzer/use-cases/accelerate-revenue){target="_blank"} | 视频 | 了解Analyzer如何帮助财务团队大规模提取、查看和验证合同数据，以改善审核准备情况、收入确认和租赁合规性。 |
-| 2026年9月 | Acrobat | 在Acrobat Studio中使用Analyzer的[属性](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/analyzer/attributes){target="_blank"} | 视频 | 了解如何创建、测试和优化用于定义Analyzer提取内容的属性，以便始终捕获大型收藏集中的关键数据。 |
-| 2026年9月 | Acrobat | [在Acrobat Studio中将集合与Analyzer结合使用](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/analyzer/collections){target="_blank"} | 视频 | 了解如何创建手动和链接的收藏集、应用属性，以及随着内容的增长使文档保持井井有条。 |
-| 2026年9月 | Acrobat | [Acrobat Studio中的Analyzer入门](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/analyzer/get-started){target="_blank"} | 视频 | 了解Analyzer如何从大量合同、协议和合规性文档中提取结构化、引用的数据，而不是逐一读取。 |
+| 2026 年 9 月 | Acrobat | [在Acrobat Studio中使用Analyzer探索高级功能](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/analyzer/advanced){target="_blank"} | 视频 | 了解如何使用Analyzer中的AI Assistant导出提取的数据、共享收藏集、比较两个文档以及提出临时问题。 |
+| 2026 年 9 月 | Acrobat | [将数据隐私风险转变为全面可见性和监控](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/analyzer/use-cases/data-privacy-risk){target="_blank"} | 视频 | 了解Analyzer如何帮助隐私、法律和采购团队大规模提取、监控和验证关键数据处理协议条款以及可跟踪的结果。 |
+| 2026 年 9 月 | Acrobat | [加快财务收入和审核审核](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/analyzer/use-cases/accelerate-revenue){target="_blank"} | 视频 | 了解Analyzer如何帮助财务团队大规模提取、查看和验证合同数据，以改善审核准备情况、收入确认和租赁合规性。 |
+| 2026 年 9 月 | Acrobat | 在Acrobat Studio中使用Analyzer的[属性](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/analyzer/attributes){target="_blank"} | 视频 | 了解如何创建、测试和优化用于定义Analyzer提取内容的属性，以便始终捕获大型收藏集中的关键数据。 |
+| 2026 年 9 月 | Acrobat | [在Acrobat Studio中将集合与Analyzer结合使用](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/analyzer/collections){target="_blank"} | 视频 | 了解如何创建手动和链接的收藏集、应用属性，以及随着内容的增长使文档保持井井有条。 |
+| 2026 年 9 月 | Acrobat | [Acrobat Studio中的Analyzer入门](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/analyzer/get-started){target="_blank"} | 视频 | 了解Analyzer如何从大量合同、协议和合规性文档中提取结构化、引用的数据，而不是逐一读取。 |
 
 要浏览 [!DNL Document Cloud] 教程，请参阅：
 
@@ -667,7 +664,7 @@ Adobe基于节点的创意自动化工具[!DNL Firefly Graph]的新教程。
 
 | 发布日期 | 名称 | 类型 | 描述 |
 | ----------- | ---------- | ---------- | ---------- |
-| 2026年9月 | [在相机滚动前对齐](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/align-camera-roll){target="_blank"} | 视频 | 了解创意团队如何使用Adobe Firefly展示板提前对创意进行压力测试，以便他们能够自信地抵达目的地，确保每次拍摄都会按计划进行。 |
+| 2026 年 9 月 | [在相机滚动前对齐](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/align-camera-roll){target="_blank"} | 视频 | 了解创意团队如何使用Adobe Firefly展示板提前对创意进行压力测试，以便他们能够自信地抵达目的地，确保每次拍摄都会按计划进行。 |
 
 ### [!DNL Adobe Brand Concierge] {#tutorials-brand-concierge}
 
@@ -675,11 +672,11 @@ Adobe基于节点的创意自动化工具[!DNL Firefly Graph]的新教程。
 
 | 发布日期 | 名称 | 类型 | 描述 |
 | ----------- | ---------- | ---------- | ---------- |
-| 2026年9月 | [语音对话](https://experienceleague.adobe.com/zh-hans/docs/brand-concierge/content/getting-started/voice-conversation){target="_blank"} | 视频 | 了解语音对话功能如何通过自动语音检测以及支持自然中断的完整多模式体验，使访客能够免提地与Brand Concierge进行交互。 |
-| 2026年9月 | [了解评估集](https://experienceleague.adobe.com/zh-hans/docs/brand-concierge/content/getting-started/learn-about-evaluation-sets){target="_blank"} | 视频 | 了解功能性、范围外和安全性评估如何让您确认礼宾人员正确回答、保留在范围中以及安全地处理棘手问题。 |
-| 2026年9月 | [调整您的第一个门房的视觉效果](https://experienceleague.adobe.com/zh-hans/docs/brand-concierge/content/getting-started/customize-visual-style){target="_blank"} | 视频 | 了解如何自定义礼宾人员的视觉风格，包括欢迎消息、入门提示卡、图像和颜色。 |
-| 2026年9月 | [部署礼宾](https://experienceleague.adobe.com/zh-hans/docs/brand-concierge/content/getting-started/deploy-the-concierge){target="_blank"} | 视频 | 了解如何通过数据流和表面配置部署礼宾，然后将安装脚本添加到您的网站。 |
-| 2026年9月 | [Brand Concierge快速入门](https://experienceleague.adobe.com/zh-hans/docs/brand-concierge/content/getting-started/create-first-concierge){target="_blank"} | 教程 | 了解如何从网站URL创建您的第一个礼宾、查看生成的品牌配置文件和说明，以及在桌面视图和移动设备视图中测试响应。 |
+| 2026 年 9 月 | [语音对话](https://experienceleague.adobe.com/zh-hans/docs/brand-concierge/content/getting-started/voice-conversation){target="_blank"} | 视频 | 了解语音对话功能如何通过自动语音检测以及支持自然中断的完整多模式体验，使访客能够免提地与Brand Concierge进行交互。 |
+| 2026 年 9 月 | [了解评估集](https://experienceleague.adobe.com/zh-hans/docs/brand-concierge/content/getting-started/learn-about-evaluation-sets){target="_blank"} | 视频 | 了解功能性、范围外和安全性评估如何让您确认礼宾人员正确回答、保留在范围中以及安全地处理棘手问题。 |
+| 2026 年 9 月 | [调整您的第一个门房的视觉效果](https://experienceleague.adobe.com/zh-hans/docs/brand-concierge/content/getting-started/customize-visual-style){target="_blank"} | 视频 | 了解如何自定义礼宾人员的视觉风格，包括欢迎消息、入门提示卡、图像和颜色。 |
+| 2026 年 9 月 | [部署礼宾](https://experienceleague.adobe.com/zh-hans/docs/brand-concierge/content/getting-started/deploy-the-concierge){target="_blank"} | 视频 | 了解如何通过数据流和表面配置部署礼宾，然后将安装脚本添加到您的网站。 |
+| 2026 年 9 月 | [Brand Concierge快速入门](https://experienceleague.adobe.com/zh-hans/docs/brand-concierge/content/getting-started/create-first-concierge){target="_blank"} | 教程 | 了解如何从网站URL创建您的第一个礼宾、查看生成的品牌配置文件和说明，以及在桌面视图和移动设备视图中测试响应。 |
 | 2026 年 8 月 | [品牌语音和视觉首选项](https://experienceleague.adobe.com/zh-hans/docs/brand-concierge/content/go-live-guide/voice-and-visuals){target="_blank"} | 视频 | 了解如何通过定义Brand Concierge的品牌声音、配置版面和颜色等小组件设置以及创建问候语和入门提示来自定义其个性化和外观。 |
 | 2026 年 8 月 | [准备您的内容和访客历程](https://experienceleague.adobe.com/zh-hans/docs/brand-concierge/content/go-live-guide/content-and-journey){target="_blank"} | 视频 | 了解如何在启动Brand Concierge之前准备知识源并定义访客历程，包括您可以共享的内容类型以及如何描述您想要获得的体验。 |
 | 2026 年 8 月 | [上线核对清单：上线历程的预期情况](https://experienceleague.adobe.com/zh-hans/docs/brand-concierge/content/go-live-guide/welcome){target="_blank"} | 视频 | 了解如何导航启动Brand Concierge的四个阶段（准备、配置、验证和推出），并了解上线涉及的典型时间表和职责。 |
@@ -690,9 +687,9 @@ Adobe基于节点的创意自动化工具[!DNL Firefly Graph]的新教程。
 
 | 发布日期 | 名称 | 类型 | 描述 |
 | ----------- | ---------- | ---------- | ---------- |
-| 2026年9月 | [使用Akamai在Edge设置优化](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility/using/resources/optimize-at-edge/akamai-byocdn){target="_blank"} | 视频 | 了解如何使用Adobe Brand Visibility中的引导式Akamai部署，将AI代理流量从API设置到生产环境路由到Edge Optimize。 |
-| 2026年9月 | [使用Cloudflare (BYOCDN)在Edge设置优化](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility/using/resources/optimize-at-edge/cloudflare-byocdn){target="_blank"} | 视频 | 通过此引导式分步演练，了解如何连接Cloudflare并部署路由以在Edge进行优化。 |
-| 2026年9月 | [使用CloudFront (BYOCDN)在Edge设置优化](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility/using/resources/optimize-at-edge/cloudfront-byocdn){target="_blank"} | 视频 | 通过此引导式分步演练，了解如何连接AWS并部署CloudFront路由以在Edge进行优化。 |
+| 2026 年 9 月 | [使用Akamai在Edge设置优化](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility/using/resources/optimize-at-edge/akamai-byocdn){target="_blank"} | 视频 | 了解如何使用Adobe Brand Visibility中的引导式Akamai部署，将AI代理流量从API设置到生产环境路由到Edge Optimize。 |
+| 2026 年 9 月 | [使用Cloudflare (BYOCDN)在Edge设置优化](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility/using/resources/optimize-at-edge/cloudflare-byocdn){target="_blank"} | 视频 | 通过此引导式分步演练，了解如何连接Cloudflare并部署路由以在Edge进行优化。 |
+| 2026 年 9 月 | [使用CloudFront (BYOCDN)在Edge设置优化](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility/using/resources/optimize-at-edge/cloudfront-byocdn){target="_blank"} | 视频 | 通过此引导式分步演练，了解如何连接AWS并部署CloudFront路由以在Edge进行优化。 |
 
 ### 客户数据管理 - 意见 {#tutorials-voices}
 
