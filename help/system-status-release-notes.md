@@ -2,22 +2,23 @@
 title: Adobe系统状态发行说明
 description: Adobe系统状态的发行历史记录(status.adobe.com)。
 doc-type: release notes
-last-update: September 2026
+last-update: October 2026
 author: mfrei
-source-git-commit: 012ac83c9545c3ed9a008affe497d866162085dd
+source-git-commit: 079ad317870716d5ca3d5c5cdd42267a86ab62e6
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 30%
+source-wordcount: '306'
+ht-degree: 27%
 ---
 
 # [!DNL Adobe System Status] 发行说明 {#status-release-notes}
 
-[!DNL Adobe System Status] 提供了关于 Adobe 产品与服务的详细信息、状态更新以及电子邮件通知。 获取有关故障、中断和维护活动的通知。 请在 [status.adobe.com](https://status.adobe.com/zh-cn/){target="_blank"} 上查看它。
+[!DNL Adobe System Status] 提供了关于 Adobe 产品与服务的详细信息、状态更新以及电子邮件通知。 获取有关故障、中断和维护活动的通知。 请在 [status.adobe.com](https://status.adobe.com/){target="_blank"} 上查看它。
 
 此页面在一段时间内跟踪[!DNL Adobe System Status]更新。 仅当有要报告的新版本时才会更新。
 
 | 日期 | 更新 |
 | ------- | ------- |
+| 2026年10月1日 | <ul><li>修复了当您没有订阅或权利并且&#x200B;**我的事件**&#x200B;已打开时的空云部分</li><li>通过Akamai源故障切换提高了可用性</li><li>更新了配置文件检索以使用所需的身份范围</li></ul> |
 | 2026年3月 | <ul><li>AI 虚拟助手测试版</li><li>错误修复和改进</li></ul> |
 | 2025年12月8日 | <ul><li>虚拟助理反馈增强功能（简化的引导式工作流、直观图标）</li><li>错误修复和改进</li></ul> |
 | 2025年7月16日 | <ul><li>虚拟助手全面可用</li><li>在Product和Cloud页面以及虚拟助理中搜索事件ID</li><li>Slack 通知设置更新</li><li>错误修复和改进</li></ul> |
