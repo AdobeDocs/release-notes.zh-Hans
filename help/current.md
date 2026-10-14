@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: October 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: a01234edb05a1df886bcff92668492f8ae961256
+source-git-commit: cc2ce02bd5c2ed35c3103d22b0c946a1bb4a0715
 workflow-type: tm+mt
-source-wordcount: '21360'
+source-wordcount: '21377'
 ht-degree: 12%
 ---
 # [!DNL CX Enterprise]中央发行说明 — 2026年10月 {#top}
@@ -29,11 +29,11 @@ ht-degree: 12%
 
 **重要信息：**&#x200B;某些应用程序每周发布一次。 要了解最新信息，请经常访问这些页面。
 
-上次更新：**2026年10月12日**
+上次更新：**2026年10月14日**
 
 | 应用程序 | 发行日期 | 发行说明 URL | 更新 |
 | ------------- | ------------- | ------------- | ------------- |
-| [!DNL Adobe Journey Optimizer] | 2026年10月9日 | [[!DNL Journey Optimizer] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>按需历程验证（10月9日）</li><li>[!DNL CX Enterprise Coworker]中的业务绩效分析技能（10月7日）</li><li>自定义出站渠道(GA)：将基于HTTP的消息渠道（如WeChat或Kakao Talk）与决策、业务规则和API触发的活动支持相集成</li><li>LINE现在可用作编排的营销活动中的本机出站渠道</li><li>在Audience Qualification历程中跳转活动（从批量受众跳转到基于事件的历程）</li></ul> |
+| [!DNL Adobe Journey Optimizer] | 2026年10月12日 | [[!DNL Journey Optimizer] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>停止操作历程活动：从最多五个入站活动或体验中删除用户档案，而不结束其历程（10月12日）</li><li>按需历程验证（10月9日）</li><li>[!DNL CX Enterprise Coworker]中的业务绩效分析技能（10月7日）</li><li>自定义出站渠道(GA)：将基于HTTP的消息渠道（如WeChat或Kakao Talk）与决策、业务规则和API触发的活动支持相集成</li><li>忠诚度配置中的性能设置：选择忠诚度数据集和优先级KPI（10月1日）</li></ul> |
 | [!DNL Adobe Customer Journey Analytics] | 2026年10月8 | [Customer Journey Analytics 发行说明](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/releases/latest?lang=en#releases){target="_blank"} | <ul><li>在Analysis Workspace中分析LLM客户体验的对话见解</li><li>Customer Journey Analytics MCP服务器的只读权限</li><li>[!DNL CX Enterprise Coworker]中现在提供了升级和实施技能</li><li>同意策略筛选和报告符合Experience Platform同意策略的访客</li><li>子事件分析（事件中单个容器的区段）</li></ul> |
 | [!DNL Adobe Commerce] as a Cloud Service | 2026年10月7日 | [Adobe Commerce as a Cloud Service发行说明](https://experienceleague.adobe.com/zh-hans/docs/commerce/cloud-service/release-notes){target="_blank"} | <ul><li>公司详细信息现在可在运费webhook中获取，以确定配送资格</li><li>用于管理目录价格规则的新REST API端点</li><li>针对预签名文件上载的reCAPTCHA保护</li><li>REST API支持返回项目的自定义属性</li><li>用于防止未经身份验证的来宾注册公司的选项</li><li>目录价格规则的计划激活和到期时间</li><li>订单审核：通过GraphQL按original_number筛选订单</li></ul> |
 | [!DNL Adobe Analytics] | 2026年10月6日 | [[!DNL Analytics] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/analytics/release-notes/latest){target="_blank"} | <ul><li>[!DNL Adobe Analytics] MCP服务器的只读权限</li><li>直接从[!DNL Coworker Chat]在Analysis Workspace中打开可视化图表</li><li>[!DNL Coworker Chat]根本原因分析解释了量度更改的原因，而不仅仅是更改了什么内容</li><li>使用自然语言提示分析[!DNL Coworker Chat]中的[!DNL Adobe Analytics]数据</li><li>将区段限制为报表日期范围（对于访客顶级容器）</li></ul> |
@@ -88,7 +88,7 @@ ht-degree: 12%
 
 ## [!DNL CX Enterprise Coworker]和AI资源 {#ai}
 
-在[!DNL CX Enterprise]应用程序中查找为[!DNL Coworker]和AI功能发布的最新学习资源。
+在[!DNL CX Enterprise]应用程序中查找为[[!DNL Coworker]](https://experienceleague.adobe.com/zh-hans/docs/coworker/content/home)和AI功能发布的最新学习资源。
 
 | 应用程序 | 更新 | 描述 | 更新 |
 | ------- | ------- | ------- | ------- |
