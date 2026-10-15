@@ -5,18 +5,18 @@ doc-type: release notes
 last-update: October 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: cc2ce02bd5c2ed35c3103d22b0c946a1bb4a0715
+source-git-commit: fa32060d6839944dd4cf3f736ba605fe764a011f
 workflow-type: tm+mt
-source-wordcount: '21377'
+source-wordcount: '21428'
 ht-degree: 12%
 ---
 # [!DNL CX Enterprise]中央发行说明 — 2026年10月 {#top}
 
 此页面可帮助您查找最新信息：
 
-* 所有[!DNL CX Enterprise]应用程序的[发行说明](#application-release-notes) （更新日期： **10月8日**）
+* 所有[!DNL CX Enterprise]应用程序的[发行说明](#application-release-notes) （更新日期： **10月14日**）
 * Experience League上的[活动和新增功能](#events)
-* [[!DNL CX Enterprise Coworker] 和AI](#ai)学习资源
+* [[!DNL CX Enterprise Coworker] 和AI](#ai)学习资源（更新日期： **10月14日**）
 * [教程和支持文章](#articles)可在[!DNL Experience League]上找到
 
 >[!TIP]
@@ -92,6 +92,7 @@ ht-degree: 12%
 
 | 应用程序 | 更新 | 描述 | 更新 |
 | ------- | ------- | ------- | ------- |
+| [!DNL Coworker] | **数据分析** | [通过同事、AEM和CJA加速数据洞察](https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/data-insights/accelerate-data-insights){target="_blank"} — 了解[!DNL Coworker]如何连接[!DNL Experience Manager]、[!DNL Experience Platform]、Web SDK和[!DNL Customer Journey Analytics]来计划和实施实施，以便网站参与数据随时可供分析。 | 2026年10月14 |
 | [!DNL Coworker] | **Experience League LIVE** | [同事已解锁](https://www.youtube.com/live/hrNuDVQFtLA){target="_blank"}：同事中的受众和历程B2C功能 | 2026年10月8 |
 | [!DNL Coworker] | **营销活动** | [与同事一起计划数字营销活动启动](https://experienceleague.adobe.com/zh-hans/docs/coworker/content/chat/use-cases/workflow-and-planning/plan-digital-campaign-launch){target="_blank"} — 了解如何通过一次聊天中构建受众、历程、内容和登陆页面来计划和启动B2C营销活动。 | 2026年10月8 |
 | [!DNL Adobe Target] | **优化** | [加速使用同事、AEM和Target的试验](https://experienceleague.adobe.com/zh-hans/docs/coworker/content/chat/use-cases/optimization/accelerate-experimentation){target="_blank"} — 查看跨产品工作流程，该流程会在WKND Magazine页面上创建一个试验，让同事协调实现目标所需的Adobe功能。 | 2026年10月8 |
