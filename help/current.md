@@ -92,11 +92,11 @@ ht-degree: 12%
 
 | 应用程序 | 更新 | 描述 | 更新 |
 | ------- | ------- | ------- | ------- |
-| [!DNL Coworker] | **数据分析** | [通过同事、AEM和CJA加速数据洞察](https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/data-insights/accelerate-data-insights){target="_blank"} — 了解[!DNL Coworker]如何连接[!DNL Experience Manager]、[!DNL Experience Platform]、Web SDK和[!DNL Customer Journey Analytics]来计划和实施实施，以便网站参与数据随时可供分析。 | 2026年10月14 |
+| [!DNL Coworker] | **数据分析** | [通过同事、AEM和CJA加速数据洞察](https://experienceleague.adobe.com/zh-hans/docs/coworker/content/chat/use-cases/data-insights/accelerate-data-insights){target="_blank"} — 了解[!DNL Coworker]如何连接[!DNL Experience Manager]、[!DNL Experience Platform]、Web SDK和[!DNL Customer Journey Analytics]来计划和实施实施，以便网站参与数据随时可供分析。 | 2026年10月14 |
 | [!DNL Coworker] | **Experience League LIVE** | [同事已解锁](https://www.youtube.com/live/hrNuDVQFtLA){target="_blank"}：同事中的受众和历程B2C功能 | 2026年10月8 |
 | [!DNL Coworker] | **营销活动** | [与同事一起计划数字营销活动启动](https://experienceleague.adobe.com/zh-hans/docs/coworker/content/chat/use-cases/workflow-and-planning/plan-digital-campaign-launch){target="_blank"} — 了解如何通过一次聊天中构建受众、历程、内容和登陆页面来计划和启动B2C营销活动。 | 2026年10月8 |
 | [!DNL Adobe Target] | **优化** | [加速使用同事、AEM和Target的试验](https://experienceleague.adobe.com/zh-hans/docs/coworker/content/chat/use-cases/optimization/accelerate-experimentation){target="_blank"} — 查看跨产品工作流程，该流程会在WKND Magazine页面上创建一个试验，让同事协调实现目标所需的Adobe功能。 | 2026年10月8 |
-| [!DNL Coworker] | **技能** | [使用数据验证技能验证数据集质量](https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/data-insights/validate-dataset-quality-for-cja){target="_blank"} — 了解数据验证技能如何在构建功能板和历程之前检查Customer Journey Analytics数据集的架构、标识和字段质量问题。 | 2026年10月8 |
+| [!DNL Coworker] | **技能** | [使用数据验证技能验证数据集质量](https://experienceleague.adobe.com/zh-hans/docs/coworker/content/chat/use-cases/data-insights/validate-dataset-quality-for-cja){target="_blank"} — 了解数据验证技能如何在构建功能板和历程之前检查Customer Journey Analytics数据集的架构、标识和字段质量问题。 | 2026年10月8 |
 | [!DNL Coworker] | **技能** | [管理和迭代技能](https://experienceleague.adobe.com/zh-hans/docs/coworker/content/customizations/skills/manage-and-iterate-on-skills){target="_blank"} — 了解如何编辑、通过基线比较进行评估以及随时间推移删除技能。 | 2026年10月8 |
 | [!DNL Coworker] | **集成** | [了解同事中的集成](https://experienceleague.adobe.com/zh-hans/docs/coworker/content/customizations/integrations/understanding-integrations-in-coworker){target="_blank"} — 获取同事中的集成导览，包括它们是什么、为什么要使用集成以及如何使用界面。 | 2026年10月8 |
 | [!DNL Coworker] | **插件** | [管理您组织的插件](https://experienceleague.adobe.com/zh-hans/docs/coworker/content/customizations/plugins/manage-plugins-for-your-org){target="_blank"} — 了解管理员如何使用批准的插件扩展同事聊天，并管理对技能和关联工具的访问。 | 2026年10月8 |
