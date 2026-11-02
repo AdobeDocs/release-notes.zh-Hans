@@ -5,16 +5,16 @@ doc-type: release notes
 last-update: October 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: 1c514a89c5a474ef11ab7b5838e91178a311ee04
+source-git-commit: 7c1a3d1b65801e3ae5f6b17cfc32e6e3de249fc3
 workflow-type: tm+mt
-source-wordcount: '21644'
+source-wordcount: '21783'
 ht-degree: 12%
 ---
 # [!DNL CX Enterprise]中央发行说明 — 2026年10月 {#top}
 
 此页面可帮助您查找最新信息：
 
-* 所有[!DNL CX Enterprise]应用程序的[发行说明](#application-release-notes) （更新日期： **10月26日**）
+* 所有[!DNL CX Enterprise]应用程序的[发行说明](#application-release-notes) （更新日期： **11月2日**）
 * Experience League上的[活动和新增功能](#events)
 * [[!DNL CX Enterprise Coworker] 和AI](#ai)学习资源（更新日期： **10月14日**）
 * [教程和支持文章](#articles)可在[!DNL Experience League]上找到
@@ -29,24 +29,25 @@ ht-degree: 12%
 
 **重要信息：**&#x200B;某些应用程序每周发布一次。 要了解最新信息，请经常访问这些页面。
 
-上次更新：**2026年10月26日**
+上次更新：**2026年11月2日**
 
 | 应用程序 | 发行日期 | 发行说明 URL | 更新 |
 | ------------- | ------------- | ------------- | ------------- |
-| [!DNL Adobe Journey Optimizer] | 2026年10月26日 | [[!DNL Journey Optimizer] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>[!DNL CX Enterprise Coworker]中的历程执行时间表技能：读取受众历程批次的端到端时间表，从受众导出到交付，P95和P99计时（10月26日）</li><li>跟踪历程配置文件技能：已发布历程（10月22日）的只读、配置文件级别的执行数据</li><li>决策规则生成技能：从自然语言提示生成、模拟和优化资格规则和排名公式（10月22日）</li><li>[!DNL CX Enterprise Coworker]中的历程卫生分析技能：审核命名问题、过时或过大的历程及类似名称的历程清单（10月20日）</li><li>自定义操作的HMAC签名JWT身份验证（限量发布）（10月13日）</li></ul> |
-| [!DNL CX Enterprise Coworker] | 2026年10月26日 | [[!DNL CX Enterprise Coworker] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/coworker/content/more-resources/release-notes){target="_blank"} | <ul><li>[!DNL Coworker Chat]： [!DNL Experience Platform]发行说明中列出的功能增强和修复</li><li>适用于团队的[!DNL Coworker]：功能增强和修复，持续交付</li><li>[!DNL CX Enterprise]中心发行说明的链接</li></ul> |
+| [!DNL Adobe Journey Optimizer] | 2026年10月29日 | [[!DNL Journey Optimizer] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>促销活动、历程和编排促销活动的统一日历（限量发布）（10月29日）</li><li>营销活动和历程的自定义元数据：每个实体类型最多10个自定义业务字段（限量发布）（10月29日）</li><li>针对退回和投放错误率、读取受众导出以及事件延迟（限量发布）的新历程警报（10月29日）</li><li>在历程或营销活动操作级别覆盖电子邮件渠道配置设置（从名称、回复）；高吞吐量电子邮件的自助设置（10月28日）</li><li>[!DNL CX Enterprise Coworker]中的历程执行时间表技能（10月26日）</li></ul> |
+| [!DNL Adobe Customer Journey Analytics] | 2026年10月29日 | [Customer Journey Analytics 发行说明](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/releases/latest?lang=en#releases){target="_blank"} | <ul><li>同事的产品内体验： Analysis Workspace中将打开项目用作上下文的聊天面板（10月29日）</li><li>自动生成组件和项目的描述（10月29日；GA 11月18日）</li><li>Adobe Brand Visibility集成，用于衡量AI驱动的发现如何推动网站参与（10月29日）</li><li>历程画布：比较百分比选项显示节点、箭头和流失与上一时段（10月19日）相比的百分点变化</li><li>在Analysis Workspace中分析LLM客户体验的对话见解</li></ul> |
+| [!DNL Adobe Analytics] | 2026年10月29日 | [[!DNL Analytics] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/analytics/release-notes/latest){target="_blank"} | <ul><li>可视化图表中的简洁图例标签（10月29日）</li><li>自动生成组件和项目的描述（10月29日；GA 11月18日）</li><li>[!DNL Coworker Chat]：高级分析、量度更改的根本原因分析以及在Analysis Workspace中打开可视化图表（10月29日）</li><li>[!DNL CX Enterprise Coworker]可以将[!DNL Adobe Analytics]个项目和组件迁移到Customer Journey Analytics（10月26日）</li><li>Data Warehouse报表中的分类数据改进，包括已删除值的空白（10月14日）</li></ul> |
+| [!DNL Adobe Experience Manager] as a Cloud Service | 2026年10月29日 | [Adobe Experience Manager as a Cloud Service 当前发行说明](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current){target="_blank"} | <ul><li>功能版本2026.10.0现已更新；2026.11.0计划于2026年11月19日发布</li><li>AEM Cloud Service SDK支持用于本地开发的Java 25运行时（10月29日）</li><li>Assets：多语言字幕和音轨、人工智能生成的字幕、品牌视频查看器；Content Hub获得AI 搜索和智能收藏集</li><li>AEM治理代理优先考虑漏洞发现；[!DNL CX Enterprise Coworker]可以检查工作流并调查Dispatcher行为</li><li>Forms：自适应Forms的表组件、新的文档转换API以及文件附件的病毒扫描</li><li>OpenTelemetry for APM有限可用（10月19日）</li></ul> |
+| [!DNL Adobe Commerce] as a Cloud Service | 2026年10月28日 | [Adobe Commerce as a Cloud Service发行说明](https://experienceleague.adobe.com/zh-hans/docs/commerce/cloud-service/release-notes){target="_blank"} | <ul><li>Webhook在呈现评论电子邮件之前添加或更改模板变量（10月28日）</li><li>将批准的产品审查计数和平均评级作为系统属性导出到目录服务（10月28日）</li><li>可选退还通过REST端点存储点数的销退折让单，具有两个新的管理员权限（10月28日）</li><li>Adobe I/O Events从第三方平台发送事务性电子邮件（公司分配、店内提货准备、采购订单拒绝）（10月28日）</li><li>用于管理自定义国家/地区地区的REST端点，以及适用于最多100个SKU的新stockAvailability GraphQL查询（10月20日）</li><li>通过Adobe I/O Events订阅客户地址创建、更新和删除事件（10月20日）</li></ul> |
+| [!DNL CX Enterprise Coworker] | 2026年10月28日 | [[!DNL CX Enterprise Coworker] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/coworker/content/more-resources/release-notes){target="_blank"} | <ul><li>[!DNL Coworker Chat]： [!DNL Experience Platform]发行说明中列出的功能增强和修复</li><li>适用于团队的[!DNL Coworker]：功能增强和修复，持续交付</li><li>[!DNL CX Enterprise]中心发行说明的链接</li></ul> |
+| [!DNL Adobe Experience Platform and Real-Time CDP] | 2026年10月27日 | [[!DNL Experience Platform] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/experience-platform/release-notes/latest){target="_blank"} | <ul><li>[!DNL CX Enterprise Coworker]：异常检测技能（可用性限制）和通知技能；在Microsoft 365 Copilot、ChatGPT和Claude中提供了同事</li><li>目标：6sense帐户（测试版）、交易台第三方受众、交易台的新UID2转化命名空间 — CRM以及何时激活正式可用</li><li>Real-Time Customer Profile：支持非结构化数据（测试版）</li><li>目标：数据登录区支持手动删除Azure和AWS的导出文件</li><li>来源：Azure事件中心虚拟网络已弃用</li></ul> |
+| Adobe Advertising | 搜索、社交和Commerce： 2026年10月26日<br>DSP： 2026年8月14日<br>Creative： 2026年7月1日 | <ul><li>[搜索、社交和Commerce的新增功能](https://experienceleague.adobe.com/zh-hans/docs/advertising/search-social-commerce/home){target="_blank"}</li><li>[DSP的新增功能](https://experienceleague.adobe.com/zh-hans/docs/advertising/dsp/home){target="_blank"}</li><li>[Creative的新增功能](https://experienceleague.adobe.com/zh-hans/docs/advertising/creative/home){target="_blank"}</li></ul> | <ul><li>搜索、社交和Commerce：使用AI Max的Google广告促销活动的促销活动级别的品牌包含、品牌排除和URL包含（以及广告组级别的URL包含），并提供批量处理工作表支持</li><li>搜索、社交和Commerce：ChatGPT广告支持(Beta)</li><li>搜索、社交和Commerce： Google AI最大搜索词组合报表通过转化操作添加转化</li><li>DSP：自归因转化报表</li><li>DSP：Creative Studio，具有创作AI (Beta)和品牌配置文件；邮政编码定位列表</li><li>Creative：具有AI和品牌配置文件的Creative Studio，用于生成显示广告</li><li>Creative：Adobe Analytics中的变量和分支级别性能；基于信息源的模板中符合VAST标准的视频广告</li></ul> |
 | [!DNL Adobe Brand Visibility]（以前称为 [!DNL Adobe LLM Optimizer]） | 2026年10月24日 | [品牌可见度发行说明](https://abv.adobe.com/articles/release-notes){target="_blank"} | <ul><li>提示库：自定义标记（付费客户），用于按您自己的类别对大型提示库进行排序</li><li>Opportunity Workspace：试验完成后包含指向结果的链接的通知</li><li>AI可见性：选择在跟踪主题时要添加的单个提示</li><li>品牌声明：在“所有声明”列表中搜索声明文本</li><li>提示库：导入、写入和删除操作的状态更可靠</li><li>正式发布：在品牌可见度中统一的AI可见性测量、优化和影响跟踪（从LLM Optimizer中重新命名）</li></ul> |
-| [!DNL Adobe Commerce] as a Cloud Service | 2026年10月20日 | [Adobe Commerce as a Cloud Service发行说明](https://experienceleague.adobe.com/zh-hans/docs/commerce/cloud-service/release-notes){target="_blank"} | <ul><li>用于管理自定义国家/地区区域的REST端点</li><li>通过Adobe I/O Events订阅客户地址创建、更新和删除事件</li><li>用于验证预签名文件上传的可选SHA-256校验和（GraphQL和REST）</li><li>适用于最多100个SKU的新stockAvailability GraphQL查询（删除了sourceAvailability字段）</li><li>订单编辑链中的订单合计（chain_totals字段和“管理员订单链”网格；通过Adobe支持启用）</li><li>产品信息源导出库存、购物车数量、税类和属性集（需要手动重新同步数据信息源）</li><li>公司详细信息现已可在运费webhook中获取，以确定配送资格（10月7日）</li></ul> |
-| [!DNL Adobe Customer Journey Analytics] | 2026年10月19 | [Customer Journey Analytics 发行说明](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/releases/latest?lang=en#releases){target="_blank"} | <ul><li>历程画布：比较百分比选项显示节点、箭头和流失与上一时段（10月19日）相比的百分点变化</li><li>在Analysis Workspace中分析LLM客户体验的对话见解</li><li>Customer Journey Analytics MCP服务器的只读权限</li><li>[!DNL CX Enterprise Coworker]中现在提供了升级和实施技能</li><li>同意策略筛选和报告符合Experience Platform同意策略的访客</li></ul> |
-| [!DNL Adobe Analytics] | 2026年10月19 | [[!DNL Analytics] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/analytics/release-notes/latest){target="_blank"} | <ul><li>历程画布：比较百分比选项显示节点、箭头和流失与上一时段（10月19日）相比的百分点变化</li><li>Data Warehouse报表中的分类数据改进，包括已删除值的空白（10月14日）</li><li>[!DNL Adobe Analytics] MCP服务器的只读权限</li><li>[!DNL Coworker Chat]根本原因分析解释了量度更改的原因，而不仅仅是更改了什么内容</li><li>使用自然语言提示分析[!DNL Coworker Chat]中的[!DNL Adobe Analytics]数据</li></ul> |
-| [!DNL Adobe Experience Manager] as a Cloud Service | 2026年10月19 | [Adobe Experience Manager as a Cloud Service 当前发行说明](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current){target="_blank"} | <ul><li>OpenTelemetry for APM现在有限可用（10月19日）</li><li>功能版本2026.9.0现已更新；2026.10.0计划于2026年10月29日发布</li><li>基于意图的多语言资源发现AI 搜索；自动更新的智能收藏集</li><li>带Analytics、AI生成的字幕和多语言音轨的可自定义视频查看器</li><li>AEM代理功能通常通过[!DNL CX Enterprise Coworker]提供</li><li>Canary部署和Java 25迁移指南</li></ul> |
 | [!DNL Adobe Target] | 2026年10月15日 | [[!DNL Adobe Target] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/target/using/release-notes/release-notes){target="_blank"} | <ul><li>26.10.2：修复了活动概述中错误显示的目标设置、在编辑促销活动后创建的备份推荐以及大约两周后删除的报告预设；添加了Safari支持（在可视化体验编辑器或增强型体验编辑器中不受支持）</li><li>26.10.1：修复了A4T报表错误，修复了在可视化体验编辑器中显示新添加报表包和原始HTML而非体验片段的选件名称</li><li>26.9.8：样本量计算器（Beta版），用于通过估算流量、持续时间和最低可检测效果来计划试验</li><li>26.9.8：A/B测试（手动）活动的人工智能见解（测试版）</li><li>26.9.8：修复了阻止用户授予AI权限的问题</li></ul> |
 | [!DNL Adobe Campaign Classic] v7 | 2026年10月15日 | [[!DNL Campaign Classic] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/campaign-classic/using/release-notes/latest-release){target="_blank"} | <ul><li>7.4.5（内部版本9420,10月15日）：修复了Analytics外部帐户的“消失”错误、投放停滞在个性化待处理中、高CPU来自锁定循环、误报的“垃圾邮件检查失败”错误以及软退回后未隔离收件人的问题</li><li>关键漏洞的安全更新（7.4.4，内部版本9403,10月15日；需要重新启动nlserver）</li><li>关键漏洞的安全更新（v7.4.3，内部版本9401,8月25日）</li><li>Adobe Analytics连接器已迁移到Analytics 2.0 API（内部版本9400,8月11日）</li></ul> |
-| Adobe Advertising | 搜索、社交和Commerce： 2026年10月5日<br>DSP： 2026年8月14日<br>Creative： 2026年7月1日 | <ul><li>[搜索、社交和Commerce的新增功能](https://experienceleague.adobe.com/zh-hans/docs/advertising/search-social-commerce/home){target="_blank"}</li><li>[DSP的新增功能](https://experienceleague.adobe.com/zh-hans/docs/advertising/dsp/home){target="_blank"}</li><li>[Creative的新增功能](https://experienceleague.adobe.com/zh-hans/docs/advertising/creative/home){target="_blank"}</li></ul> | <ul><li>搜索、社交和Commerce：ChatGPT广告支持(Beta)</li><li>搜索、社交和Commerce：重新组织了新UI中的导航菜单，提供了引导式演练</li><li>搜索、社交和Commerce： Google AI最大搜索词组合报表通过转化操作添加转化</li><li>DSP：自归因转化报表</li><li>DSP：Creative Studio，具有创作AI (Beta)和品牌配置文件；邮政编码定位列表</li><li>Creative：具有AI和品牌配置文件的Creative Studio，用于生成显示广告</li><li>Creative：Adobe Analytics中的变量和分支级别性能；基于信息源的模板中符合VAST标准的视频广告</li></ul> |
 | [!DNL Adobe Experience Manager] [!DNL Cloud Manager] | 2026年10月1日 | [Experience Manager Cloud Manager 发行说明](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-manager/content/release-notes/current){target="_blank"} | <ul><li>2026.10.0：在部署后安全测试中稳定了间歇性失败的SSL配置检查</li><li>适用于AEM Managed Services (Beta)的Web层管道</li><li>通过智能构建模块级缓存提高了构建性能</li><li>客户管理密钥（CMK）自助服务</li></ul> |
 | [!DNL Adobe Marketo Engage] | 2026年9月25日 | [Marketo Engage 当前发行说明](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/release-notes/current){target="_blank"} | <ul><li>[!DNL Marketo Engage]个新UI：刷新了菜单、图标和布局</li><li>为启用了工作区的环境选择导入时分区</li><li>即时提醒已订阅管理员的CRM同步状态更改</li><li>自助服务流程步骤回调超时从1小时增加到4小时</li><li>向Designer发送电子邮件：拖放表内容类型</li></ul> |
-| [!DNL Adobe Experience Platform and Real-Time CDP] | 2026年9月22日 | [[!DNL Experience Platform] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/experience-platform/release-notes/latest){target="_blank"} | <ul><li>[!DNL CX Enterprise Coworker]：数据管理和数据验证代理技能</li><li>分段服务：更新的Audience Builder现已推出；灵活的批量计划和大规模受众（可用性有限）</li><li>目标：适用于Microsoft事件中心和Azure Blob Storage的Azure Entra ID身份验证；Salesforce CRM OAuth 2客户端凭据</li><li>来源：Snapchat广告、Pinterest广告、Google广告和HubSpot V2连接器</li><li>运行和运营：应用见解正式发布；Privacy Service对印度DPDP法案的支持</li></ul> |
 | [!DNL Adobe Campaign] Web 用户界面 | 2026年9月22日 | [Campaign Web UI 发行说明](https://experienceleague.adobe.com/zh-hans/docs/campaign-web/v8/release-notes/release-notes){target="_blank"} | <ul><li>LINE渠道支持：在独立投放或工作流中创建和发送LINE消息</li><li>预算和投放开始审批类型</li><li>短信投放现在支持基于访客的定位</li><li>在扩充和构建受众活动中扩充外部数据库</li><li>管理员可以限制特定的侧面导航菜单条目</li></ul> |
+| [!DNL Adobe System Status] | 2026年9月16日 | [Adobe系统状态发行说明](system-status-release-notes.md) | <ul><li>AI虚拟助理中连续提示的上下文</li><li>基于您的权利和订阅的默认主页、云和产品页面（在&#x200B;**所有**&#x200B;和&#x200B;**我的事件**&#x200B;之间切换）</li><li>状态MCP（测试版）：通过模型上下文协议将状态API连接到人工智能代理和LLM</li><li>AI虚拟助理正式发布（6月4日）</li><li>Microsoft Teams的状态订阅通知（6月4日）</li></ul> |
 | [!DNL Adobe GenStudio for Performance Marketing] | 2026年9月15日 | [GenStudio for Performance Marketing 发行说明](https://experienceleague.adobe.com/zh-hans/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest){target="_blank"} | <ul><li>批量激活：从单个激活表跨付费广告渠道（[!DNL Meta]、[!DNL LinkedIn]、Google Campaign Manager 360、Amazon Ads、Innovid、[!DNL TikTok]、[!DNL YouTube]、ChatGPT、交易台）发布多个批准的体验</li><li>在Horizon画布上进行批量编辑（链接的文本/图像字段将跨大小和页面传播编辑内容）</li><li>向交易台显示广告激活</li><li>内容片段交换：将文本块替换为AEM中预批准、可重用的内容片段</li></ul> |
 | [!DNL Adobe Commerce Optimizer] | 2026年9月9日 | [Adobe Commerce Optimizer发行说明](https://experienceleague.adobe.com/zh-hans/docs/commerce/optimizer/release-notes){target="_blank"} | <ul><li>多值HTTP标头触发器策略（匹配单个标头中的多个逗号分隔值）</li><li>属性排名(Beta)：自动提升、隐藏或隐藏每个符合属性条件的产品</li><li>目录服务GraphQL中的新[!DNL externalIds]字段公开产品的原始外部数据源</li><li>高级搜索选项卡中的语义搜索（AI支持），默认情况下对符合条件的英语目录启用</li><li>产品推荐单位的推荐价格过滤器（测试版）</li></ul> |
 | [!DNL Experience Platform]Mobile SDK | 2026年7月16日 | [[!DNL Experience Platform] Mobile SDK 发行说明](https://developer.adobe.com/client-sdks/home/release-notes/){target="_blank"} | <ul><li>React Native Optimize 7.2.0：React Native Turbo Module支持</li><li>iOS EdgeIdentity 5.1.0：将timeZone配置文件属性同步到Edge（需要AEPCore 5.10.0+）</li><li>iOS Core 5.10.0：新的updateProfileAttributes API</li><li>Android Core 3.8.0：更新用于时区同步的配置文件属性API</li><li>Android BOM 3.20.0：更新了核心、EdgeIdentity和优化扩展</li></ul> |
@@ -143,9 +144,7 @@ ht-degree: 12%
 
 [!DNL Adobe System Status] 提供了关于 Adobe 产品与服务的详细信息、状态更新以及电子邮件通知。 获取有关故障、中断和维护活动的通知。 在[status.adobe.com](https://status.adobe.com/zh-cn/){target="_blank"}查看状态更新。
 
-<!-- 
-[internal](https://wiki.corp.adobe.com/spaces/AdobeStatus/pages/2821708019/Product+priority+update+-+release+notes) 
--->
+有关累积的发行说明，请参阅[Adobe系统状态发行说明](system-status-release-notes.md)。
 
 ### [!DNL Adobe Experience Platform] — 最新资源 {#tutorials-aep}
 
@@ -155,11 +154,11 @@ ht-degree: 12%
 
 | 发布日期 | 应用程序 | 名称 | 类型 | 描述 |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
-| 2026年10 | [!DNL Experience Platform] | [AI助手安全概述](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/ai-assistant/security-overview){target="_blank"} | 视频 | 根据Adobe的AI Assistant安全情况说明书，大致了解Adobe Experience Platform中AI Assistant背后的安全功能。 |
-| 2026年10 | [!DNL Real-Time CDP] | [监控和解决增长信用超额](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/license-usage/growth-credits/monitor-and-address-growth-credit-overage){target="_blank"} | 教程 | 了解如何在Adobe Experience Platform中监控增长信用使用情况，并在过度使用影响您的帐户之前解决过度使用问题。 |
-| 2026年10 | [!DNL Real-Time CDP] | [计划流容量](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/license-usage/growth-credits/schedule-streaming-capacity){target="_blank"} | 视频 | 了解如何在重大业务事件之前安排额外的流容量，以便Experience Platform在流量激增期间保持实时服务平稳运行。 |
-| 2026年10 | [!DNL Real-Time CDP] | [增长积分](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/license-usage/growth-credits/what-are-growth-credits){target="_blank"} | 视频 | 了解增长积分是什么，以及它们如何帮助Adobe Experience Platform客户在超出合同限制的情况下管理使用情况。 |
-| 2026年10 | [!DNL Real-Time CDP] | [管理批次受众容量](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/license-usage/growth-credits/manage-batch-audience-capacity){target="_blank"} | 视频 | 了解如何使用增长点数来添加批量受众评估容量，以便Experience Platform能够满足营销团队的需求。 |
+| 2026 年 10 月 | [!DNL Experience Platform] | [AI助手安全概述](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/ai-assistant/security-overview){target="_blank"} | 视频 | 根据Adobe的AI Assistant安全情况说明书，大致了解Adobe Experience Platform中AI Assistant背后的安全功能。 |
+| 2026 年 10 月 | [!DNL Real-Time CDP] | [监控和解决增长信用超额](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/license-usage/growth-credits/monitor-and-address-growth-credit-overage){target="_blank"} | 教程 | 了解如何在Adobe Experience Platform中监控增长信用使用情况，并在过度使用影响您的帐户之前解决过度使用问题。 |
+| 2026 年 10 月 | [!DNL Real-Time CDP] | [计划流容量](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/license-usage/growth-credits/schedule-streaming-capacity){target="_blank"} | 视频 | 了解如何在重大业务事件之前安排额外的流容量，以便Experience Platform在流量激增期间保持实时服务平稳运行。 |
+| 2026 年 10 月 | [!DNL Real-Time CDP] | [增长积分](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/license-usage/growth-credits/what-are-growth-credits){target="_blank"} | 视频 | 了解增长积分是什么，以及它们如何帮助Adobe Experience Platform客户在超出合同限制的情况下管理使用情况。 |
+| 2026 年 10 月 | [!DNL Real-Time CDP] | [管理批次受众容量](https://experienceleague.adobe.com/zh-hans/docs/platform-learn/tutorials/license-usage/growth-credits/manage-batch-audience-capacity){target="_blank"} | 视频 | 了解如何使用增长点数来添加批量受众评估容量，以便Experience Platform能够满足营销团队的需求。 |
 
 <!-- 
 #### New [!DNL Experience Platform] support knowledge base articles{#kb-aep}
@@ -236,14 +235,14 @@ Experience Manager as a Cloud Service 的最新视频教程和支持文章。
 
 | 发布日期 | 应用程序 | 名称 | 格式 | 描述 |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
-| 2026年10 | [!DNL AEM Sites], [!DNL AEM Forms] | [使用同事创建带有自适应表单的AEM Sites联系我们页面](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/cloud-service/forms/aem-forms-coworker/using-coworker-with-aem-forms){target="_blank"} | 文章 | 了解如何使用同事构建一个嵌入了自适应表单的AEM Sites联系我们页面，该页面包括一个自动填充城市和州的邮政编码查找功能和一个在Azure Storage中存储数据的提交流程。 |
-| 2026年10 | [!DNL AEM Sites] | [使用CX Enterprise Coworker创作AEM Sites页面](https://experienceleague.adobe.com/zh-hans/docs/coworker/content/chat/use-cases/brand-visibility/author-web-pages){target="_blank"} | 视频 | 了解CX Enterprise Coworker如何帮助您在AEM Sites页面上创作新体验，包括使用可视化内容片段创建主页促销活动。 |
-| 2026年10 | [!DNL AEM Assets] | [与同事一起在AEM Assets中载入您的品牌](https://experienceleague.adobe.com/zh-hans/docs/coworker/content/chat/use-cases/brand-visibility/onboard-aem-assets){target="_blank"} | 视频 | 了解如何使用同事在AEM Assets中设置和配置DAM。 |
-| 2026年10 | [!DNL AEM Assets] | Assets视图中的[元数据Forms](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/assets/metadata/metadata-schemas-and-forms){target="_blank"} | 视频 | 了解如何在AEM Assets Assets视图中配置和使用元数据表单。 |
-| 2026年10 | [!DNL AEM Assets] | [使用资源视图](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/assets/overview#browse-search-and-download-assets-in-the-assets-view){target="_blank"} | 视频 | 了解在AEM Assets Assets视图中浏览、搜索和下载资源的基础知识。 |
-| 2026年10 | [!DNL AEM Forms] | 使用Microsoft Entra [安全AEM Forms门户](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/cloud-service/forms/aem-with-entra-id/secure-forms-portal-wth-entra){target="_blank"} | 教程 | 了解如何使用AEM Forms Entra ID保护Microsoft Portal的安全。 |
-| 2026年10 | [!DNL AEM Assets] | [AEM Assets Assets视图中的Dynamic Media](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/assets/asset-distribution/dynamic-media){target="_blank"} | 视频 | 了解如何在AEM Assets Assets视图中查看Dynamic Media演绎版。 |
-| 2026年10 | [!DNL AEM Assets] | [Assets查看报表和分析](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/assets/governance/insights){target="_blank"} | 视频 | 了解如何使用AEM Assets Assets视图中的分析和报表来了解资源使用情况。 |
+| 2026 年 10 月 | [!DNL AEM Sites], [!DNL AEM Forms] | [使用同事创建带有自适应表单的AEM Sites联系我们页面](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/cloud-service/forms/aem-forms-coworker/using-coworker-with-aem-forms){target="_blank"} | 文章 | 了解如何使用同事构建一个嵌入了自适应表单的AEM Sites联系我们页面，该页面包括一个自动填充城市和州的邮政编码查找功能和一个在Azure Storage中存储数据的提交流程。 |
+| 2026 年 10 月 | [!DNL AEM Sites] | [使用CX Enterprise Coworker创作AEM Sites页面](https://experienceleague.adobe.com/zh-hans/docs/coworker/content/chat/use-cases/brand-visibility/author-web-pages){target="_blank"} | 视频 | 了解CX Enterprise Coworker如何帮助您在AEM Sites页面上创作新体验，包括使用可视化内容片段创建主页促销活动。 |
+| 2026 年 10 月 | [!DNL AEM Assets] | [与同事一起在AEM Assets中载入您的品牌](https://experienceleague.adobe.com/zh-hans/docs/coworker/content/chat/use-cases/brand-visibility/onboard-aem-assets){target="_blank"} | 视频 | 了解如何使用同事在AEM Assets中设置和配置DAM。 |
+| 2026 年 10 月 | [!DNL AEM Assets] | Assets视图中的[元数据Forms](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/assets/metadata/metadata-schemas-and-forms){target="_blank"} | 视频 | 了解如何在AEM Assets Assets视图中配置和使用元数据表单。 |
+| 2026 年 10 月 | [!DNL AEM Assets] | [使用资源视图](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/assets/overview#browse-search-and-download-assets-in-the-assets-view){target="_blank"} | 视频 | 了解在AEM Assets Assets视图中浏览、搜索和下载资源的基础知识。 |
+| 2026 年 10 月 | [!DNL AEM Forms] | 使用Microsoft Entra [安全AEM Forms门户](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/cloud-service/forms/aem-with-entra-id/secure-forms-portal-wth-entra){target="_blank"} | 教程 | 了解如何使用AEM Forms Entra ID保护Microsoft Portal的安全。 |
+| 2026 年 10 月 | [!DNL AEM Assets] | [AEM Assets Assets视图中的Dynamic Media](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/assets/asset-distribution/dynamic-media){target="_blank"} | 视频 | 了解如何在AEM Assets Assets视图中查看Dynamic Media演绎版。 |
+| 2026 年 10 月 | [!DNL AEM Assets] | [Assets查看报表和分析](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-learn/assets/governance/insights){target="_blank"} | 视频 | 了解如何使用AEM Assets Assets视图中的分析和报表来了解资源使用情况。 |
 
 #### 新的 [!DNL Experience Manager] 支持知识库{#kb-aem}
 
@@ -431,8 +430,8 @@ Experience League 上的 [!DNL Adobe Commerce] 新教程。
 
 | 发布日期 | 名称 | 类型 | 描述 |
 | ----------- | ---------- | ---------- | ---------- |
-| 2026年10 | [导览：浏览商店配置和系统菜单](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/admin/store-configuration-and-system-menu){target="_blank"} | 视频 | 浏览Adobe Commerce中的商店配置和系统菜单，其中涵盖产品网格、筛选、保存的视图和商店范围的设置。 |
-| 2026年10 | [演示：管理客户](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/customers/customer-groups){target="_blank"} | 视频 | 了解Adobe Commerce中的客户组如何允许您针对特定类型的客户定制定价、税则、类别可见性和私有销售。 |
+| 2026 年 10 月 | [导览：浏览商店配置和系统菜单](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/admin/store-configuration-and-system-menu){target="_blank"} | 视频 | 浏览Adobe Commerce中的商店配置和系统菜单，其中涵盖产品网格、筛选、保存的视图和商店范围的设置。 |
+| 2026 年 10 月 | [演示：管理客户](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/customers/customer-groups){target="_blank"} | 视频 | 了解Adobe Commerce中的客户组如何允许您针对特定类型的客户定制定价、税则、类别可见性和私有销售。 |
 | 2026 年 9 月 | [Adobe Commerce Developer Agent概述](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/extensibility/commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video){target="_blank"} | 视频 | 了解Adobe Commerce Developer Agent如何在不人工编码的情况下，将纯英语请求转换为已部署、经过测试的店面功能（从创意到实时测试）。 |
 | 2026 年 9 月 | [Adobe Commerce开发人员代理Blueprint和开发阶段](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/extensibility/commerce-developer-agent/adobe-commerce-developer-agent-blueprint-and-develop-stages-technical-video){target="_blank"} | 视频 | 了解开发人员代理如何将纯英文购物车限制规则转换为已批准的Blueprint，然后生成并自验证有效的webhook代码。 |
 | 2026 年 9 月 | [Adobe Commerce Developer Agent连接集成](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/extensibility/commerce-developer-agent/adobe-commerce-developer-agent-connect-integrations-technical-video){target="_blank"} | 视频 | 了解在启用该功能之前，如何将开发人员代理生成的代码连接到App Builder、您的Adobe Commerce实例和GitHub。 |
@@ -483,7 +482,7 @@ Adobe Commerce 的新文章和现有文章的更新。
 
 | 发布日期 | 名称 | 类型 | 描述 |
 | ----------- | ---------- | ---------- | ---------- |
-| 2026年10 | [基于配置文件属性的建议](https://experienceleague.adobe.com/zh-hans/docs/target-learn/tutorials/recommendations/most-viewed-by-profile-attribute){target="_blank"} | 视频 | 了解如何使用Adobe Target的“查看次数最多”配置文件属性功能来提供本地化的、特定于区段的推荐，而不是一个放之四海而皆准的人气列表。 |
+| 2026 年 10 月 | [基于配置文件属性的建议](https://experienceleague.adobe.com/zh-hans/docs/target-learn/tutorials/recommendations/most-viewed-by-profile-attribute){target="_blank"} | 视频 | 了解如何使用Adobe Target的“查看次数最多”配置文件属性功能来提供本地化的、特定于区段的推荐，而不是一个放之四海而皆准的人气列表。 |
 
 ### [!DNL Adobe Campaign] {#tutorials-campaign}
 
@@ -516,10 +515,10 @@ Adobe Commerce 的新文章和现有文章的更新。
 
 | 发布日期 | 应用程序 | 名称 | 类型 | 描述 |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
-| 2026年10 | [!DNL Journey Optimizer] | [设置Android的实时更新](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/channels/live-activities/android-live-updates){target="_blank"} | 视频 | 了解如何在Journey Optimizer中配置Android实时更新渠道，以通过营销活动和API提供实时、永久的客户体验。 |
-| 2026年10 | [!DNL Journey Optimizer] | [设置忠诚度数据摄取：连接并映射忠诚度数据](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/loyalty/set-up-loyality/set-up-loyalty-data-ingestion/connect-and-map-loyalty-data){target="_blank"} | 视频 | 了解如何创建HTTP API连接和数据流，然后将传入的忠诚度用户档案和事件字段映射到您在Journey Optimizer Loyalty中的数据集。 |
-| 2026年10 | [!DNL Journey Optimizer] | [设置忠诚度数据摄取：验证忠诚度数据并配置绩效报表](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/loyalty/set-up-loyality/set-up-loyalty-data-ingestion/verify-loyalty-data-and-configure-performance-reporting){target="_blank"} | 视频 | 了解如何在Experience Platform中验证忠诚度配置文件和事件数据，然后在忠诚度绩效设置中选择数据集并优先处理KPI。 |
-| 2026年10 | [!DNL Journey Optimizer] | [设置忠诚度数据摄取：准备忠诚度数据结构](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/loyalty/set-up-loyality/set-up-loyalty-data-ingestion/prepare-loyalty-data-structures){target="_blank"} | 视频 | 了解如何在Experience Platform中设置接收忠诚度会员和事件数据所需的XDM架构和启用配置文件的数据集。 |
+| 2026 年 10 月 | [!DNL Journey Optimizer] | [设置Android的实时更新](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/channels/live-activities/android-live-updates){target="_blank"} | 视频 | 了解如何在Journey Optimizer中配置Android实时更新渠道，以通过营销活动和API提供实时、永久的客户体验。 |
+| 2026 年 10 月 | [!DNL Journey Optimizer] | [设置忠诚度数据摄取：连接并映射忠诚度数据](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/loyalty/set-up-loyality/set-up-loyalty-data-ingestion/connect-and-map-loyalty-data){target="_blank"} | 视频 | 了解如何创建HTTP API连接和数据流，然后将传入的忠诚度用户档案和事件字段映射到您在Journey Optimizer Loyalty中的数据集。 |
+| 2026 年 10 月 | [!DNL Journey Optimizer] | [设置忠诚度数据摄取：验证忠诚度数据并配置绩效报表](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/loyalty/set-up-loyality/set-up-loyalty-data-ingestion/verify-loyalty-data-and-configure-performance-reporting){target="_blank"} | 视频 | 了解如何在Experience Platform中验证忠诚度配置文件和事件数据，然后在忠诚度绩效设置中选择数据集并优先处理KPI。 |
+| 2026 年 10 月 | [!DNL Journey Optimizer] | [设置忠诚度数据摄取：准备忠诚度数据结构](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/loyalty/set-up-loyality/set-up-loyalty-data-ingestion/prepare-loyalty-data-structures){target="_blank"} | 视频 | 了解如何在Experience Platform中设置接收忠诚度会员和事件数据所需的XDM架构和启用配置文件的数据集。 |
 
 #### 新的 [!DNL Journey Optimizer] 支持知识库{#kb-ajo}
 
@@ -555,7 +554,7 @@ Adobe Commerce 的新文章和现有文章的更新。
 
 | 发布日期 | 名称 | 类型 | 描述 |
 | ----------- | ---------- | ---------- | ---------- |
-| 2026年10 | [发送电子邮件给Designer概述](https://experienceleague.adobe.com/zh-hans/docs/marketo-learn/tutorials/email-marketing/email-designer-overview){target="_blank"} | 视频 | 进一步了解Marketo Engage中的高级电子邮件Designer。 |
+| 2026 年 10 月 | [发送电子邮件给Designer概述](https://experienceleague.adobe.com/zh-hans/docs/marketo-learn/tutorials/email-marketing/email-designer-overview){target="_blank"} | 视频 | 进一步了解Marketo Engage中的高级电子邮件Designer。 |
 | 2026 年 9 月 | [Sales Qualifier概述](https://experienceleague.adobe.com/zh-hans/docs/sales-qualifier/using/home){target="_blank"} | 视频 | 了解Sales Qualifier产品，包括其特性和功能。 |
 
 * [Marketo Engage教程](https://experienceleague.adobe.com/zh-hans/docs/marketo-learn/tutorials/overview){target="_blank"} — 浏览教程库并充分利用Marketo Engage。
@@ -578,7 +577,7 @@ Experience League 上的新 [!DNL Workfront] 教程和活动。
 
 | 发布日期 | 名称 | 类型 | 描述 |
 | ----------- | ---------- | ---------- | ---------- |
-| 2026年10 | [路由器演练](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/universal-connectors-and-routing/routers-walkthrough.html?lang=zh-Hans){target="_blank"} | 视频 | 浏览Adobe Workfront Fusion中的路由器。 |
+| 2026 年 10 月 | [路由器演练](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/universal-connectors-and-routing/routers-walkthrough.html?lang=zh-Hans){target="_blank"} | 视频 | 浏览Adobe Workfront Fusion中的路由器。 |
 
 <!--
 #### New [!DNL Workfront] support knowledge base
@@ -623,9 +622,9 @@ GenStudio for Performance Marketing 视频教程。
 
 | 发布日期 | 应用程序 | 名称 | 类型 | 描述 |
 | ----------- | ---------- | ---------- | ---------- | ---------- |
-| 2026年10 | Acrobat | [创建播客](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast){target="_blank"} | 视频 | 了解如何从Acrobat Studio中的文档创建AI生成的播客，然后随着内容的更改对其进行自定义和更新。 |
-| 2026年10 | Acrobat Analyzer | [构造：查找分包中的利润风险](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/analyzer/use-cases/identify-margin-erosion){target="_blank"} | 视频 | 了解建筑和项目团队如何使用Acrobat Studio中的Analyser在影响利润率之前查找未完成的更改单、过期的RFI以及分包合同保护中的漏洞。 |
-| 2026年10 | Acrobat Analyzer | [信息安全审核：识别供应商风险](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/analyzer/use-cases/vendor-risk){target="_blank"} | 视频 | 了解Acrobat Studio中的Analyzer如何主动识别供应商合同中的信息安全风险。 |
+| 2026 年 10 月 | Acrobat | [创建播客](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast){target="_blank"} | 视频 | 了解如何从Acrobat Studio中的文档创建AI生成的播客，然后随着内容的更改对其进行自定义和更新。 |
+| 2026 年 10 月 | Acrobat Analyzer | [构造：查找分包中的利润风险](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/analyzer/use-cases/identify-margin-erosion){target="_blank"} | 视频 | 了解建筑和项目团队如何使用Acrobat Studio中的Analyser在影响利润率之前查找未完成的更改单、过期的RFI以及分包合同保护中的漏洞。 |
+| 2026 年 10 月 | Acrobat Analyzer | [信息安全审核：识别供应商风险](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/analyzer/use-cases/vendor-risk){target="_blank"} | 视频 | 了解Acrobat Studio中的Analyzer如何主动识别供应商合同中的信息安全风险。 |
 
 要浏览 [!DNL Document Cloud] 教程，请参阅：
 
@@ -650,11 +649,11 @@ Adobe基于节点的创意自动化工具[!DNL Firefly Graph]的新教程。
 
 | 发布日期 | 名称 | 类型 | 描述 |
 | ----------- | ---------- | ---------- | ---------- |
-| 2026年10 | [多语言功能](https://experienceleague.adobe.com/zh-hans/docs/brand-concierge/content/getting-started/multilingual-capabilities){target="_blank"} | 教程 | 了解Brand Concierge如何让您为每个礼宾实例选择响应语言，这样即使知识源使用其他语言，对话也会本地化。 |
-| 2026年10 | [测量质量并设置护栏](https://experienceleague.adobe.com/zh-hans/docs/brand-concierge/content/go-live-guide/measuring-quality-and-setting-guardrails){target="_blank"} | 教程 | 了解如何构建一组黄金的示例问题和理想答案，并为敏感主题定义护栏，以在启动之前衡量和验证Brand Concierge的质量。 |
-| 2026年10 | [与Marketo集成](https://experienceleague.adobe.com/zh-hans/docs/brand-concierge/content/getting-started/integration-with-marketo){target="_blank"} | 教程 | 了解Brand Concierge如何与Marketo Engage集成，以便通过Concierge对话捕获的潜在客户作为可在Smart Campaigns中使用的本机活动自动流入Marketo。 |
-| 2026年10 | [技术设置和可选功能](https://experienceleague.adobe.com/zh-hans/docs/brand-concierge/content/go-live-guide/technical-setup-and-optional-features){target="_blank"} | 教程 | 了解部署Brand Concierge所需的技术设置（标签管理、页面定位、AEP沙盒和数据流）以及会议预订、实时聊天和Marketo集成等可选功能。 |
-| 2026年10 | [您的上线前核对清单和转出计划](https://experienceleague.adobe.com/zh-hans/docs/brand-concierge/content/go-live-guide/your-pre-go-live-checklist-and-rollout-plan){target="_blank"} | 教程 | 浏览Brand Concierge的上线前核对清单，了解如何从内部测试到完全流量逐步推出，同时在此过程中监控质量。 |
+| 2026 年 10 月 | [多语言功能](https://experienceleague.adobe.com/zh-hans/docs/brand-concierge/content/getting-started/multilingual-capabilities){target="_blank"} | 教程 | 了解Brand Concierge如何让您为每个礼宾实例选择响应语言，这样即使知识源使用其他语言，对话也会本地化。 |
+| 2026 年 10 月 | [测量质量并设置护栏](https://experienceleague.adobe.com/zh-hans/docs/brand-concierge/content/go-live-guide/measuring-quality-and-setting-guardrails){target="_blank"} | 教程 | 了解如何构建一组黄金的示例问题和理想答案，并为敏感主题定义护栏，以在启动之前衡量和验证Brand Concierge的质量。 |
+| 2026 年 10 月 | [与Marketo集成](https://experienceleague.adobe.com/zh-hans/docs/brand-concierge/content/getting-started/integration-with-marketo){target="_blank"} | 教程 | 了解Brand Concierge如何与Marketo Engage集成，以便通过Concierge对话捕获的潜在客户作为可在Smart Campaigns中使用的本机活动自动流入Marketo。 |
+| 2026 年 10 月 | [技术设置和可选功能](https://experienceleague.adobe.com/zh-hans/docs/brand-concierge/content/go-live-guide/technical-setup-and-optional-features){target="_blank"} | 教程 | 了解部署Brand Concierge所需的技术设置（标签管理、页面定位、AEP沙盒和数据流）以及会议预订、实时聊天和Marketo集成等可选功能。 |
+| 2026 年 10 月 | [您的上线前核对清单和转出计划](https://experienceleague.adobe.com/zh-hans/docs/brand-concierge/content/go-live-guide/your-pre-go-live-checklist-and-rollout-plan){target="_blank"} | 教程 | 浏览Brand Concierge的上线前核对清单，了解如何从内部测试到完全流量逐步推出，同时在此过程中监控质量。 |
 
 ### [!DNL Adobe Brand Visibility]（以前称为 [!DNL Adobe LLM Optimizer]） {#tutorials-llm-optimizer}
 
@@ -662,30 +661,30 @@ Adobe基于节点的创意自动化工具[!DNL Firefly Graph]的新教程。
 
 | 发布日期 | 名称 | 类型 | 描述 |
 | ----------- | ---------- | ---------- | ---------- |
-| 2026年10 | [Impact Measurement Engine如何工作？](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/measurement/how-does-the-impact-measurement-engine-work){target="_blank"} | 视频 | Adobe Brand Visibility中的影响测量引擎可测量优化之前和之后的AI可见性，并自动构建之前和之后报表。 |
-| 2026年10 | [是否必须优化整个网站？](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/technical/do-you-have-to-optimize-your-entire-website){target="_blank"} | 视频 | 了解Adobe Brand Visibility如何让您选择要优化的页面、代理其余的页面而不更改，以及随时回滚。 |
-| 2026年10 | 2026年5月从ChatGPT增加[引荐流量](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/measurement/referral-traffic-increase-from-chatgpt-in-may-2026){target="_blank"} | 视频 | 了解ChatGPT现在如何将品牌提及超链接，推动引荐流量增长约60%，并将其从品牌渠道重新转变为流量渠道。 |
-| 2026年10 | [AI助理如何决定何时使用外部源以及什么是引用？](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/foundations/how-do-ai-assistants-decide-when-to-use-outside-sources-and-what-are-citations){target="_blank"} | 视频 | 了解AI助理如何在从训练数据中回答和检索实时源之间做出选择，以及引文的真实含义，包括为什么某些引文会出现幻觉。 |
-| 2026年10 | [如何编写提示，为您提供可靠的可重复地理位置分析](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/foundations/how-do-you-write-prompts-that-give-you-reliable-repeatable-geo-insights){target="_blank"} | 视频 | 学习将GEO提示视为现实、具体且可重复的测试案例，并对它们进行版本更改以获取稳定、可靠的AI可见性见解。 |
-| 2026年10 | [在地理上我们还无法测量的内容以及测量将如何随着时间的推移而改进](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/measurement/what-we-cant-measure-well-yet-in-geo-and-how-measurement-will-improve-over-time){target="_blank"} | 视频 | GEO测量比较困难，因为AI具有不确定性，并且因地区和个性化而异。 看看今天很难衡量什么，以及它正在如何改进。 |
-| 2026年10 | [哪些技术基础知识可帮助LLM正确抓取和解释您的网站？](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/technical/what-technical-basics-help-llms-crawl-and-interpret-your-website-correctly){target="_blank"} | 视频 | 了解可让LLM抓取您的网站的技术基础知识，从robots.txt和CDN机器人规则到客户端渲染，让您的内容保持可见性和可编辑性。 |
-| 2026年10 | [代理流量是什么以及它如何为优化决策提供信息？](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/measurement/what-is-agentic-traffic-and-how-can-it-inform-optimization-decisions){target="_blank"} | 视频 | 代理流量正在与您的网站进行AI交互。 了解监控点击量、成功率和内容可见度如何指导您的优化决策。 |
-| 2026年10 | [正在添加AI友好页面摘要遮蔽？](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/technical/is-adding-ai-friendly-page-summaries-cloaking){target="_blank"} | 视频 | 了解为什么为代理添加对AI友好的摘要不会遮蔽，因为Edge中的优化会重新组织页面上已有的内容。 |
-| 2026年10 | [LLM的工作方式：营销人员指南](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/foundations/how-llms-work-a-marketers-guide){target="_blank"} | 视频 | 了解RAG中有多少语言模型可以预测、学习和检索资源，以及为什么引用是GEO新的可见性。 |
-| 2026年10 | [在AI答案中被提及和被引用之间有何区别？](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/foundations/what-is-the-difference-between-being-mentioned-and-being-cited-in-an-ai-answer){target="_blank"} | 视频 | 提及内容会在文本中命名您的品牌；引文会将您的页面链接为源。 了解为何引文来自检索并且是更强的可见性信号。 |
-| 2026年10 | [为什么情绪在AI答案中很重要？情绪分析会漏掉哪些内容？](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/brand-presence/why-does-sentiment-matter-in-ai-answers-and-what-can-sentiment-analysis-miss){target="_blank"} | 视频 | 情绪决定了AI如何诠释你的品牌，但分析可能会误读讽刺和行业术语。 了解上下文在跟踪它时为什么很重要。 |
-| 2026年10 | [如何监视AI品牌响应中的区域差异](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/brand-presence/how-to-monitor-regional-differences-in-ai-brand-responses){target="_blank"} | 视频 | 人工智能答案因地区而异。 了解为什么将位置写入提示本身会使品牌监控反映客户实际看到的内容。 |
-| 2026年10 | [Bing网站管理员工具人工智能性能报表](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/measurement/bing-webmaster-tools-ai-performance-report){target="_blank"} | 视频 | 探索Microsoft的Bing网站管理员工具AI性能报表 — 它如何跟踪AI答案中的引用以及它对于GEO可见性的含义。 |
-| 2026年10 | [LLMs.txt：它是否相关？ （2026年6月）](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/technical/llmstxt-is-it-relevant-june-2026){target="_blank"} | 视频 | 一项对近5000个AEM网站的审计表明，LLMs.txt的采用率很小，引用率也微不足道，但谷歌现在能读懂它，因此创建这种网站就是廉价保险。 |
-| 2026年10 | [为什么应定期监视AI助理对您的品牌或主题的评论？](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/brand-presence/why-should-you-regularly-monitor-what-ai-assistants-say-about-your-brand-or-topic){target="_blank"} | 视频 | AI答案会随着模型和Web更新而快速变化。 定期监控是品牌叙事的质量保证，可及早发现错误和丢失的引用。 |
-| 2026年10 | [大型语言模型如何决定其响应中包含哪些引文？](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/foundations/how-do-large-language-models-llms-decide-which-citations-to-include-in-their-responses){target="_blank"} | 视频 | LLM关注许多子查询并引用在所有子查询中排名靠前的源，因此深入的话题报道和SEO仍然驱动着哪些品牌被引用。 |
-| 2026年10 | [如何改进AI助理对您的产品或服务的评论？](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/brand-presence/what-can-you-do-to-improve-what-ai-assistants-say-about-your-products-or-services){target="_blank"} | 视频 | 通过使您的网站成为最清晰、最一致的来源，并调整AI提到的有关您品牌的第三方来源，改进AI对您的评价。 |
-| 2026年10 | [为什么将提示映射到角色，以及如何为不同的受众定制提示？](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/foundations/why-map-prompts-to-personas-and-how-do-you-tailor-prompts-to-different-audiences){target="_blank"} | 视频 | 将提示映射到真实角色可显示内容在何处获胜或失败，因为在整个受众中平均可见性会隐藏您在AI答案中的真实立场。 |
-| 2026年10 | [提升低代理流量域的品牌权限](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/brand-presence/increasing-brand-authority-for-low-agentic-traffic-domains){target="_blank"} | 视频 | 构建可提升搜索排名和AI引用次数的链接、提及次数和声誉，然后使用Adobe Brand Visibility对其进行测量，即使在AI流量较低时也是如此。 |
-| 2026年10 | [Edge中的优化功能是什么？](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/technical/what-is-optimize-at-the-edge){target="_blank"} | 视频 | Edge中的优化位于您的CDN中，并且为人工智能机器人提供预呈现的HTML，以便它们能够看到隐藏在客户端JavaScript后面的内容，而不会对用户产生任何影响。 |
-| 2026年10 | [可见度分数是什么？应该使用哪些指标衡量AI可见性？](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/measurement/what-is-visibility-score-and-what-metrics-should-you-use-to-measure-ai-visibility){target="_blank"} | 视频 | 可见度分数汇总提及次数、引用次数、位置和情绪。 了解它衡量的指标以及与其配对的量度，以使AI可见性可操作。 |
-| 2026年10 | [是否正在预呈现AI机器人遮罩的内容？](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/technical/is-pre-rendering-content-for-ai-bots-cloaking){target="_blank"} | 视频 | 预渲染不会掩盖。 它只是让AI代理能够查看人类看到的相同内容，从而匹配Google关于JavaScript渲染的指导。 |
-| 2026年10 | [Google现在通过AI概述回答您的品牌名称](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/news-and-insights/google-now-answers-your-brand-name-with-an-ai-overview){target="_blank"} | 视频 | Google现在为大多数品牌名称搜索显示AI概述。 了解您的品牌发生了哪些变化（从引文到搜索控制台展示次数），以及要观看哪些变化。 |
+| 2026 年 10 月 | [Impact Measurement Engine如何工作？](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/measurement/how-does-the-impact-measurement-engine-work){target="_blank"} | 视频 | Adobe Brand Visibility中的影响测量引擎可测量优化之前和之后的AI可见性，并自动构建之前和之后报表。 |
+| 2026 年 10 月 | [是否必须优化整个网站？](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/technical/do-you-have-to-optimize-your-entire-website){target="_blank"} | 视频 | 了解Adobe Brand Visibility如何让您选择要优化的页面、代理其余的页面而不更改，以及随时回滚。 |
+| 2026 年 10 月 | 2026年5月从ChatGPT增加[引荐流量](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/measurement/referral-traffic-increase-from-chatgpt-in-may-2026){target="_blank"} | 视频 | 了解ChatGPT现在如何将品牌提及超链接，推动引荐流量增长约60%，并将其从品牌渠道重新转变为流量渠道。 |
+| 2026 年 10 月 | [AI助理如何决定何时使用外部源以及什么是引用？](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/foundations/how-do-ai-assistants-decide-when-to-use-outside-sources-and-what-are-citations){target="_blank"} | 视频 | 了解AI助理如何在从训练数据中回答和检索实时源之间做出选择，以及引文的真实含义，包括为什么某些引文会出现幻觉。 |
+| 2026 年 10 月 | [如何编写提示，为您提供可靠的可重复地理位置分析](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/foundations/how-do-you-write-prompts-that-give-you-reliable-repeatable-geo-insights){target="_blank"} | 视频 | 学习将GEO提示视为现实、具体且可重复的测试案例，并对它们进行版本更改以获取稳定、可靠的AI可见性见解。 |
+| 2026 年 10 月 | [在地理上我们还无法测量的内容以及测量将如何随着时间的推移而改进](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/measurement/what-we-cant-measure-well-yet-in-geo-and-how-measurement-will-improve-over-time){target="_blank"} | 视频 | GEO测量比较困难，因为AI具有不确定性，并且因地区和个性化而异。 看看今天很难衡量什么，以及它正在如何改进。 |
+| 2026 年 10 月 | [哪些技术基础知识可帮助LLM正确抓取和解释您的网站？](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/technical/what-technical-basics-help-llms-crawl-and-interpret-your-website-correctly){target="_blank"} | 视频 | 了解可让LLM抓取您的网站的技术基础知识，从robots.txt和CDN机器人规则到客户端渲染，让您的内容保持可见性和可编辑性。 |
+| 2026 年 10 月 | [代理流量是什么以及它如何为优化决策提供信息？](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/measurement/what-is-agentic-traffic-and-how-can-it-inform-optimization-decisions){target="_blank"} | 视频 | 代理流量正在与您的网站进行AI交互。 了解监控点击量、成功率和内容可见度如何指导您的优化决策。 |
+| 2026 年 10 月 | [正在添加AI友好页面摘要遮蔽？](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/technical/is-adding-ai-friendly-page-summaries-cloaking){target="_blank"} | 视频 | 了解为什么为代理添加对AI友好的摘要不会遮蔽，因为Edge中的优化会重新组织页面上已有的内容。 |
+| 2026 年 10 月 | [LLM的工作方式：营销人员指南](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/foundations/how-llms-work-a-marketers-guide){target="_blank"} | 视频 | 了解RAG中有多少语言模型可以预测、学习和检索资源，以及为什么引用是GEO新的可见性。 |
+| 2026 年 10 月 | [在AI答案中被提及和被引用之间有何区别？](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/foundations/what-is-the-difference-between-being-mentioned-and-being-cited-in-an-ai-answer){target="_blank"} | 视频 | 提及内容会在文本中命名您的品牌；引文会将您的页面链接为源。 了解为何引文来自检索并且是更强的可见性信号。 |
+| 2026 年 10 月 | [为什么情绪在AI答案中很重要？情绪分析会漏掉哪些内容？](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/brand-presence/why-does-sentiment-matter-in-ai-answers-and-what-can-sentiment-analysis-miss){target="_blank"} | 视频 | 情绪决定了AI如何诠释你的品牌，但分析可能会误读讽刺和行业术语。 了解上下文在跟踪它时为什么很重要。 |
+| 2026 年 10 月 | [如何监视AI品牌响应中的区域差异](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/brand-presence/how-to-monitor-regional-differences-in-ai-brand-responses){target="_blank"} | 视频 | 人工智能答案因地区而异。 了解为什么将位置写入提示本身会使品牌监控反映客户实际看到的内容。 |
+| 2026 年 10 月 | [Bing网站管理员工具人工智能性能报表](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/measurement/bing-webmaster-tools-ai-performance-report){target="_blank"} | 视频 | 探索Microsoft的Bing网站管理员工具AI性能报表 — 它如何跟踪AI答案中的引用以及它对于GEO可见性的含义。 |
+| 2026 年 10 月 | [LLMs.txt：它是否相关？ （2026年6月）](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/technical/llmstxt-is-it-relevant-june-2026){target="_blank"} | 视频 | 一项对近5000个AEM网站的审计表明，LLMs.txt的采用率很小，引用率也微不足道，但谷歌现在能读懂它，因此创建这种网站就是廉价保险。 |
+| 2026 年 10 月 | [为什么应定期监视AI助理对您的品牌或主题的评论？](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/brand-presence/why-should-you-regularly-monitor-what-ai-assistants-say-about-your-brand-or-topic){target="_blank"} | 视频 | AI答案会随着模型和Web更新而快速变化。 定期监控是品牌叙事的质量保证，可及早发现错误和丢失的引用。 |
+| 2026 年 10 月 | [大型语言模型如何决定其响应中包含哪些引文？](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/foundations/how-do-large-language-models-llms-decide-which-citations-to-include-in-their-responses){target="_blank"} | 视频 | LLM关注许多子查询并引用在所有子查询中排名靠前的源，因此深入的话题报道和SEO仍然驱动着哪些品牌被引用。 |
+| 2026 年 10 月 | [如何改进AI助理对您的产品或服务的评论？](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/brand-presence/what-can-you-do-to-improve-what-ai-assistants-say-about-your-products-or-services){target="_blank"} | 视频 | 通过使您的网站成为最清晰、最一致的来源，并调整AI提到的有关您品牌的第三方来源，改进AI对您的评价。 |
+| 2026 年 10 月 | [为什么将提示映射到角色，以及如何为不同的受众定制提示？](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/foundations/why-map-prompts-to-personas-and-how-do-you-tailor-prompts-to-different-audiences){target="_blank"} | 视频 | 将提示映射到真实角色可显示内容在何处获胜或失败，因为在整个受众中平均可见性会隐藏您在AI答案中的真实立场。 |
+| 2026 年 10 月 | [提升低代理流量域的品牌权限](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/brand-presence/increasing-brand-authority-for-low-agentic-traffic-domains){target="_blank"} | 视频 | 构建可提升搜索排名和AI引用次数的链接、提及次数和声誉，然后使用Adobe Brand Visibility对其进行测量，即使在AI流量较低时也是如此。 |
+| 2026 年 10 月 | [Edge中的优化功能是什么？](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/technical/what-is-optimize-at-the-edge){target="_blank"} | 视频 | Edge中的优化位于您的CDN中，并且为人工智能机器人提供预呈现的HTML，以便它们能够看到隐藏在客户端JavaScript后面的内容，而不会对用户产生任何影响。 |
+| 2026 年 10 月 | [可见度分数是什么？应该使用哪些指标衡量AI可见性？](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/measurement/what-is-visibility-score-and-what-metrics-should-you-use-to-measure-ai-visibility){target="_blank"} | 视频 | 可见度分数汇总提及次数、引用次数、位置和情绪。 了解它衡量的指标以及与其配对的量度，以使AI可见性可操作。 |
+| 2026 年 10 月 | [是否正在预呈现AI机器人遮罩的内容？](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/technical/is-pre-rendering-content-for-ai-bots-cloaking){target="_blank"} | 视频 | 预渲染不会掩盖。 它只是让AI代理能够查看人类看到的相同内容，从而匹配Google关于JavaScript渲染的指导。 |
+| 2026 年 10 月 | [Google现在通过AI概述回答您的品牌名称](https://experienceleague.adobe.com/zh-hans/docs/brand-visibility-learn/tutorials/news-and-insights/google-now-answers-your-brand-name-with-an-ai-overview){target="_blank"} | 视频 | Google现在为大多数品牌名称搜索显示AI概述。 了解您的品牌发生了哪些变化（从引文到搜索控制台展示次数），以及要观看哪些变化。 |
 
 ### 客户数据管理 - 意见 {#tutorials-voices}
 
