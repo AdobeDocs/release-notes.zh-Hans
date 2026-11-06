@@ -4,7 +4,7 @@ product: experience cloud
 user-guide-title: Adobe Experience Cloud 发行说明
 breadcrumb-title: 中央发行说明
 user-guide-description: 了解 Adobe Experience Cloud 和 Experience Platform 中的新增功能、问题修复和重要注意事项。
-user-guide-url: https://www.adobe.com
+user-guide-url: https://www.adobe.com/cn
 color: red
 source-git-commit: 06b54e22fdb841bcb4c6ecaf50336786e43839fd
 workflow-type: tm+mt
