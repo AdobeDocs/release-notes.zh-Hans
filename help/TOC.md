@@ -4,12 +4,12 @@ product: experience cloud
 user-guide-title: Adobe Experience Cloud 发行说明
 breadcrumb-title: 中央发行说明
 user-guide-description: 了解 Adobe Experience Cloud 和 Experience Platform 中的新增功能、问题修复和重要注意事项。
-user-guide-url: https://www.adobe.com/cn
+user-guide-url: https://www.adobe.com
 color: red
-source-git-commit: 8bec27c50695e72a6e2648c5d17aebd7a21ab73a
+source-git-commit: 06b54e22fdb841bcb4c6ecaf50336786e43839fd
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 92%
+source-wordcount: '130'
+ht-degree: 91%
 ---
 
 # Adobe Experience Cloud 中的新增功能 {#experience-cloud}
@@ -18,6 +18,7 @@ ht-degree: 92%
 + {hide-from-toc}[Adobe系统状态发行说明](system-status-release-notes.md)
 + 以前的发行说明 {#previous}
   + 2026 {#2026}
+    + [2026年10月](c-legacy-releases/2026/10152026.md)
     + [2026 年 9 月](c-legacy-releases/2026/09112026.md)
     + [2026年8月](c-legacy-releases/2026/08142026.md)
     + [2026年7月](c-legacy-releases/2026/07152026.md)
