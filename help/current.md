@@ -719,7 +719,7 @@ Adobe基于节点的创意自动化工具[!DNL Firefly Graph]的新教程。
 
 | 发布日期 | 名称 | 类型 | 描述 |
 | ----------- | ---------- | ---------- | ---------- |
-| 2026年11 | [在Marketo中使用Brand Concierge活动](https://experienceleague.adobe.com/en/docs/brand-concierge/content/live-chat-and-meeting-booking/use-brand-concierge-activities-in-marketo){target="_blank"} | 教程 | 了解Brand Concierge如何将潜在客户详细信息和参与活动发送到Marketo，以及如何在智能营销活动中使用它们。 |
+| 2026年11 | [在Marketo中使用Brand Concierge活动](https://experienceleague.adobe.com/zh-hans/docs/brand-concierge/content/live-chat-and-meeting-booking/use-brand-concierge-activities-in-marketo){target="_blank"} | 教程 | 了解Brand Concierge如何将潜在客户详细信息和参与活动发送到Marketo，以及如何在智能营销活动中使用它们。 |
 | 2026年11 | [配置实时聊天和会议的可用性和路由](https://experienceleague.adobe.com/zh-hans/docs/brand-concierge/content/live-chat-and-meeting-booking/configure-availability-and-routing-for-live-chat-and-meetings){target="_blank"} | 教程 | 了解代表如何设置其可用性，以及管理员如何为Brand Concierge Live Chat和Meeting Booking创建路由规则。 |
 | 2026 年 10 月 | [Live Chat和会议预订：端到端体验](https://experienceleague.adobe.com/zh-hans/docs/brand-concierge/content/live-chat-and-meeting-booking/live-chat-and-meeting-booking-end-to-end-experience){target="_blank"} | 教程 | 了解Brand Concierge如何通过Live Chat或Meeting Booking将网站访客与代表连接起来。 |
 | 2026 年 10 月 | [使用查询服务和终端导出对话](https://experienceleague.adobe.com/zh-hans/docs/brand-concierge/content/getting-started/exporting-conversations-using-query-service-and-terminal){target="_blank"} | 教程 | 了解如何使用Brand Concierge查询服务和终端保存和导出Experience Platform对话。 |
