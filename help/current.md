@@ -6,9 +6,9 @@ last-update: November 2026
 last-substantial-update: 2026-13-2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: 009fc244291b928217c28dd9588eff5844428253
+source-git-commit: 8f06996ad7b33f0561546d175ac9477b6ad850f1
 workflow-type: tm+mt
-source-wordcount: '34985'
+source-wordcount: '34982'
 ht-degree: 11%
 ---
 # [!DNL CX Enterprise]中央发行说明 — 2026年11月 {#top}
@@ -18,15 +18,17 @@ ht-degree: 11%
 * 所有[!DNL CX Enterprise]应用程序的[发行说明](#application-release-notes)汇总（更新日期： **11月17日**）
 * 按应用程序[最新视频和支持文章](#articles)
 
-要查找并注册活动，请访问[Experience League活动](https://experienceleague.adobe.com/zh-hans/events)。
-
 >[!TIP]
 >
 >若要接收有关此页面的新[!DNL CX Enterprise]功能和更新的每月电子邮件，请在[[!UICONTROL 新闻稿]](https://account.adobe.com/magazines)页面上启用&#x200B;**[!UICONTROL 产品更新优先级]**。
 
 ## 事件 {#events}
 
-* **[!DNL Experience League LIVE]** | _更快扩展，灵活改进：满足Adobe Experience Platform增长积分要求_ |加入我们，了解&#x200B;**[!DNL Adobe Experience Platform]**&#x200B;增长积分，这是根据您的需求变化向您的&#x200B;**[!DNL Real-Time CDP]**&#x200B;或&#x200B;**[!DNL Adobe Journey Optimizer]**&#x200B;投资添加容量的灵活新方法。 | **12月2日太平洋时间上午8:30** | [注册](https://engage.adobe.com/ExpLeagueLive-261202.html)
+| 应用程序 | 活动 | 描述 | 日期 | 注册 |
+| ---------- | ---------- | ---------- | ---------- | ---------- |
+| [!DNL Adobe Experience Platform], [!DNL Real-Time CDP], [!DNL Adobe Journey Optimizer] | _Experience League LIVE_ | 更快扩展，灵活改进：满足Adobe Experience Platform增长信用的要求。 | 12月2日太平洋时间上午8:30 | [注册](https://engage.adobe.com/ExpLeagueLive-261202.html){target="_blank"} |
+
+要查找并注册活动，请访问[Experience League活动](https://experienceleague.adobe.com/zh-hans/events)。
 
 ## [!DNL CX Enterprise] 发行说明 {#application-release-notes}
 
