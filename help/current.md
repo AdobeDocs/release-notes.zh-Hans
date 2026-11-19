@@ -6,16 +6,16 @@ last-update: November 2026
 last-substantial-update: 2026-13-2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: 8f06996ad7b33f0561546d175ac9477b6ad850f1
+source-git-commit: 2af6881cef5361493a998e137976b76342790be8
 workflow-type: tm+mt
-source-wordcount: '34982'
+source-wordcount: '35075'
 ht-degree: 11%
 ---
 # [!DNL CX Enterprise]中央发行说明 — 2026年11月 {#top}
 
 此页面可帮助您查找最新信息：
 
-* 所有[!DNL CX Enterprise]应用程序的[发行说明](#application-release-notes)汇总（更新日期： **11月17日**）
+* 所有[!DNL CX Enterprise]应用程序的[发行说明](#application-release-notes)汇总（更新日期： **11月19日**）
 * 按应用程序[最新视频和支持文章](#articles)
 
 >[!TIP]
@@ -36,11 +36,12 @@ ht-degree: 11%
 
 **重要信息：**&#x200B;某些应用程序每周发布一次。 要了解最新信息，请经常访问这些页面。
 
-上次更新：**2026年11月16日**
+上次更新：**2026年11月19日**
 
 | 应用程序 | 日期已添加 | 发行说明 URL | 新增功能 |
 | ------------- | ------------- | ------------- | ------------- |
-| **[!DNL Adobe Journey Optimizer]** | 2026年11月16日 | [[!DNL Journey Optimizer] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>迁移事务性电子邮件营销活动：迁移工作区现在支持营销活动，因此您可以将现有营销平台的事务性电子邮件转换为API触发的营销活动（限量发布）（11月13日）</li><li>Experience Manager片段的动态令牌替换：直接在内容片段中使用配置文件属性路径，无需令牌映射（限量发布）（11月5日）</li><li>用于个性化优化模型的配置文件和上下文功能以提高选件相关性（限量发布）（11月3日）</li><li>在[!DNL CX Enterprise Coworker]中编排了营销活动技能：列出并过滤营销活动，检索详细信息和历史记录，以及呈现工作流图形（11月3日）</li><li>营销活动和历程的自定义元数据：每个实体类型最多10个自定义业务字段（限量发布）（10月29日）</li></ul>[教程和支持文章](#tutorials-ajo) |
+| **[!DNL Adobe Campaign Classic]v7** | 2026年11月18日 | [[!DNL Campaign Classic] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/campaign-classic/using/release-notes/latest-release){target="_blank"} | <ul><li>关键漏洞的安全更新（7.4.5、内部版本9421和7.4.4、内部版本9404、11月18日；需要重新启动`nlserver`；Adobe托管的实例已修复）</li><li>7.4.5（内部版本9420,10月15日）：修复了Analytics外部帐户`Gone`错误、投放停滞在个性化待处理中、高CPU来自锁定循环、误报的“垃圾邮件检查失败”错误，以及软退回后未隔离收件人</li><li>关键漏洞的安全更新（v7.4.3，内部版本9401,8月25日）</li><li>Adobe Analytics连接器已迁移到Analytics 2.0 API（内部版本9400,8月11日）</li></ul>[教程和支持文章](#tutorials-campaign) |
+| **[!DNL Adobe Journey Optimizer]** | 2026年11月17 | [[!DNL Journey Optimizer] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>迁移事务性电子邮件营销活动：迁移工作区现在支持营销活动，因此您可以将现有营销平台的事务性电子邮件转换为API触发的营销活动（限量发布）（11月17日）</li><li>主页上的AI推荐卡，用于历程自定义操作失败和历程异常检测到的警报，以及在[!DNL CX Enterprise Coworker]（有限可用性）（11月16日）中准备的分析和后续步骤</li><li>Experience Manager片段的动态令牌替换：直接在内容片段中使用配置文件属性路径，无需令牌映射（限量发布）（11月5日）</li><li>用于个性化优化模型的配置文件和上下文功能以提高选件相关性（限量发布）（11月3日）</li><li>在[!DNL CX Enterprise Coworker]中编排了营销活动技能：列出并过滤营销活动，检索详细信息和历史记录，以及呈现工作流图形（11月3日）</li></ul>[教程和支持文章](#tutorials-ajo) |
 | **[!DNL Adobe Target]** | 2026年11月12日 | [[!DNL Adobe Target] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/target/using/release-notes/release-notes){target="_blank"} | <ul><li>26.11.1：“活动”列表中的[!DNL Coworker]个入口点：“查看我的实时测试”按钮和每个活动的“询问[!DNL Coworker]”菜单</li><li>26.10.2：修复了活动概述中错误显示的目标设置、在编辑促销活动后创建的备份推荐以及大约两周后删除的报告预设；添加了Safari支持（在可视化体验编辑器或增强型体验编辑器中不受支持）</li><li>26.10.1：修复了A4T报表错误，修复了在可视化体验编辑器中显示新添加报表包和原始HTML而非体验片段的选件名称</li><li>26.9.8：样本量计算器（Beta版），用于通过估算流量、持续时间和最低可检测效果来计划试验</li></ul>[教程和支持文章](#tutorials-target) |
 | **[!DNL Adobe Commerce]as a Cloud Service** | 2026年11月10日 | [Adobe Commerce as a Cloud Service发行说明](https://experienceleague.adobe.com/zh-hans/docs/commerce/cloud-service/release-notes){target="_blank"} | <ul><li>产品审核（默认情况下处于禁用状态）可通过GraphQL读取和创建；按自定义属性筛选贷项通知单；用于添加或更新订单自定义属性的端点；退货自定义属性(RMA)（11月18日；沙盒）</li><li>购物车项目的自定义属性通过`addProductsToCart`突变；装运项目过滤器webhook以排除由第三方履行的项目（11月10日；立即沙盒）</li><li>新`observer.rma_save_before` webhook，可在保存返回数据之前读取和修改该数据（11月10日）</li><li>现在，通过REST API创建的非虚拟订单需要一个送货地址（11月10日）</li><li>存储信用余额的`GET /V1/customers/:customerId/balance`终结点；`InvoiceItemInterface`上的`row_total`字段（11月10日）</li></ul>[教程和支持文章](#tutorials-commerce) |
 | **[!DNL Adobe Marketo Engage]** | 2026年11月6 | [Marketo Engage 当前发行说明](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/release-notes/current){target="_blank"} | <ul><li>[!DNL CX Enterprise Coworker]计划营销活动技能：将营销活动简报转换为[!DNL Marketo Engage]项目设置文档</li><li>可调用代理：作为智能营销活动流步骤运行并将结果写回潜在客户字段的AI代理（即将推出）</li><li>克隆到此程序/文件夹选项以克隆目标（即将推出）</li><li>即时提醒已订阅管理员的CRM同步状态更改</li><li>[!DNL Marketo Engage]个新UI：刷新了菜单、图标和布局</li></ul>[教程和支持文章](#tutorials-marketo) |
@@ -56,7 +57,6 @@ ht-degree: 11%
 | **[!DNL Adobe Experience Platform and Real-Time CDP]** | 2026年10月27日 | [[!DNL Experience Platform] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/experience-platform/release-notes/latest){target="_blank"} | <ul><li>[!DNL CX Enterprise Coworker]：异常检测技能（可用性限制）和通知技能；[!DNL Coworker]在Microsoft 365 Copilot、ChatGPT和Claude中可用</li><li>目标：6sense帐户（测试版）、交易台第三方受众、交易台的新UID2转化命名空间 — CRM以及何时激活正式可用</li><li>Real-Time Customer Profile：支持非结构化数据（测试版）</li><li>目标：数据登录区支持手动删除Azure和AWS的导出文件</li><li>来源：Azure事件中心虚拟网络已弃用</li></ul>[教程和支持文章](#tutorials-aep) |
 | **[!DNL Adobe Brand Visibility]（以前为[!DNL Adobe LLM Optimizer]）** | 2026年10月24日 | [品牌可见度发行说明](https://abv.adobe.com/articles/release-notes){target="_blank"} | <ul><li>提示库：自定义标记（付费客户），用于按您自己的类别对大型提示库进行排序</li><li>Opportunity Workspace：试验完成后包含指向结果的链接的通知</li><li>AI可见性：选择在跟踪主题时要添加的单个提示</li><li>品牌声明：在“所有声明”列表中搜索声明文本</li><li>提示库：导入、写入和删除操作的状态更可靠</li><li>正式发布：在品牌可见度中统一的AI可见性测量、优化和影响跟踪（从LLM Optimizer中重新命名）</li></ul>[教程和支持文章](#tutorials-llm-optimizer) |
 | **[!DNL Adobe Workfront]** | 2026年10月22日（2026年第四季度） | [Adobe Workfront 产品发布](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/product-announcements/product-releases/product-releases){target="_blank"} | <ul><li>[!DNL CX Enterprise Coworker]取代AI助手作为在[!DNL Workfront]和连接的Adobe系统中工作的对话界面（从10月22日起分阶段推出）</li><li>将多个文档分组到一个审批工作流中</li><li>Workfront MCP服务器工具集：将MCP目录限制为特定工具集并按产品权利进行筛选</li><li>适用于Google Cloud Platform和Azure上的实例的画布功能板打开测试版</li><li>费率属性层级自动保持连接（工作流Ultimate）</li></ul>[教程和支持文章](#tutorials-workfront) |
-| **[!DNL Adobe Campaign Classic]v7** | 2026年10月15日 | [[!DNL Campaign Classic] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/campaign-classic/using/release-notes/latest-release){target="_blank"} | <ul><li>7.4.5（内部版本9420,10月15日）：修复了Analytics外部帐户`Gone`错误、投放停滞在个性化待处理中、高CPU来自锁定循环、误报的“垃圾邮件检查失败”错误，以及软退回后未隔离收件人</li><li>关键漏洞的安全更新（7.4.4，内部版本9403,10月15日；需要重新启动`nlserver`）</li><li>关键漏洞的安全更新（v7.4.3，内部版本9401,8月25日）</li><li>Adobe Analytics连接器已迁移到Analytics 2.0 API（内部版本9400,8月11日）</li></ul>[教程和支持文章](#tutorials-campaign) |
 | **[!DNL Adobe Campaign]Web用户界面** | 2026年9月22日 | [Campaign Web UI 发行说明](https://experienceleague.adobe.com/zh-hans/docs/campaign-web/v8/release-notes/release-notes){target="_blank"} | <ul><li>LINE渠道支持：在独立投放或工作流中创建和发送LINE消息</li><li>预算和投放开始审批类型</li><li>短信投放现在支持基于访客的定位</li><li>在扩充和构建受众活动中扩充外部数据库</li><li>管理员可以限制特定的侧面导航菜单条目</li></ul>[教程和支持文章](#tutorials-campaign) |
 | **[!DNL Adobe System Status]** | 2026年9月16日 | [Adobe系统状态发行说明](system-status-release-notes.md) | <ul><li>AI虚拟助理中连续提示的上下文</li><li>基于您的权利和订阅的默认主页、云和产品页面（在&#x200B;**所有**&#x200B;和&#x200B;**我的事件**&#x200B;之间切换）</li><li>状态MCP（测试版）：通过模型上下文协议将状态API连接到人工智能代理和LLM</li><li>AI虚拟助理正式发布（6月4日）</li><li>Microsoft Teams的状态订阅通知（6月4日）</li></ul>[教程和支持文章](#status) |
 | **[!DNL Adobe GenStudio for Performance Marketing]** | 2026年9月15日 | [GenStudio for Performance Marketing 发行说明](https://experienceleague.adobe.com/zh-hans/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest){target="_blank"} | <ul><li>批量激活：从单个激活表跨付费广告渠道（[!DNL Meta]、[!DNL LinkedIn]、Google Campaign Manager 360、Amazon Ads、Innovid、[!DNL TikTok]、[!DNL YouTube]、ChatGPT、交易台）发布多个批准的体验</li><li>在Horizon画布上进行批量编辑（链接的文本/图像字段将跨大小和页面传播编辑内容）</li><li>向交易台显示广告激活</li><li>内容片段交换：将文本块替换为AEM中预批准、可重用的内容片段</li></ul>[教程和支持文章](#tutorials-genstudio-marketing) |
@@ -82,7 +82,9 @@ ht-degree: 11%
 
 ## 最新视频和支持文章 {#articles}
 
-按应用程序链接到最新的视频教程和[支持](https://experienceleague.adobe.com/support/v2/en/?lang=zh-Hans)文章。 （有关功能和修复的产品文档，请转到[应用程序发行说明](#application-release-notes)，或者使用每个部分中的发行说明链接。）
+按应用程序链接到最新的视频教程和[支持](https://experienceleague.adobe.com/support/v2/en/?lang=zh-Hans)文章。
+
+**正在查找发行说明？** 请转到[发行说明表](#application-release-notes)以了解应用程序的新功能和修复。 以下部分仅列出视频和支持文章。
 
 * [Adobe [!DNL CX Enterprise Coworker]](#ai)
 * [[!DNL Adobe Experience Platform]](#tutorials-aep)
@@ -143,7 +145,7 @@ ht-degree: 11%
 
 有关累积的发行说明，请参阅[Adobe系统状态发行说明](system-status-release-notes.md)。
 
-### [!DNL Adobe Experience Platform] — 最新资源 {#tutorials-aep}
+### [!DNL Adobe Experience Platform]视频和支持文章 {#tutorials-aep}
 
 有关新功能和修复，请参阅[[!DNL Experience Platform] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/experience-platform/release-notes/latest){target="_blank"}。
 
@@ -170,7 +172,7 @@ New articles and updates to existing articles for [!DNL Experience Platform].
 | June 2026 | [SFTP destination connection fails in Adobe Experience Platform](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-33771) | New article | Learn about the solutions to the issue when the SFTP destination connection fails in Adobe Experience Platform even when all required IP addresses are allow-listed and the credentials are correct because the SFTP server supports only outdated SSH key exchange algorithms that are incompatible with the validator. |
 -->
 
-### [!DNL Adobe Real-Time CDP] {#tutorials-rtcdp}
+### [!DNL Adobe Real-Time CDP]视频和支持文章 {#tutorials-rtcdp}
 
 有关新功能和修复，请参阅[[!DNL Experience Platform] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/experience-platform/release-notes/latest){target="_blank"}，其中也涵盖[!DNL Real-Time CDP]。
 
@@ -188,7 +190,7 @@ New articles and updates to existing articles for [!DNL Experience Platform].
 
 * 产品文档： [Real-Time CDP](https://experienceleague.adobe.com/zh-hans/docs/real-time-customer-data-platform){target="_blank"}
 
-### [!DNL Adobe Analytics] {#tutorials-analytics}
+### [!DNL Adobe Analytics]视频和支持文章 {#tutorials-analytics}
 
 Adobe Analytics 的发布采用持续投放模型，从而支持更具扩展性、分阶段的功能部署方式。 发行说明每月会更新多次。 有关新功能和修复，请参阅[[!DNL Analytics] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/analytics/release-notes/latest){target="_blank"}。
 
@@ -206,7 +208,7 @@ New articles and updates to existing articles for [!DNL Analytics].
 | February 2026 | [Data Warehouse export contains values exceeding 255 bytes due to escape sequences](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-29977){target="_blank"} | New article | Learn about the solutions to the issue when Data Warehouse export contains field values that exceed the 255-byte limit because special characters are escaped with additional backslashes. |
 -->
 
-### [!DNL Adobe Customer Journey Analytics] {#tutorials-cja}
+### [!DNL Adobe Customer Journey Analytics]视频和支持文章 {#tutorials-cja}
 
 有关新功能和修复，请参阅[[!DNL Customer Journey Analytics] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/analytics-platform/using/releases/latest?lang=en#releases){target="_blank"}。
 
@@ -230,13 +232,13 @@ New articles and updates to existing articles for [!DNL Analytics].
 | --------- | ---- | ---- | ----------- |
 | 2026 年 10 月 | [派生的字段容器仅限于事件、会话和人员范围](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-50143) | 新文章 | 了解当Customer Journey Analytics中的派生字段函数仅支持事件、会话和人员范围容器，并且不允许维度充当容器时问题的解决方案。 |
 
-### [!DNL Marketing Campaign Analytics]（以前称为 [!DNL Mix Modeler]） {#tutorials-mca}
+### [!DNL Marketing Campaign Analytics]视频和支持文章 {#tutorials-mca}
 
 [!DNL Marketing Campaign Analytics]基于[!DNL Adobe Experience Platform]构建，可衡量营销活动效果并帮助跨付费、免费和自有渠道优化营销计划。 有关新功能和修复，请参阅[[!DNL Marketing Campaign Analytics] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/marketing-campaign-analytics/using/releases/latest){target="_blank"}。
 
 * [Marketing Campaign Analytics文档](https://experienceleague.adobe.com/zh-hans/docs/marketing-campaign-analytics/using/overview){target="_blank"}，用于查找产品概述、操作指南和发行信息。
 
-### [!DNL Adobe Experience Manager] {#tutorials-aem}
+### [!DNL Adobe Experience Manager]视频和支持文章 {#tutorials-aem}
 
 有关新增功能和修复，请参阅[[!DNL Experience Manager] as a Cloud Service发行说明](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current){target="_blank"}。
 
@@ -692,7 +694,7 @@ Experience Manager as a Cloud Service的最新视频教程和支持文章。
 | 2026 年 10 月 | 在Adobe Experience Manager as a Cloud Service中[记录保留和删除](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-43643) | 新文章 | 如果您对AEM as a Cloud Service保留日志文件的时间长度以及如何访问和删除日志数据存有任何疑问，请了解此问题的解决方案。 |
 | 2026 年 10 月 | [AEM Cloud Manager角色在分配配置文件后未更新](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-42376) | 新文章 | 了解当您在AEM Cloud Manager中分配所需的Cloud Manager产品配置文件后，您的角色未在Adobe Admin Console中更新的问题的解决方案。 |
 
-### [!DNL Adobe Commerce] {#tutorials-commerce}
+### [!DNL Adobe Commerce]视频和支持文章 {#tutorials-commerce}
 
 有关新功能和修复，请参阅[[!DNL Adobe Commerce] as a Cloud Service发行说明](https://experienceleague.adobe.com/zh-hans/docs/commerce/cloud-service/release-notes){target="_blank"}或 [!DNL Adobe Commerce] 和 [!DNL Magento Open Source]&#x200B;[&#128279;](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/release/notes/adobe-commerce/overview){target="_blank"}的发行说明。
 
@@ -730,7 +732,7 @@ Adobe Commerce 的新文章和现有文章的更新。
 | 2026 年 10 月 | [常规自定义模块疑难解答帮助](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-51556) | 新文章 | 了解当Adobe Commerce中的自定义模块中的功能无法按预期发挥作用并且没有明显错误消息指出问题时，问题的解决方案。 |
 | 2026 年 10 月 | [在Adobe Commerce上缓存预热和网站不可用](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-51557) | 新文章 | 了解当部署后阶段末尾的缓存预热脚本以云基础架构实例上的Adobe Commerce无法应对的高速率发送请求，从而导致停滞部署或站点停机时该问题的解决方案。 |
 
-### [!DNL Adobe Target] {#tutorials-target}
+### [!DNL Adobe Target]视频和支持文章 {#tutorials-target}
 
 有关新功能和修复，请参阅[[!DNL Adobe Target] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/target/using/release-notes/release-notes){target="_blank"}。
 
@@ -742,7 +744,7 @@ Adobe Commerce 的新文章和现有文章的更新。
 | ----------- | ---------- | ---------- | ---------- |
 | 2026 年 10 月 | [基于配置文件属性的推荐](https://experienceleague.adobe.com/zh-hans/docs/target-learn/tutorials/recommendations/most-viewed-by-profile-attribute){target="_blank"} | 视频 | 了解如何使用Adobe Target的“查看次数最多”配置文件属性功能来提供本地化的、特定于区段的推荐，而不是一个放之四海而皆准的人气列表。 |
 
-### [!DNL Adobe Campaign] {#tutorials-campaign}
+### [!DNL Adobe Campaign]视频和支持文章 {#tutorials-campaign}
 
 有关新功能和修复，请参阅[[!DNL Campaign] v8](https://experienceleague.adobe.com/zh-hans/docs/campaign/campaign-v8/releases/release-notes){target="_blank"}、[[!DNL Campaign Classic] v7](https://experienceleague.adobe.com/zh-hans/docs/campaign-classic/using/release-notes/latest-release){target="_blank"}、[[!DNL Campaign] Web用户界面](https://experienceleague.adobe.com/zh-hans/docs/campaign-web/v8/release-notes/release-notes){target="_blank"}和[[!DNL Campaign Standard]](https://experienceleague.adobe.com/zh-hans/docs/campaign-standard/using/release-notes/release-notes){target="_blank"}的发行说明。
 
@@ -768,7 +770,7 @@ Adobe Commerce 的新文章和现有文章的更新。
 | 2026 年 10 月 | 客户端控制台登录期间缺少[组织](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-51055) | 新文章 | 了解当Adobe Campaign Classic客户端控制台在IMS登录期间不列出所需的组织（即使同一Adobe ID通过Web UI访问实例）时，该问题的解决方案。 |
 | 2026 年 10 月 | 在Adobe Campaign中，针对事务性事件类型，[电子邮件投放失败](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-49447) | 新文章 | 了解当Adobe Campaign中事务性事件类型的电子邮件投放在消息准备期间失败，并且图像出现DLV-490094 *下载时出现*&#x200B;错误时，该问题的解决方案。 |
 
-### [!DNL Adobe Journey Optimizer] {#tutorials-ajo}
+### [!DNL Adobe Journey Optimizer]视频和支持文章 {#tutorials-ajo}
 
 有关新功能和修复，请参阅[[!DNL Journey Optimizer] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"}。
 
@@ -778,7 +780,7 @@ Adobe Commerce 的新文章和现有文章的更新。
 
 | 发布日期 | 应用程序 | 名称 | 类型 | 描述 |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
-| 2026 年 10 月 | [!DNL Journey Optimizer] | [使用渠道优化来联系他们参与的客户](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/journeys/use-channel-optimization){target="_blank"} | 视频 | 了解如何使用操作组组合电子邮件、推送和短信，然后通过手动优先级、客户偏好设置或AI参与度分数来优化渠道选择。 |
+| 2026 年 10 月 | [!DNL Journey Optimizer] | [使用渠道优化来联系他们参与的客户](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/journeys/use-channel-optimization){target="_blank"} | 视频 | 了解如何使用操作组将电子邮件、推送和短信结合起来，然后通过手动优先级、客户偏好或 AI 参与度分数来优化渠道选择。 |
 | 2026 年 10 月 | [!DNL Journey Optimizer] | [使用自然语言创建历程条件](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/journeys/create-journey-conditions-using-natural-language){target="_blank"} | 视频 | 了解[!DNL Journey Optimizer] AI如何在不编写表达式语言的情况下将纯英语提示转换为历程条件。 |
 | 2026 年 10 月 | [!DNL Journey Optimizer] | [探索忠诚度挑战的配置选项](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/loyalty/set-up-loyality/explore-the-configuration-options-for-loyalty-challenges){target="_blank"} | 视频 | 探索支持忠诚度挑战的配置选项，包括全局设置、报告、奖励、事件映射、产品清单和排除项。 |
 | 2026 年 10 月 | [!DNL Journey Optimizer] | [设置Android的实时更新](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/channels/live-activities/android-live-updates){target="_blank"} | 视频 | 了解如何在Journey Optimizer中配置Android实时更新渠道，以通过营销活动和API提供实时、永久的客户体验。 |
@@ -800,7 +802,7 @@ Adobe Commerce 的新文章和现有文章的更新。
 * [[!DNL Journey Optimizer] 文档](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/ajo-home){target="_blank"} - [操作方法视频](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/overview){target="_blank"}
 * [决策管理文档](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/starting-offer-decisioning){target="_blank"} - [操作方法视频](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-learn/tutorials/decision-capabilities/decision-management/introduction-to-decision-management){target="_blank"} - [最新文档更新](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer/using/whats-new/documentation-updates){target="_blank"}
 
-### [!DNL Adobe Journey Optimizer B2B Edition] {#tutorials-ajo-b2b}
+### [!DNL Adobe Journey Optimizer B2B Edition]视频和支持文章 {#tutorials-ajo-b2b}
 
 有关新功能和修复，请参阅[[!DNL Journey Optimizer B2B Edition] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-b2b/user/release-notes){target="_blank"}。
 
@@ -812,7 +814,7 @@ Adobe Commerce 的新文章和现有文章的更新。
 * [!DNL Journey Optimizer B2B Edition] 的[产品文档](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-b2b/user/guide-overview){target="_blank"}
 * [!DNL Journey Optimizer B2B Edition] 的[视频概述和教程](https://experienceleague.adobe.com/zh-hans/docs/journey-optimizer-b2b-learn/tutorials/overview){target="_blank"}
 
-### [!DNL Adobe Marketo Engage] {#tutorials-marketo}
+### [!DNL Adobe Marketo Engage]视频和支持文章 {#tutorials-marketo}
 
 有关新功能和修复，请参阅[[!DNL Marketo Engage] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/release-notes/current){target="_blank"}。
 
@@ -839,7 +841,7 @@ New articles and updates to existing articles for [!DNL Marketo].
 | February 2026 | [Understanding persistent report subscriptions for standard analytics reports](https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-29909){target="_blank"} | New article | Learn about the solutions to the issue when Marketo Engage continues sending scheduled subscription emails for standard workspace-level analytics reports even when the report isn't a custom or standalone report. |
 -->
 
-### [!DNL Adobe Workfront] {#tutorials-workfront}
+### [!DNL Adobe Workfront]视频和支持文章 {#tutorials-workfront}
 
 有关新功能和修复，请参阅[[!DNL Workfront] 产品版本](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/product-announcements/product-releases/product-releases){target="_blank"}或[[!DNL Workfront Fusion] 版本活动](https://experienceleague.adobe.com/zh-hans/docs/workfront-fusion/using/fusion-release-activity/fusion-release-activity){target="_blank"}。
 
@@ -868,7 +870,7 @@ New articles and updates to existing articles for [!DNL Workfront].
 
 有关最新的产品文档，请参阅 [Adobe [!DNL Workfront] 文档主页](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/home){target="_blank"}。
 
-### [!DNL Adobe GenStudio for Performance Marketing] {#tutorials-genstudio-marketing}
+### [!DNL Adobe GenStudio for Performance Marketing]视频和支持文章 {#tutorials-genstudio-marketing}
 
 有关新功能和修复，请参阅[[!DNL GenStudio for Performance Marketing] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest){target="_blank"}。
 
@@ -886,13 +888,13 @@ GenStudio for Performance Marketing 视频教程。
 * GenStudio for Performance Marketing [的产品文档](https://experienceleague.adobe.com/zh-hans/docs/genstudio-for-performance-marketing/user-guide/home){target="_blank"}
 * [GenStudio for Performance Marketing](https://business.adobe.com/cn/products/genstudio-for-performance-marketing.html) 产品信息
 
-### [!DNL Adobe Pass] {#tutorials-pass}
+### [!DNL Adobe Pass]视频和支持文章 {#tutorials-pass}
 
 [!DNL Adobe Pass] 是一个多屏幕电视平台，可帮助广播公司、有线电视网和服务提供商创造有吸引力的个性化观看体验并从中盈利。 有关新功能和修复，请参阅[[!DNL Adobe Pass] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/pass/authentication/product-releases/2026/auth-rn-370){target="_blank"}。
 
 * [Adobe Pass 文档](https://experienceleague.adobe.com/zh-hans/docs/pass){target="_blank"}，查找版本特有的信息、系统要求、限制、已修复问题和已知问题。
 
-### [!DNL Adobe Document Cloud] {#tutorials-document-cloud}
+### [!DNL Adobe Document Cloud]视频和支持文章 {#tutorials-document-cloud}
 
 查看为 [!DNL Document Cloud] 发布的新教程，包括 [!DNL Acrobat Services] 和 [!DNL Acrobat Sign]。
 
@@ -909,7 +911,7 @@ GenStudio for Performance Marketing 视频教程。
 * [Adobe Acrobat 服务 API 教程](https://experienceleague.adobe.com/zh-hans/docs/acrobat-services-learn/tutorials/overview){target="_blank"}
 * [Document Cloud学习与支持](https://helpx.adobe.com/cn/support/document-cloud.html)
 
-### [!DNL Adobe Creative Cloud] 企业版 {#tutorials-creative-cloud}
+### [!DNL Adobe Creative Cloud for enterprise]视频和支持文章 {#tutorials-creative-cloud}
 
 浏览 [Creative Cloud 企业版](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview){target="_blank"}教程库，以获取更多内容。
 
@@ -926,7 +928,7 @@ Adobe基于节点的创意自动化工具[!DNL Firefly Graph]的新教程。
 | 2026 年 10 月 | [从简介到情节提要：在生产之前探索视频方向](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/cceaitutorials/brief-to-storyboard){target="_blank"} | 视频 | 了解如何在Firefly展示板上将简介和几个参考转换为情节提要帧、生成短动画测试并并排比较两个方向。 |
 | 2026 年 10 月 | [加快润饰速度并保持原始像素](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/cceaitutorials/retouch-faster){target="_blank"} | 视频 | 了解如何在Photoshop中使用“协调”为产品照片添加自然阴影，同时保持原始像素完好无损。 |
 
-### [!DNL Adobe Brand Concierge] {#tutorials-brand-concierge}
+### [!DNL Adobe Brand Concierge]视频和支持文章 {#tutorials-brand-concierge}
 
 有关新功能和修复，请参阅[[!DNL Brand Concierge] 发行说明](https://experienceleague.adobe.com/zh-hans/docs/brand-concierge/content/release-notes/current){target="_blank"}。
 
@@ -947,7 +949,7 @@ Adobe基于节点的创意自动化工具[!DNL Firefly Graph]的新教程。
 | 2026 年 10 月 | [技术设置和可选功能](https://experienceleague.adobe.com/zh-hans/docs/brand-concierge/content/go-live-guide/technical-setup-and-optional-features){target="_blank"} | 教程 | 了解部署Brand Concierge所需的技术设置（标签管理、页面定位、AEP沙盒和数据流）以及会议预订、实时聊天和Marketo集成等可选功能。 |
 | 2026 年 10 月 | [您的上线前核对清单和转出计划](https://experienceleague.adobe.com/zh-hans/docs/brand-concierge/content/go-live-guide/your-pre-go-live-checklist-and-rollout-plan){target="_blank"} | 教程 | 浏览Brand Concierge的上线前核对清单，了解如何从内部测试到完全流量逐步推出，同时在此过程中监控质量。 |
 
-### [!DNL Adobe Brand Visibility]（以前称为 [!DNL Adobe LLM Optimizer]） {#tutorials-llm-optimizer}
+### [!DNL Adobe Brand Visibility] （以前为[!DNL Adobe LLM Optimizer]）视频和支持文章 {#tutorials-llm-optimizer}
 
 有关新功能和修复，请参阅[[!DNL Brand Visibility] 发行说明](https://abv.adobe.com/articles/release-notes){target="_blank"}。
 
